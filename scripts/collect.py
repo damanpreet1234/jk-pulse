@@ -13,17 +13,18 @@ call is wrapped so one flaky source never kills the run. If literally
 nothing could be fetched, the previous good snapshot is left in place.
 """
 
+import concurrent.futures
 import json
 import os
 import re
 import sys
-import time
 import statistics
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
+from email.utils import parsedate_to_datetime
 
 try:
     from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
@@ -37,9 +38,13 @@ DATA_DIR = os.path.join(REPO_ROOT, "data")
 RAW_DIR = os.path.join(DATA_DIR, "raw")
 LATEST_PATH = os.path.join(DATA_DIR, "latest.json")
 HISTORY_PATH = os.path.join(DATA_DIR, "history.jsonl")
+SEARCH_INDEX_PATH = os.path.join(DATA_DIR, "search_index.json")
+SEARCH_INDEX_MAX_AGE_DAYS = 30   # rolling window - keeps the file small forever
+SEARCH_INDEX_MAX_ITEMS = 4000
 
 USER_AGENT = "jk-pulse-tracker/1.0 (personal open-source project; contact via GitHub repo issues)"
-HTTP_TIMEOUT = 20
+HTTP_TIMEOUT = 12          # kept short so one slow/blocked host can't stall the whole run
+DISTRICT_WORKERS = 8       # district queries run concurrently so 20 districts don't run serially
 GDELT_TIMESPAN = os.environ.get("JKP_TIMESPAN", "6hours")   # matches a several-times-a-day schedule
 GNEWS_WHEN = os.environ.get("JKP_WHEN", "1d")               # google news recency filter
 MAX_HISTORY_LINES = 2000                                     # keep the "database" file small forever
@@ -243,6 +248,60 @@ def extract_keyphrases(titles):
     return counts
 
 
+def article_day(article, fallback):
+    """Best-effort: normalize each source's own date format to a YYYY-MM-DD
+    string for grouping/filtering. Falls back to this run's date if a
+    particular article's timestamp can't be parsed."""
+    s = article.get("seendate", "")
+    src = article.get("source")
+    try:
+        if src == "gdelt" and len(s) >= 8:
+            return datetime.strptime(s[:8], "%Y%m%d").date().isoformat()
+        if src == "google_news" and s:
+            return parsedate_to_datetime(s).date().isoformat()
+        if src == "reddit" and s:
+            return datetime.fromtimestamp(float(s), tz=timezone.utc).date().isoformat()
+        if src == "youtube" and s:
+            return s[:10]
+    except Exception:
+        pass
+    return fallback
+
+
+def load_search_index():
+    if not os.path.exists(SEARCH_INDEX_PATH):
+        return []
+    try:
+        with open(SEARCH_INDEX_PATH, encoding="utf-8") as f:
+            return json.load(f)
+    except Exception:
+        return []
+
+
+def update_search_index(tagged_articles, existing):
+    """Rolling, deduped (by URL) article index used by the dashboard's search
+    and date-picker. Bounded by both age and count so it stays small forever
+    even though it accumulates across every run."""
+    by_url = {a["url"]: a for a in existing if a.get("url")}
+    for a in tagged_articles:
+        if not a.get("url"):
+            continue
+        by_url[a["url"]] = {
+            "title": a["title"], "url": a["url"], "domain": a.get("domain", ""),
+            "source": a.get("source", ""), "date": a["date"], "seendate": a.get("seendate", ""),
+            "sentiment": a.get("sentiment", 0.0), "districts": a.get("districts", []),
+            "keywords": a.get("keywords", []),
+        }
+    merged = list(by_url.values())
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=SEARCH_INDEX_MAX_AGE_DAYS)).date().isoformat()
+    merged = [a for a in merged if a.get("date", "") >= cutoff]
+    merged.sort(key=lambda a: a.get("date", ""), reverse=True)
+    merged = merged[:SEARCH_INDEX_MAX_ITEMS]
+    with open(SEARCH_INDEX_PATH, "w", encoding="utf-8") as f:
+        json.dump(merged, f, ensure_ascii=False)
+    return merged
+
+
 # ---------------------------------------------------------------------------
 # History / spike detection
 # ---------------------------------------------------------------------------
@@ -317,11 +376,12 @@ def dedupe(articles):
     return out
 
 
-def collect_for_query(query, youtube_key=None):
+def collect_for_query(query, youtube_key=None, include_reddit=True):
     arts = []
     arts += fetch_gdelt(query)
     arts += fetch_google_news_rss(query)
-    arts += fetch_reddit(query)
+    if include_reddit:
+        arts += fetch_reddit(query)
     if youtube_key:
         arts += fetch_youtube(query, youtube_key)
     arts = dedupe(arts)
@@ -345,12 +405,18 @@ def main():
         broad_articles += collect_for_query(term, youtube_key)
     broad_articles = dedupe(broad_articles)
 
-    # 2) Per-district queries - district name + region context to disambiguate
+    # 2) Per-district queries - district name + region context to disambiguate.
+    # Run concurrently (GDELT + Google News only, no Reddit/YouTube here) so 20
+    # districts don't run one-by-one and risk hitting the job's time limit.
     district_articles = {}
-    for district in DISTRICTS:
+
+    def _fetch_district(district):
         q = f'"{district}" (Jammu OR Kashmir)'
-        district_articles[district] = collect_for_query(q, youtube_key)
-        time.sleep(0.3)  # be polite to free public endpoints
+        return district, collect_for_query(q, youtube_key=None, include_reddit=False)
+
+    with concurrent.futures.ThreadPoolExecutor(max_workers=DISTRICT_WORKERS) as pool:
+        for district, arts in pool.map(_fetch_district, DISTRICTS):
+            district_articles[district] = arts
 
     all_articles = dedupe(broad_articles + [a for lst in district_articles.values() for a in lst])
     for a in all_articles:
@@ -367,6 +433,16 @@ def main():
             "total_mentions": 0,
         }, load_history())
         sys.exit(0)
+
+    # Tag every article with its day (for the date picker), which district(s)
+    # it mentions, and its own keyphrases - this is what lets the dashboard
+    # show real source links under a topic/district instead of just a count.
+    today_str = run_started.date().isoformat()
+    for a in all_articles:
+        a["date"] = article_day(a, fallback=today_str)
+        title_lower = a["title"].lower()
+        a["districts"] = [d for d in DISTRICTS if d.lower() in title_lower]
+        a["keywords"] = list(extract_keyphrases([a["title"]]).keys())
 
     # Sentiment was scored per-article inside collect_for_query(); aggregate now.
     overall_scores = [a["sentiment"] for a in all_articles]
@@ -386,9 +462,12 @@ def main():
             return "negative"
         return "strongly negative"
 
-    # Per-district aggregation
+    # Per-district aggregation - derived from the tagged articles, so a
+    # district's figures include every article that mentions it by name,
+    # not just the ones its own dedicated query happened to return.
     district_summary = {}
-    for district, arts in district_articles.items():
+    for district in DISTRICTS:
+        arts = [a for a in all_articles if district in a["districts"]]
         if not arts:
             district_summary[district] = {"mentions": 0, "sentiment": None, "top_terms": []}
             continue
@@ -405,18 +484,22 @@ def main():
     keyword_counts = extract_keyphrases([a["title"] for a in all_articles])
     top_keywords = []
     for term, cnt in keyword_counts.most_common(20):
-        term_scores = [a["sentiment"] for a in all_articles if term in a["title"]]
+        term_scores = [a["sentiment"] for a in all_articles if term in a["keywords"]]
         top_keywords.append({
             "term": term,
             "mentions": cnt,
             "sentiment": round(statistics.mean(term_scores), 3) if term_scores else 0.0,
         })
 
+    source_breakdown = [{"domain": d, "count": c}
+                         for d, c in Counter(a["domain"] for a in all_articles if a.get("domain")).most_common(20)]
+
     history_rows = load_history()
     spikes = compute_spikes(dict(keyword_counts), history_rows)
 
     snapshot = {
         "generated_at": run_started.isoformat(),
+        "date": today_str,
         "region": "Jammu & Kashmir",
         "collection_window": GDELT_TIMESPAN,
         "overall_mood": {
@@ -431,6 +514,7 @@ def main():
         "emerging": spikes,
         "districts": district_summary,
         "sources_used": sorted(sources_seen),
+        "source_breakdown": source_breakdown,
         "run_stats": {
             "articles_fetched": len(all_articles),
             "errors": errors,
@@ -451,6 +535,8 @@ def main():
 
     with open(os.path.join(RAW_DIR, "latest_raw.json"), "w", encoding="utf-8") as f:
         json.dump(all_articles, f, ensure_ascii=False, indent=2)
+
+    update_search_index(all_articles, load_search_index())
 
     append_history({
         "ts": run_started.isoformat(),

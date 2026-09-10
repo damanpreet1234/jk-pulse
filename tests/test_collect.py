@@ -10,7 +10,9 @@ GitHub Actions run once deployed.
 import json
 import os
 import sys
+import tempfile
 import unittest
+import unittest.mock as _mock
 import xml.etree.ElementTree as ET
 
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "scripts"))
@@ -66,6 +68,27 @@ class FakeResponse:
 
 
 class TestParsing(unittest.TestCase):
+    def setUp(self):
+        # IMPORTANT: several functions under test (append_history,
+        # update_search_index) write to collect.HISTORY_PATH /
+        # collect.SEARCH_INDEX_PATH. Those point at this repo's real
+        # data/history.jsonl and data/search_index.json by default, so
+        # without this redirect, running these tests against a deployed
+        # copy of this repo would silently overwrite real accumulated data.
+        # Always run tests against temp paths, never the real data/ files.
+        self._tmpdir = tempfile.TemporaryDirectory()
+        self._patchers = [
+            _mock.patch.object(collect, "HISTORY_PATH", os.path.join(self._tmpdir.name, "history.jsonl")),
+            _mock.patch.object(collect, "SEARCH_INDEX_PATH", os.path.join(self._tmpdir.name, "search_index.json")),
+        ]
+        for p in self._patchers:
+            p.start()
+
+    def tearDown(self):
+        for p in self._patchers:
+            p.stop()
+        self._tmpdir.cleanup()
+
     def test_gdelt_parse(self):
         with unittest_mock_urlopen(SAMPLE_GDELT_JSON):
             arts = collect.fetch_gdelt("Kashmir")
@@ -121,8 +144,34 @@ class TestParsing(unittest.TestCase):
                                  "overall_mood": None, "total_mentions": 0}, rows)
         self.assertTrue(os.path.exists(collect.HISTORY_PATH))
 
+    def test_article_day_parses_each_source_format(self):
+        self.assertEqual(collect.article_day(
+            {"source": "gdelt", "seendate": "20260910T060000Z"}, "fallback"), "2026-09-10")
+        self.assertEqual(collect.article_day(
+            {"source": "google_news", "seendate": "Wed, 10 Sep 2026 06:00:00 GMT"}, "fallback"), "2026-09-10")
+        self.assertEqual(collect.article_day(
+            {"source": "youtube", "seendate": "2026-09-10T06:00:00Z"}, "fallback"), "2026-09-10")
+        self.assertEqual(collect.article_day({"source": "gdelt", "seendate": ""}, "fallback"), "fallback")
 
-import unittest.mock as _mock  # noqa: E402
+    def test_search_index_dedupes_and_prunes_by_age(self):
+        old = [{"title": "old", "url": "https://x/old", "domain": "d", "source": "gdelt",
+                "date": "2000-01-01", "seendate": "", "sentiment": 0.0, "districts": [], "keywords": []}]
+        new = [{"title": "fresh", "url": "https://x/new", "domain": "d", "source": "gdelt",
+                "date": "2026-09-10", "seendate": "", "sentiment": 0.1, "districts": ["Srinagar"],
+                "keywords": ["Fresh Topic"]}]
+        merged = collect.update_search_index(new, old)
+        urls = {a["url"] for a in merged}
+        self.assertIn("https://x/new", urls)
+        self.assertNotIn("https://x/old", urls)  # older than the 30-day window
+
+    def test_search_index_updates_existing_url_instead_of_duplicating(self):
+        existing = [{"title": "v1", "url": "https://x/same", "domain": "d", "source": "gdelt",
+                     "date": "2026-09-09", "seendate": "", "sentiment": 0.0, "districts": [], "keywords": []}]
+        updated = [{"title": "v2", "url": "https://x/same", "domain": "d", "source": "gdelt",
+                    "date": "2026-09-10", "seendate": "", "sentiment": 0.2, "districts": [], "keywords": []}]
+        merged = collect.update_search_index(updated, existing)
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]["title"], "v2")
 
 
 def unittest_mock_urlopen(body):

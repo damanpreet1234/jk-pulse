@@ -23,46 +23,25 @@
     --serious:     #ec835a;
     --critical:    #d03b3b;
     --success-text:#006300;
+    --chip-bg:     #f0efec;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
       color-scheme: dark;
-      --page:        #0d0d0d;
-      --surface:     #1a1a19;
-      --text-1:      #ffffff;
-      --text-2:      #c3c2b7;
-      --muted:       #898781;
-      --grid:        #2c2c2a;
-      --baseline:    #383835;
-      --border:      rgba(255,255,255,0.10);
-      --blue:        #3987e5;
-      --red:         #e66767;
-      --gray-mid:    #383835;
-      --good:        #0ca30c;
-      --warning:     #fab219;
-      --serious:     #ec835a;
-      --critical:    #d03b3b;
-      --success-text:#0ca30c;
+      --page: #0d0d0d; --surface: #1a1a19; --text-1: #ffffff; --text-2: #c3c2b7;
+      --muted: #898781; --grid: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
+      --blue: #3987e5; --red: #e66767; --gray-mid: #383835; --good: #0ca30c;
+      --warning: #fab219; --serious: #ec835a; --critical: #d03b3b; --success-text:#0ca30c;
+      --chip-bg: #2c2c2a;
     }
   }
   :root[data-theme="dark"] {
     color-scheme: dark;
-    --page:        #0d0d0d;
-    --surface:     #1a1a19;
-    --text-1:      #ffffff;
-    --text-2:      #c3c2b7;
-    --muted:       #898781;
-    --grid:        #2c2c2a;
-    --baseline:    #383835;
-    --border:      rgba(255,255,255,0.10);
-    --blue:        #3987e5;
-    --red:         #e66767;
-    --gray-mid:    #383835;
-    --good:        #0ca30c;
-    --warning:     #fab219;
-    --serious:     #ec835a;
-    --critical:    #d03b3b;
-    --success-text:#0ca30c;
+    --page: #0d0d0d; --surface: #1a1a19; --text-1: #ffffff; --text-2: #c3c2b7;
+    --muted: #898781; --grid: #2c2c2a; --baseline: #383835; --border: rgba(255,255,255,0.10);
+    --blue: #3987e5; --red: #e66767; --gray-mid: #383835; --good: #0ca30c;
+    --warning: #fab219; --serious: #ec835a; --critical: #d03b3b; --success-text:#0ca30c;
+    --chip-bg: #2c2c2a;
   }
 
   * { box-sizing: border-box; }
@@ -81,10 +60,27 @@
                font-size: 12px; cursor: pointer; }
   .updated { color: var(--muted); font-size: 12px; }
 
+  nav.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--border);
+             margin-bottom: 16px; overflow-x: auto; }
+  nav.tabs button { background: none; border: none; padding: 10px 14px; font-size: 13px;
+             font-weight: 600; color: var(--text-2); cursor: pointer; white-space: nowrap;
+             border-bottom: 2px solid transparent; margin-bottom: -1px; }
+  nav.tabs button.active { color: var(--blue); border-bottom-color: var(--blue); }
+
+  .scope-bar { display: flex; align-items: center; gap: 10px; flex-wrap: wrap;
+               margin-bottom: 16px; }
+  .scope-bar label { font-size: 12px; color: var(--muted); }
+  select, input[type="search"] {
+    background: var(--surface); color: var(--text-1); border: 1px solid var(--border);
+    border-radius: 8px; padding: 7px 10px; font-size: 13px; font-family: inherit;
+  }
+  input[type="search"] { width: 100%; }
+
   .card { background: var(--surface); border: 1px solid var(--border);
           border-radius: 12px; padding: 18px; margin-bottom: 16px; }
   .card h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em;
              color: var(--text-2); margin: 0 0 14px; font-weight: 600; }
+  .card h2 .note { text-transform: none; letter-spacing: 0; font-weight: 400; color: var(--muted); }
 
   .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
   @media (max-width: 640px) { .grid { grid-template-columns: repeat(2, 1fr); } }
@@ -99,16 +95,28 @@
               overflow: hidden; margin-top: 10px; display: flex; }
   .mood-bar span { height: 100%; }
 
-  .kw-row { display: grid; grid-template-columns: 1fr 90px 60px; align-items: center;
-            gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--grid); }
+  .kw-row { padding: 7px 0; border-bottom: 1px solid var(--grid); cursor: pointer; }
   .kw-row:last-child { border-bottom: none; }
+  .kw-row-main { display: grid; grid-template-columns: 1fr 90px 60px 16px; align-items: center; gap: 10px; }
   .kw-term { font-size: 14px; }
   .kw-bar-track { height: 8px; background: var(--gray-mid); border-radius: 4px; overflow: hidden; }
   .kw-bar-fill { height: 100%; background: var(--blue); border-radius: 4px; }
   .kw-mentions { text-align: right; font-size: 12px; color: var(--text-2);
                  font-variant-numeric: tabular-nums; }
-  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+  .chevron { color: var(--muted); font-size: 11px; transition: transform .15s; }
+  .kw-row.open .chevron { transform: rotate(90deg); }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; flex: none; }
   .dot.pos { background: var(--blue); } .dot.neg { background: var(--red); } .dot.neu { background: var(--muted); }
+
+  .drilldown { display: none; padding: 10px 0 4px 4px; }
+  .kw-row.open .drilldown { display: block; }
+  .article-row { display: flex; gap: 8px; align-items: flex-start; padding: 6px 0;
+                 border-top: 1px dashed var(--grid); font-size: 13px; }
+  .article-row:first-child { border-top: none; }
+  .article-row a { color: var(--text-1); text-decoration: none; font-weight: 500; }
+  .article-row a:hover { text-decoration: underline; }
+  .article-meta { font-size: 11px; color: var(--muted); margin-top: 2px; }
+  .more-note { font-size: 12px; color: var(--muted); padding-top: 6px; }
 
   .spike { display: flex; align-items: center; gap: 10px; padding: 10px 0;
            border-bottom: 1px solid var(--grid); }
@@ -117,7 +125,6 @@
            white-space: nowrap; }
   .badge.new { background: rgba(250,178,25,0.18); color: #7a5300; }
   .badge.spike { background: rgba(208,59,59,0.15); color: var(--critical); }
-  :root[data-theme="dark"] .badge.new, @media (prefers-color-scheme: dark) { }
   .spike-term { font-weight: 600; }
   .spike-meta { font-size: 12px; color: var(--muted); }
 
@@ -126,13 +133,17 @@
        text-transform: uppercase; letter-spacing: .03em; padding: 6px 8px;
        border-bottom: 1px solid var(--grid); }
   td { padding: 8px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  tr.dist-row { cursor: pointer; }
   tr:last-child td { border-bottom: none; }
   .table-wrap { overflow-x: auto; }
   .terms-cell { color: var(--text-2); font-size: 12px; }
+  td.drilldown-cell { display: none; background: var(--page); }
+  tr.dist-row.open + tr td.drilldown-cell { display: table-cell; }
 
   .empty { color: var(--muted); font-size: 13px; padding: 8px 0; }
   footer { color: var(--muted); font-size: 12px; margin-top: 24px; line-height: 1.6; }
   a { color: var(--blue); }
+  [hidden] { display: none !important; }
 
   svg text { fill: var(--muted); font-size: 10px; font-family: inherit; }
   .chart-line { fill: none; stroke: var(--blue); stroke-width: 2; }
@@ -152,20 +163,47 @@
     </div>
   </header>
 
-  <div id="content"></div>
+  <nav class="tabs">
+    <button data-tab="overview" class="active">Overview</button>
+    <button data-tab="districts">By district</button>
+    <button data-tab="search">Search</button>
+    <button data-tab="sources">Sources</button>
+  </nav>
+
+  <div class="scope-bar">
+    <label for="scopeSelect">Showing data for</label>
+    <select id="scopeSelect"><option value="all">All available</option></select>
+    <span class="empty" id="scopeNote"></span>
+  </div>
+
+  <section id="tab-overview"></section>
+  <section id="tab-districts" hidden></section>
+  <section id="tab-search" hidden></section>
+  <section id="tab-sources" hidden></section>
 
   <footer id="footer"></footer>
 </div>
 
 <script>
 (function () {
+  // Must match scripts/geo_reference.json's J&K district list.
+  var DISTRICTS = ["Anantnag","Bandipora","Baramulla","Budgam","Ganderbal","Kulgam","Kupwara",
+    "Pulwama","Shopian","Srinagar","Doda","Jammu","Kathua","Kishtwar","Poonch","Rajouri",
+    "Ramban","Reasi","Samba","Udhampur"];
+
   var root = document.documentElement;
-  var themeBtn = document.getElementById('themeBtn');
-  themeBtn.addEventListener('click', function () {
+  document.getElementById('themeBtn').addEventListener('click', function () {
     var cur = root.getAttribute('data-theme');
     root.setAttribute('data-theme', cur === 'dark' ? 'light' : 'dark');
   });
 
+  var STATE = { latest: null, history: [], index: [], scope: 'all' };
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
   function fmtPct(n) { return (n === null || n === undefined) ? '—' : n.toFixed(1) + '%'; }
   function moodClass(score) {
     if (score === null || score === undefined) return 'neu';
@@ -173,47 +211,125 @@
     if (score <= -0.05) return 'neg';
     return 'neu';
   }
-  function moodColorVar(score) {
-    var c = moodClass(score);
-    return c === 'pos' ? 'var(--blue)' : c === 'neg' ? 'var(--red)' : 'var(--muted)';
+  function moodLabel(score) {
+    if (score === null || score === undefined) return 'no data';
+    if (score >= 0.35) return 'strongly positive';
+    if (score >= 0.1) return 'positive';
+    if (score > -0.1) return 'mixed / neutral';
+    if (score > -0.35) return 'negative';
+    return 'strongly negative';
   }
-
+  function fmtDate(d) {
+    try { return new Date(d + 'T00:00:00Z').toLocaleDateString(undefined, { month: 'short', day: 'numeric', year: 'numeric' }); }
+    catch (e) { return d; }
+  }
   function renderEmpty(container, msg) {
-    var d = document.createElement('div');
-    d.className = 'empty';
-    d.textContent = msg;
+    var d = document.createElement('div'); d.className = 'empty'; d.textContent = msg;
     container.appendChild(d);
   }
 
-  function buildDashboard(snapshot, historyRows) {
-    var content = document.getElementById('content');
-    content.innerHTML = '';
+  // ---- tabs ----
+  document.querySelectorAll('nav.tabs button').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('nav.tabs button').forEach(function (b) { b.classList.remove('active'); });
+      btn.classList.add('active');
+      ['overview', 'districts', 'search', 'sources'].forEach(function (name) {
+        document.getElementById('tab-' + name).hidden = (name !== btn.dataset.tab);
+      });
+    });
+  });
 
-    document.getElementById('updatedAt').textContent = snapshot.generated_at
-      ? 'Last updated: ' + new Date(snapshot.generated_at).toLocaleString()
-      : 'Not yet run';
+  // ---- scope (date) filtering, driven entirely by the client-side article index ----
+  function articlesInScope() {
+    if (STATE.scope === 'all') return STATE.index;
+    return STATE.index.filter(function (a) { return a.date === STATE.scope; });
+  }
 
-    if (snapshot.not_yet_run || !snapshot.overall_mood) {
-      var card = document.createElement('div');
-      card.className = 'card';
-      card.innerHTML = '<h2>Status</h2>';
-      renderEmpty(card, snapshot.methodology_note || 'No data collected yet — the first scheduled run will populate this dashboard automatically.');
-      content.appendChild(card);
+  function aggregateArticles(articles) {
+    var scores = articles.map(function (a) { return a.sentiment; });
+    var pos = scores.filter(function (s) { return s >= 0.05; }).length;
+    var neg = scores.filter(function (s) { return s <= -0.05; }).length;
+    var neu = scores.length - pos - neg;
+    var avg = scores.length ? scores.reduce(function (a, b) { return a + b; }, 0) / scores.length : null;
+
+    var kwMap = {};
+    articles.forEach(function (a) {
+      (a.keywords || []).forEach(function (k) {
+        if (!kwMap[k]) kwMap[k] = { term: k, mentions: 0, scores: [] };
+        kwMap[k].mentions++; kwMap[k].scores.push(a.sentiment);
+      });
+    });
+    var topKeywords = Object.values(kwMap).map(function (k) {
+      return { term: k.term, mentions: k.mentions,
+               sentiment: k.scores.reduce(function (a, b) { return a + b; }, 0) / k.scores.length };
+    }).sort(function (a, b) { return b.mentions - a.mentions; }).slice(0, 25);
+
+    var domMap = {};
+    articles.forEach(function (a) { if (a.domain) domMap[a.domain] = (domMap[a.domain] || 0) + 1; });
+    var sourceBreakdown = Object.keys(domMap).map(function (d) { return { domain: d, count: domMap[d] }; })
+      .sort(function (a, b) { return b.count - a.count; });
+
+    var districts = {};
+    DISTRICTS.forEach(function (d) {
+      var arts = articles.filter(function (a) { return (a.districts || []).indexOf(d) !== -1; });
+      if (!arts.length) { districts[d] = { mentions: 0, sentiment: null, articles: [] }; return; }
+      var s = arts.map(function (a) { return a.sentiment; });
+      districts[d] = { mentions: arts.length, sentiment: s.reduce(function (a, b) { return a + b; }, 0) / s.length, articles: arts };
+    });
+
+    return {
+      sampleSize: scores.length,
+      mood: { score: avg, positive_pct: scores.length ? 100 * pos / scores.length : null,
+              neutral_pct: scores.length ? 100 * neu / scores.length : null,
+              negative_pct: scores.length ? 100 * neg / scores.length : null },
+      topKeywords: topKeywords, sourceBreakdown: sourceBreakdown, districts: districts,
+    };
+  }
+
+  function articlesForTerm(term, articles) {
+    return articles.filter(function (a) { return (a.keywords || []).indexOf(term) !== -1; });
+  }
+
+  function renderArticleList(list, limit) {
+    if (!list.length) return '<div class="empty">No linked articles for this window.</div>';
+    var shown = list.slice(0, limit || 12);
+    var html = shown.map(function (a) {
+      return '<div class="article-row"><span class="dot ' + moodClass(a.sentiment) + '" style="margin-top:6px"></span>' +
+        '<div><div><a href="' + escapeHtml(a.url) + '" target="_blank" rel="noopener">' + escapeHtml(a.title) + '</a></div>' +
+        '<div class="article-meta">' + escapeHtml(a.domain || a.source || '') + (a.date ? ' · ' + escapeHtml(a.date) : '') + '</div></div></div>';
+    }).join('');
+    if (list.length > shown.length) {
+      html += '<div class="more-note">showing ' + shown.length + ' of ' + list.length + '</div>';
+    }
+    return html;
+  }
+
+  // ---- OVERVIEW ----
+  function renderOverview() {
+    var el = document.getElementById('tab-overview');
+    el.innerHTML = '';
+    var snap = STATE.latest;
+
+    if (!snap || snap.not_yet_run || !snap.overall_mood) {
+      var c = document.createElement('div'); c.className = 'card'; c.innerHTML = '<h2>Status</h2>';
+      renderEmpty(c, (snap && snap.methodology_note) || 'No data collected yet — the first scheduled run will populate this dashboard automatically.');
+      el.appendChild(c);
       return;
     }
 
-    var mood = snapshot.overall_mood;
-
-    // --- stat tiles ---
+    var mood = snap.overall_mood;
     var grid = document.createElement('div');
-    grid.className = 'grid';
-    grid.style.marginBottom = '16px';
+    grid.className = 'grid'; grid.style.marginBottom = '4px';
     grid.innerHTML =
-      tile('Overall tone', mood.label, moodClass(mood.score), mood.score.toFixed(2)) +
+      tile('Overall tone (latest run)', mood.label, moodClass(mood.score), mood.score.toFixed(2)) +
       tile('Positive coverage', fmtPct(mood.positive_pct), '') +
       tile('Negative coverage', fmtPct(mood.negative_pct), '') +
-      tile('Articles analyzed', mood.sample_size, '');
-    content.appendChild(grid);
+      tile('Articles this run', mood.sample_size, '');
+    el.appendChild(grid);
+    var runNote = document.createElement('div');
+    runNote.className = 'empty'; runNote.style.margin = '2px 0 16px';
+    runNote.textContent = 'Latest run: ' + new Date(snap.generated_at).toLocaleString() + '. The tiles above always reflect the most recent run; everything below reflects the date range selected above.';
+    el.appendChild(runNote);
 
     function tile(label, value, cls, sub) {
       return '<div class="tile"><div class="label">' + label + '</div>' +
@@ -221,116 +337,81 @@
         (sub ? '<div class="label">score ' + sub + '</div>' : '') + '</div>';
     }
 
-    // mood balance bar
+    var scoped = aggregateArticles(articlesInScope());
+
     var moodCard = document.createElement('div');
     moodCard.className = 'card';
-    moodCard.innerHTML = '<h2>Tone balance (this window)</h2>' +
-      '<div class="mood-bar">' +
-      '<span style="width:' + mood.positive_pct + '%;background:var(--blue)"></span>' +
-      '<span style="width:' + mood.neutral_pct + '%;background:var(--gray-mid)"></span>' +
-      '<span style="width:' + mood.negative_pct + '%;background:var(--red)"></span>' +
-      '</div>' +
-      '<div style="display:flex;justify-content:space-between;margin-top:8px;font-size:12px;color:var(--text-2)">' +
-      '<span><span class="dot pos"></span>Positive ' + fmtPct(mood.positive_pct) + '</span>' +
-      '<span><span class="dot neu"></span>Neutral ' + fmtPct(mood.neutral_pct) + '</span>' +
-      '<span><span class="dot neg"></span>Negative ' + fmtPct(mood.negative_pct) + '</span>' +
-      '</div>';
-    content.appendChild(moodCard);
-
-    // --- history chart ---
-    if (historyRows && historyRows.length > 1) {
-      content.appendChild(buildHistoryChart(historyRows));
+    if (scoped.sampleSize === 0) {
+      moodCard.innerHTML = '<h2>Tone balance <span class="note">(selected range)</span></h2>';
+      renderEmpty(moodCard, 'No indexed articles for this date range yet.');
+    } else {
+      moodCard.innerHTML = '<h2>Tone balance <span class="note">(selected range · ' + scoped.sampleSize + ' articles)</span></h2>' +
+        '<div class="mood-bar">' +
+        '<span style="width:' + scoped.mood.positive_pct + '%;background:var(--blue)"></span>' +
+        '<span style="width:' + scoped.mood.neutral_pct + '%;background:var(--gray-mid)"></span>' +
+        '<span style="width:' + scoped.mood.negative_pct + '%;background:var(--red)"></span>' +
+        '</div>' +
+        '<div style="display:flex;justify-content:space-between;margin-top:8px;font-size:12px;color:var(--text-2)">' +
+        '<span><span class="dot pos"></span>Positive ' + fmtPct(scoped.mood.positive_pct) + '</span>' +
+        '<span><span class="dot neu"></span>Neutral ' + fmtPct(scoped.mood.neutral_pct) + '</span>' +
+        '<span><span class="dot neg"></span>Negative ' + fmtPct(scoped.mood.negative_pct) + '</span>' +
+        '</div>';
     }
+    el.appendChild(moodCard);
 
-    // --- emerging / spikes ---
+    if (STATE.history && STATE.history.length > 1) el.appendChild(buildHistoryChart(STATE.history));
+
     var spikeCard = document.createElement('div');
     spikeCard.className = 'card';
-    spikeCard.innerHTML = '<h2>🔥 Emerging right now</h2>';
-    if (!snapshot.emerging || snapshot.emerging.length === 0) {
+    spikeCard.innerHTML = '<h2>🔥 Emerging right now <span class="note">(latest run)</span></h2>';
+    if (!snap.emerging || snap.emerging.length === 0) {
       renderEmpty(spikeCard, 'Nothing unusual detected this run — no topic is spiking above its normal baseline.');
     } else {
-      snapshot.emerging.forEach(function (s) {
-        var row = document.createElement('div');
-        row.className = 'spike';
-        var badge = s.reason === 'new_topic'
-          ? '<span class="badge new">NEW</span>'
-          : '<span class="badge spike">SPIKING</span>';
-        var meta = s.reason === 'new_topic'
-          ? s.mentions_now + ' mentions, wasn\'t appearing before'
+      snap.emerging.forEach(function (s) {
+        var row = document.createElement('div'); row.className = 'spike';
+        var badge = s.reason === 'new_topic' ? '<span class="badge new">NEW</span>' : '<span class="badge spike">SPIKING</span>';
+        var meta = s.reason === 'new_topic' ? s.mentions_now + ' mentions, wasn\'t appearing before'
           : s.mentions_now + ' mentions vs baseline avg ' + s.baseline_avg + ' (z=' + s.zscore + ')';
-        row.innerHTML = badge +
-          '<div><div class="spike-term">' + escapeHtml(s.term) + '</div>' +
-          '<div class="spike-meta">' + meta + '</div></div>';
+        row.innerHTML = badge + '<div><div class="spike-term">' + escapeHtml(s.term) + '</div><div class="spike-meta">' + meta + '</div></div>';
         spikeCard.appendChild(row);
       });
     }
-    content.appendChild(spikeCard);
+    el.appendChild(spikeCard);
 
-    // --- top keywords ---
     var kwCard = document.createElement('div');
     kwCard.className = 'card';
-    kwCard.innerHTML = '<h2>Top topics / keywords</h2>';
-    if (!snapshot.top_keywords || snapshot.top_keywords.length === 0) {
-      renderEmpty(kwCard, 'No recurring named topics extracted this window.');
+    kwCard.innerHTML = '<h2>Top topics / keywords <span class="note">(selected range — click to see sources)</span></h2>';
+    if (!scoped.topKeywords.length) {
+      renderEmpty(kwCard, 'No recurring named topics in this range yet.');
     } else {
-      var maxM = Math.max.apply(null, snapshot.top_keywords.map(function (k) { return k.mentions; }));
-      snapshot.top_keywords.forEach(function (k) {
-        var row = document.createElement('div');
-        row.className = 'kw-row';
-        var dotCls = moodClass(k.sentiment);
+      var scopedArticles = articlesInScope();
+      var maxM = Math.max.apply(null, scoped.topKeywords.map(function (k) { return k.mentions; }));
+      scoped.topKeywords.forEach(function (k) {
+        var row = document.createElement('div'); row.className = 'kw-row';
         row.innerHTML =
-          '<div class="kw-term"><span class="dot ' + dotCls + '"></span>' + escapeHtml(k.term) + '</div>' +
+          '<div class="kw-row-main"><div class="kw-term"><span class="dot ' + moodClass(k.sentiment) + '"></span>' + escapeHtml(k.term) + '</div>' +
           '<div class="kw-bar-track"><div class="kw-bar-fill" style="width:' + Math.max(6, 100 * k.mentions / maxM) + '%"></div></div>' +
-          '<div class="kw-mentions">' + k.mentions + '</div>';
+          '<div class="kw-mentions">' + k.mentions + '</div><div class="chevron">▶</div></div>' +
+          '<div class="drilldown"></div>';
+        row.addEventListener('click', function () {
+          var wasOpen = row.classList.contains('open');
+          kwCard.querySelectorAll('.kw-row.open').forEach(function (r) { r.classList.remove('open'); });
+          if (!wasOpen) {
+            row.classList.add('open');
+            row.querySelector('.drilldown').innerHTML = renderArticleList(articlesForTerm(k.term, scopedArticles), 15);
+          }
+        });
         kwCard.appendChild(row);
       });
     }
-    content.appendChild(kwCard);
-
-    // --- district table ---
-    var distCard = document.createElement('div');
-    distCard.className = 'card';
-    distCard.innerHTML = '<h2>By district</h2>';
-    var districts = snapshot.districts || {};
-    var names = Object.keys(districts).sort(function (a, b) {
-      return (districts[b].mentions || 0) - (districts[a].mentions || 0);
-    });
-    if (names.length === 0) {
-      renderEmpty(distCard, 'No district-level data this window.');
-    } else {
-      var tableWrap = document.createElement('div');
-      tableWrap.className = 'table-wrap';
-      var html = '<table><thead><tr><th>District</th><th>Mentions</th><th>Tone</th><th>Top terms</th></tr></thead><tbody>';
-      names.forEach(function (name) {
-        var d = districts[name];
-        var toneLabel = d.sentiment === null || d.sentiment === undefined ? '—'
-          : (moodClass(d.sentiment) === 'pos' ? 'positive' : moodClass(d.sentiment) === 'neg' ? 'negative' : 'neutral');
-        html += '<tr><td>' + escapeHtml(name) + '</td><td>' + (d.mentions || 0) + '</td>' +
-          '<td><span class="dot ' + moodClass(d.sentiment) + '"></span>' + toneLabel + '</td>' +
-          '<td class="terms-cell">' + ((d.top_terms || []).map(escapeHtml).join(', ') || '—') + '</td></tr>';
-      });
-      html += '</tbody></table>';
-      tableWrap.innerHTML = html;
-      distCard.appendChild(tableWrap);
-    }
-    content.appendChild(distCard);
-
-    // --- sources / methodology ---
-    var footer = document.getElementById('footer');
-    footer.innerHTML =
-      'Sources this run: ' + ((snapshot.sources_used || []).join(', ') || '—') + '.<br>' +
-      escapeHtml(snapshot.methodology_note || '') +
-      '<br>Runs automatically every few hours via GitHub Actions — nothing to start or keep running manually. ' +
-      '<a href="https://github.com" target="_blank" rel="noopener">View source / re-run</a>';
+    el.appendChild(kwCard);
   }
 
   function buildHistoryChart(rows) {
-    var card = document.createElement('div');
-    card.className = 'card';
-    card.innerHTML = '<h2>Tone over time</h2>';
+    var card = document.createElement('div'); card.className = 'card';
+    card.innerHTML = '<h2>Tone over time <span class="note">(all runs, long-run trend)</span></h2>';
     var pts = rows.filter(function (r) { return !r.no_data && r.overall_mood !== null && r.overall_mood !== undefined; });
     if (pts.length < 2) { renderEmpty(card, 'Not enough history yet to chart a trend.'); return card; }
-
     var w = 900, h = 160, padL = 30, padR = 10, padT = 10, padB = 20;
     var minS = Math.min(-0.2, Math.min.apply(null, pts.map(function (p) { return p.overall_mood; })));
     var maxS = Math.max(0.2, Math.max.apply(null, pts.map(function (p) { return p.overall_mood; })));
@@ -338,20 +419,124 @@
     function y(v) { return padT + (h - padT - padB) * (1 - (v - minS) / (maxS - minS)); }
     var zeroY = y(0);
     var d = pts.map(function (p, i) { return (i === 0 ? 'M' : 'L') + x(i).toFixed(1) + ',' + y(p.overall_mood).toFixed(1); }).join(' ');
-
-    var svg = '<svg viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="xMidYMid meet" style="width:100%;height:160px;display:block">' +
+    card.innerHTML += '<svg viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="xMidYMid meet" style="width:100%;height:160px;display:block">' +
       '<line class="chart-zero" x1="' + padL + '" y1="' + zeroY + '" x2="' + (w - padR) + '" y2="' + zeroY + '"></line>' +
-      '<text x="4" y="' + (zeroY + 3) + '">0</text>' +
-      '<path class="chart-line" d="' + d + '"></path>' +
-      '</svg>';
-    card.innerHTML += svg;
+      '<text x="4" y="' + (zeroY + 3) + '">0</text><path class="chart-line" d="' + d + '"></path></svg>';
     return card;
   }
 
-  function escapeHtml(s) {
-    return String(s).replace(/[&<>"']/g, function (c) {
-      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
-    });
+  // ---- DISTRICTS ----
+  function renderDistricts() {
+    var el = document.getElementById('tab-districts');
+    el.innerHTML = '';
+    var scoped = aggregateArticles(articlesInScope());
+    var card = document.createElement('div'); card.className = 'card';
+    card.innerHTML = '<h2>By district <span class="note">(selected range — click a row for sources)</span></h2>';
+    var names = Object.keys(scoped.districts).sort(function (a, b) { return scoped.districts[b].mentions - scoped.districts[a].mentions; });
+    if (!STATE.index.length) {
+      renderEmpty(card, 'District drill-down needs the search index (data/search_index.json), which appears after this update\'s first run.');
+    } else {
+      var wrap = document.createElement('div'); wrap.className = 'table-wrap';
+      var html = '<table><thead><tr><th>District</th><th>Mentions</th><th>Tone</th><th>Top terms</th></tr></thead><tbody>';
+      names.forEach(function (name) {
+        var d = scoped.districts[name];
+        var toneLabel = d.sentiment === null ? '—' : (moodClass(d.sentiment) === 'pos' ? 'positive' : moodClass(d.sentiment) === 'neg' ? 'negative' : 'neutral');
+        var topTerms = aggregateArticles(d.articles || []).topKeywords.slice(0, 5).map(function (k) { return k.term; }).join(', ') || '—';
+        html += '<tr class="dist-row" data-district="' + escapeHtml(name) + '"><td>' + escapeHtml(name) + '</td><td>' + d.mentions + '</td>' +
+          '<td><span class="dot ' + moodClass(d.sentiment) + '"></span>' + toneLabel + '</td>' +
+          '<td class="terms-cell">' + escapeHtml(topTerms) + '</td></tr>' +
+          '<tr><td class="drilldown-cell" colspan="4"></td></tr>';
+      });
+      html += '</tbody></table>';
+      wrap.innerHTML = html;
+      wrap.querySelectorAll('tr.dist-row').forEach(function (tr) {
+        tr.addEventListener('click', function () {
+          var willOpen = !tr.classList.contains('open');
+          wrap.querySelectorAll('tr.dist-row.open').forEach(function (r) { r.classList.remove('open'); });
+          if (willOpen) {
+            tr.classList.add('open');
+            var d = scoped.districts[tr.dataset.district];
+            tr.nextElementSibling.querySelector('.drilldown-cell').innerHTML = renderArticleList(d.articles || [], 15);
+          }
+        });
+      });
+      card.appendChild(wrap);
+    }
+    el.appendChild(card);
+  }
+
+  // ---- SEARCH ----
+  function renderSearch() {
+    var el = document.getElementById('tab-search');
+    el.innerHTML = '';
+    var card = document.createElement('div'); card.className = 'card';
+    card.innerHTML = '<h2>Search articles <span class="note">(within selected date range)</span></h2>' +
+      '<input type="search" id="searchBox" placeholder="Search headlines, e.g. tourism, elections, curfew…">' +
+      '<div id="searchResults" style="margin-top:14px"></div>';
+    el.appendChild(card);
+    var box = document.getElementById('searchBox');
+    var results = document.getElementById('searchResults');
+    function run() {
+      var q = box.value.trim().toLowerCase();
+      var pool = articlesInScope();
+      if (!pool.length) { results.innerHTML = '<div class="empty">No indexed articles for this range yet.</div>'; return; }
+      var matches = q ? pool.filter(function (a) { return a.title.toLowerCase().indexOf(q) !== -1; }) : pool;
+      results.innerHTML = renderArticleList(matches, 40);
+    }
+    box.addEventListener('input', run);
+    run();
+  }
+
+  // ---- SOURCES ----
+  function renderSources() {
+    var el = document.getElementById('tab-sources');
+    el.innerHTML = '';
+    var scoped = aggregateArticles(articlesInScope());
+    var card = document.createElement('div'); card.className = 'card';
+    card.innerHTML = '<h2>Sources contributing <span class="note">(selected range)</span></h2>';
+    if (!scoped.sourceBreakdown.length) {
+      renderEmpty(card, 'No indexed articles for this range yet.');
+    } else {
+      var html = '<table><thead><tr><th>Outlet / domain</th><th>Articles</th></tr></thead><tbody>';
+      scoped.sourceBreakdown.forEach(function (s) {
+        html += '<tr><td>' + escapeHtml(s.domain) + '</td><td>' + s.count + '</td></tr>';
+      });
+      html += '</tbody></table>';
+      var w = document.createElement('div'); w.className = 'table-wrap'; w.innerHTML = html;
+      card.appendChild(w);
+    }
+    el.appendChild(card);
+
+    var methodCard = document.createElement('div'); methodCard.className = 'card';
+    methodCard.innerHTML = '<h2>Methodology</h2><div class="empty">' +
+      escapeHtml((STATE.latest && STATE.latest.methodology_note) || '') + '</div>';
+    el.appendChild(methodCard);
+  }
+
+  function renderAll() {
+    renderOverview(); renderDistricts(); renderSearch(); renderSources();
+  }
+
+  // ---- scope selector ----
+  function populateScopeSelect() {
+    var sel = document.getElementById('scopeSelect');
+    var dates = Array.from(new Set(STATE.index.map(function (a) { return a.date; }))).sort().reverse();
+    sel.innerHTML = '<option value="all">All available' + (dates.length ? ' (' + dates.length + ' days)' : '') + '</option>' +
+      dates.map(function (d, i) { return '<option value="' + d + '">' + (i === 0 ? 'Today — ' : '') + fmtDate(d) + '</option>'; }).join('');
+    sel.value = STATE.scope;
+    sel.addEventListener('change', function () { STATE.scope = sel.value; renderAll(); });
+    document.getElementById('scopeNote').textContent = STATE.index.length
+      ? '' : 'Search/date filtering appears after the next run (needs data/search_index.json).';
+  }
+
+  function renderFooter() {
+    var snap = STATE.latest;
+    document.getElementById('updatedAt').textContent = (snap && snap.generated_at)
+      ? 'Last updated: ' + new Date(snap.generated_at).toLocaleString() : 'Not yet run';
+    document.getElementById('footer').innerHTML =
+      'Sources this run: ' + ((snap && snap.sources_used || []).join(', ') || '—') +
+      ' — see the Sources tab for the full breakdown and methodology.<br>' +
+      'Runs automatically every few hours via GitHub Actions — nothing to start or keep running manually.';
   }
 
   function parseJsonl(text) {
@@ -362,11 +547,15 @@
 
   Promise.all([
     fetch('data/latest.json', { cache: 'no-store' }).then(function (r) { return r.json(); }),
-    fetch('data/history.jsonl', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(parseJsonl).catch(function () { return []; })
+    fetch('data/history.jsonl', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(parseJsonl).catch(function () { return []; }),
+    fetch('data/search_index.json', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).catch(function () { return []; }),
   ]).then(function (results) {
-    buildDashboard(results[0], results[1]);
+    STATE.latest = results[0]; STATE.history = results[1]; STATE.index = results[2];
+    populateScopeSelect();
+    renderFooter();
+    renderAll();
   }).catch(function (err) {
-    document.getElementById('content').innerHTML =
+    document.getElementById('tab-overview').innerHTML =
       '<div class="card"><h2>Could not load data</h2><div class="empty">' + escapeHtml(String(err)) + '</div></div>';
   });
 })();
