@@ -1,12 +1,452 @@
 {
-  "generated_at": null,
+  "generated_at": "2026-09-10T08:15:22.957721+00:00",
   "region": "Jammu & Kashmir",
-  "not_yet_run": true,
-  "overall_mood": null,
-  "top_keywords": [],
-  "emerging": [],
-  "districts": {},
-  "sources_used": [],
-  "run_stats": {"articles_fetched": 0, "errors": []},
-  "methodology_note": "No data collected yet. This fills in automatically after the first scheduled GitHub Actions run (or trigger it manually from the Actions tab)."
+  "collection_window": "6hours",
+  "overall_mood": {
+    "score": 0.036,
+    "label": "mixed / neutral",
+    "positive_pct": 34.8,
+    "neutral_pct": 39.6,
+    "negative_pct": 25.6,
+    "sample_size": 359
+  },
+  "top_keywords": [
+    {
+      "term": "IFFJK",
+      "mentions": 13,
+      "sentiment": 0.249
+    },
+    {
+      "term": "Justice Pushpendra Singh Bhati",
+      "mentions": 11,
+      "sentiment": 0.755
+    },
+    {
+      "term": "Chief Justice",
+      "mentions": 11,
+      "sentiment": 0.76
+    },
+    {
+      "term": "Punjab",
+      "mentions": 7,
+      "sentiment": -0.075
+    },
+    {
+      "term": "Vande Mataram",
+      "mentions": 7,
+      "sentiment": -0.106
+    },
+    {
+      "term": "International Film Festival",
+      "mentions": 6,
+      "sentiment": 0.553
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 6,
+      "sentiment": 0.034
+    },
+    {
+      "term": "Short",
+      "mentions": 6,
+      "sentiment": -0.034
+    },
+    {
+      "term": "IFFJK Day",
+      "mentions": 6,
+      "sentiment": 0.397
+    },
+    {
+      "term": "Congress",
+      "mentions": 6,
+      "sentiment": -0.018
+    },
+    {
+      "term": "India",
+      "mentions": 6,
+      "sentiment": 0.152
+    },
+    {
+      "term": "Cinema",
+      "mentions": 5,
+      "sentiment": 0.338
+    },
+    {
+      "term": "Bollywood",
+      "mentions": 5,
+      "sentiment": 0.14
+    },
+    {
+      "term": "Spanish",
+      "mentions": 5,
+      "sentiment": 0.34
+    },
+    {
+      "term": "Ladakh High Court",
+      "mentions": 5,
+      "sentiment": 0.715
+    },
+    {
+      "term": "Goods",
+      "mentions": 5,
+      "sentiment": -0.191
+    },
+    {
+      "term": "Class",
+      "mentions": 5,
+      "sentiment": -0.64
+    },
+    {
+      "term": "IFFJ",
+      "mentions": 5,
+      "sentiment": 0.205
+    },
+    {
+      "term": "Central Kashmir",
+      "mentions": 4,
+      "sentiment": -0.497
+    },
+    {
+      "term": "Centre",
+      "mentions": 4,
+      "sentiment": 0.168
+    }
+  ],
+  "emerging": [
+    {
+      "term": "IFFJK",
+      "mentions_now": 13,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Justice Pushpendra Singh Bhati",
+      "mentions_now": 11,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Chief Justice",
+      "mentions_now": 11,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Punjab",
+      "mentions_now": 7,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Vande Mataram",
+      "mentions_now": 7,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "International Film Festival",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Short",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "IFFJK Day",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Congress",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "India",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Cinema",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Bollywood",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Spanish",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Ladakh High Court",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    }
+  ],
+  "districts": {
+    "Anantnag": {
+      "mentions": 7,
+      "sentiment": 0.054,
+      "top_terms": [
+        "DC Anantnag",
+        "Verinag",
+        "Maternity Hospital",
+        "Springs",
+        "HADP"
+      ]
+    },
+    "Bandipora": {
+      "mentions": 9,
+      "sentiment": 0.186,
+      "top_terms": [
+        "Level Best Teacher Award",
+        "District Bandipora Badminton Championship",
+        "Begins",
+        "Bandipora Police",
+        "Hajin"
+      ]
+    },
+    "Baramulla": {
+      "mentions": 7,
+      "sentiment": 0.0,
+      "top_terms": [
+        "Banking Kashmir",
+        "Media Delegation",
+        "Keralam Visits NHPC Hydropower",
+        "Projects",
+        "BJP Minority Morcha Holds"
+      ]
+    },
+    "Budgam": {
+      "mentions": 9,
+      "sentiment": -0.427,
+      "top_terms": [
+        "Sheep Killed",
+        "Injured",
+        "Suspected Leopard Attack",
+        "Magam",
+        "Short"
+      ]
+    },
+    "Ganderbal": {
+      "mentions": 9,
+      "sentiment": 0.057,
+      "top_terms": [
+        "Amar Ujala",
+        "GDC Ganderbal",
+        "World Literacy Day",
+        "Jammu Kashmir",
+        "Govt Delegates DDO Powers"
+      ]
+    },
+    "Kulgam": {
+      "mentions": 2,
+      "sentiment": 0.0,
+      "top_terms": [
+        "Veshaw Literary",
+        "Trade Festival",
+        "Capacity",
+        "Solid Waste Management Rules"
+      ]
+    },
+    "Kupwara": {
+      "mentions": 6,
+      "sentiment": -0.227,
+      "top_terms": [
+        "Terror",
+        "My Bharat Kupwara",
+        "VBYLD Quiz",
+        "Jammu Kashmir",
+        "School Education Department Orders"
+      ]
+    },
+    "Pulwama": {
+      "mentions": 8,
+      "sentiment": 0.016,
+      "top_terms": [
+        "Punjab",
+        "Hindi",
+        "Opinion",
+        "Under",
+        "Floodlights"
+      ]
+    },
+    "Shopian": {
+      "mentions": 7,
+      "sentiment": -0.282,
+      "top_terms": [
+        "Section",
+        "Three Injured Wild",
+        "Bear Attack",
+        "South Kashmir",
+        "Maternity Hospital"
+      ]
+    },
+    "Srinagar": {
+      "mentions": 90,
+      "sentiment": 0.112,
+      "top_terms": [
+        "IFFJK",
+        "Spanish",
+        "India",
+        "IFFJ",
+        "Bollywood"
+      ]
+    },
+    "Doda": {
+      "mentions": 9,
+      "sentiment": -0.148,
+      "top_terms": [
+        "Section",
+        "IGP Jammu",
+        "Congress",
+        "Sangathan Srijan Abhiyan",
+        "Three"
+      ]
+    },
+    "Jammu": {
+      "mentions": 100,
+      "sentiment": 0.029,
+      "top_terms": [
+        "Punjab",
+        "Jammu Kashmir",
+        "Short",
+        "IFFJK",
+        "Posting"
+      ]
+    },
+    "Kathua": {
+      "mentions": 10,
+      "sentiment": -0.067,
+      "top_terms": [
+        "Goods",
+        "Jammu Kashmir Govt Approves",
+        "Technical Resignation",
+        "GMC Kathua Assistant Professor",
+        "Security Reshuffle"
+      ]
+    },
+    "Kishtwar": {
+      "mentions": 8,
+      "sentiment": -0.214,
+      "top_terms": [
+        "Kishtwar Proglacial Lake Could",
+        "Double Up Within",
+        "Years",
+        "Glacier Retreats",
+        "Study Warns"
+      ]
+    },
+    "Poonch": {
+      "mentions": 10,
+      "sentiment": -0.617,
+      "top_terms": [
+        "Class",
+        "Poonch Horror Demands More",
+        "Than Arrests",
+        "Scorpio Hits Them",
+        "Two Held"
+      ]
+    },
+    "Rajouri": {
+      "mentions": 5,
+      "sentiment": 0.235,
+      "top_terms": [
+        "Clerk",
+        "Treasury Clerk",
+        "NRLM",
+        "DC Rajouri",
+        "Cafe"
+      ]
+    },
+    "Ramban": {
+      "mentions": 5,
+      "sentiment": 0.068,
+      "top_terms": [
+        "MLA Ramban",
+        "Inter",
+        "Division UT",
+        "Level Chess",
+        "Sawalkot Hydroelectric Project"
+      ]
+    },
+    "Reasi": {
+      "mentions": 7,
+      "sentiment": -0.044,
+      "top_terms": [
+        "Banking Kashmir",
+        "SSP Reasi",
+        "Sawalkot HEP",
+        "SSP Reasi Visit Sawalkot",
+        "Hydroelectric Project"
+      ]
+    },
+    "Samba": {
+      "mentions": 5,
+      "sentiment": 0.082,
+      "top_terms": [
+        "Symposium",
+        "Road Safety",
+        "SPPND GDC Samba",
+        "Police Conduct Security Mock",
+        "Drill Strengthen Border"
+      ]
+    },
+    "Udhampur": {
+      "mentions": 7,
+      "sentiment": 0.155,
+      "top_terms": [
+        "Security Reshuffle",
+        "CRPF",
+        "NHAI Approves Six Foot",
+        "Overbridges Along Jammu",
+        "Srinagar Highway"
+      ]
+    }
+  },
+  "sources_used": [
+    "gdelt",
+    "google_news"
+  ],
+  "run_stats": {
+    "articles_fetched": 359,
+    "errors": []
+  },
+  "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
 }
