@@ -1,0 +1,50 @@
+name: Collect J&K pulse data
+
+on:
+  schedule:
+    # Every 4 hours -> 6 runs/day. All free (GitHub Actions free tier).
+    - cron: "0 */4 * * *"
+  workflow_dispatch: {}   # lets you click "Run workflow" manually, any time
+
+permissions:
+  contents: write   # so this workflow can commit updated data/ files back
+
+concurrency:
+  group: jk-pulse-collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run collector
+        env:
+          # Optional free add-on: set this as a repo secret (Settings -> Secrets
+          # and variables -> Actions) with a free YouTube Data API key to also
+          # pull YouTube video signal. Everything works fine without it.
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/collect.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "jk-pulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "No data changes this run."
+          else
+            git commit -m "Update J&K pulse data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

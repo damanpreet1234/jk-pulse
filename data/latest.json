@@ -1,0 +1,12 @@
+{
+  "generated_at": null,
+  "region": "Jammu & Kashmir",
+  "not_yet_run": true,
+  "overall_mood": null,
+  "top_keywords": [],
+  "emerging": [],
+  "districts": {},
+  "sources_used": [],
+  "run_stats": {"articles_fetched": 0, "errors": []},
+  "methodology_note": "No data collected yet. This fills in automatically after the first scheduled GitHub Actions run (or trigger it manually from the Actions tab)."
+}

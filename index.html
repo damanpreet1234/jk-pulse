@@ -1,0 +1,375 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>J&amp;K Pulse — News &amp; Mood Tracker</title>
+<style>
+  :root {
+    color-scheme: light;
+    --page:        #f9f9f7;
+    --surface:     #fcfcfb;
+    --text-1:      #0b0b0b;
+    --text-2:      #52514e;
+    --muted:       #898781;
+    --grid:        #e1e0d9;
+    --baseline:    #c3c2b7;
+    --border:      rgba(11,11,11,0.10);
+    --blue:        #2a78d6;
+    --red:         #e34948;
+    --gray-mid:    #f0efec;
+    --good:        #0ca30c;
+    --warning:     #fab219;
+    --serious:     #ec835a;
+    --critical:    #d03b3b;
+    --success-text:#006300;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --page:        #0d0d0d;
+      --surface:     #1a1a19;
+      --text-1:      #ffffff;
+      --text-2:      #c3c2b7;
+      --muted:       #898781;
+      --grid:        #2c2c2a;
+      --baseline:    #383835;
+      --border:      rgba(255,255,255,0.10);
+      --blue:        #3987e5;
+      --red:         #e66767;
+      --gray-mid:    #383835;
+      --good:        #0ca30c;
+      --warning:     #fab219;
+      --serious:     #ec835a;
+      --critical:    #d03b3b;
+      --success-text:#0ca30c;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --page:        #0d0d0d;
+    --surface:     #1a1a19;
+    --text-1:      #ffffff;
+    --text-2:      #c3c2b7;
+    --muted:       #898781;
+    --grid:        #2c2c2a;
+    --baseline:    #383835;
+    --border:      rgba(255,255,255,0.10);
+    --blue:        #3987e5;
+    --red:         #e66767;
+    --gray-mid:    #383835;
+    --good:        #0ca30c;
+    --warning:     #fab219;
+    --serious:     #ec835a;
+    --critical:    #d03b3b;
+    --success-text:#0ca30c;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 0 16px 48px;
+    background: var(--page); color: var(--text-1);
+    font: 15px/1.5 system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  .wrap { max-width: 980px; margin: 0 auto; }
+  header { display: flex; align-items: baseline; justify-content: space-between;
+           flex-wrap: wrap; gap: 8px; padding: 28px 0 12px; }
+  h1 { font-size: 22px; margin: 0; }
+  .subtitle { color: var(--text-2); font-size: 13px; margin-top: 2px; }
+  .theme-btn { background: var(--surface); border: 1px solid var(--border);
+               color: var(--text-2); border-radius: 8px; padding: 6px 10px;
+               font-size: 12px; cursor: pointer; }
+  .updated { color: var(--muted); font-size: 12px; }
+
+  .card { background: var(--surface); border: 1px solid var(--border);
+          border-radius: 12px; padding: 18px; margin-bottom: 16px; }
+  .card h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em;
+             color: var(--text-2); margin: 0 0 14px; font-weight: 600; }
+
+  .grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; }
+  @media (max-width: 640px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  .tile { background: var(--surface); border: 1px solid var(--border);
+          border-radius: 12px; padding: 16px; }
+  .tile .label { font-size: 12px; color: var(--muted); margin-bottom: 6px; }
+  .tile .value { font-size: 26px; font-weight: 600; }
+  .tile .value.pos { color: var(--blue); }
+  .tile .value.neg { color: var(--red); }
+
+  .mood-bar { height: 10px; border-radius: 6px; background: var(--gray-mid);
+              overflow: hidden; margin-top: 10px; display: flex; }
+  .mood-bar span { height: 100%; }
+
+  .kw-row { display: grid; grid-template-columns: 1fr 90px 60px; align-items: center;
+            gap: 10px; padding: 7px 0; border-bottom: 1px solid var(--grid); }
+  .kw-row:last-child { border-bottom: none; }
+  .kw-term { font-size: 14px; }
+  .kw-bar-track { height: 8px; background: var(--gray-mid); border-radius: 4px; overflow: hidden; }
+  .kw-bar-fill { height: 100%; background: var(--blue); border-radius: 4px; }
+  .kw-mentions { text-align: right; font-size: 12px; color: var(--text-2);
+                 font-variant-numeric: tabular-nums; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; margin-right: 6px; }
+  .dot.pos { background: var(--blue); } .dot.neg { background: var(--red); } .dot.neu { background: var(--muted); }
+
+  .spike { display: flex; align-items: center; gap: 10px; padding: 10px 0;
+           border-bottom: 1px solid var(--grid); }
+  .spike:last-child { border-bottom: none; }
+  .badge { font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 999px;
+           white-space: nowrap; }
+  .badge.new { background: rgba(250,178,25,0.18); color: #7a5300; }
+  .badge.spike { background: rgba(208,59,59,0.15); color: var(--critical); }
+  :root[data-theme="dark"] .badge.new, @media (prefers-color-scheme: dark) { }
+  .spike-term { font-weight: 600; }
+  .spike-meta { font-size: 12px; color: var(--muted); }
+
+  table { width: 100%; border-collapse: collapse; font-size: 13px; }
+  th { text-align: left; color: var(--muted); font-weight: 600; font-size: 11px;
+       text-transform: uppercase; letter-spacing: .03em; padding: 6px 8px;
+       border-bottom: 1px solid var(--grid); }
+  td { padding: 8px; border-bottom: 1px solid var(--grid); vertical-align: top; }
+  tr:last-child td { border-bottom: none; }
+  .table-wrap { overflow-x: auto; }
+  .terms-cell { color: var(--text-2); font-size: 12px; }
+
+  .empty { color: var(--muted); font-size: 13px; padding: 8px 0; }
+  footer { color: var(--muted); font-size: 12px; margin-top: 24px; line-height: 1.6; }
+  a { color: var(--blue); }
+
+  svg text { fill: var(--muted); font-size: 10px; font-family: inherit; }
+  .chart-line { fill: none; stroke: var(--blue); stroke-width: 2; }
+  .chart-zero { stroke: var(--baseline); stroke-width: 1; stroke-dasharray: 2 3; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <div>
+      <h1>J&amp;K Pulse</h1>
+      <div class="subtitle">Automated news &amp; mood tracker for Jammu &amp; Kashmir — free, self-updating, no manual steps</div>
+    </div>
+    <div style="text-align:right">
+      <button class="theme-btn" id="themeBtn" type="button">Toggle theme</button>
+      <div class="updated" id="updatedAt"></div>
+    </div>
+  </header>
+
+  <div id="content"></div>
+
+  <footer id="footer"></footer>
+</div>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var themeBtn = document.getElementById('themeBtn');
+  themeBtn.addEventListener('click', function () {
+    var cur = root.getAttribute('data-theme');
+    root.setAttribute('data-theme', cur === 'dark' ? 'light' : 'dark');
+  });
+
+  function fmtPct(n) { return (n === null || n === undefined) ? '—' : n.toFixed(1) + '%'; }
+  function moodClass(score) {
+    if (score === null || score === undefined) return 'neu';
+    if (score >= 0.05) return 'pos';
+    if (score <= -0.05) return 'neg';
+    return 'neu';
+  }
+  function moodColorVar(score) {
+    var c = moodClass(score);
+    return c === 'pos' ? 'var(--blue)' : c === 'neg' ? 'var(--red)' : 'var(--muted)';
+  }
+
+  function renderEmpty(container, msg) {
+    var d = document.createElement('div');
+    d.className = 'empty';
+    d.textContent = msg;
+    container.appendChild(d);
+  }
+
+  function buildDashboard(snapshot, historyRows) {
+    var content = document.getElementById('content');
+    content.innerHTML = '';
+
+    document.getElementById('updatedAt').textContent = snapshot.generated_at
+      ? 'Last updated: ' + new Date(snapshot.generated_at).toLocaleString()
+      : 'Not yet run';
+
+    if (snapshot.not_yet_run || !snapshot.overall_mood) {
+      var card = document.createElement('div');
+      card.className = 'card';
+      card.innerHTML = '<h2>Status</h2>';
+      renderEmpty(card, snapshot.methodology_note || 'No data collected yet — the first scheduled run will populate this dashboard automatically.');
+      content.appendChild(card);
+      return;
+    }
+
+    var mood = snapshot.overall_mood;
+
+    // --- stat tiles ---
+    var grid = document.createElement('div');
+    grid.className = 'grid';
+    grid.style.marginBottom = '16px';
+    grid.innerHTML =
+      tile('Overall tone', mood.label, moodClass(mood.score), mood.score.toFixed(2)) +
+      tile('Positive coverage', fmtPct(mood.positive_pct), '') +
+      tile('Negative coverage', fmtPct(mood.negative_pct), '') +
+      tile('Articles analyzed', mood.sample_size, '');
+    content.appendChild(grid);
+
+    function tile(label, value, cls, sub) {
+      return '<div class="tile"><div class="label">' + label + '</div>' +
+        '<div class="value ' + cls + '">' + value + '</div>' +
+        (sub ? '<div class="label">score ' + sub + '</div>' : '') + '</div>';
+    }
+
+    // mood balance bar
+    var moodCard = document.createElement('div');
+    moodCard.className = 'card';
+    moodCard.innerHTML = '<h2>Tone balance (this window)</h2>' +
+      '<div class="mood-bar">' +
+      '<span style="width:' + mood.positive_pct + '%;background:var(--blue)"></span>' +
+      '<span style="width:' + mood.neutral_pct + '%;background:var(--gray-mid)"></span>' +
+      '<span style="width:' + mood.negative_pct + '%;background:var(--red)"></span>' +
+      '</div>' +
+      '<div style="display:flex;justify-content:space-between;margin-top:8px;font-size:12px;color:var(--text-2)">' +
+      '<span><span class="dot pos"></span>Positive ' + fmtPct(mood.positive_pct) + '</span>' +
+      '<span><span class="dot neu"></span>Neutral ' + fmtPct(mood.neutral_pct) + '</span>' +
+      '<span><span class="dot neg"></span>Negative ' + fmtPct(mood.negative_pct) + '</span>' +
+      '</div>';
+    content.appendChild(moodCard);
+
+    // --- history chart ---
+    if (historyRows && historyRows.length > 1) {
+      content.appendChild(buildHistoryChart(historyRows));
+    }
+
+    // --- emerging / spikes ---
+    var spikeCard = document.createElement('div');
+    spikeCard.className = 'card';
+    spikeCard.innerHTML = '<h2>🔥 Emerging right now</h2>';
+    if (!snapshot.emerging || snapshot.emerging.length === 0) {
+      renderEmpty(spikeCard, 'Nothing unusual detected this run — no topic is spiking above its normal baseline.');
+    } else {
+      snapshot.emerging.forEach(function (s) {
+        var row = document.createElement('div');
+        row.className = 'spike';
+        var badge = s.reason === 'new_topic'
+          ? '<span class="badge new">NEW</span>'
+          : '<span class="badge spike">SPIKING</span>';
+        var meta = s.reason === 'new_topic'
+          ? s.mentions_now + ' mentions, wasn\'t appearing before'
+          : s.mentions_now + ' mentions vs baseline avg ' + s.baseline_avg + ' (z=' + s.zscore + ')';
+        row.innerHTML = badge +
+          '<div><div class="spike-term">' + escapeHtml(s.term) + '</div>' +
+          '<div class="spike-meta">' + meta + '</div></div>';
+        spikeCard.appendChild(row);
+      });
+    }
+    content.appendChild(spikeCard);
+
+    // --- top keywords ---
+    var kwCard = document.createElement('div');
+    kwCard.className = 'card';
+    kwCard.innerHTML = '<h2>Top topics / keywords</h2>';
+    if (!snapshot.top_keywords || snapshot.top_keywords.length === 0) {
+      renderEmpty(kwCard, 'No recurring named topics extracted this window.');
+    } else {
+      var maxM = Math.max.apply(null, snapshot.top_keywords.map(function (k) { return k.mentions; }));
+      snapshot.top_keywords.forEach(function (k) {
+        var row = document.createElement('div');
+        row.className = 'kw-row';
+        var dotCls = moodClass(k.sentiment);
+        row.innerHTML =
+          '<div class="kw-term"><span class="dot ' + dotCls + '"></span>' + escapeHtml(k.term) + '</div>' +
+          '<div class="kw-bar-track"><div class="kw-bar-fill" style="width:' + Math.max(6, 100 * k.mentions / maxM) + '%"></div></div>' +
+          '<div class="kw-mentions">' + k.mentions + '</div>';
+        kwCard.appendChild(row);
+      });
+    }
+    content.appendChild(kwCard);
+
+    // --- district table ---
+    var distCard = document.createElement('div');
+    distCard.className = 'card';
+    distCard.innerHTML = '<h2>By district</h2>';
+    var districts = snapshot.districts || {};
+    var names = Object.keys(districts).sort(function (a, b) {
+      return (districts[b].mentions || 0) - (districts[a].mentions || 0);
+    });
+    if (names.length === 0) {
+      renderEmpty(distCard, 'No district-level data this window.');
+    } else {
+      var tableWrap = document.createElement('div');
+      tableWrap.className = 'table-wrap';
+      var html = '<table><thead><tr><th>District</th><th>Mentions</th><th>Tone</th><th>Top terms</th></tr></thead><tbody>';
+      names.forEach(function (name) {
+        var d = districts[name];
+        var toneLabel = d.sentiment === null || d.sentiment === undefined ? '—'
+          : (moodClass(d.sentiment) === 'pos' ? 'positive' : moodClass(d.sentiment) === 'neg' ? 'negative' : 'neutral');
+        html += '<tr><td>' + escapeHtml(name) + '</td><td>' + (d.mentions || 0) + '</td>' +
+          '<td><span class="dot ' + moodClass(d.sentiment) + '"></span>' + toneLabel + '</td>' +
+          '<td class="terms-cell">' + ((d.top_terms || []).map(escapeHtml).join(', ') || '—') + '</td></tr>';
+      });
+      html += '</tbody></table>';
+      tableWrap.innerHTML = html;
+      distCard.appendChild(tableWrap);
+    }
+    content.appendChild(distCard);
+
+    // --- sources / methodology ---
+    var footer = document.getElementById('footer');
+    footer.innerHTML =
+      'Sources this run: ' + ((snapshot.sources_used || []).join(', ') || '—') + '.<br>' +
+      escapeHtml(snapshot.methodology_note || '') +
+      '<br>Runs automatically every few hours via GitHub Actions — nothing to start or keep running manually. ' +
+      '<a href="https://github.com" target="_blank" rel="noopener">View source / re-run</a>';
+  }
+
+  function buildHistoryChart(rows) {
+    var card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = '<h2>Tone over time</h2>';
+    var pts = rows.filter(function (r) { return !r.no_data && r.overall_mood !== null && r.overall_mood !== undefined; });
+    if (pts.length < 2) { renderEmpty(card, 'Not enough history yet to chart a trend.'); return card; }
+
+    var w = 900, h = 160, padL = 30, padR = 10, padT = 10, padB = 20;
+    var minS = Math.min(-0.2, Math.min.apply(null, pts.map(function (p) { return p.overall_mood; })));
+    var maxS = Math.max(0.2, Math.max.apply(null, pts.map(function (p) { return p.overall_mood; })));
+    function x(i) { return padL + (w - padL - padR) * (i / (pts.length - 1)); }
+    function y(v) { return padT + (h - padT - padB) * (1 - (v - minS) / (maxS - minS)); }
+    var zeroY = y(0);
+    var d = pts.map(function (p, i) { return (i === 0 ? 'M' : 'L') + x(i).toFixed(1) + ',' + y(p.overall_mood).toFixed(1); }).join(' ');
+
+    var svg = '<svg viewBox="0 0 ' + w + ' ' + h + '" preserveAspectRatio="xMidYMid meet" style="width:100%;height:160px;display:block">' +
+      '<line class="chart-zero" x1="' + padL + '" y1="' + zeroY + '" x2="' + (w - padR) + '" y2="' + zeroY + '"></line>' +
+      '<text x="4" y="' + (zeroY + 3) + '">0</text>' +
+      '<path class="chart-line" d="' + d + '"></path>' +
+      '</svg>';
+    card.innerHTML += svg;
+    return card;
+  }
+
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+
+  function parseJsonl(text) {
+    return text.split('\n').map(function (l) { return l.trim(); }).filter(Boolean).map(function (l) {
+      try { return JSON.parse(l); } catch (e) { return null; }
+    }).filter(Boolean);
+  }
+
+  Promise.all([
+    fetch('data/latest.json', { cache: 'no-store' }).then(function (r) { return r.json(); }),
+    fetch('data/history.jsonl', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(parseJsonl).catch(function () { return []; })
+  ]).then(function (results) {
+    buildDashboard(results[0], results[1]);
+  }).catch(function (err) {
+    document.getElementById('content').innerHTML =
+      '<div class="card"><h2>Could not load data</h2><div class="empty">' + escapeHtml(String(err)) + '</div></div>';
+  });
+})();
+</script>
+</body>
+</html>
