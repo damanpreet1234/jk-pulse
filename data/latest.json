@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-09-10T22:13:39.932641+00:00",
-  "date": "2026-09-10",
+  "generated_at": "2026-09-11T02:47:56.122291+00:00",
+  "date": "2026-09-11",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.021,
+    "score": 0.013,
     "label": "mixed / neutral",
-    "positive_pct": 32.1,
-    "neutral_pct": 41.1,
-    "negative_pct": 26.8,
-    "sample_size": 377
+    "positive_pct": 32.9,
+    "neutral_pct": 39.7,
+    "negative_pct": 27.3,
+    "sample_size": 395
   },
   "top_keywords": [
     {
       "term": "Vande Mataram",
-      "mentions": 9,
-      "sentiment": 0.009
+      "mentions": 16,
+      "sentiment": 0.045
     },
     {
       "term": "CM Omar",
-      "mentions": 9,
-      "sentiment": 0.066
+      "mentions": 10,
+      "sentiment": 0.119
+    },
+    {
+      "term": "Omar Abdullah",
+      "mentions": 8,
+      "sentiment": 0.01
+    },
+    {
+      "term": "CM Omar Abdullah",
+      "mentions": 8,
+      "sentiment": 0.346
     },
     {
       "term": "IFFJK",
       "mentions": 8,
-      "sentiment": 0.116
+      "sentiment": 0.066
     },
     {
-      "term": "CS Dulloo",
-      "mentions": 8,
-      "sentiment": 0.043
-    },
-    {
-      "term": "ITIs",
-      "mentions": 7,
-      "sentiment": 0.042
-    },
-    {
-      "term": "Bollywood",
+      "term": "Short",
       "mentions": 6,
-      "sentiment": 0.049
+      "sentiment": -0.001
     },
     {
       "term": "International Film Festival",
@@ -48,39 +48,29 @@
       "sentiment": 0.296
     },
     {
-      "term": "Ladakh High Court",
-      "mentions": 6,
-      "sentiment": 0.435
-    },
-    {
-      "term": "SETU",
-      "mentions": 6,
-      "sentiment": 0.0
+      "term": "ITIs",
+      "mentions": 5,
+      "sentiment": 0.059
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 5,
-      "sentiment": -0.108
+      "sentiment": -0.203
     },
     {
-      "term": "CM Omar Abdullah",
+      "term": "Murugan",
       "mentions": 5,
-      "sentiment": 0.324
+      "sentiment": 0.186
     },
     {
-      "term": "Omar Abdullah",
+      "term": "Omar",
       "mentions": 5,
-      "sentiment": 0.075
+      "sentiment": 0.047
     },
     {
-      "term": "India",
+      "term": "Ladakh High Court",
       "mentions": 5,
-      "sentiment": 0.385
-    },
-    {
-      "term": "Short",
-      "mentions": 5,
-      "sentiment": -0.001
+      "sentiment": 0.606
     },
     {
       "term": "NAPS",
@@ -88,9 +78,19 @@
       "sentiment": 0.084
     },
     {
-      "term": "Omar",
+      "term": "Bollywood",
       "mentions": 4,
-      "sentiment": 0.22
+      "sentiment": 0.0
+    },
+    {
+      "term": "Jammu Kashmir Finance Department",
+      "mentions": 4,
+      "sentiment": -0.068
+    },
+    {
+      "term": "GMC Jammu",
+      "mentions": 4,
+      "sentiment": 0.228
     },
     {
       "term": "Yash Paul Bourney",
@@ -98,62 +98,97 @@
       "sentiment": 0.355
     },
     {
+      "term": "Sunil Sharma",
+      "mentions": 4,
+      "sentiment": 0.238
+    },
+    {
       "term": "Kashmir High Court",
       "mentions": 4,
       "sentiment": -0.193
     },
     {
-      "term": "GMC Jammu",
+      "term": "Secretary",
       "mentions": 4,
-      "sentiment": 0.233
-    },
-    {
-      "term": "Jammu Kashmir Finance Department",
-      "mentions": 4,
-      "sentiment": -0.068
+      "sentiment": 0.044
     }
   ],
   "emerging": [
     {
-      "term": "ACB Arrests ASI",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "term": "Vande Mataram",
+      "mentions_now": 16,
+      "baseline_avg": 8.2,
+      "zscore": 10.42,
       "reason": "spike"
     },
     {
-      "term": "SETU",
-      "mentions_now": 6,
-      "baseline_avg": 4.33,
-      "zscore": 3.54,
+      "term": "Indian",
+      "mentions_now": 4,
+      "baseline_avg": 1.5,
+      "zscore": 5.0,
       "reason": "spike"
     },
     {
-      "term": "CM Omar",
-      "mentions_now": 9,
-      "baseline_avg": 4,
-      "zscore": 2.31,
-      "reason": "spike"
-    },
-    {
-      "term": "CS Dulloo",
-      "mentions_now": 8,
-      "baseline_avg": 5,
-      "zscore": 2.12,
+      "term": "Sunil Sharma",
+      "mentions_now": 4,
+      "baseline_avg": 1.67,
+      "zscore": 4.95,
       "reason": "spike"
     },
     {
       "term": "Omar Abdullah",
+      "mentions_now": 8,
+      "baseline_avg": 3.33,
+      "zscore": 3.74,
+      "reason": "spike"
+    },
+    {
+      "term": "CM Omar Abdullah",
+      "mentions_now": 8,
+      "baseline_avg": 4.25,
+      "zscore": 2.89,
+      "reason": "spike"
+    },
+    {
+      "term": "NDPS",
+      "mentions_now": 4,
+      "baseline_avg": 2.75,
+      "zscore": 2.89,
+      "reason": "spike"
+    },
+    {
+      "term": "Mir Sarwar",
+      "mentions_now": 3,
+      "baseline_avg": 2,
+      "zscore": 2.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Sheep Killed",
+      "mentions_now": 3,
+      "baseline_avg": 2.2,
+      "zscore": 2.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Injured",
+      "mentions_now": 3,
+      "baseline_avg": 2.2,
+      "zscore": 2.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Omar",
       "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
+      "baseline_avg": 3,
+      "zscore": 1.83,
+      "reason": "spike"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": -0.253,
+      "mentions": 2,
+      "sentiment": -0.379,
       "top_terms": [
         "DC Anantnag",
         "NAPS",
@@ -177,32 +212,30 @@
       "mentions": 5,
       "sentiment": 0.0,
       "top_terms": [
-        "Baramulla Youth",
-        "Journey",
         "Viksit Bharat",
         "Ventilators",
-        "GMC Baramulla Non"
+        "GMC Baramulla Non",
+        "Functional",
+        "Months"
       ]
     },
     "Budgam": {
-      "mentions": 11,
-      "sentiment": -0.529,
+      "mentions": 10,
+      "sentiment": -0.665,
       "top_terms": [
-        "Magam",
-        "Leopard",
         "Sheep Killed",
         "Injured",
-        "Suspected Leopard Attack"
+        "Suspected Leopard Attack",
+        "Magam",
+        "Leopard"
       ]
     },
     "Ganderbal": {
-      "mentions": 3,
+      "mentions": 1,
       "sentiment": 0.0,
       "top_terms": [
-        "Tobacco",
         "Short",
-        "GDC Ganderbal",
-        "World Literacy Day"
+        "Tobacco"
       ]
     },
     "Kulgam": {
@@ -217,30 +250,27 @@
       ]
     },
     "Kupwara": {
-      "mentions": 1,
-      "sentiment": 0.318,
+      "mentions": 2,
+      "sentiment": -0.252,
       "top_terms": [
+        "Fire",
+        "Warnow Lolab",
         "Keran Mela",
         "Opens Along LoC",
-        "Ks Kupwara",
-        "Aims Boost Border",
-        "Tourism"
+        "Ks Kupwara"
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": 0.14,
+      "mentions": 2,
+      "sentiment": 0.211,
       "top_terms": [
         "Digital Holistic Progress Card",
-        "Opinion",
-        "Under",
-        "Floodlights",
-        "Royal Premier League Pulwama"
+        "Hindi"
       ]
     },
     "Shopian": {
-      "mentions": 7,
-      "sentiment": 0.119,
+      "mentions": 8,
+      "sentiment": 0.013,
       "top_terms": [
         "IGP Kashmir Reviews Security",
         "Counter",
@@ -250,47 +280,47 @@
       ]
     },
     "Srinagar": {
-      "mentions": 46,
-      "sentiment": 0.027,
+      "mentions": 45,
+      "sentiment": 0.008,
       "top_terms": [
+        "Secretary",
         "NDPS",
         "Srinagar Police",
         "Dal Lake",
-        "Srinagar Highway",
-        "Secretary"
+        "International Film Festival"
       ]
     },
     "Doda": {
-      "mentions": 13,
-      "sentiment": 0.084,
+      "mentions": 11,
+      "sentiment": 0.037,
       "top_terms": [
-        "Udhampur Trijunction",
-        "DGP Nalin Prabhat",
         "Panchayat Secretary Suspended",
+        "DGP Nalin Prabhat",
         "DGP Nalin Prabhat Reviews",
-        "Section"
+        "Udhampur Trijunction",
+        "Kailash Kund Yatra"
       ]
     },
     "Jammu": {
-      "mentions": 62,
-      "sentiment": -0.029,
+      "mentions": 64,
+      "sentiment": -0.047,
       "top_terms": [
         "Jammu Kashmir",
-        "Kashmir High Court",
-        "GMC Jammu",
         "Jammu Kashmir Finance Department",
-        "Yash Paul Bourney"
+        "GMC Jammu",
+        "Sunil Sharma",
+        "Kashmir High Court"
       ]
     },
     "Kathua": {
-      "mentions": 16,
-      "sentiment": 0.076,
+      "mentions": 15,
+      "sentiment": 0.038,
       "top_terms": [
-        "Udhampur Trijunction",
         "DGP Nalin Prabhat Reviews",
-        "Goods",
-        "DC Kathua",
-        "Jammu Kashmir Govt Approves"
+        "Udhampur Trijunction",
+        "MIET",
+        "GDC Kathua",
+        "Kabaddi"
       ]
     },
     "Kishtwar": {
@@ -305,19 +335,19 @@
       ]
     },
     "Poonch": {
-      "mentions": 9,
-      "sentiment": -0.155,
+      "mentions": 10,
+      "sentiment": -0.061,
       "top_terms": [
-        "RUCO Initiative",
-        "Poonch Horror Demands More",
-        "Than Arrests",
         "DC Poonch",
-        "Conducts Food Safety Enforcement"
+        "RUCO Initiative",
+        "Conducts Food Safety Enforcement",
+        "Drive",
+        "Poonch National Highway"
       ]
     },
     "Rajouri": {
       "mentions": 7,
-      "sentiment": 0.253,
+      "sentiment": 0.073,
       "top_terms": [
         "RUCO Initiative",
         "Conducts Food Safety Enforcement",
@@ -327,30 +357,31 @@
       ]
     },
     "Ramban": {
-      "mentions": 3,
+      "mentions": 2,
       "sentiment": 0.0,
       "top_terms": [
         "ADC Ramban",
         "HADP",
-        "NAPS",
-        "MLA Ramban"
+        "NAPS"
       ]
     },
     "Reasi": {
-      "mentions": 12,
-      "sentiment": -0.128,
+      "mentions": 11,
+      "sentiment": -0.168,
       "top_terms": [
         "ACB Arrests ASI",
-        "GMC Jammu",
-        "District Hospital Reasi",
         "Accepting Rs",
-        "Bribe"
+        "Bribe",
+        "Accepting Bribe",
+        "DC Reasi"
       ]
     },
     "Samba": {
-      "mentions": 1,
-      "sentiment": 0.511,
+      "mentions": 2,
+      "sentiment": 0.255,
       "top_terms": [
+        "Bakshi Nagar Flyover",
+        "Ind Park",
         "Schoolchildren Spread Drug Free",
         "Message Through Rangoli",
         "Gallery"
@@ -358,10 +389,10 @@
     },
     "Udhampur": {
       "mentions": 6,
-      "sentiment": 0.354,
+      "sentiment": 0.364,
       "top_terms": [
-        "Udhampur Trijunction",
         "DGP Nalin Prabhat Reviews",
+        "Udhampur Trijunction",
         "DGP Nalin Prabhat",
         "Security Arrangements",
         "Security Preparedness"
@@ -369,55 +400,56 @@
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 41
+      "domain": "Daily Excelsior",
+      "count": 42
     },
     {
       "domain": "Greater Kashmir",
-      "count": 31
+      "count": 41
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 30
-    },
-    {
-      "domain": "dailyexcelsior.com",
-      "count": 30
+      "domain": "Kashmir Life",
+      "count": 35
     },
     {
       "domain": "Jammu Links News",
-      "count": 25
+      "count": 23
     },
     {
-      "domain": "Brighter Kashmir",
+      "domain": "Rising Kashmir",
       "count": 21
     },
     {
-      "domain": "KNS Kashmir",
+      "domain": "Brighter Kashmir",
       "count": 16
     },
     {
+      "domain": "KNS Kashmir",
+      "count": 14
+    },
+    {
       "domain": "Kashmir News Observer",
-      "count": 15
+      "count": 13
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 13
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 12
-    },
-    {
-      "domain": "globalkashmir.net",
       "count": 10
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 8
+      "domain": "thekashmirimages.com",
+      "count": 9
     },
     {
-      "domain": "The Tribune",
+      "domain": "Kashmir Convener",
       "count": 8
     },
     {
@@ -425,36 +457,36 @@
       "count": 8
     },
     {
-      "domain": "Kashmir Indepth",
-      "count": 6
+      "domain": "dailyexcelsior.com",
+      "count": 8
     },
     {
-      "domain": "Kashmir Dot Com",
+      "domain": "The Tribune",
+      "count": 7
+    },
+    {
+      "domain": "kashmirindepth.com",
       "count": 6
     },
     {
       "domain": "Live Law",
+      "count": 6
+    },
+    {
+      "domain": "The Global Kashmir",
       "count": 5
     },
     {
-      "domain": "10net.in",
+      "domain": "Kashmir Dot Com",
       "count": 5
     },
     {
-      "domain": "Bar and Bench",
-      "count": 4
-    },
-    {
-      "domain": "Only Kashmir",
-      "count": 4
-    },
-    {
-      "domain": "The Chenab Times",
+      "domain": "The Hindu",
       "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 377,
+    "articles_fetched": 395,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
