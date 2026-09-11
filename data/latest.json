@@ -1,61 +1,51 @@
 {
-  "generated_at": "2026-09-11T08:31:14.672656+00:00",
+  "generated_at": "2026-09-11T15:47:33.417972+00:00",
   "date": "2026-09-11",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.041,
+    "score": 0.023,
     "label": "mixed / neutral",
-    "positive_pct": 34.0,
-    "neutral_pct": 39.8,
-    "negative_pct": 26.1,
-    "sample_size": 379
+    "positive_pct": 33.1,
+    "neutral_pct": 38.7,
+    "negative_pct": 28.2,
+    "sample_size": 344
   },
   "top_keywords": [
     {
       "term": "Vande Mataram",
-      "mentions": 10,
-      "sentiment": 0.023
-    },
-    {
-      "term": "Jammu Kashmir",
-      "mentions": 7,
-      "sentiment": -0.326
+      "mentions": 9,
+      "sentiment": 0.076
     },
     {
       "term": "IFFJK",
       "mentions": 7,
-      "sentiment": 0.0
+      "sentiment": 0.018
     },
     {
-      "term": "CM Omar",
+      "term": "Police",
+      "mentions": 7,
+      "sentiment": -0.099
+    },
+    {
+      "term": "Delhi",
       "mentions": 6,
-      "sentiment": 0.2
+      "sentiment": 0.106
     },
     {
-      "term": "CM Omar Abdullah",
-      "mentions": 6,
-      "sentiment": 0.397
-    },
-    {
-      "term": "NAPS",
-      "mentions": 6,
-      "sentiment": 0.14
-    },
-    {
-      "term": "ITIs",
+      "term": "Jammu Kashmir",
       "mentions": 5,
-      "sentiment": 0.0
+      "sentiment": -0.366
     },
     {
-      "term": "Govt",
+      "term": "Laws",
       "mentions": 5,
-      "sentiment": -0.071
+      "sentiment": 0.39
     },
     {
-      "term": "Indian",
+      "term": "Satwari",
       "mentions": 5,
-      "sentiment": 0.183
+      "sentiment": -0.122
     },
     {
       "term": "Unified Building Bye",
@@ -63,118 +53,121 @@
       "sentiment": 0.382
     },
     {
-      "term": "Laws",
-      "mentions": 4,
-      "sentiment": 0.382
-    },
-    {
-      "term": "Omar Abdullah",
-      "mentions": 4,
-      "sentiment": 0.074
-    },
-    {
-      "term": "India",
-      "mentions": 4,
-      "sentiment": 0.316
-    },
-    {
-      "term": "Jammu Kashmir Finance Department",
-      "mentions": 4,
-      "sentiment": -0.068
-    },
-    {
-      "term": "SETU",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
-      "term": "GMC Jammu",
-      "mentions": 4,
-      "sentiment": 0.336
-    },
-    {
-      "term": "Yash Paul Bourney",
-      "mentions": 4,
-      "sentiment": 0.355
-    },
-    {
-      "term": "Murugan",
-      "mentions": 4,
-      "sentiment": 0.097
-    },
-    {
       "term": "International Film Festival",
       "mentions": 4,
       "sentiment": 0.441
     },
     {
+      "term": "India",
+      "mentions": 4,
+      "sentiment": 0.062
+    },
+    {
+      "term": "Bribe",
+      "mentions": 4,
+      "sentiment": -0.154
+    },
+    {
+      "term": "DGP Nalin Prabhat",
+      "mentions": 4,
+      "sentiment": 0.17
+    },
+    {
       "term": "Secretary",
       "mentions": 4,
       "sentiment": 0.044
+    },
+    {
+      "term": "NAPS",
+      "mentions": 4,
+      "sentiment": 0.211
+    },
+    {
+      "term": "Omar",
+      "mentions": 3,
+      "sentiment": 0.147
+    },
+    {
+      "term": "Digital Crop Survey",
+      "mentions": 3,
+      "sentiment": -0.404
+    },
+    {
+      "term": "Northern Command",
+      "mentions": 3,
+      "sentiment": 0.371
+    },
+    {
+      "term": "Dy CM",
+      "mentions": 3,
+      "sentiment": 0.078
+    },
+    {
+      "term": "Kashmir Expo",
+      "mentions": 3,
+      "sentiment": 0.241
+    },
+    {
+      "term": "International Border",
+      "mentions": 3,
+      "sentiment": -0.197
     }
   ],
   "emerging": [
     {
-      "term": "Govt",
-      "mentions_now": 5,
-      "baseline_avg": 1.4,
-      "zscore": 7.35,
-      "reason": "spike"
-    },
-    {
-      "term": "LoP Sunil Sharma",
-      "mentions_now": 4,
-      "baseline_avg": 1.67,
-      "zscore": 4.95,
-      "reason": "spike"
-    },
-    {
-      "term": "Assembly",
-      "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "Bilquis Mir",
-      "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "Four Officials Suspended",
-      "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
-      "reason": "spike"
-    },
-    {
-      "term": "DGP Nalin Prabhat Reviews",
-      "mentions_now": 3,
-      "baseline_avg": 1.6,
-      "zscore": 2.86,
-      "reason": "spike"
-    },
-    {
-      "term": "Indian",
-      "mentions_now": 5,
+      "term": "Delhi",
+      "mentions_now": 6,
       "baseline_avg": 2,
-      "zscore": 2.74,
+      "zscore": 7.48,
       "reason": "spike"
     },
     {
-      "term": "DGP Nalin Prabhat",
-      "mentions_now": 4,
-      "baseline_avg": 2.2,
-      "zscore": 1.84,
+      "term": "Police",
+      "mentions_now": 7,
+      "baseline_avg": 2,
+      "zscore": 6.61,
       "reason": "spike"
+    },
+    {
+      "term": "Bribe",
+      "mentions_now": 4,
+      "baseline_avg": 1.71,
+      "zscore": 5.06,
+      "reason": "spike"
+    },
+    {
+      "term": "Fire",
+      "mentions_now": 3,
+      "baseline_avg": 1.25,
+      "zscore": 4.04,
+      "reason": "spike"
+    },
+    {
+      "term": "Counter",
+      "mentions_now": 3,
+      "baseline_avg": 2,
+      "zscore": 2.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Laws",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Satwari",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": -0.112,
+      "mentions": 2,
+      "sentiment": 0.211,
       "top_terms": [
         "NAPS",
         "Anantnag Progress Review",
@@ -184,199 +177,210 @@
       ]
     },
     "Bandipora": {
-      "mentions": 5,
-      "sentiment": -0.053,
+      "mentions": 6,
+      "sentiment": 0.108,
       "top_terms": [
-        "DC Bandipora",
-        "Kaloosa",
-        "DC Bandipora Chairs DLC",
-        "Meeting",
-        "CLU Directs Line Departments"
+        "Rural Mart",
+        "Pethkoot Bandipora",
+        "Search Operation Enters Second",
+        "Trace",
+        "Year"
       ]
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": 0.057,
+      "mentions": 8,
+      "sentiment": 0.053,
       "top_terms": [
-        "Viksit Bharat",
+        "Hazrat Syed Janbaz Wali",
+        "Khanpora Baramulla",
+        "Police",
         "Youth Leadership Drive",
-        "Baramulla DYO Calls",
-        "Active VBYLD Participation",
-        "Ventilators"
+        "Baramulla DYO Calls"
       ]
     },
     "Budgam": {
-      "mentions": 6,
-      "sentiment": -0.234,
+      "mentions": 10,
+      "sentiment": -0.11,
       "top_terms": [
-        "Leopard",
-        "Poshan Maah Celebrations",
-        "Mission Director Drives Malnutrition",
-        "Free Budgam Campaign",
-        "SWD Budgam"
+        "Bribe",
+        "Patwari",
+        "ACB Traps Patwari Red",
+        "Handed While Accepting Bribe",
+        "Patwari Caught Red"
       ]
     },
     "Ganderbal": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.637,
+      "top_terms": [
+        "Strengthening Academic",
+        "Research Collaboration",
+        "Central University",
+        "TERI School",
+        "Advanced Studies"
+      ]
     },
     "Kulgam": {
-      "mentions": 10,
-      "sentiment": 0.189,
+      "mentions": 12,
+      "sentiment": -0.039,
       "top_terms": [
-        "IGP Kashmir",
-        "IGP Kashmir Reviews Security",
         "Counter",
-        "Kulgam Apprenticeship Session",
-        "DC Alam Chairs Skill"
+        "Police",
+        "DC Kulgam",
+        "IGP Kashmir",
+        "NDPS Accused Evading Arrest"
       ]
     },
     "Kupwara": {
-      "mentions": 2,
-      "sentiment": -0.823,
+      "mentions": 3,
+      "sentiment": -0.408,
       "top_terms": [
         "Fire",
+        "ADDC Kupwara",
+        "NAPS",
         "Warnow Lolab"
       ]
     },
     "Pulwama": {
-      "mentions": 1,
-      "sentiment": 0.421,
+      "mentions": 2,
+      "sentiment": 0.211,
       "top_terms": [
+        "Govt. School",
+        "Pulwama Draws Students",
+        "Across District",
+        "Infrastructure Falls Short",
         "Digital Holistic Progress Card"
       ]
     },
     "Shopian": {
-      "mentions": 12,
-      "sentiment": 0.027,
+      "mentions": 8,
+      "sentiment": -0.014,
       "top_terms": [
+        "Counter",
         "IGP Kashmir",
         "IGP Kashmir Reviews Security",
-        "Counter",
         "Terrorism Grid",
-        "IGP Kashmir Sujit Kumar"
+        "Security"
       ]
     },
     "Srinagar": {
-      "mentions": 39,
-      "sentiment": 0.031,
+      "mentions": 30,
+      "sentiment": 0.05,
       "top_terms": [
         "Secretary",
         "Dal Lake",
-        "NDPS",
+        "Police",
         "International Film Festival",
-        "Linked Properties Worth"
+        "DC Srinagar"
       ]
     },
     "Doda": {
-      "mentions": 11,
-      "sentiment": 0.279,
+      "mentions": 6,
+      "sentiment": 0.371,
       "top_terms": [
-        "DGP Nalin Prabhat Reviews",
-        "Udhampur Trijunction",
         "DGP Nalin Prabhat",
+        "DGP Nalin Prabhat Reviews",
         "Security Readiness",
-        "Kailash Kund Yatra"
+        "Udhampur Trijunction"
       ]
     },
     "Jammu": {
-      "mentions": 55,
-      "sentiment": -0.041,
+      "mentions": 48,
+      "sentiment": -0.018,
       "top_terms": [
         "Jammu Kashmir",
-        "Jammu Kashmir Finance Department",
+        "Satwari",
         "GMC Jammu",
-        "Sunil Sharma",
-        "Yash Paul Bourney"
+        "International Film Festival",
+        "Jammu Division"
       ]
     },
     "Kathua": {
-      "mentions": 14,
-      "sentiment": 0.189,
+      "mentions": 20,
+      "sentiment": -0.172,
       "top_terms": [
-        "DGP Nalin Prabhat Reviews",
-        "Udhampur Trijunction",
-        "DC Kathua",
-        "DGP Nalin Prabhat",
-        "Security Readiness"
+        "International Border",
+        "Two Killed",
+        "Pakistani",
+        "Hiranagar",
+        "DGP Nalin Prabhat"
       ]
     },
     "Kishtwar": {
-      "mentions": 6,
-      "sentiment": -0.072,
+      "mentions": 5,
+      "sentiment": 0.162,
       "top_terms": [
-        "Census",
-        "Child Marriage",
-        "Kishtwar DM Bars Marriages",
-        "Involving Girls Below",
-        "Boys Below"
+        "White Knight Corps Commander",
+        "Reviews Security Grid",
+        "Operational Preparedness",
+        "Ks Kishtwar",
+        "White Knight Corps"
       ]
     },
     "Poonch": {
-      "mentions": 11,
-      "sentiment": 0.016,
+      "mentions": 9,
+      "sentiment": 0.021,
       "top_terms": [
-        "RUCO Initiative",
         "White Knight Corps GOC",
         "Lieutenant General",
         "Mishra",
-        "Chinar Cafe Gutted"
+        "Chinar Cafe Gutted",
+        "Twin LPG Cylinder Blasts"
       ]
     },
     "Rajouri": {
-      "mentions": 8,
-      "sentiment": 0.064,
+      "mentions": 5,
+      "sentiment": -0.099,
       "top_terms": [
         "White Knight Corps GOC",
-        "RUCO Initiative",
         "Lieutenant General",
-        "Mishra",
-        "Conducts Food Safety Enforcement"
+        "General Officer Commanding",
+        "Chief",
+        "Northern Command"
       ]
     },
     "Ramban": {
-      "mentions": 3,
-      "sentiment": 0.147,
+      "mentions": 4,
+      "sentiment": 0.253,
       "top_terms": [
+        "Jammu Division",
+        "Indian Army",
+        "Ramban UT",
         "UT Chess Championship Concludes",
-        "Chanderkote MLA Ramban Presides",
-        "Culmination",
-        "ADC Ramban",
-        "HADP"
+        "Chanderkote MLA Ramban Presides"
       ]
     },
     "Reasi": {
-      "mentions": 11,
-      "sentiment": -0.129,
+      "mentions": 5,
+      "sentiment": 0.01,
       "top_terms": [
-        "ACB Arrests ASI",
-        "Accepting Rs",
-        "Bribe",
-        "GMC Jammu",
-        "DH Reasi Sign MoU"
+        "Reasi Police Organises Plantation",
+        "Drive",
+        "Honour Martyrs",
+        "Man Killed",
+        "Tractor"
       ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.075,
+      "mentions": 5,
+      "sentiment": 0.134,
       "top_terms": [
-        "Bakshi Nagar Flyover",
-        "Ind Park",
-        "Four Officials Suspended",
-        "Samba Poor Performance",
-        "Digital Crop Survey"
+        "Sunil Sharma",
+        "ADDC Samba",
+        "District Capex",
+        "JK Samadhan Registrations",
+        "Bakshi Nagar Flyover"
       ]
     },
     "Udhampur": {
-      "mentions": 11,
-      "sentiment": 0.197,
+      "mentions": 10,
+      "sentiment": 0.078,
       "top_terms": [
-        "DGP Nalin Prabhat Reviews",
-        "Udhampur Trijunction",
+        "DGP Nalin Prabhat",
         "Udhampur Administration Imposes Two",
         "Month Ban",
-        "VPN Use"
+        "VPN Use",
+        "DGP Nalin Prabhat Reviews"
       ]
     }
   },
@@ -385,88 +389,88 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Greater Kashmir",
-      "count": 38
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 36
+      "domain": "greaterkashmir.com",
+      "count": 37
     },
     {
       "domain": "Kashmir Life",
-      "count": 29
+      "count": 28
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 24
+      "domain": "Daily Excelsior",
+      "count": 28
     },
     {
       "domain": "Jammu Links News",
-      "count": 23
+      "count": 26
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 18
+      "domain": "thekashmirhorizon.com",
+      "count": 17
     },
     {
-      "domain": "The Kashmir Horizon",
-      "count": 18
+      "domain": "ThePrint",
+      "count": 15
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 14
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 16
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 13
-    },
-    {
-      "domain": "Kashmir News Service",
-      "count": 13
-    },
-    {
-      "domain": "Kashmir Observer",
       "count": 12
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 11
+    },
+    {
+      "domain": "News On AIR",
+      "count": 9
     },
     {
       "domain": "10net.in",
       "count": 9
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 7
+      "domain": "Kashmir Observer",
+      "count": 9
     },
     {
-      "domain": "Kashmir Indepth",
-      "count": 7
+      "domain": "thekashmirimages.com",
+      "count": 9
     },
     {
-      "domain": "The Global Kashmir",
-      "count": 6
+      "domain": "KNS Kashmir",
+      "count": 8
     },
     {
-      "domain": "ThePrint",
+      "domain": "globalkashmir.net",
       "count": 5
     },
     {
-      "domain": "kmsnews.org",
+      "domain": "Kashmir Dot Com",
       "count": 5
     },
     {
-      "domain": "jknewstoday.com",
-      "count": 4
-    },
-    {
-      "domain": "Hindustan Times",
+      "domain": "The Hindu",
       "count": 4
     },
     {
       "domain": "The Chenab Times",
       "count": 4
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 4
+    },
+    {
+      "domain": "jknewstoday.com",
+      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 379,
+    "articles_fetched": 344,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
