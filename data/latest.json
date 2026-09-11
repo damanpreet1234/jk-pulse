@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-09-11T18:56:54.890989+00:00",
+  "generated_at": "2026-09-11T22:11:56.363423+00:00",
   "date": "2026-09-11",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.016,
+    "score": -0.007,
     "label": "mixed / neutral",
-    "positive_pct": 33.6,
-    "neutral_pct": 37.3,
-    "negative_pct": 29.1,
-    "sample_size": 351
+    "positive_pct": 30.9,
+    "neutral_pct": 37.6,
+    "negative_pct": 31.5,
+    "sample_size": 362
   },
   "top_keywords": [
     {
       "term": "Vande Mataram",
-      "mentions": 11,
-      "sentiment": 0.051
-    },
-    {
-      "term": "IFFJK",
-      "mentions": 8,
-      "sentiment": 0.066
-    },
-    {
-      "term": "Congress",
-      "mentions": 7,
-      "sentiment": -0.018
-    },
-    {
-      "term": "Police",
-      "mentions": 6,
-      "sentiment": -0.115
+      "mentions": 9,
+      "sentiment": 0.037
     },
     {
       "term": "Cong",
-      "mentions": 5,
-      "sentiment": -0.17
+      "mentions": 7,
+      "sentiment": -0.087
     },
     {
       "term": "Omar",
-      "mentions": 5,
+      "mentions": 6,
       "sentiment": 0.0
+    },
+    {
+      "term": "IFFJK",
+      "mentions": 6,
+      "sentiment": 0.088
+    },
+    {
+      "term": "Congress",
+      "mentions": 6,
+      "sentiment": -0.021
+    },
+    {
+      "term": "Delhi",
+      "mentions": 6,
+      "sentiment": 0.106
     },
     {
       "term": "Jammu Kashmir",
@@ -53,14 +53,14 @@
       "sentiment": 0.39
     },
     {
-      "term": "Delhi",
+      "term": "Police",
       "mentions": 5,
-      "sentiment": 0.047
+      "sentiment": -0.138
     },
     {
       "term": "Satwari",
       "mentions": 5,
-      "sentiment": -0.05
+      "sentiment": 0.072
     },
     {
       "term": "Unified Building Bye",
@@ -68,19 +68,19 @@
       "sentiment": 0.382
     },
     {
-      "term": "International Film Festival",
+      "term": "Mirwaiz",
       "mentions": 4,
-      "sentiment": 0.296
+      "sentiment": 0.0
     },
     {
-      "term": "CM Omar",
+      "term": "Northern Command",
       "mentions": 4,
-      "sentiment": 0.063
+      "sentiment": 0.422
     },
     {
-      "term": "India",
+      "term": "Bank",
       "mentions": 4,
-      "sentiment": -0.047
+      "sentiment": -0.073
     },
     {
       "term": "Hindustan Times",
@@ -88,80 +88,87 @@
       "sentiment": 0.043
     },
     {
+      "term": "Operational Preparedness",
+      "mentions": 4,
+      "sentiment": 0.34
+    },
+    {
+      "term": "Two Killed",
+      "mentions": 4,
+      "sentiment": -0.883
+    },
+    {
+      "term": "NAPS",
+      "mentions": 4,
+      "sentiment": 0.211
+    },
+    {
       "term": "South Kashmir",
       "mentions": 4,
       "sentiment": -0.177
     },
     {
-      "term": "NHM Employees Extend Strike",
+      "term": "Kashmiris",
       "mentions": 3,
-      "sentiment": -0.077
-    },
-    {
-      "term": "Want Kashmiris",
-      "mentions": 3,
-      "sentiment": 0.051
-    },
-    {
-      "term": "Northern Command",
-      "mentions": 3,
-      "sentiment": 0.424
-    },
-    {
-      "term": "Pakistani",
-      "mentions": 3,
-      "sentiment": -0.353
+      "sentiment": 0.026
     }
   ],
   "emerging": [
     {
-      "term": "Cong",
-      "mentions_now": 5,
+      "term": "Mirwaiz",
+      "mentions_now": 4,
       "baseline_avg": 1.4,
-      "zscore": 7.35,
+      "zscore": 5.31,
       "reason": "spike"
     },
     {
-      "term": "Congress",
+      "term": "Kashmiris",
+      "mentions_now": 3,
+      "baseline_avg": 1.25,
+      "zscore": 4.04,
+      "reason": "spike"
+    },
+    {
+      "term": "Pakistan",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Cong",
       "mentions_now": 7,
-      "baseline_avg": 2.88,
-      "zscore": 2.84,
+      "baseline_avg": 2,
+      "zscore": 3.54,
       "reason": "spike"
     },
     {
-      "term": "Hindustan Times",
-      "mentions_now": 4,
-      "baseline_avg": 2.17,
-      "zscore": 2.04,
+      "term": "White Knight Corps GOC",
+      "mentions_now": 3,
+      "baseline_avg": 1.43,
+      "zscore": 3.18,
       "reason": "spike"
     },
     {
-      "term": "South Kashmir",
-      "mentions_now": 4,
-      "baseline_avg": 2.12,
-      "zscore": 2.02,
+      "term": "Casual",
+      "mentions_now": 3,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Police",
+      "term": "Omar",
       "mentions_now": 6,
-      "baseline_avg": 2.62,
-      "zscore": 1.88,
+      "baseline_avg": 3.44,
+      "zscore": 2.19,
       "reason": "spike"
     },
     {
-      "term": "Laws",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "Satwari",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
+      "term": "Delhi",
+      "mentions_now": 6,
+      "baseline_avg": 2.78,
+      "zscore": 2.08,
+      "reason": "spike"
     }
   ],
   "districts": {
@@ -177,30 +184,30 @@
       ]
     },
     "Bandipora": {
-      "mentions": 10,
-      "sentiment": 0.019,
+      "mentions": 9,
+      "sentiment": 0.021,
       "top_terms": [
         "Rajiv Gandhi Panchayati Raj",
         "Panchs",
         "DC Bandipora",
-        "Rural Mart",
-        "Pethkoot Bandipora"
+        "Sangathan Meets Former Sarpanches",
+        "Sangathan"
       ]
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": -0.024,
+      "mentions": 8,
+      "sentiment": 0.072,
       "top_terms": [
         "Waste",
         "Jhelum",
+        "Saif Ali Khan",
         "Janbaz Wali",
-        "Hazrat Syed Janbaz Wali",
-        "Khanpora Baramulla"
+        "Hazrat Syed Janbaz Wali"
       ]
     },
     "Budgam": {
-      "mentions": 9,
-      "sentiment": -0.122,
+      "mentions": 8,
+      "sentiment": -0.033,
       "top_terms": [
         "Bribe",
         "Patwari",
@@ -221,14 +228,14 @@
       ]
     },
     "Kulgam": {
-      "mentions": 8,
-      "sentiment": -0.109,
+      "mentions": 6,
+      "sentiment": -0.202,
       "top_terms": [
         "Police",
-        "DC Kulgam",
-        "ULBs",
         "NDPS Accused Evading Arrest",
-        "Five Years Held"
+        "Five Years Held",
+        "DC Kulgam",
+        "ULBs"
       ]
     },
     "Kupwara": {
@@ -252,29 +259,28 @@
       ]
     },
     "Shopian": {
-      "mentions": 5,
-      "sentiment": -0.103,
+      "mentions": 4,
+      "sentiment": -0.214,
       "top_terms": [
-        "IGP Kashmir",
         "Bear",
         "Bear Mauls Man",
         "South Kashmir"
       ]
     },
     "Srinagar": {
-      "mentions": 25,
-      "sentiment": 0.057,
+      "mentions": 27,
+      "sentiment": 0.036,
       "top_terms": [
         "Govt Issues Vehicle Entry",
         "Parking Guidelines Ahead",
         "Assembly Session Srinagar",
-        "Police",
-        "Junaid Qureshi"
+        "Languishing Crafts",
+        "Srinagar Event"
       ]
     },
     "Doda": {
-      "mentions": 7,
-      "sentiment": 0.332,
+      "mentions": 5,
+      "sentiment": 0.207,
       "top_terms": [
         "District Yogasana Sports Championship",
         "Indoor Stadium Doda",
@@ -284,52 +290,52 @@
       ]
     },
     "Jammu": {
-      "mentions": 54,
-      "sentiment": -0.016,
+      "mentions": 61,
+      "sentiment": -0.045,
       "top_terms": [
         "Jammu Kashmir",
         "Satwari",
-        "Vedang Raina Attends First",
-        "International Film Festival",
-        "My Home"
+        "Kashmir Auto Retail Jumps",
+        "August",
+        "NHM Employees Extend Strike"
       ]
     },
     "Kathua": {
-      "mentions": 21,
-      "sentiment": -0.198,
+      "mentions": 20,
+      "sentiment": -0.253,
       "top_terms": [
+        "Two Killed",
+        "International Border",
         "Pakistani",
         "Hiranagar",
-        "International Border",
-        "Two Killed",
-        "Caught"
+        "Kathua Road Accident"
       ]
     },
     "Kishtwar": {
-      "mentions": 5,
-      "sentiment": 0.216,
+      "mentions": 8,
+      "sentiment": 0.22,
       "top_terms": [
+        "Operational Preparedness",
         "White Knight Corps Commander",
         "Reviews Security Grid",
-        "Operational Preparedness",
         "Ks Kishtwar",
         "Sinthan Pass"
       ]
     },
     "Poonch": {
-      "mentions": 8,
-      "sentiment": 0.108,
+      "mentions": 9,
+      "sentiment": -0.004,
       "top_terms": [
         "White Knight Corps GOC",
         "Lieutenant General",
-        "Newly Opened Chinar Cafe",
         "Mishra",
-        "Poonch Clinches"
+        "Poonch Clinches",
+        "Boys Divisional Kabaddi Title"
       ]
     },
     "Rajouri": {
-      "mentions": 5,
-      "sentiment": -0.014,
+      "mentions": 6,
+      "sentiment": 0.037,
       "top_terms": [
         "White Knight Corps GOC",
         "Lieutenant General",
@@ -356,13 +362,13 @@
         "Man Killed",
         "Tractor",
         "Trolley Rolls Off Road",
-        "DDC Reasi",
-        "National Apprenticeship Promotion Scheme"
+        "Reasi Police Organises Plantation",
+        "Drive"
       ]
     },
     "Samba": {
-      "mentions": 5,
-      "sentiment": 0.134,
+      "mentions": 6,
+      "sentiment": 0.157,
       "top_terms": [
         "Sunil Sharma",
         "ADDC Samba",
@@ -372,104 +378,105 @@
       ]
     },
     "Udhampur": {
-      "mentions": 11,
-      "sentiment": 0.071,
+      "mentions": 10,
+      "sentiment": -0.051,
       "top_terms": [
-        "Udhampur Administration Imposes Two",
-        "Month Ban",
-        "VPN Use",
         "DGP Nalin Prabhat Reviews",
-        "Security Readiness"
+        "Security Readiness",
+        "Udhampur Trijunction",
+        "DIG Udhampur",
+        "Kailash Kund"
       ]
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
+      "domain": "Kashmir Life",
       "count": 33
     },
     {
+      "domain": "Daily Excelsior",
+      "count": 26
+    },
+    {
+      "domain": "Jammu Links News",
+      "count": 26
+    },
+    {
       "domain": "Greater Kashmir",
-      "count": 31
-    },
-    {
-      "domain": "Kashmir Life",
-      "count": 30
-    },
-    {
-      "domain": "jammulinksnews.com",
       "count": 25
     },
     {
+      "domain": "newsonair.gov.in",
+      "count": 21
+    },
+    {
       "domain": "The Kashmir Horizon",
+      "count": 19
+    },
+    {
+      "domain": "Rising Kashmir",
       "count": 17
     },
     {
-      "domain": "newsonair.gov.in",
-      "count": 16
+      "domain": "ThePrint",
+      "count": 15
     },
     {
-      "domain": "ThePrint",
+      "domain": "Kashmir Observer",
       "count": 14
     },
     {
-      "domain": "kashmirobserver.net",
+      "domain": "Brighter Kashmir",
       "count": 13
     },
     {
-      "domain": "brighterkashmir.com",
-      "count": 9
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 8
+      "domain": "kashmirnewsobserver.com",
+      "count": 10
     },
     {
       "domain": "Kashmir Convener",
       "count": 8
     },
     {
-      "domain": "10net.in",
-      "count": 8
+      "domain": "The Tribune",
+      "count": 6
+    },
+    {
+      "domain": "timesofindia.indiatimes.com",
+      "count": 6
     },
     {
       "domain": "KNS Kashmir",
-      "count": 7
-    },
-    {
-      "domain": "risingkashmir.com",
-      "count": 6
-    },
-    {
-      "domain": "The Global Kashmir",
-      "count": 6
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 6
-    },
-    {
-      "domain": "Rising Kashmir",
       "count": 5
+    },
+    {
+      "domain": "kashmirlife.net",
+      "count": 5
+    },
+    {
+      "domain": "thenorthlines.com",
+      "count": 5
+    },
+    {
+      "domain": "The Hindu",
+      "count": 4
     },
     {
       "domain": "The Chenab Times",
       "count": 4
     },
     {
-      "domain": "The New Indian Express",
-      "count": 4
-    },
-    {
-      "domain": "kashmirindepth.com",
+      "domain": "Kashmir Indepth",
       "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 351,
+    "articles_fetched": 362,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
