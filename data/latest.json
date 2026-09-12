@@ -1,61 +1,56 @@
 {
-  "generated_at": "2026-09-12T14:55:04.852186+00:00",
+  "generated_at": "2026-09-12T18:03:13.201538+00:00",
   "date": "2026-09-12",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.093,
+    "score": -0.079,
     "label": "mixed / neutral",
-    "positive_pct": 23.0,
-    "neutral_pct": 39.6,
-    "negative_pct": 37.4,
-    "sample_size": 369
+    "positive_pct": 23.8,
+    "neutral_pct": 41.2,
+    "negative_pct": 35.0,
+    "sample_size": 374
   },
   "top_keywords": [
     {
+      "term": "National Lok Adalat",
+      "mentions": 14,
+      "sentiment": 0.216
+    },
+    {
       "term": "Hafiz Saeed",
-      "mentions": 12,
-      "sentiment": -0.342
+      "mentions": 10,
+      "sentiment": -0.377
     },
     {
       "term": "India",
       "mentions": 10,
-      "sentiment": -0.463
-    },
-    {
-      "term": "Pakistan",
-      "mentions": 8,
-      "sentiment": -0.336
+      "sentiment": -0.426
     },
     {
       "term": "Police",
+      "mentions": 8,
+      "sentiment": -0.469
+    },
+    {
+      "term": "Pakistan",
       "mentions": 7,
-      "sentiment": -0.407
+      "sentiment": -0.446
     },
     {
-      "term": "NIA Conducts Searches",
-      "mentions": 6,
-      "sentiment": -0.565
+      "term": "Body",
+      "mentions": 5,
+      "sentiment": -0.49
     },
     {
-      "term": "Locations",
-      "mentions": 6,
-      "sentiment": -0.489
-    },
-    {
-      "term": "Waghama",
-      "mentions": 6,
-      "sentiment": -0.199
+      "term": "Govt",
+      "mentions": 5,
+      "sentiment": -0.035
     },
     {
       "term": "Delhi",
-      "mentions": 5,
-      "sentiment": 0.127
-    },
-    {
-      "term": "Patwari",
-      "mentions": 5,
-      "sentiment": -0.164
+      "mentions": 4,
+      "sentiment": 0.0
     },
     {
       "term": "Remains",
@@ -63,137 +58,128 @@
       "sentiment": -0.567
     },
     {
-      "term": "Jamia Millia Islamia",
+      "term": "Father",
       "mentions": 4,
-      "sentiment": -0.544
+      "sentiment": -0.859
     },
     {
-      "term": "Lt Gen Sharma",
+      "term": "Patwari",
       "mentions": 4,
-      "sentiment": 0.483
+      "sentiment": -0.068
     },
     {
-      "term": "Three",
+      "term": "National Apprenticeship Promotion Scheme",
       "mentions": 4,
-      "sentiment": -0.215
+      "sentiment": 0.105
     },
     {
-      "term": "Body",
+      "term": "Locations",
       "mentions": 4,
-      "sentiment": -0.306
+      "sentiment": -0.601
     },
     {
-      "term": "Crops",
+      "term": "DC Bandipora",
       "mentions": 4,
-      "sentiment": -0.467
+      "sentiment": -0.153
     },
     {
-      "term": "Anantnag Police",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Narco CASO",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
-      "term": "NAPS",
-      "mentions": 4,
-      "sentiment": 0.185
-    },
-    {
-      "term": "LeT Terror Conspiracy Case",
+      "term": "Jammu Kashmir",
       "mentions": 3,
-      "sentiment": -0.778
+      "sentiment": -0.236
+    },
+    {
+      "term": "NIA Conducts Searches",
+      "mentions": 3,
+      "sentiment": -0.694
+    },
+    {
+      "term": "Political",
+      "mentions": 3,
+      "sentiment": -0.099
     },
     {
       "term": "Mian Altaf Ahmad",
       "mentions": 3,
       "sentiment": -0.245
+    },
+    {
+      "term": "Jaish",
+      "mentions": 3,
+      "sentiment": -0.683
+    },
+    {
+      "term": "Lok Adalat",
+      "mentions": 3,
+      "sentiment": 0.656
     }
   ],
   "emerging": [
     {
-      "term": "Body",
+      "term": "Father",
       "mentions_now": 4,
       "baseline_avg": 1.17,
       "zscore": 7.6,
       "reason": "spike"
     },
     {
-      "term": "Pakistan",
-      "mentions_now": 8,
+      "term": "National Apprenticeship Promotion Scheme",
+      "mentions_now": 4,
+      "baseline_avg": 1.45,
+      "zscore": 5.11,
+      "reason": "spike"
+    },
+    {
+      "term": "DC Bandipora",
+      "mentions_now": 4,
       "baseline_avg": 1.5,
-      "zscore": 7.51,
+      "zscore": 5.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Body",
+      "mentions_now": 5,
+      "baseline_avg": 1.57,
+      "zscore": 3.27,
+      "reason": "spike"
+    },
+    {
+      "term": "North Kashmir",
+      "mentions_now": 3,
+      "baseline_avg": 1.44,
+      "zscore": 3.13,
       "reason": "spike"
     },
     {
       "term": "India",
       "mentions_now": 10,
-      "baseline_avg": 4.08,
-      "zscore": 6.2,
+      "baseline_avg": 4.54,
+      "zscore": 2.99,
       "reason": "spike"
     },
     {
-      "term": "Hafiz Saeed",
-      "mentions_now": 12,
-      "baseline_avg": 2.25,
-      "zscore": 4.5,
-      "reason": "spike"
-    },
-    {
-      "term": "Anti",
+      "term": "Political",
       "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Patwari",
+      "term": "Govt",
       "mentions_now": 5,
-      "baseline_avg": 3,
-      "zscore": 4.0,
+      "baseline_avg": 2,
+      "zscore": 2.6,
       "reason": "spike"
     },
     {
-      "term": "Army",
-      "mentions_now": 3,
-      "baseline_avg": 1.8,
-      "zscore": 3.0,
+      "term": "Pakistan",
+      "mentions_now": 7,
+      "baseline_avg": 2.22,
+      "zscore": 2.17,
       "reason": "spike"
     },
     {
-      "term": "Apni Party",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Three",
-      "mentions_now": 4,
-      "baseline_avg": 2.36,
-      "zscore": 1.86,
-      "reason": "spike"
-    },
-    {
-      "term": "NIA Conducts Searches",
-      "mentions_now": 6,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "Locations",
-      "mentions_now": 6,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "Waghama",
-      "mentions_now": 6,
+      "term": "National Lok Adalat",
+      "mentions_now": 14,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
@@ -201,30 +187,30 @@
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 10,
-      "sentiment": -0.173,
+      "mentions": 8,
+      "sentiment": -0.276,
       "top_terms": [
-        "Waghama",
-        "Anantnag Police",
-        "Narco CASO",
         "CASO",
-        "Police"
+        "Waghama",
+        "Police",
+        "Locations",
+        "Anantnag Police Searches"
       ]
     },
     "Bandipora": {
-      "mentions": 10,
-      "sentiment": -0.011,
+      "mentions": 13,
+      "sentiment": -0.028,
       "top_terms": [
-        "Rajiv Gandhi Panchayati Raj",
-        "Panchs",
         "DC Bandipora",
-        "Body",
-        "Three"
+        "Joint Enforcement Drive Conducted",
+        "Regulate",
+        "Auto Operations",
+        "Developmental Works"
       ]
     },
     "Baramulla": {
-      "mentions": 6,
-      "sentiment": 0.032,
+      "mentions": 4,
+      "sentiment": 0.196,
       "top_terms": [
         "Police",
         "Stolen",
@@ -234,30 +220,30 @@
       ]
     },
     "Budgam": {
-      "mentions": 9,
-      "sentiment": -0.21,
+      "mentions": 10,
+      "sentiment": -0.129,
       "top_terms": [
+        "Father",
         "Northern Railway",
         "Delhi",
-        "Father",
-        "Patwari",
-        "Joint Parcel Product"
+        "Joint Parcel Product",
+        "Rapid Cargo Service"
       ]
     },
     "Ganderbal": {
-      "mentions": 1,
-      "sentiment": 0.637,
+      "mentions": 3,
+      "sentiment": 0.0,
       "top_terms": [
-        "Strengthening Academic",
-        "Research Collaboration",
-        "Central University",
-        "TERI School",
-        "Advanced Studies"
+        "DC Ganderbal",
+        "DLSA Ganderbal",
+        "National Lok Adalat",
+        "Annual Gangbal Yatra",
+        "National Apprenticeship Promotion Scheme"
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": 0.086,
+      "mentions": 3,
+      "sentiment": 0.057,
       "top_terms": [
         "DC Kulgam",
         "ULBs",
@@ -266,78 +252,83 @@
     },
     "Kupwara": {
       "mentions": 3,
-      "sentiment": -0.247,
+      "sentiment": -0.388,
       "top_terms": [
+        "National Lok Adalat",
         "Kupwara Police Arrest",
         "Contraband",
-        "ADDC Kupwara",
-        "NAPS",
         "Fire"
       ]
     },
     "Pulwama": {
-      "mentions": 1,
-      "sentiment": 0.052,
+      "mentions": 2,
+      "sentiment": 0.206,
       "top_terms": [
+        "SJ Pulwama",
+        "National Lok Adalat",
         "District President Indian National",
         "Congress Pulwama",
-        "Joins NHM Protest Alongside",
-        "Party Leaders",
-        "Workers"
+        "Joins NHM Protest Alongside"
       ]
     },
     "Shopian": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 2,
+      "sentiment": 0.0,
+      "top_terms": [
+        "National Lok Adalat",
+        "District Court Complex Shopian",
+        "District",
+        "Level Seminar",
+        "Nasha Mukht Vidhyalaya"
+      ]
     },
     "Srinagar": {
-      "mentions": 31,
-      "sentiment": 0.087,
+      "mentions": 33,
+      "sentiment": 0.114,
       "top_terms": [
-        "Govt Accepts Dr Shaista",
-        "Ganais Unwillingness GMC",
-        "Srinagar Dy Medical Superintendent",
-        "Post",
-        "Apni Party"
+        "Srinagar Ring Road Phase",
+        "Chief Justice",
+        "National Lok Adalat",
+        "District Court Complex",
+        "Asia"
       ]
     },
     "Doda": {
-      "mentions": 24,
-      "sentiment": -0.31,
+      "mentions": 25,
+      "sentiment": -0.389,
       "top_terms": [
-        "Jaish",
         "Body",
-        "Remains",
+        "Jaish",
+        "Police",
         "Body Recovered",
-        "Decomposed Body Pakistani"
+        "Remains"
       ]
     },
     "Jammu": {
-      "mentions": 57,
-      "sentiment": -0.199,
+      "mentions": 61,
+      "sentiment": -0.094,
       "top_terms": [
         "India",
-        "Hafiz Saeed",
         "Pakistan",
-        "Akashvani",
-        "NIA Conducts Searches"
+        "Hafiz Saeed",
+        "Jammu Kashmir",
+        "Akashvani"
       ]
     },
     "Kathua": {
-      "mentions": 7,
-      "sentiment": -0.059,
+      "mentions": 8,
+      "sentiment": -0.129,
       "top_terms": [
         "GDC Kathua",
         "Inter",
         "Three",
-        "Kathua Football League",
-        "Two Killed"
+        "Kathua Admin",
+        "Football League"
       ]
     },
     "Kishtwar": {
       "mentions": 6,
-      "sentiment": 0.163,
+      "sentiment": 0.116,
       "top_terms": [
         "Militant",
         "Body Recovered",
@@ -347,19 +338,19 @@
       ]
     },
     "Poonch": {
-      "mentions": 14,
-      "sentiment": -0.146,
+      "mentions": 16,
+      "sentiment": -0.101,
       "top_terms": [
-        "SIA Raids",
         "White Knight Corps GOC",
         "Lieutenant General",
         "Mishra",
-        "Locations Poonch"
+        "Searches",
+        "Udhampur Districts"
       ]
     },
     "Rajouri": {
-      "mentions": 5,
-      "sentiment": 0.084,
+      "mentions": 8,
+      "sentiment": 0.068,
       "top_terms": [
         "White Knight Corps GOC",
         "Lieutenant General",
@@ -370,45 +361,44 @@
     },
     "Ramban": {
       "mentions": 4,
-      "sentiment": 0.068,
+      "sentiment": 0.0,
       "top_terms": [
+        "Manimahesh Yatra",
         "Banihal",
-        "MVD Ramban",
-        "District Police",
-        "Challan",
-        "Vehicles"
+        "Jammu Division"
       ]
     },
     "Reasi": {
-      "mentions": 6,
-      "sentiment": -0.145,
+      "mentions": 3,
+      "sentiment": -0.04,
       "top_terms": [
         "Three",
-        "Cases Increasing",
-        "Isolations Wards Set Up",
-        "Institute",
-        "AIIMS Jammu Director"
+        "DDC Reasi",
+        "NABARD RIDF",
+        "Apprenticeship Mela",
+        "Govt Polytechnic Reasi"
       ]
     },
     "Samba": {
       "mentions": 3,
-      "sentiment": 0.425,
+      "sentiment": 0.256,
       "top_terms": [
-        "Sunil Sharma",
-        "ADDC Samba",
-        "District Capex",
-        "JK Samadhan Registrations"
+        "DLSA Samba",
+        "National Lok Adalat",
+        "Zila Sainik Welfare Office",
+        "Servicemen Rally",
+        "Sanoora"
       ]
     },
     "Udhampur": {
-      "mentions": 14,
-      "sentiment": -0.151,
+      "mentions": 13,
+      "sentiment": -0.11,
       "top_terms": [
-        "SIA Raids",
-        "Locations Poonch",
-        "Locations",
-        "Ks Poonch",
-        "Searches"
+        "Patwari",
+        "Searches",
+        "Udhampur Districts",
+        "SIA Jammu",
+        "Farmers"
       ]
     }
   },
@@ -418,39 +408,39 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 37
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 29
+      "domain": "Jammu Links News",
+      "count": 38
     },
     {
       "domain": "Kashmir Life",
+      "count": 33
+    },
+    {
+      "domain": "Greater Kashmir",
       "count": 28
     },
     {
+      "domain": "Daily Excelsior",
+      "count": 27
+    },
+    {
       "domain": "News On AIR",
-      "count": 26
+      "count": 20
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 17
-    },
-    {
-      "domain": "Jammu Links News",
+      "domain": "The Kashmir Horizon",
       "count": 16
     },
     {
-      "domain": "KNS Kashmir",
-      "count": 14
+      "domain": "Kashmir News Service",
+      "count": 15
     },
     {
-      "domain": "thekashmirhorizon.com",
-      "count": 14
+      "domain": "Rising Kashmir",
+      "count": 15
     },
     {
-      "domain": "thenewsmill.com",
+      "domain": "Kashmir Convener",
       "count": 11
     },
     {
@@ -458,15 +448,23 @@
       "count": 10
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 7
+      "domain": "The News Mill",
+      "count": 9
     },
     {
-      "domain": "thenorthlines.com",
-      "count": 7
+      "domain": "Kashmir Observer",
+      "count": 8
     },
     {
       "domain": "thekashmirimages.com",
+      "count": 8
+    },
+    {
+      "domain": "The Hindu",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir News Observer",
       "count": 7
     },
     {
@@ -474,32 +472,24 @@
       "count": 6
     },
     {
-      "domain": "The Hindu",
+      "domain": "Deccan Chronicle",
       "count": 6
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 6
-    },
-    {
-      "domain": "kashmirnewsobserver.com",
-      "count": 6
+      "domain": "ThePrint",
+      "count": 5
     },
     {
       "domain": "Deccan Herald",
       "count": 5
     },
     {
-      "domain": "India Today",
-      "count": 5
-    },
-    {
-      "domain": "Deccan Chronicle",
+      "domain": "Kashmir Dot Com",
       "count": 5
     }
   ],
   "run_stats": {
-    "articles_fetched": 369,
+    "articles_fetched": 374,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
