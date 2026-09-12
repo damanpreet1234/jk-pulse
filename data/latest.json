@@ -1,41 +1,66 @@
 {
-  "generated_at": "2026-09-12T02:55:58.885688+00:00",
+  "generated_at": "2026-09-12T08:19:47.135224+00:00",
   "date": "2026-09-12",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.029,
+    "score": -0.048,
     "label": "mixed / neutral",
-    "positive_pct": 34.2,
-    "neutral_pct": 39.4,
-    "negative_pct": 26.4,
-    "sample_size": 348
+    "positive_pct": 26.1,
+    "neutral_pct": 42.2,
+    "negative_pct": 31.7,
+    "sample_size": 360
   },
   "top_keywords": [
     {
-      "term": "Vande Mataram",
-      "mentions": 10,
-      "sentiment": 0.042
+      "term": "Police",
+      "mentions": 12,
+      "sentiment": -0.291
     },
     {
-      "term": "Cong",
-      "mentions": 7,
-      "sentiment": -0.087
+      "term": "Waghama",
+      "mentions": 8,
+      "sentiment": -0.149
     },
     {
-      "term": "IFFJK",
+      "term": "Hafiz Saeed",
       "mentions": 6,
-      "sentiment": 0.039
+      "sentiment": -0.349
     },
     {
-      "term": "Congress",
+      "term": "Vande Mataram",
       "mentions": 6,
       "sentiment": -0.021
     },
     {
-      "term": "Police",
+      "term": "Delhi",
       "mentions": 6,
-      "sentiment": -0.189
+      "sentiment": 0.106
+    },
+    {
+      "term": "Anantnag Police",
+      "mentions": 6,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Narco CASO",
+      "mentions": 6,
+      "sentiment": 0.0
+    },
+    {
+      "term": "India",
+      "mentions": 5,
+      "sentiment": -0.178
+    },
+    {
+      "term": "IFFJK",
+      "mentions": 5,
+      "sentiment": -0.034
+    },
+    {
+      "term": "Cong",
+      "mentions": 5,
+      "sentiment": -0.17
     },
     {
       "term": "Omar",
@@ -43,149 +68,152 @@
       "sentiment": -0.026
     },
     {
-      "term": "Lt Gen Sharma",
+      "term": "Congress",
       "mentions": 5,
-      "sentiment": 0.509
+      "sentiment": -0.026
     },
     {
-      "term": "Delhi",
+      "term": "South Kashmir",
       "mentions": 5,
-      "sentiment": 0.127
+      "sentiment": -0.142
     },
     {
-      "term": "Northern Command",
-      "mentions": 5,
-      "sentiment": 0.468
-    },
-    {
-      "term": "Bank",
-      "mentions": 5,
-      "sentiment": 0.218
-    },
-    {
-      "term": "NAPS",
-      "mentions": 5,
-      "sentiment": 0.169
+      "term": "IIPA",
+      "mentions": 4,
+      "sentiment": 0.229
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 4,
-      "sentiment": -0.339
+      "sentiment": -0.334
     },
     {
-      "term": "Kashmiris",
+      "term": "Lt Gen Sharma",
       "mentions": 4,
-      "sentiment": 0.019
+      "sentiment": 0.483
     },
     {
-      "term": "Two Killed",
+      "term": "CASO",
       "mentions": 4,
-      "sentiment": -0.883
+      "sentiment": -0.309
     },
     {
-      "term": "South Kashmir",
+      "term": "Bank",
       "mentions": 4,
-      "sentiment": -0.177
+      "sentiment": 0.287
     },
     {
-      "term": "August",
-      "mentions": 3,
-      "sentiment": 0.0
+      "term": "Locations",
+      "mentions": 4,
+      "sentiment": -0.275
     },
     {
-      "term": "India",
-      "mentions": 3,
-      "sentiment": -0.057
-    },
-    {
-      "term": "Laws",
-      "mentions": 3,
-      "sentiment": 0.395
-    },
-    {
-      "term": "IIPA",
-      "mentions": 3,
-      "sentiment": 0.14
-    },
-    {
-      "term": "Centre",
-      "mentions": 3,
-      "sentiment": -0.128
+      "term": "NAPS",
+      "mentions": 4,
+      "sentiment": 0.105
     }
   ],
   "emerging": [
     {
-      "term": "Lt Gen Sharma",
-      "mentions_now": 5,
+      "term": "Hafiz Saeed",
+      "mentions_now": 6,
       "baseline_avg": 1,
-      "zscore": 8.0,
+      "zscore": 10.0,
       "reason": "spike"
     },
     {
-      "term": "IIPA",
+      "term": "CASO",
+      "mentions_now": 4,
+      "baseline_avg": 1,
+      "zscore": 6.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Police",
+      "mentions_now": 12,
+      "baseline_avg": 3.45,
+      "zscore": 4.15,
+      "reason": "spike"
+    },
+    {
+      "term": "Saffron Corms",
       "mentions_now": 3,
       "baseline_avg": 1,
       "zscore": 4.0,
       "reason": "spike"
     },
     {
-      "term": "Three Injured",
+      "term": "Quintals",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "baseline_avg": 1,
+      "zscore": 4.0,
       "reason": "spike"
     },
     {
-      "term": "Kashmiris",
+      "term": "IIPA",
       "mentions_now": 4,
-      "baseline_avg": 1.6,
-      "zscore": 3.0,
+      "baseline_avg": 1.33,
+      "zscore": 3.58,
       "reason": "spike"
     },
     {
-      "term": "Bank",
-      "mentions_now": 5,
-      "baseline_avg": 2.33,
-      "zscore": 2.14,
+      "term": "Digital Transformation",
+      "mentions_now": 3,
+      "baseline_avg": 1.75,
+      "zscore": 2.89,
       "reason": "spike"
     },
     {
-      "term": "Northern Command",
+      "term": "Pakistan",
+      "mentions_now": 3,
+      "baseline_avg": 1.29,
+      "zscore": 2.45,
+      "reason": "spike"
+    },
+    {
+      "term": "South Kashmir",
       "mentions_now": 5,
-      "baseline_avg": 2.75,
+      "baseline_avg": 2.64,
       "zscore": 2.06,
       "reason": "spike"
     },
     {
-      "term": "White Knight Corps GOC",
-      "mentions_now": 3,
-      "baseline_avg": 1.62,
-      "zscore": 1.98,
-      "reason": "spike"
+      "term": "Waghama",
+      "mentions_now": 8,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
     },
     {
-      "term": "Cong",
-      "mentions_now": 7,
-      "baseline_avg": 2.71,
-      "zscore": 1.96,
-      "reason": "spike"
+      "term": "Anantnag Police",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Narco CASO",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 2,
-      "sentiment": 0.347,
+      "mentions": 14,
+      "sentiment": -0.12,
       "top_terms": [
-        "Sinthan Pass",
-        "Hindustan Times",
-        "Anantnag Progress Review",
-        "DC Bilal Mandates Streamlined",
-        "NAPS"
+        "Waghama",
+        "Anantnag Police",
+        "Narco CASO",
+        "CASO",
+        "Police"
       ]
     },
     "Bandipora": {
-      "mentions": 10,
-      "sentiment": 0.061,
+      "mentions": 8,
+      "sentiment": 0.029,
       "top_terms": [
         "Rajiv Gandhi Panchayati Raj",
         "Panchs",
@@ -228,8 +256,8 @@
       ]
     },
     "Kulgam": {
-      "mentions": 7,
-      "sentiment": -0.236,
+      "mentions": 6,
+      "sentiment": -0.275,
       "top_terms": [
         "Police",
         "DC Kulgam",
@@ -244,7 +272,8 @@
       "top_terms": [
         "ADDC Kupwara",
         "NAPS",
-        "Fire"
+        "Fire",
+        "Breaking"
       ]
     },
     "Pulwama": {
@@ -258,89 +287,87 @@
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": -0.043,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "Bear",
-        "Bear Mauls Man",
-        "South Kashmir"
+        "Bear"
       ]
     },
     "Srinagar": {
-      "mentions": 28,
-      "sentiment": 0.052,
+      "mentions": 26,
+      "sentiment": 0.025,
       "top_terms": [
-        "Govt Issues Vehicle Entry",
-        "Parking Guidelines Ahead",
-        "Assembly Session Srinagar",
+        "Kashmir Theatre Conference",
         "Three",
-        "Kashmir Theatre Conference"
+        "Apni Party",
+        "Junaid Qureshi",
+        "Govt Accepts Dr Shaista"
       ]
     },
     "Doda": {
-      "mentions": 5,
-      "sentiment": 0.207,
+      "mentions": 14,
+      "sentiment": -0.323,
       "top_terms": [
-        "District Yogasana Sports Championship",
-        "Indoor Stadium Doda",
-        "DGP Nalin Prabhat Reviews",
-        "Security Readiness",
-        "Udhampur Trijunction"
+        "Decomposed Body Pakistani",
+        "Police",
+        "Jaish",
+        "Body",
+        "JeM Terrorist Killed"
       ]
     },
     "Jammu": {
-      "mentions": 54,
-      "sentiment": -0.028,
+      "mentions": 57,
+      "sentiment": -0.074,
       "top_terms": [
         "Jammu Kashmir",
-        "Jammu Division",
-        "Satwari",
-        "DGP Nalin Prabhat",
-        "SEC Jammu"
+        "Hafiz Saeed",
+        "India",
+        "Political",
+        "Mian Altaf Ahmad"
       ]
     },
     "Kathua": {
-      "mentions": 20,
-      "sentiment": -0.262,
+      "mentions": 18,
+      "sentiment": -0.339,
       "top_terms": [
         "Two Killed",
         "Three Injured",
         "Pakistani",
         "Hiranagar",
-        "Kathua Road Accident"
+        "GDC Kathua"
       ]
     },
     "Kishtwar": {
-      "mentions": 6,
-      "sentiment": 0.18,
+      "mentions": 4,
+      "sentiment": 0.238,
       "top_terms": [
         "Operational Preparedness",
-        "White Knight Corps Commander",
-        "Reviews Security Grid",
-        "Ks Kishtwar",
-        "Sinthan Pass"
+        "Sinthan Pass",
+        "Hindustan Times",
+        "Cloudburst",
+        "White Knight Corps GOC"
       ]
     },
     "Poonch": {
-      "mentions": 8,
-      "sentiment": -0.005,
+      "mentions": 14,
+      "sentiment": -0.015,
       "top_terms": [
-        "White Knight Corps GOC",
-        "Lieutenant General",
-        "Mishra",
-        "Divisional Kabaddi",
-        "Fire"
+        "SIA Raids",
+        "Locations",
+        "Ks Poonch",
+        "Locations Poonch",
+        "Searches"
       ]
     },
     "Rajouri": {
-      "mentions": 5,
-      "sentiment": 0.143,
+      "mentions": 4,
+      "sentiment": 0.179,
       "top_terms": [
-        "White Knight Corps GOC",
-        "Lieutenant General",
         "General Officer Commanding",
         "Chief",
-        "Northern Command"
+        "Northern Command",
+        "Army",
+        "Lt Gen Pratik Sharma"
       ]
     },
     "Ramban": {
@@ -353,45 +380,46 @@
     },
     "Reasi": {
       "mentions": 8,
-      "sentiment": -0.092,
+      "sentiment": -0.202,
       "top_terms": [
-        "DIG Udhampur",
-        "Kailash Kund",
         "Three",
-        "Man Killed",
-        "Tractor"
+        "Cases Increasing",
+        "Isolations Wards Set Up",
+        "Institute",
+        "AIIMS Jammu Director"
       ]
     },
     "Samba": {
-      "mentions": 5,
-      "sentiment": 0.188,
+      "mentions": 4,
+      "sentiment": 0.419,
       "top_terms": [
         "Sunil Sharma",
         "ADDC Samba",
         "District Capex",
         "JK Samadhan Registrations",
-        "Four Officials Suspended"
+        "Gallery"
       ]
     },
     "Udhampur": {
-      "mentions": 9,
-      "sentiment": -0.102,
+      "mentions": 13,
+      "sentiment": 0.004,
       "top_terms": [
-        "DIG Udhampur",
-        "Kailash Kund",
-        "DGP Nalin Prabhat Reviews",
-        "Security Readiness",
-        "Udhampur Trijunction"
+        "SIA Raids",
+        "Locations",
+        "Ks Poonch",
+        "Locations Poonch",
+        "Searches"
       ]
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "Daily Excelsior",
-      "count": 44
+      "count": 42
     },
     {
       "domain": "Greater Kashmir",
@@ -399,79 +427,79 @@
     },
     {
       "domain": "Kashmir Life",
-      "count": 29
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 25
+      "count": 28
     },
     {
       "domain": "News On AIR",
-      "count": 22
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 18
+      "count": 21
     },
     {
       "domain": "Rising Kashmir",
+      "count": 21
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 16
+    },
+    {
+      "domain": "Jammu Links News",
       "count": 16
     },
     {
       "domain": "Kashmir Observer",
-      "count": 16
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 11
-    },
-    {
-      "domain": "ThePrint",
-      "count": 10
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 8
+      "count": 15
     },
     {
       "domain": "KNS Kashmir",
-      "count": 7
+      "count": 12
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 6
-    },
-    {
-      "domain": "The Tribune",
-      "count": 5
-    },
-    {
-      "domain": "The Global Kashmir",
-      "count": 5
+      "domain": "brighterkashmir.com",
+      "count": 9
     },
     {
       "domain": "ANI News",
-      "count": 4
+      "count": 8
     },
     {
-      "domain": "The Hindu",
-      "count": 4
+      "domain": "Kashmir News Observer",
+      "count": 7
     },
     {
       "domain": "The News Mill",
-      "count": 3
+      "count": 6
     },
     {
-      "domain": "Hindustan Times",
-      "count": 3
+      "domain": "thehindu.com",
+      "count": 6
     },
     {
-      "domain": "Only Kashmir",
-      "count": 3
+      "domain": "thenorthlines.com",
+      "count": 6
+    },
+    {
+      "domain": "The Global Kashmir",
+      "count": 6
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 5
+    },
+    {
+      "domain": "Asian Mail",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Indepth",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Dot Com",
+      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 348,
+    "articles_fetched": 360,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
