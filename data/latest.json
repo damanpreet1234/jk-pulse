@@ -1,81 +1,76 @@
 {
-  "generated_at": "2026-09-13T18:30:08.116286+00:00",
+  "generated_at": "2026-09-13T22:03:51.815374+00:00",
   "date": "2026-09-13",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.019,
+    "score": -0.005,
     "label": "mixed / neutral",
-    "positive_pct": 29.4,
-    "neutral_pct": 38.8,
-    "negative_pct": 31.8,
-    "sample_size": 289
+    "positive_pct": 29.7,
+    "neutral_pct": 41.0,
+    "negative_pct": 29.3,
+    "sample_size": 283
   },
   "top_keywords": [
     {
       "term": "BRICS",
-      "mentions": 9,
-      "sentiment": -0.38
+      "mentions": 8,
+      "sentiment": -0.204
     },
     {
       "term": "National Lok Adalat",
       "mentions": 7,
-      "sentiment": 0.303
+      "sentiment": 0.228
     },
     {
-      "term": "Body",
+      "term": "Centre",
       "mentions": 6,
-      "sentiment": -0.637
-    },
-    {
-      "term": "India",
-      "mentions": 5,
-      "sentiment": -0.026
-    },
-    {
-      "term": "Rahman",
-      "mentions": 5,
-      "sentiment": 0.853
-    },
-    {
-      "term": "Police",
-      "mentions": 5,
-      "sentiment": -0.399
-    },
-    {
-      "term": "IFFJK",
-      "mentions": 5,
-      "sentiment": 0.431
-    },
-    {
-      "term": "Pahalgam",
-      "mentions": 5,
-      "sentiment": -0.535
-    },
-    {
-      "term": "Bank",
-      "mentions": 5,
-      "sentiment": 0.585
+      "sentiment": -0.032
     },
     {
       "term": "Sopore",
+      "mentions": 6,
+      "sentiment": 0.033
+    },
+    {
+      "term": "India",
+      "mentions": 6,
+      "sentiment": 0.266
+    },
+    {
+      "term": "Waqf Board",
       "mentions": 4,
-      "sentiment": -0.12
+      "sentiment": -0.072
+    },
+    {
+      "term": "Rahman",
+      "mentions": 4,
+      "sentiment": 0.853
+    },
+    {
+      "term": "Body",
+      "mentions": 4,
+      "sentiment": -0.65
+    },
+    {
+      "term": "Police",
+      "mentions": 4,
+      "sentiment": -0.287
     },
     {
       "term": "Sunil Sharma",
       "mentions": 4,
-      "sentiment": 0.031
+      "sentiment": 0.11
     },
     {
-      "term": "Govt",
+      "term": "Mirwaiz",
       "mentions": 4,
-      "sentiment": 0.175
+      "sentiment": 0.159
     },
     {
-      "term": "Div Com",
+      "term": "Sept",
       "mentions": 4,
-      "sentiment": 0.08
+      "sentiment": 0.143
     },
     {
       "term": "Food Distribution",
@@ -83,9 +78,24 @@
       "sentiment": -0.492
     },
     {
-      "term": "Waqf Board",
+      "term": "IFFJK",
       "mentions": 3,
-      "sentiment": -0.292
+      "sentiment": 0.153
+    },
+    {
+      "term": "Army",
+      "mentions": 3,
+      "sentiment": 0.227
+    },
+    {
+      "term": "Akashvani",
+      "mentions": 3,
+      "sentiment": 0.043
+    },
+    {
+      "term": "IGP Kashmir Reviews Security",
+      "mentions": 3,
+      "sentiment": -0.069
     },
     {
       "term": "South Kashmir",
@@ -93,99 +103,82 @@
       "sentiment": 0.0
     },
     {
-      "term": "Army",
+      "term": "Chennai",
       "mentions": 3,
-      "sentiment": 0.176
+      "sentiment": 0.0
     },
     {
       "term": "Operation Gadol",
       "mentions": 3,
       "sentiment": 0.0
-    },
-    {
-      "term": "Carrom",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Mirwaiz",
-      "mentions": 3,
-      "sentiment": 0.099
     }
   ],
   "emerging": [
     {
-      "term": "Sopore",
-      "mentions_now": 4,
-      "baseline_avg": 1.17,
-      "zscore": 7.6,
+      "term": "Centre",
+      "mentions_now": 6,
+      "baseline_avg": 1.64,
+      "zscore": 4.95,
       "reason": "spike"
     },
     {
-      "term": "Div Com",
-      "mentions_now": 4,
-      "baseline_avg": 1.6,
-      "zscore": 3.62,
+      "term": "Sopore",
+      "mentions_now": 6,
+      "baseline_avg": 1.57,
+      "zscore": 4.22,
+      "reason": "spike"
+    },
+    {
+      "term": "IGP Kashmir Reviews Security",
+      "mentions_now": 3,
+      "baseline_avg": 1.8,
+      "zscore": 3.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Chennai",
+      "mentions_now": 3,
+      "baseline_avg": 1.5,
+      "zscore": 3.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Jammu Division",
+      "mentions_now": 3,
+      "baseline_avg": 1.75,
+      "zscore": 2.89,
       "reason": "spike"
     },
     {
       "term": "Waqf Board",
-      "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "mentions_now": 4,
+      "baseline_avg": 2,
+      "zscore": 2.45,
       "reason": "spike"
     },
     {
-      "term": "Opinion",
-      "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 2.5,
+      "term": "Sept",
+      "mentions_now": 4,
+      "baseline_avg": 2.08,
+      "zscore": 1.85,
       "reason": "spike"
-    },
-    {
-      "term": "Pahalgam",
-      "mentions_now": 5,
-      "baseline_avg": 1.77,
-      "zscore": 1.99,
-      "reason": "spike"
-    },
-    {
-      "term": "Centre",
-      "mentions_now": 3,
-      "baseline_avg": 1.45,
-      "zscore": 1.98,
-      "reason": "spike"
-    },
-    {
-      "term": "Multiple Locations",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 1.96,
-      "reason": "spike"
-    },
-    {
-      "term": "Rahman",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": -0.391,
+      "mentions": 4,
+      "sentiment": -0.293,
       "top_terms": [
+        "Cement",
         "Police",
         "First",
         "Ever Cement Rail Traffic",
-        "Begins",
-        "Jammu Division"
+        "Begins"
       ]
     },
     "Bandipora": {
-      "mentions": 5,
-      "sentiment": -0.176,
+      "mentions": 4,
+      "sentiment": -0.3,
       "top_terms": [
         "DSE Bandipora Mark",
         "Death Anniversary",
@@ -195,8 +188,8 @@
       ]
     },
     "Baramulla": {
-      "mentions": 6,
-      "sentiment": 0.034,
+      "mentions": 7,
+      "sentiment": 0.077,
       "top_terms": [
         "Sopore",
         "IGP Kashmir Reviews Security",
@@ -206,28 +199,30 @@
       ]
     },
     "Budgam": {
-      "mentions": 6,
-      "sentiment": -0.176,
+      "mentions": 5,
+      "sentiment": -0.05,
       "top_terms": [
         "Budgam MLA Calls Meeting",
         "Iranian FM",
         "Honour",
         "Presents BRICS Research",
-        "Father"
+        "Govt School"
       ]
     },
     "Ganderbal": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": -0.434,
       "top_terms": [
         "Three Ganderbal Minors Traced",
         "Pune",
-        "Police Operation"
+        "Police Operation",
+        "Kashmir Rejects Pakistan",
+        "Sponsored Terrorism"
       ]
     },
     "Kulgam": {
-      "mentions": 7,
-      "sentiment": -0.049,
+      "mentions": 8,
+      "sentiment": -0.071,
       "top_terms": [
         "CIK Conducts Searches",
         "Multiple Locations Shopian",
@@ -237,11 +232,13 @@
       ]
     },
     "Kupwara": {
-      "mentions": 2,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": -0.099,
       "top_terms": [
         "Slow",
-        "Mawer"
+        "Mawer",
+        "West Bengal",
+        "Kupwara LoC"
       ]
     },
     "Pulwama": {
@@ -253,30 +250,30 @@
       ]
     },
     "Shopian": {
-      "mentions": 6,
-      "sentiment": 0.0,
+      "mentions": 7,
+      "sentiment": -0.033,
       "top_terms": [
         "CIK Conducts Searches",
         "Multiple Locations Shopian",
         "Multiple Locations",
         "CIK Carries Out Searches",
-        "CIK Conducts Search Raids"
+        "South Kashmir Alert"
       ]
     },
     "Srinagar": {
-      "mentions": 20,
-      "sentiment": 0.214,
+      "mentions": 18,
+      "sentiment": 0.19,
       "top_terms": [
-        "Chief Justice",
-        "National Lok Adalat",
+        "JKCAG",
         "PARAS Health Srinagar Strengthens",
         "Orthopaedic Care",
-        "Welcomes Sports Injury Specialist"
+        "Welcomes Sports Injury Specialist",
+        "Dr Yawar Haider"
       ]
     },
     "Doda": {
-      "mentions": 10,
-      "sentiment": -0.38,
+      "mentions": 8,
+      "sentiment": -0.247,
       "top_terms": [
         "Body",
         "Pakistani JeM",
@@ -286,25 +283,25 @@
       ]
     },
     "Jammu": {
-      "mentions": 43,
-      "sentiment": 0.033,
+      "mentions": 45,
+      "sentiment": 0.037,
       "top_terms": [
+        "Jammu Division",
         "Food Distribution",
         "Bird Feeding Banned",
         "Jammu Kashmir Shrines",
-        "Waqf Board Order Sparks",
-        "Backlash"
+        "Waqf Board Order Sparks"
       ]
     },
     "Kathua": {
-      "mentions": 5,
-      "sentiment": -0.147,
+      "mentions": 8,
+      "sentiment": -0.24,
       "top_terms": [
+        "Six Injured",
+        "Rickshaw Meets Accident",
         "Chief Secretary",
         "High Security Prison",
-        "Dambra",
-        "Injured Car Rolls",
-        "Off Road Kathua"
+        "Dambra"
       ]
     },
     "Kishtwar": {
@@ -319,8 +316,8 @@
       ]
     },
     "Poonch": {
-      "mentions": 4,
-      "sentiment": -0.447,
+      "mentions": 3,
+      "sentiment": -0.42,
       "top_terms": [
         "Nearly Half",
         "Poonch Forest Division Faces",
@@ -330,14 +327,14 @@
       ]
     },
     "Rajouri": {
-      "mentions": 10,
-      "sentiment": -0.503,
+      "mentions": 12,
+      "sentiment": -0.478,
       "top_terms": [
         "Snake",
         "Snakebite",
         "Two Minor Sisters Die",
-        "Minor Sisters Die",
-        "Centre"
+        "General Officer Commanding",
+        "Chief"
       ]
     },
     "Ramban": {
@@ -368,8 +365,8 @@
       ]
     },
     "Udhampur": {
-      "mentions": 3,
-      "sentiment": -0.176,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
         "Patwari"
       ]
@@ -381,66 +378,66 @@
   "source_breakdown": [
     {
       "domain": "Daily Excelsior",
-      "count": 52
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 26
+      "count": 38
     },
     {
       "domain": "Kashmir Life",
-      "count": 23
+      "count": 25
     },
     {
-      "domain": "KNS Kashmir",
-      "count": 23
+      "domain": "Greater Kashmir",
+      "count": 25
     },
     {
       "domain": "Rising Kashmir",
-      "count": 17
+      "count": 20
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 14
-    },
-    {
-      "domain": "News On AIR",
-      "count": 10
+      "domain": "Kashmir News Service",
+      "count": 19
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 10
-    },
-    {
-      "domain": "thekashmirhorizon.com",
-      "count": 10
+      "count": 14
     },
     {
       "domain": "Jammu Links News",
-      "count": 10
+      "count": 13
     },
     {
-      "domain": "thechenabtimes.com",
-      "count": 7
+      "domain": "thekashmirimages.com",
+      "count": 11
+    },
+    {
+      "domain": "News On AIR",
+      "count": 9
+    },
+    {
+      "domain": "The Tribune",
+      "count": 9
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 8
+    },
+    {
+      "domain": "The Chenab Times",
+      "count": 6
+    },
+    {
+      "domain": "10net.in",
+      "count": 5
     },
     {
       "domain": "ETV Bharat",
       "count": 4
     },
     {
-      "domain": "10net.in",
-      "count": 4
-    },
-    {
-      "domain": "The Tribune",
-      "count": 4
-    },
-    {
-      "domain": "ANI News",
+      "domain": "Kashmir Reader",
       "count": 3
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "ANI News",
       "count": 3
     },
     {
@@ -448,7 +445,7 @@
       "count": 3
     },
     {
-      "domain": "Social News XYZ",
+      "domain": "radio.gov.pk",
       "count": 3
     },
     {
@@ -456,12 +453,12 @@
       "count": 2
     },
     {
-      "domain": "The Economic Times",
+      "domain": "LawChakra",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 289,
+    "articles_fetched": 283,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
