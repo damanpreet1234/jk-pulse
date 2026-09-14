@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-14T17:34:36.921124+00:00",
+  "generated_at": "2026-09-14T22:55:38.227480+00:00",
   "date": "2026-09-14",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.104,
-    "label": "negative",
-    "positive_pct": 24.5,
-    "neutral_pct": 39.3,
-    "negative_pct": 36.2,
-    "sample_size": 351
+    "score": -0.098,
+    "label": "mixed / neutral",
+    "positive_pct": 26.4,
+    "neutral_pct": 39.0,
+    "negative_pct": 34.6,
+    "sample_size": 364
   },
   "top_keywords": [
     {
@@ -18,19 +18,24 @@
       "sentiment": -0.259
     },
     {
+      "term": "Govt",
+      "mentions": 6,
+      "sentiment": 0.087
+    },
+    {
+      "term": "Sept",
+      "mentions": 6,
+      "sentiment": 0.116
+    },
+    {
+      "term": "September",
+      "mentions": 5,
+      "sentiment": 0.241
+    },
+    {
       "term": "Opposition",
       "mentions": 5,
-      "sentiment": 0.153
-    },
-    {
-      "term": "Army",
-      "mentions": 5,
-      "sentiment": 0.05
-    },
-    {
-      "term": "CM Omar Abdullah",
-      "mentions": 5,
-      "sentiment": -0.406
+      "sentiment": 0.233
     },
     {
       "term": "Ganesh Chaturthi",
@@ -43,14 +48,29 @@
       "sentiment": -0.168
     },
     {
-      "term": "Year",
+      "term": "Army",
       "mentions": 4,
-      "sentiment": -0.168
+      "sentiment": 0.0
     },
     {
-      "term": "September",
+      "term": "Accident",
       "mentions": 4,
-      "sentiment": 0.329
+      "sentiment": -0.833
+    },
+    {
+      "term": "Police",
+      "mentions": 4,
+      "sentiment": -0.179
+    },
+    {
+      "term": "CM Omar Abdullah",
+      "mentions": 4,
+      "sentiment": -0.536
+    },
+    {
+      "term": "Ks Reasi",
+      "mentions": 4,
+      "sentiment": -0.838
     },
     {
       "term": "DC Srinagar",
@@ -68,24 +88,19 @@
       "sentiment": 0.0
     },
     {
-      "term": "Advocate General",
+      "term": "Year",
       "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Absence",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Srinagar Can Outrank Indore",
-      "mentions": 3,
-      "sentiment": 0.0
+      "sentiment": -0.25
     },
     {
       "term": "Cleanliness",
       "mentions": 3,
       "sentiment": -0.083
+    },
+    {
+      "term": "Advocate General",
+      "mentions": 3,
+      "sentiment": 0.0
     },
     {
       "term": "Two Killed",
@@ -96,99 +111,56 @@
       "term": "Several Injured",
       "mentions": 3,
       "sentiment": -0.829
-    },
-    {
-      "term": "Accident",
-      "mentions": 3,
-      "sentiment": -0.821
-    },
-    {
-      "term": "Lives",
-      "mentions": 3,
-      "sentiment": -0.811
-    },
-    {
-      "term": "Terror Operations",
-      "mentions": 3,
-      "sentiment": 0.113
     }
   ],
   "emerging": [
     {
-      "term": "DC Srinagar",
-      "mentions_now": 4,
-      "baseline_avg": 1.11,
-      "zscore": 9.19,
+      "term": "Cement",
+      "mentions_now": 3,
+      "baseline_avg": 1.25,
+      "zscore": 4.04,
+      "reason": "spike"
+    },
+    {
+      "term": "Sept",
+      "mentions_now": 6,
+      "baseline_avg": 2.54,
+      "zscore": 3.72,
       "reason": "spike"
     },
     {
       "term": "High Court",
       "mentions_now": 4,
-      "baseline_avg": 1,
-      "zscore": 6.0,
+      "baseline_avg": 1.3,
+      "zscore": 3.0,
       "reason": "spike"
     },
     {
       "term": "September",
-      "mentions_now": 4,
-      "baseline_avg": 1,
-      "zscore": 6.0,
+      "mentions_now": 5,
+      "baseline_avg": 1.6,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Year",
+      "term": "DC Srinagar",
       "mentions_now": 4,
       "baseline_avg": 1.33,
-      "zscore": 4.28,
-      "reason": "spike"
-    },
-    {
-      "term": "Killed",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
       "term": "SKUAST",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Army",
-      "mentions_now": 5,
-      "baseline_avg": 2.36,
-      "zscore": 3.68,
+      "baseline_avg": 1.25,
+      "zscore": 2.65,
       "reason": "spike"
     },
     {
       "term": "Jammu Kashmir",
       "mentions_now": 9,
-      "baseline_avg": 3.29,
-      "zscore": 3.52,
-      "reason": "spike"
-    },
-    {
-      "term": "CM Omar Abdullah",
-      "mentions_now": 5,
-      "baseline_avg": 2,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "President",
-      "mentions_now": 3,
-      "baseline_avg": 1.36,
-      "zscore": 2.55,
-      "reason": "spike"
-    },
-    {
-      "term": "Hotel Division",
-      "mentions_now": 3,
-      "baseline_avg": 1.36,
-      "zscore": 2.55,
+      "baseline_avg": 3.57,
+      "zscore": 2.51,
       "reason": "spike"
     },
     {
@@ -202,7 +174,7 @@
   "districts": {
     "Anantnag": {
       "mentions": 12,
-      "sentiment": -0.09,
+      "sentiment": -0.094,
       "top_terms": [
         "Cement",
         "Jammu Railway Division",
@@ -212,19 +184,19 @@
       ]
     },
     "Bandipora": {
-      "mentions": 8,
-      "sentiment": -0.274,
+      "mentions": 9,
+      "sentiment": -0.244,
       "top_terms": [
         "Body",
-        "Search Operation Enters Fifth",
-        "Day Trace Drowned",
-        "Minor",
-        "Nine"
+        "Nine",
+        "Nalla",
+        "Bandipora Police",
+        "Contraband"
       ]
     },
     "Baramulla": {
-      "mentions": 5,
-      "sentiment": 0.154,
+      "mentions": 4,
+      "sentiment": 0.107,
       "top_terms": [
         "Night",
         "Cricket",
@@ -241,19 +213,18 @@
       ]
     },
     "Ganderbal": {
-      "mentions": 2,
-      "sentiment": -0.148,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
         "DC Ganderbal",
         "DLRC",
         "DCC Meeting",
-        "Quarter Ending June",
-        "Three"
+        "Quarter Ending June"
       ]
     },
     "Kulgam": {
-      "mentions": 6,
-      "sentiment": -0.26,
+      "mentions": 5,
+      "sentiment": -0.275,
       "top_terms": [
         "Unidentified Persons Allegedly Cut",
         "Water Supply",
@@ -263,8 +234,8 @@
       ]
     },
     "Kupwara": {
-      "mentions": 9,
-      "sentiment": -0.505,
+      "mentions": 10,
+      "sentiment": -0.455,
       "top_terms": [
         "Army",
         "EOW Chargesheets Kupwara",
@@ -274,8 +245,8 @@
       ]
     },
     "Pulwama": {
-      "mentions": 2,
-      "sentiment": -0.155,
+      "mentions": 3,
+      "sentiment": -0.365,
       "top_terms": [
         "MLA Pampore",
         "Crore Bridge",
@@ -285,52 +256,52 @@
       ]
     },
     "Shopian": {
-      "mentions": 5,
-      "sentiment": -0.251,
+      "mentions": 4,
+      "sentiment": -0.347,
       "top_terms": [
-        "HDFC Bank Reimburses Money",
-        "Victims",
-        "Shopian Fraud Case",
         "ITI Shopian",
-        "NAPS Mela"
+        "NAPS Mela",
+        "GDC Shopian",
+        "HDFC Bank Reimburses Money",
+        "Victims"
       ]
     },
     "Srinagar": {
-      "mentions": 31,
-      "sentiment": 0.119,
+      "mentions": 32,
+      "sentiment": 0.069,
       "top_terms": [
         "DC Srinagar",
         "Ganesh Chaturthi",
         "Srinagar Can Outrank Indore",
-        "PIB Srinagar Media Delegation",
-        "Cleanliness Rankings"
+        "ANTF Kashmir Arrests Two",
+        "Punjab"
       ]
     },
     "Doda": {
-      "mentions": 7,
-      "sentiment": 0.282,
+      "mentions": 8,
+      "sentiment": 0.31,
       "top_terms": [
         "Flung Areas",
-        "Govt Committed Development",
-        "Dodas Far",
         "Deputy CM Choudhary",
-        "Kabaddi Action Intensifies"
+        "Kabaddi Action Intensifies",
+        "National Rafting Championship",
+        "Govt Committed Development"
       ]
     },
     "Jammu": {
-      "mentions": 58,
-      "sentiment": -0.196,
+      "mentions": 65,
+      "sentiment": -0.121,
       "top_terms": [
         "Jammu Kashmir",
         "Balidan Diwas",
-        "Kahmiri Pandits",
-        "Kashmir LOP Sunil Sharma",
-        "Backs Protesting NHM Staff"
+        "Sept",
+        "Cement",
+        "Srinagar Slips"
       ]
     },
     "Kathua": {
       "mentions": 9,
-      "sentiment": 0.014,
+      "sentiment": 0.065,
       "top_terms": [
         "Cement",
         "Cement Moves Rail",
@@ -351,32 +322,32 @@
       ]
     },
     "Poonch": {
-      "mentions": 16,
-      "sentiment": 0.047,
+      "mentions": 17,
+      "sentiment": 0.028,
       "top_terms": [
         "Terror Operations",
-        "DGP Nalin Prabhat Reviews",
-        "JK Police",
         "JK DGP",
-        "Counter"
+        "DGP Nalin Prabhat Reviews",
+        "Indian Army Shoots Down",
+        "Pakistan Drone LoC"
       ]
     },
     "Rajouri": {
-      "mentions": 11,
-      "sentiment": -0.21,
+      "mentions": 8,
+      "sentiment": -0.038,
       "top_terms": [
         "Bumper",
         "Unidentified Man",
         "Body Found Rajouri",
         "Police",
-        "Prosthetic Aids"
+        "Major"
       ]
     },
     "Ramban": {
       "mentions": 5,
       "sentiment": 0.286,
       "top_terms": [
-        "Sunil Sharma",
+        "LoP Sharma",
         "District Jammu",
         "Divisional",
         "Level Boys",
@@ -385,31 +356,31 @@
     },
     "Reasi": {
       "mentions": 40,
-      "sentiment": -0.627,
+      "sentiment": -0.655,
       "top_terms": [
         "Accident",
         "Ks Reasi",
-        "Killed",
+        "CM Omar Abdullah",
         "Matador",
-        "Lives"
+        "LG Manoj Sinha Expresses"
       ]
     },
     "Samba": {
-      "mentions": 6,
-      "sentiment": -0.06,
+      "mentions": 4,
+      "sentiment": -0.09,
       "top_terms": [
-        "NAPS",
         "Pigeon Numbered Ring",
         "Found Near Border",
-        "DC Samba",
-        "ITI Samba"
+        "ITI Samba",
+        "NAPS Mela",
+        "Apprenticeship"
       ]
     },
     "Udhampur": {
       "mentions": 1,
-      "sentiment": -0.542,
+      "sentiment": 0.421,
       "top_terms": [
-        "CM Omar Abdullah"
+        "District Committee"
       ]
     }
   },
@@ -418,67 +389,75 @@
   ],
   "source_breakdown": [
     {
+      "domain": "Kashmir Life",
+      "count": 43
+    },
+    {
       "domain": "Greater Kashmir",
-      "count": 39
-    },
-    {
-      "domain": "kashmirlife.net",
-      "count": 38
-    },
-    {
-      "domain": "KNS Kashmir",
-      "count": 31
+      "count": 30
     },
     {
       "domain": "Daily Excelsior",
-      "count": 28
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 24
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 18
+      "count": 29
     },
     {
       "domain": "Rising Kashmir",
-      "count": 17
-    },
-    {
-      "domain": "News On AIR",
-      "count": 14
+      "count": 25
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 11
+      "count": 23
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 9
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 8
-    },
-    {
-      "domain": "ThePrint",
-      "count": 8
+      "domain": "knskashmir.com",
+      "count": 21
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 6
+      "count": 18
     },
     {
-      "domain": "Kashmir Life",
-      "count": 6
+      "domain": "Jammu Links News",
+      "count": 16
+    },
+    {
+      "domain": "thekashmirimages.com",
+      "count": 15
+    },
+    {
+      "domain": "News On AIR",
+      "count": 13
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 10
+    },
+    {
+      "domain": "ThePrint",
+      "count": 9
+    },
+    {
+      "domain": "The Tribune",
+      "count": 8
     },
     {
       "domain": "Kashmir News Observer",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Dot Com",
+      "count": 6
+    },
+    {
+      "domain": "Social News XYZ",
       "count": 5
     },
     {
-      "domain": "Kashmir Patriot",
+      "domain": "The Chenab Times",
       "count": 5
     },
     {
@@ -486,20 +465,12 @@
       "count": 4
     },
     {
-      "domain": "The Chenab Times",
-      "count": 4
-    },
-    {
       "domain": "The Hindu",
-      "count": 3
-    },
-    {
-      "domain": "The News Mill",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 351,
+    "articles_fetched": 364,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
