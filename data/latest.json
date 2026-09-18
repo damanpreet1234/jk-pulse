@@ -1,36 +1,41 @@
 {
-  "generated_at": "2026-09-18T18:50:12.515723+00:00",
+  "generated_at": "2026-09-18T22:13:54.104074+00:00",
   "date": "2026-09-18",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.045,
+    "score": -0.063,
     "label": "mixed / neutral",
-    "positive_pct": 31.7,
-    "neutral_pct": 37.2,
-    "negative_pct": 31.1,
-    "sample_size": 347
+    "positive_pct": 31.5,
+    "neutral_pct": 33.3,
+    "negative_pct": 35.1,
+    "sample_size": 336
   },
   "top_keywords": [
     {
       "term": "LG Sinha",
       "mentions": 15,
-      "sentiment": 0.218
+      "sentiment": 0.181
     },
     {
       "term": "Police",
       "mentions": 14,
-      "sentiment": -0.246
+      "sentiment": -0.301
     },
     {
       "term": "Delhi",
       "mentions": 5,
-      "sentiment": 0.188
+      "sentiment": 0.272
+    },
+    {
+      "term": "Ladakh",
+      "mentions": 5,
+      "sentiment": -0.418
     },
     {
       "term": "Govt",
       "mentions": 5,
-      "sentiment": 0.434
+      "sentiment": 0.354
     },
     {
       "term": "Statehood",
@@ -38,9 +43,19 @@
       "sentiment": 0.072
     },
     {
-      "term": "BIS Seizes",
+      "term": "Gold",
       "mentions": 4,
-      "sentiment": -0.057
+      "sentiment": -0.074
+    },
+    {
+      "term": "Harmukh",
+      "mentions": 4,
+      "sentiment": 0.334
+    },
+    {
+      "term": "Gangbal",
+      "mentions": 4,
+      "sentiment": 0.334
     },
     {
       "term": "Jammu Kashmir",
@@ -48,19 +63,9 @@
       "sentiment": -0.106
     },
     {
-      "term": "Ladakh",
+      "term": "CM Omar Abdullah",
       "mentions": 4,
-      "sentiment": -0.364
-    },
-    {
-      "term": "Assembly",
-      "mentions": 4,
-      "sentiment": 0.105
-    },
-    {
-      "term": "Birthday",
-      "mentions": 4,
-      "sentiment": -0.589
+      "sentiment": 0.267
     },
     {
       "term": "Purpose Indoor Sports Hall",
@@ -68,19 +73,14 @@
       "sentiment": 0.402
     },
     {
-      "term": "FIRs",
+      "term": "Uniform",
       "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": -0.22
     },
     {
-      "term": "Gurez",
-      "mentions": 4,
-      "sentiment": 0.17
-    },
-    {
-      "term": "Gold",
+      "term": "BIS Seizes",
       "mentions": 3,
-      "sentiment": -0.099
+      "sentiment": -0.075
     },
     {
       "term": "SSP Crime",
@@ -88,87 +88,66 @@
       "sentiment": -0.299
     },
     {
-      "term": "Appointment",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
       "term": "Gangbal Yatra",
       "mentions": 3,
-      "sentiment": 0.408
+      "sentiment": 0.436
     },
     {
-      "term": "Omar Abdullah",
+      "term": "Networks",
       "mentions": 3,
-      "sentiment": 0.272
+      "sentiment": -0.175
     },
     {
-      "term": "MP Pawan Khera",
+      "term": "Dismantling",
       "mentions": 3,
-      "sentiment": -0.195
+      "sentiment": 0.735
     },
     {
-      "term": "Two JeM",
+      "term": "LG Manoj Sinha",
       "mentions": 3,
-      "sentiment": -0.889
+      "sentiment": 0.061
+    },
+    {
+      "term": "DySPs",
+      "mentions": 3,
+      "sentiment": 0.089
     }
   ],
   "emerging": [
     {
-      "term": "Duty",
+      "term": "Gangbal",
+      "mentions_now": 4,
+      "baseline_avg": 1.67,
+      "zscore": 4.95,
+      "reason": "spike"
+    },
+    {
+      "term": "Held",
       "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
+      "term": "DySPs",
+      "mentions_now": 3,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
       "term": "Gold",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "mentions_now": 4,
+      "baseline_avg": 1.67,
+      "zscore": 2.47,
       "reason": "spike"
     },
     {
       "term": "Statehood",
       "mentions_now": 5,
-      "baseline_avg": 2.23,
-      "zscore": 2.47,
+      "baseline_avg": 2.54,
+      "zscore": 1.93,
       "reason": "spike"
-    },
-    {
-      "term": "LG Sinha",
-      "mentions_now": 15,
-      "baseline_avg": 6.57,
-      "zscore": 2.06,
-      "reason": "spike"
-    },
-    {
-      "term": "LG Manoj Sinha",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 1.96,
-      "reason": "spike"
-    },
-    {
-      "term": "Police",
-      "mentions_now": 14,
-      "baseline_avg": 8.07,
-      "zscore": 1.94,
-      "reason": "spike"
-    },
-    {
-      "term": "Lashkar",
-      "mentions_now": 3,
-      "baseline_avg": 1.75,
-      "zscore": 1.89,
-      "reason": "spike"
-    },
-    {
-      "term": "Delhi",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
     }
   ],
   "districts": {
@@ -184,14 +163,9 @@
       ]
     },
     "Bandipora": {
-      "mentions": 2,
-      "sentiment": -0.051,
-      "top_terms": [
-        "Stationery",
-        "Yali Hamlet",
-        "Altaf Bukhari",
-        "Chewa"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Baramulla": {
       "mentions": 4,
@@ -205,8 +179,8 @@
       ]
     },
     "Budgam": {
-      "mentions": 8,
-      "sentiment": -0.314,
+      "mentions": 7,
+      "sentiment": -0.368,
       "top_terms": [
         "DC Budgam",
         "Youth",
@@ -216,28 +190,29 @@
       ]
     },
     "Ganderbal": {
-      "mentions": 10,
-      "sentiment": 0.311,
+      "mentions": 11,
+      "sentiment": 0.283,
       "top_terms": [
         "Purpose Indoor Sports Hall",
         "Govt Approves",
-        "Crore Multi",
         "Cr Multi",
+        "Crore Multi",
         "Jammu Kashmir Govt Approves"
       ]
     },
     "Kulgam": {
-      "mentions": 4,
-      "sentiment": -0.074,
+      "mentions": 5,
+      "sentiment": 0.025,
       "top_terms": [
         "Woman Among Three Detained",
         "Gold Coins Recovered",
         "Woman",
-        "Three"
+        "Three",
+        "DDC Kulgam"
       ]
     },
     "Kupwara": {
-      "mentions": 6,
+      "mentions": 5,
       "sentiment": 0.0,
       "top_terms": [
         "Why Do Kupwara Residents",
@@ -249,18 +224,18 @@
     },
     "Pulwama": {
       "mentions": 3,
-      "sentiment": 0.522,
+      "sentiment": 0.501,
       "top_terms": [
         "Pulwama MLA Parra",
         "Assembly",
         "Pulwama Wins Inter",
         "District Karate Title",
-        "IDPL Karate Championship"
+        "IDPL Karate Ch"
       ]
     },
     "Shopian": {
-      "mentions": 8,
-      "sentiment": -0.07,
+      "mentions": 9,
+      "sentiment": -0.079,
       "top_terms": [
         "Police",
         "Three OGWs",
@@ -270,8 +245,8 @@
       ]
     },
     "Srinagar": {
-      "mentions": 21,
-      "sentiment": 0.085,
+      "mentions": 22,
+      "sentiment": 0.049,
       "top_terms": [
         "Manoj Sinha",
         "Gallery",
@@ -281,32 +256,32 @@
       ]
     },
     "Doda": {
-      "mentions": 2,
-      "sentiment": -0.238,
+      "mentions": 1,
+      "sentiment": -0.477,
       "top_terms": [
         "DIPR Doda"
       ]
     },
     "Jammu": {
-      "mentions": 55,
-      "sentiment": -0.049,
+      "mentions": 56,
+      "sentiment": -0.039,
       "top_terms": [
-        "BIS Seizes",
-        "Jammu Kashmir",
-        "Birthday",
         "Gold",
-        "Coloured Jewellery Articles"
+        "Jammu Kashmir",
+        "BIS Seizes",
+        "Birthday",
+        "Short"
       ]
     },
     "Kathua": {
-      "mentions": 4,
-      "sentiment": 0.09,
+      "mentions": 6,
+      "sentiment": -0.089,
       "top_terms": [
-        "KVK Kathua",
-        "Natural Farming",
-        "DC Kathua",
-        "Green India Mission",
-        "Vishwakarma"
+        "BOTTLES OF WHISKY",
+        "ILLICIT LIQUOR",
+        "SEIZED BY",
+        "POLICE KATHUA AT KEERIAN",
+        "GANDIYAL"
       ]
     },
     "Kishtwar": {
@@ -315,25 +290,25 @@
       "top_terms": []
     },
     "Poonch": {
-      "mentions": 4,
-      "sentiment": -0.26,
+      "mentions": 3,
+      "sentiment": -0.46,
       "top_terms": [
         "Youth Killed Tractor",
         "Meets Accident Poonch",
         "Gohlad",
-        "Army",
-        "DC Poonch"
+        "DC Poonch",
+        "One District One Product"
       ]
     },
     "Rajouri": {
-      "mentions": 11,
-      "sentiment": -0.611,
+      "mentions": 13,
+      "sentiment": -0.566,
       "top_terms": [
         "Police",
         "Three OGWs",
         "Lashkar",
         "Three",
-        "One Killed"
+        "LeT OGWs"
       ]
     },
     "Ramban": {
@@ -356,8 +331,8 @@
       ]
     },
     "Samba": {
-      "mentions": 7,
-      "sentiment": -0.1,
+      "mentions": 6,
+      "sentiment": -0.117,
       "top_terms": [
         "Swachhata Hi Seva",
         "Year",
@@ -367,14 +342,14 @@
       ]
     },
     "Udhampur": {
-      "mentions": 22,
-      "sentiment": -0.578,
+      "mentions": 21,
+      "sentiment": -0.537,
       "top_terms": [
-        "Operation Sohan",
         "White Knight Corps GOC",
-        "Two JeM",
-        "Jaish Terrorists",
-        "Visits Encounter Scene"
+        "Operation Sohan",
+        "Visits Encounter Scene",
+        "Ks Udhampur",
+        "Reviews Ongoing Operation"
       ]
     }
   },
@@ -384,46 +359,46 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 39
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 34
+      "count": 37
     },
     {
       "domain": "Greater Kashmir",
       "count": 31
     },
     {
-      "domain": "Jammu Links News",
+      "domain": "Daily Excelsior",
+      "count": 31
+    },
+    {
+      "domain": "risingkashmir.com",
       "count": 21
     },
     {
-      "domain": "The Kashmir Horizon",
-      "count": 18
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 14
+      "domain": "Jammu Links News",
+      "count": 16
     },
     {
       "domain": "KNS Kashmir",
       "count": 14
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 14
+      "domain": "The Kashmir Horizon",
+      "count": 13
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 11
+      "count": 12
     },
     {
-      "domain": "10net.in",
-      "count": 11
+      "domain": "The Chenab Times",
+      "count": 9
     },
     {
       "domain": "Kashmir News Observer",
+      "count": 8
+    },
+    {
+      "domain": "ETV Bharat",
       "count": 8
     },
     {
@@ -431,23 +406,19 @@
       "count": 8
     },
     {
-      "domain": "ETV Bharat",
+      "domain": "thekashmirimages.com",
       "count": 7
     },
     {
-      "domain": "newsonair.gov.in",
+      "domain": "jknewstoday.com",
       "count": 6
     },
     {
-      "domain": "jknewstoday.com",
-      "count": 5
+      "domain": "10net.in",
+      "count": 6
     },
     {
-      "domain": "The Chenab Times",
-      "count": 5
-    },
-    {
-      "domain": "Kashmir Indepth",
+      "domain": "The Hindu",
       "count": 5
     },
     {
@@ -455,16 +426,20 @@
       "count": 5
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 4
+      "domain": "India Today",
+      "count": 3
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 4
+      "domain": "AIMA Media",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 347,
+    "articles_fetched": 336,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
