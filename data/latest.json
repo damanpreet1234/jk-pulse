@@ -1,41 +1,56 @@
 {
-  "generated_at": "2026-09-19T15:16:30.455671+00:00",
+  "generated_at": "2026-09-19T18:22:42.525940+00:00",
   "date": "2026-09-19",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.089,
+    "score": -0.084,
     "label": "mixed / neutral",
-    "positive_pct": 23.2,
-    "neutral_pct": 39.6,
-    "negative_pct": 37.2,
-    "sample_size": 366
+    "positive_pct": 25.5,
+    "neutral_pct": 35.9,
+    "negative_pct": 38.7,
+    "sample_size": 357
   },
   "top_keywords": [
     {
       "term": "Police",
-      "mentions": 16,
-      "sentiment": -0.273
+      "mentions": 17,
+      "sentiment": -0.257
     },
     {
-      "term": "Assembly",
-      "mentions": 11,
-      "sentiment": 0.077
-    },
-    {
-      "term": "Gurez",
-      "mentions": 7,
-      "sentiment": 0.064
-    },
-    {
-      "term": "Srinagar Highway",
-      "mentions": 7,
-      "sentiment": -0.466
+      "term": "LG Sinha",
+      "mentions": 8,
+      "sentiment": 0.212
     },
     {
       "term": "Five BSF",
-      "mentions": 6,
+      "mentions": 8,
       "sentiment": -0.459
+    },
+    {
+      "term": "Srinagar Highway",
+      "mentions": 8,
+      "sentiment": -0.489
+    },
+    {
+      "term": "Assembly",
+      "mentions": 7,
+      "sentiment": 0.125
+    },
+    {
+      "term": "Gurez",
+      "mentions": 6,
+      "sentiment": -0.058
+    },
+    {
+      "term": "Congress",
+      "mentions": 6,
+      "sentiment": 0.068
+    },
+    {
+      "term": "Delhi",
+      "mentions": 6,
+      "sentiment": 0.062
     },
     {
       "term": "North Kashmir",
@@ -48,39 +63,19 @@
       "sentiment": 0.028
     },
     {
-      "term": "Delhi",
+      "term": "Statehood",
       "mentions": 5,
-      "sentiment": 0.075
+      "sentiment": 0.165
     },
     {
-      "term": "LG Sinha",
-      "mentions": 5,
-      "sentiment": 0.427
-    },
-    {
-      "term": "Bank",
-      "mentions": 5,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Tantra",
+      "term": "Ahead",
       "mentions": 4,
-      "sentiment": 0.011
+      "sentiment": 0.364
     },
     {
-      "term": "Congress",
+      "term": "Ladakh",
       "mentions": 4,
-      "sentiment": 0.001
-    },
-    {
-      "term": "Sunil Sharma",
-      "mentions": 4,
-      "sentiment": 0.13
-    },
-    {
-      "term": "Heritage Centre",
-      "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": -0.159
     },
     {
       "term": "Altaf Bukhari",
@@ -88,9 +83,9 @@
       "sentiment": -0.013
     },
     {
-      "term": "Harmukh",
+      "term": "Bank",
       "mentions": 4,
-      "sentiment": 0.226
+      "sentiment": 0.0
     },
     {
       "term": "Centre",
@@ -98,95 +93,86 @@
       "sentiment": 0.129
     },
     {
-      "term": "Qazigund",
+      "term": "Five BSF Personnel Injured",
       "mentions": 4,
-      "sentiment": -0.318
+      "sentiment": -0.506
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "Tantra",
       "mentions": 3,
-      "sentiment": 0.248
+      "sentiment": 0.014
     },
     {
       "term": "Rounds",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Yash Paul Bourney",
       "mentions": 3,
       "sentiment": 0.0
     }
   ],
   "emerging": [
     {
-      "term": "Congress",
+      "term": "JKBOSE",
+      "mentions_now": 3,
+      "baseline_avg": 1.14,
+      "zscore": 5.31,
+      "reason": "spike"
+    },
+    {
+      "term": "Ahead",
       "mentions_now": 4,
-      "baseline_avg": 1.33,
-      "zscore": 5.66,
+      "baseline_avg": 1.5,
+      "zscore": 5.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Sinha",
+      "mentions_now": 3,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
+      "term": "Congress",
+      "mentions_now": 6,
+      "baseline_avg": 1.83,
+      "zscore": 3.9,
+      "reason": "spike"
+    },
+    {
+      "term": "Development",
+      "mentions_now": 3,
+      "baseline_avg": 1.88,
+      "zscore": 3.4,
+      "reason": "spike"
+    },
+    {
+      "term": "Sept",
+      "mentions_now": 3,
+      "baseline_avg": 1.38,
+      "zscore": 3.36,
       "reason": "spike"
     },
     {
       "term": "NAPS",
       "mentions_now": 3,
-      "baseline_avg": 1.22,
-      "zscore": 4.28,
-      "reason": "spike"
-    },
-    {
-      "term": "Programme",
-      "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "IIM Jammu",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "High",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Man Killed",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Sunil Sharma",
-      "mentions_now": 4,
       "baseline_avg": 1.4,
-      "zscore": 3.92,
-      "reason": "spike"
-    },
-    {
-      "term": "Bank",
-      "mentions_now": 5,
-      "baseline_avg": 2,
       "zscore": 2.41,
       "reason": "spike"
     },
     {
-      "term": "Assembly",
-      "mentions_now": 11,
-      "baseline_avg": 5.57,
-      "zscore": 2.28,
-      "reason": "spike"
-    },
-    {
-      "term": "Srinagar Highway",
-      "mentions_now": 7,
+      "term": "Five BSF",
+      "mentions_now": 8,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
     },
     {
-      "term": "Five BSF",
-      "mentions_now": 6,
+      "term": "Srinagar Highway",
+      "mentions_now": 8,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
@@ -201,20 +187,26 @@
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 9,
-      "sentiment": -0.136,
+      "mentions": 10,
+      "sentiment": -0.167,
       "top_terms": [
         "Separate Operations",
-        "Seven Alleged Drug Peddlers",
-        "Arrested Across Anantnag",
+        "Hailstorm",
         "Drug Peddlers Arrested",
-        "Ks Anantnag"
+        "Ks Anantnag",
+        "Police Arrest"
       ]
     },
     "Bandipora": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 2,
+      "sentiment": 0.144,
+      "top_terms": [
+        "Bandipora District Table Tennis",
+        "Championship Concludes",
+        "Mehbooba",
+        "Mirwaiz Raise Alarm",
+        "Bandipora Admin Gurez"
+      ]
     },
     "Baramulla": {
       "mentions": 5,
@@ -229,101 +221,101 @@
     },
     "Budgam": {
       "mentions": 4,
-      "sentiment": -0.147,
+      "sentiment": 0.089,
       "top_terms": [
         "DC Budgam",
         "Chadoora",
         "Assembly",
         "MLA Budgam",
-        "Youth"
+        "SKUAST"
       ]
     },
     "Ganderbal": {
-      "mentions": 3,
-      "sentiment": 0.268,
+      "mentions": 2,
+      "sentiment": 0.201,
       "top_terms": [
-        "Purpose Indoor Sports Hall",
         "Union Culture Ministry",
         "Tribal Healers",
         "Camp",
-        "Sept"
+        "Sept",
+        "Govt"
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": 0.0,
+      "mentions": 5,
+      "sentiment": 0.17,
       "top_terms": [
-        "Traffic Cop Dies",
-        "Being Hit",
-        "Truck",
-        "DC Kulgam",
-        "Sumo Stand"
+        "Sakeena Itoo",
+        "Aharbal",
+        "Manzgam",
+        "Crore Health",
+        "Road Projects Launched"
       ]
     },
     "Kupwara": {
-      "mentions": 3,
-      "sentiment": -0.185,
+      "mentions": 4,
+      "sentiment": -0.139,
       "top_terms": [
-        "ADC Kupwara",
-        "Meeting",
-        "Solid Waste Management Measures",
         "DC Kupwara",
-        "HADP"
+        "HADP",
+        "JKCIP",
+        "ADC Kupwara",
+        "Meeting"
       ]
     },
     "Pulwama": {
       "mentions": 4,
-      "sentiment": 0.212,
+      "sentiment": 0.201,
       "top_terms": [
         "IDPL Karate Championship",
         "Boys",
         "Top Spot",
-        "Pulwama Wins Inter",
-        "District Karate Title"
+        "DC Pulwama",
+        "NAPS"
       ]
     },
     "Shopian": {
-      "mentions": 7,
-      "sentiment": -0.251,
+      "mentions": 8,
+      "sentiment": -0.303,
       "top_terms": [
         "Police",
         "Hailstorm",
-        "Shopian Police Seize Drug",
-        "Linked Property Worth",
-        "Lakh"
+        "Water",
+        "OGWs",
+        "Residential"
       ]
     },
     "Srinagar": {
-      "mentions": 49,
-      "sentiment": -0.156,
+      "mentions": 47,
+      "sentiment": -0.195,
       "top_terms": [
         "Srinagar Highway",
         "Five BSF",
+        "Financial Sector Initiatives",
         "BSF Vehicle Overturns",
-        "Personnel Injured",
-        "Iltija Mufti Leads PDP"
+        "Personnel Injured"
       ]
     },
     "Doda": {
-      "mentions": 6,
-      "sentiment": -0.805,
+      "mentions": 5,
+      "sentiment": -0.806,
       "top_terms": [
         "Five Injured Bolero",
         "Man Killed",
         "One Killed",
-        "Five Injured",
+        "Overturns Doda",
         "Loses Control"
       ]
     },
     "Jammu": {
       "mentions": 75,
-      "sentiment": -0.117,
+      "sentiment": -0.148,
       "top_terms": [
         "Srinagar Highway",
         "Five BSF",
+        "Mata Lalleshwari Cultural Cum",
         "Heritage Centre",
-        "Jammu Kashmir",
-        "Congress"
+        "Mata Lalleshwari"
       ]
     },
     "Kathua": {
@@ -338,45 +330,47 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 1,
+      "mentions": 3,
       "sentiment": 0.0,
       "top_terms": [
         "DC Kishtwar",
-        "Census",
-        "Publicity Vehicle"
+        "Union Minister Jitendra Singh",
+        "Reviews Kishtwar Development",
+        "Announces Seismological Observatory",
+        "Census"
       ]
     },
     "Poonch": {
-      "mentions": 15,
-      "sentiment": -0.203,
+      "mentions": 16,
+      "sentiment": -0.19,
       "top_terms": [
+        "Police",
+        "Pakistani",
         "No Casualties",
         "Fire",
-        "Police",
-        "Fire Breaks Out",
-        "Poonch District Hospital"
+        "Fire Breaks Out"
       ]
     },
     "Rajouri": {
       "mentions": 6,
-      "sentiment": -0.506,
+      "sentiment": -0.372,
       "top_terms": [
         "Police",
-        "LeT OGWs",
         "OGWs",
         "MC Rajouri",
-        "Swachhata Drive"
+        "Swachhata Drive",
+        "Swachhata Hi Seva"
       ]
     },
     "Ramban": {
-      "mentions": 8,
-      "sentiment": -0.492,
+      "mentions": 10,
+      "sentiment": -0.396,
       "top_terms": [
         "Five BSF",
-        "Four Injured BSF",
-        "Vehicle Meets Accident",
-        "BSF Personnel Injured",
-        "Truck Turns Turtle"
+        "BSF Vehicle Overturns",
+        "Srinagar Highway",
+        "Personnel Injured",
+        "Four Injured BSF"
       ]
     },
     "Reasi": {
@@ -391,8 +385,8 @@
       ]
     },
     "Samba": {
-      "mentions": 4,
-      "sentiment": -0.151,
+      "mentions": 3,
+      "sentiment": 0.015,
       "top_terms": [
         "SSP Samba Reviews Security",
         "Arrangements",
@@ -402,8 +396,8 @@
       ]
     },
     "Udhampur": {
-      "mentions": 6,
-      "sentiment": -0.34,
+      "mentions": 7,
+      "sentiment": -0.229,
       "top_terms": [
         "Security",
         "Jaish Terrorists",
@@ -418,71 +412,71 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 35
-    },
-    {
       "domain": "Greater Kashmir",
-      "count": 35
+      "count": 34
     },
     {
       "domain": "Kashmir Life",
-      "count": 32
+      "count": 33
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 26
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 25
     },
     {
       "domain": "Jammu Links News",
       "count": 22
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 20
-    },
-    {
-      "domain": "knskashmir.com",
-      "count": 18
+      "domain": "Kashmir News Service",
+      "count": 17
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 14
+      "count": 15
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 11
-    },
-    {
-      "domain": "News On AIR",
+      "domain": "newsonair.gov.in",
       "count": 9
     },
     {
-      "domain": "thehindu.com",
+      "domain": "Kashmir News Observer",
       "count": 9
-    },
-    {
-      "domain": "kashmirnewsobserver.com",
-      "count": 9
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 8
-    },
-    {
-      "domain": "10net.in",
-      "count": 7
     },
     {
       "domain": "Kashmir Observer",
-      "count": 7
-    },
-    {
-      "domain": "Deccan Herald",
-      "count": 6
+      "count": 8
     },
     {
       "domain": "ThePrint",
+      "count": 7
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 7
+    },
+    {
+      "domain": "thehindu.com",
       "count": 6
     },
     {
-      "domain": "The Chenab Times",
+      "domain": "jknewstoday.com",
+      "count": 5
+    },
+    {
+      "domain": "The Global Kashmir",
+      "count": 5
+    },
+    {
+      "domain": "10net.in",
       "count": 5
     },
     {
@@ -490,16 +484,16 @@
       "count": 4
     },
     {
-      "domain": "kimskashmir.com",
+      "domain": "Deccan Herald",
       "count": 4
     },
     {
-      "domain": "Social News XYZ",
+      "domain": "kimskashmir.com",
       "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 366,
+    "articles_fetched": 357,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
