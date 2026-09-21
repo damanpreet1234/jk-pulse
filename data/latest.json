@@ -1,200 +1,243 @@
 {
-  "generated_at": "2026-09-21T03:06:54.709956+00:00",
+  "generated_at": "2026-09-21T09:33:24.069552+00:00",
   "date": "2026-09-21",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.019,
+    "score": -0.003,
     "label": "mixed / neutral",
-    "positive_pct": 28.3,
-    "neutral_pct": 46.1,
-    "negative_pct": 25.6,
-    "sample_size": 293
+    "positive_pct": 25.1,
+    "neutral_pct": 49.8,
+    "negative_pct": 25.1,
+    "sample_size": 307
   },
   "top_keywords": [
     {
       "term": "Assembly",
-      "mentions": 24,
-      "sentiment": 0.098
+      "mentions": 46,
+      "sentiment": -0.042
     },
     {
-      "term": "High",
+      "term": "Govt",
+      "mentions": 20,
+      "sentiment": 0.102
+    },
+    {
+      "term": "Assembly Session",
+      "mentions": 7,
+      "sentiment": 0.016
+    },
+    {
+      "term": "Autumn Session",
+      "mentions": 7,
+      "sentiment": 0.197
+    },
+    {
+      "term": "Question Hour",
       "mentions": 6,
-      "sentiment": 0.158
+      "sentiment": -0.06
     },
     {
-      "term": "CAT Jammu",
-      "mentions": 5,
-      "sentiment": 0.121
+      "term": "Karra",
+      "mentions": 6,
+      "sentiment": -0.268
     },
     {
-      "term": "Sat Sharma",
-      "mentions": 5,
-      "sentiment": 0.132
+      "term": "Assembly Autumn Session Begins",
+      "mentions": 6,
+      "sentiment": -0.007
     },
     {
-      "term": "Altaf Bukhari",
-      "mentions": 5,
-      "sentiment": -0.497
-    },
-    {
-      "term": "Autumn",
-      "mentions": 5,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Congress",
-      "mentions": 5,
-      "sentiment": -0.012
-    },
-    {
-      "term": "Pakistan",
-      "mentions": 4,
-      "sentiment": -0.141
-    },
-    {
-      "term": "Bill",
-      "mentions": 4,
-      "sentiment": -0.077
-    },
-    {
-      "term": "Police",
-      "mentions": 4,
-      "sentiment": -0.11
+      "term": "MLAs",
+      "mentions": 6,
+      "sentiment": -0.306
     },
     {
       "term": "Opposition",
+      "mentions": 5,
+      "sentiment": -0.367
+    },
+    {
+      "term": "Protests",
+      "mentions": 5,
+      "sentiment": -0.144
+    },
+    {
+      "term": "Assembly Session Opens",
+      "mentions": 5,
+      "sentiment": -0.145
+    },
+    {
+      "term": "Seven",
+      "mentions": 5,
+      "sentiment": -0.084
+    },
+    {
+      "term": "Issues",
+      "mentions": 5,
+      "sentiment": -0.131
+    },
+    {
+      "term": "High",
+      "mentions": 5,
+      "sentiment": 0.078
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 4,
+      "sentiment": 0.039
+    },
+    {
+      "term": "Ruckus",
       "mentions": 4,
       "sentiment": 0.0
+    },
+    {
+      "term": "Autumn",
+      "mentions": 4,
+      "sentiment": 0.097
+    },
+    {
+      "term": "JK Assembly",
+      "mentions": 4,
+      "sentiment": 0.303
     },
     {
       "term": "Omar",
       "mentions": 4,
-      "sentiment": 0.1
+      "sentiment": -0.206
     },
     {
-      "term": "Short",
+      "term": "Altaf Bukhari",
       "mentions": 4,
-      "sentiment": 0.093
-    },
-    {
-      "term": "Monday",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Country",
-      "mentions": 4,
-      "sentiment": 0.051
-    },
-    {
-      "term": "Autumn Session",
-      "mentions": 4,
-      "sentiment": 0.201
-    },
-    {
-      "term": "Fire",
-      "mentions": 4,
-      "sentiment": -0.703
-    },
-    {
-      "term": "Karra",
-      "mentions": 4,
-      "sentiment": -0.222
-    },
-    {
-      "term": "Mirwaiz",
-      "mentions": 3,
-      "sentiment": -0.034
-    },
-    {
-      "term": "Beti Aur Aane Wali",
-      "mentions": 3,
-      "sentiment": -0.017
+      "sentiment": -0.486
     }
   ],
   "emerging": [
     {
-      "term": "Sat Sharma",
+      "term": "MLAs",
+      "mentions_now": 6,
+      "baseline_avg": 1.25,
+      "zscore": 10.97,
+      "reason": "spike"
+    },
+    {
+      "term": "Assembly Autumn Session Begins",
+      "mentions_now": 6,
+      "baseline_avg": 1.75,
+      "zscore": 9.81,
+      "reason": "spike"
+    },
+    {
+      "term": "Govt",
+      "mentions_now": 20,
+      "baseline_avg": 3.86,
+      "zscore": 9.14,
+      "reason": "spike"
+    },
+    {
+      "term": "Seven",
       "mentions_now": 5,
       "baseline_avg": 1.33,
       "zscore": 7.78,
       "reason": "spike"
     },
     {
-      "term": "Pakistan",
-      "mentions_now": 4,
-      "baseline_avg": 1.18,
-      "zscore": 7.31,
+      "term": "Issues",
+      "mentions_now": 5,
+      "baseline_avg": 1.5,
+      "zscore": 7.0,
       "reason": "spike"
     },
     {
-      "term": "NC Govt",
+      "term": "IIOJK",
+      "mentions_now": 3,
+      "baseline_avg": 1.08,
+      "zscore": 6.93,
+      "reason": "spike"
+    },
+    {
+      "term": "JK Assembly",
+      "mentions_now": 4,
+      "baseline_avg": 1,
+      "zscore": 6.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Assembly",
+      "mentions_now": 46,
+      "baseline_avg": 10.07,
+      "zscore": 4.91,
+      "reason": "spike"
+    },
+    {
+      "term": "Assembly Session",
+      "mentions_now": 7,
+      "baseline_avg": 2.7,
+      "zscore": 4.28,
+      "reason": "spike"
+    },
+    {
+      "term": "Jammu Kashmir Assembly Session",
       "mentions_now": 3,
       "baseline_avg": 1.25,
       "zscore": 4.04,
       "reason": "spike"
     },
     {
-      "term": "Omar",
-      "mentions_now": 4,
-      "baseline_avg": 1.5,
-      "zscore": 2.5,
+      "term": "Autumn Session",
+      "mentions_now": 7,
+      "baseline_avg": 2.8,
+      "zscore": 3.6,
       "reason": "spike"
     },
     {
-      "term": "Altaf Bukhari",
-      "mentions_now": 5,
-      "baseline_avg": 2.36,
-      "zscore": 2.47,
-      "reason": "spike"
-    },
-    {
-      "term": "Bill",
-      "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 2.45,
-      "reason": "spike"
-    },
-    {
-      "term": "Assembly",
-      "mentions_now": 24,
-      "baseline_avg": 8.57,
-      "zscore": 2.41,
-      "reason": "spike"
-    },
-    {
-      "term": "Autumn",
-      "mentions_now": 5,
-      "baseline_avg": 2.75,
-      "zscore": 2.06,
-      "reason": "spike"
-    },
-    {
-      "term": "High",
+      "term": "Karra",
       "mentions_now": 6,
-      "baseline_avg": 3.5,
-      "zscore": 2.04,
+      "baseline_avg": 2.43,
+      "zscore": 2.76,
       "reason": "spike"
     },
     {
-      "term": "CAT Jammu",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
+      "term": "CM Omar",
+      "mentions_now": 3,
+      "baseline_avg": 1.5,
+      "zscore": 2.24,
+      "reason": "spike"
+    },
+    {
+      "term": "Army",
+      "mentions_now": 3,
+      "baseline_avg": 1.62,
+      "zscore": 1.98,
+      "reason": "spike"
+    },
+    {
+      "term": "Pakistani",
+      "mentions_now": 4,
+      "baseline_avg": 2.89,
+      "zscore": 1.96,
+      "reason": "spike"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 1,
-      "sentiment": -0.296,
-      "top_terms": []
+      "mentions": 3,
+      "sentiment": -0.099,
+      "top_terms": [
+        "Anantnag West Schools Largely",
+        "Govt Buildings",
+        "Govt",
+        "Jammu Division Begins First",
+        "Cement Rail Traffic"
+      ]
     },
     "Bandipora": {
-      "mentions": 1,
-      "sentiment": -0.844,
+      "mentions": 2,
+      "sentiment": -0.422,
       "top_terms": [
+        "Bandipora Constituency",
+        "Govt",
         "Cr PMGSY"
       ]
     },
@@ -229,23 +272,23 @@
       "top_terms": []
     },
     "Kupwara": {
-      "mentions": 9,
-      "sentiment": 0.02,
+      "mentions": 7,
+      "sentiment": 0.107,
       "top_terms": [
         "Handwara",
         "IGP Kashmir Reviews Security",
         "Counter",
         "Terrorism Grid",
-        "Indian"
+        "Households"
       ]
     },
     "Pulwama": {
       "mentions": 2,
-      "sentiment": 0.0,
+      "sentiment": 0.101,
       "top_terms": [
-        "Short",
-        "DC Pulwama",
-        "NAPS",
+        "MLA Pulwama Seeks Urgent",
+        "Assembly Debate",
+        "Jammu Kashmir Reservation Framework",
         "Awareness",
         "Nasha Mukt Yuva"
       ]
@@ -262,76 +305,77 @@
       ]
     },
     "Srinagar": {
-      "mentions": 20,
-      "sentiment": -0.085,
+      "mentions": 33,
+      "sentiment": -0.086,
       "top_terms": [
-        "Altaf Bukhari",
-        "Dal Lake",
+        "Assembly",
         "Seven",
-        "Fresh",
-        "Srinagar Jammu NH"
+        "Altaf Bukhari",
+        "Assembly Session",
+        "Security"
       ]
     },
     "Doda": {
-      "mentions": 5,
-      "sentiment": -0.018,
-      "top_terms": [
-        "Woman",
-        "High",
-        "Unidentified Woman Found Dead",
-        "Police Recover Woman",
-        "Body"
-      ]
-    },
-    "Jammu": {
-      "mentions": 41,
-      "sentiment": -0.007,
-      "top_terms": [
-        "CAT Jammu",
-        "Dr Jitendra",
-        "CAT Jammu Bench",
-        "Country",
-        "Cine Association"
-      ]
-    },
-    "Kathua": {
-      "mentions": 11,
-      "sentiment": 0.029,
-      "top_terms": [
-        "High",
-        "SIM Camera",
-        "Army",
-        "Pakistani",
-        "Drug Peddlers Held"
-      ]
-    },
-    "Kishtwar": {
       "mentions": 3,
       "sentiment": 0.186,
       "top_terms": [
         "High",
-        "Koul",
-        "Ashok Koul Kishtwar Mission",
-        "BJP Reviews Ground Strategy",
-        "Worker Network"
+        "Woman",
+        "Body",
+        "Unidentified",
+        "Year"
+      ]
+    },
+    "Jammu": {
+      "mentions": 53,
+      "sentiment": 0.014,
+      "top_terms": [
+        "Govt",
+        "Jammu Kashmir",
+        "CAT Jammu",
+        "Jammu Kashmir Assembly Session",
+        "Jammu Kashmir Govt"
+      ]
+    },
+    "Kathua": {
+      "mentions": 12,
+      "sentiment": 0.075,
+      "top_terms": [
+        "High",
+        "Army",
+        "Pakistani",
+        "Five",
+        "Kathua Truck Driver Arrested"
+      ]
+    },
+    "Kishtwar": {
+      "mentions": 2,
+      "sentiment": 0.279,
+      "top_terms": [
+        "High",
+        "Koul"
       ]
     },
     "Poonch": {
-      "mentions": 4,
+      "mentions": 3,
       "sentiment": 0.0,
       "top_terms": [
-        "Pakistani",
         "DC Poonch",
         "NEET",
         "Police",
+        "Pakistani",
         "Division"
       ]
     },
     "Rajouri": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 4,
+      "sentiment": 0.075,
       "top_terms": [
-        "Girls Kabaddi"
+        "Crore Relief Disbursed",
+        "Rajouri Flood",
+        "Landslide",
+        "Families",
+        "Govt"
       ]
     },
     "Ramban": {
@@ -344,8 +388,8 @@
       ]
     },
     "Reasi": {
-      "mentions": 8,
-      "sentiment": -0.503,
+      "mentions": 5,
+      "sentiment": -0.479,
       "top_terms": [
         "Fire",
         "Mata Vaishno Devi",
@@ -355,19 +399,18 @@
       ]
     },
     "Samba": {
-      "mentions": 5,
-      "sentiment": 0.231,
+      "mentions": 3,
+      "sentiment": 0.299,
       "top_terms": [
-        "Crore Heritage Restoration Projects",
-        "Launched",
         "High",
         "LG Sinha",
-        "Heritage Restoration Projects Worth"
+        "Heritage Restoration Projects Worth",
+        "Crore Launched Samba"
       ]
     },
     "Udhampur": {
       "mentions": 4,
-      "sentiment": 0.463,
+      "sentiment": 0.338,
       "top_terms": [
         "High",
         "Fresh",
@@ -378,93 +421,92 @@
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 50
-    },
-    {
-      "domain": "Greater Kashmir",
+      "domain": "Kashmir Life",
       "count": 39
     },
     {
+      "domain": "Greater Kashmir",
+      "count": 36
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 25
+    },
+    {
       "domain": "Rising Kashmir",
-      "count": 21
+      "count": 19
     },
     {
       "domain": "thekashmirimages.com",
-      "count": 21
+      "count": 19
     },
     {
-      "domain": "Kashmir Life",
-      "count": 15
+      "domain": "knskashmir.com",
+      "count": 17
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 14
+      "count": 12
     },
     {
-      "domain": "KNS Kashmir",
-      "count": 10
+      "domain": "Kashmir Convener",
+      "count": 9
     },
     {
-      "domain": "The Chenab Times",
-      "count": 8
-    },
-    {
-      "domain": "The Tribune",
+      "domain": "Jammu Links News",
       "count": 7
     },
     {
-      "domain": "The Kashmir Horizon",
+      "domain": "Free Press Kashmir",
       "count": 6
     },
     {
-      "domain": "thenorthlines.com",
-      "count": 4
+      "domain": "10net.in",
+      "count": 6
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 6
+    },
+    {
+      "domain": "The Economic Times",
+      "count": 6
     },
     {
       "domain": "ETV Bharat",
       "count": 4
     },
     {
-      "domain": "ThePrint",
+      "domain": "The Global Kashmir",
       "count": 4
     },
     {
-      "domain": "aninews.in",
+      "domain": "The Kashmir Horizon",
       "count": 4
-    },
-    {
-      "domain": "kmsnews.org",
-      "count": 4
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 4
-    },
-    {
-      "domain": "News On AIR",
-      "count": 3
     },
     {
       "domain": "Deccan Herald",
       "count": 3
     },
     {
-      "domain": "RADIO PAKISTAN",
+      "domain": "Telangana Today",
       "count": 3
     },
     {
-      "domain": "The Statesman",
+      "domain": "The Kashmir Monitor",
+      "count": 3
+    },
+    {
+      "domain": "thenorthlines.com",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 293,
+    "articles_fetched": 307,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
