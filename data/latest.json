@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-20T22:09:15.033803+00:00",
-  "date": "2026-09-20",
+  "generated_at": "2026-09-21T03:06:54.709956+00:00",
+  "date": "2026-09-21",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.006,
+    "score": -0.019,
     "label": "mixed / neutral",
-    "positive_pct": 29.6,
-    "neutral_pct": 44.2,
-    "negative_pct": 26.2,
-    "sample_size": 301
+    "positive_pct": 28.3,
+    "neutral_pct": 46.1,
+    "negative_pct": 25.6,
+    "sample_size": 293
   },
   "top_keywords": [
     {
@@ -18,44 +18,49 @@
       "sentiment": 0.098
     },
     {
-      "term": "Congress",
-      "mentions": 6,
-      "sentiment": -0.069
-    },
-    {
-      "term": "Police",
-      "mentions": 6,
-      "sentiment": -0.183
-    },
-    {
       "term": "High",
-      "mentions": 5,
-      "sentiment": 0.078
+      "mentions": 6,
+      "sentiment": 0.158
     },
     {
-      "term": "Short",
+      "term": "CAT Jammu",
       "mentions": 5,
-      "sentiment": 0.075
+      "sentiment": 0.121
     },
     {
-      "term": "Country",
+      "term": "Sat Sharma",
       "mentions": 5,
-      "sentiment": 0.04
+      "sentiment": 0.132
     },
     {
-      "term": "Fire",
+      "term": "Altaf Bukhari",
       "mentions": 5,
-      "sentiment": -0.714
+      "sentiment": -0.497
     },
     {
       "term": "Autumn",
-      "mentions": 4,
+      "mentions": 5,
       "sentiment": 0.0
     },
     {
-      "term": "Assembly Session",
+      "term": "Congress",
+      "mentions": 5,
+      "sentiment": -0.012
+    },
+    {
+      "term": "Pakistan",
       "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": -0.141
+    },
+    {
+      "term": "Bill",
+      "mentions": 4,
+      "sentiment": -0.077
+    },
+    {
+      "term": "Police",
+      "mentions": 4,
+      "sentiment": -0.11
     },
     {
       "term": "Opposition",
@@ -65,12 +70,22 @@
     {
       "term": "Omar",
       "mentions": 4,
-      "sentiment": 0.041
+      "sentiment": 0.1
     },
     {
-      "term": "CAT Jammu Bench",
+      "term": "Short",
+      "mentions": 4,
+      "sentiment": 0.093
+    },
+    {
+      "term": "Monday",
       "mentions": 4,
       "sentiment": 0.0
+    },
+    {
+      "term": "Country",
+      "mentions": 4,
+      "sentiment": 0.051
     },
     {
       "term": "Autumn Session",
@@ -78,34 +93,19 @@
       "sentiment": 0.201
     },
     {
-      "term": "Sopore",
+      "term": "Fire",
       "mentions": 4,
-      "sentiment": -0.401
+      "sentiment": -0.703
     },
     {
-      "term": "Mata Vaishno Devi",
+      "term": "Karra",
       "mentions": 4,
-      "sentiment": -0.731
+      "sentiment": -0.222
     },
     {
-      "term": "LG Sinha",
-      "mentions": 4,
-      "sentiment": 0.28
-    },
-    {
-      "term": "Pakistani",
-      "mentions": 4,
-      "sentiment": 0.143
-    },
-    {
-      "term": "Bill",
+      "term": "Mirwaiz",
       "mentions": 3,
-      "sentiment": -0.102
-    },
-    {
-      "term": "CAT Jammu",
-      "mentions": 3,
-      "sentiment": 0.135
+      "sentiment": -0.034
     },
     {
       "term": "Beti Aur Aane Wali",
@@ -115,49 +115,70 @@
   ],
   "emerging": [
     {
-      "term": "Omar",
-      "mentions_now": 4,
-      "baseline_avg": 1.25,
-      "zscore": 6.35,
+      "term": "Sat Sharma",
+      "mentions_now": 5,
+      "baseline_avg": 1.33,
+      "zscore": 7.78,
       "reason": "spike"
     },
     {
-      "term": "Heritage",
+      "term": "Pakistan",
+      "mentions_now": 4,
+      "baseline_avg": 1.18,
+      "zscore": 7.31,
+      "reason": "spike"
+    },
+    {
+      "term": "NC Govt",
       "mentions_now": 3,
-      "baseline_avg": 1.17,
-      "zscore": 4.92,
+      "baseline_avg": 1.25,
+      "zscore": 4.04,
+      "reason": "spike"
+    },
+    {
+      "term": "Omar",
+      "mentions_now": 4,
+      "baseline_avg": 1.5,
+      "zscore": 2.5,
+      "reason": "spike"
+    },
+    {
+      "term": "Altaf Bukhari",
+      "mentions_now": 5,
+      "baseline_avg": 2.36,
+      "zscore": 2.47,
+      "reason": "spike"
+    },
+    {
+      "term": "Bill",
+      "mentions_now": 4,
+      "baseline_avg": 2,
+      "zscore": 2.45,
       "reason": "spike"
     },
     {
       "term": "Assembly",
       "mentions_now": 24,
-      "baseline_avg": 7.21,
-      "zscore": 3.49,
+      "baseline_avg": 8.57,
+      "zscore": 2.41,
       "reason": "spike"
     },
     {
-      "term": "Pakistani",
-      "mentions_now": 4,
-      "baseline_avg": 2.71,
-      "zscore": 2.85,
+      "term": "Autumn",
+      "mentions_now": 5,
+      "baseline_avg": 2.75,
+      "zscore": 2.06,
       "reason": "spike"
     },
     {
-      "term": "Salamabad",
-      "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
+      "term": "High",
+      "mentions_now": 6,
+      "baseline_avg": 3.5,
+      "zscore": 2.04,
       "reason": "spike"
     },
     {
-      "term": "Autumn Session",
-      "mentions_now": 4,
-      "baseline_avg": 1.75,
-      "zscore": 2.71,
-      "reason": "spike"
-    },
-    {
-      "term": "Country",
+      "term": "CAT Jammu",
       "mentions_now": 5,
       "baseline_avg": 0.0,
       "zscore": null,
@@ -166,25 +187,22 @@
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 0,
-      "sentiment": null,
+      "mentions": 1,
+      "sentiment": -0.296,
       "top_terms": []
     },
     "Bandipora": {
       "mentions": 1,
-      "sentiment": -0.421,
+      "sentiment": -0.844,
       "top_terms": [
-        "Waste",
-        "Kaloosa"
+        "Cr PMGSY"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": 0.14,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "MLA Baig",
-        "Police",
-        "Sheikh Zaid"
+        "Marriage"
       ]
     },
     "Budgam": {
@@ -206,117 +224,115 @@
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": 0.181,
-      "top_terms": [
-        "DC Kulgam",
-        "Sumo Stand",
-        "Sakeena Itoo",
-        "Aharbal",
-        "Manzgam"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Kupwara": {
       "mentions": 9,
-      "sentiment": -0.039,
+      "sentiment": 0.02,
       "top_terms": [
-        "Indian",
+        "Handwara",
         "IGP Kashmir Reviews Security",
         "Counter",
         "Terrorism Grid",
-        "Handwara"
+        "Indian"
       ]
     },
     "Pulwama": {
-      "mentions": 5,
-      "sentiment": -0.087,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
+        "Short",
         "DC Pulwama",
         "NAPS",
-        "Short",
-        "District Admin Pulwama",
+        "Awareness",
         "Nasha Mukt Yuva"
       ]
     },
     "Shopian": {
-      "mentions": 6,
-      "sentiment": -0.174,
+      "mentions": 7,
+      "sentiment": -0.168,
       "top_terms": [
         "Police",
         "Sopore",
-        "IED Detected Under Bridge",
-        "Security Forces Avert Attack",
-        "Controlled Explosion"
+        "Illegal",
+        "IED Recovered Shopian",
+        "Village"
       ]
     },
     "Srinagar": {
-      "mentions": 24,
-      "sentiment": -0.112,
+      "mentions": 20,
+      "sentiment": -0.085,
       "top_terms": [
-        "Jammu Highway",
-        "Traffic Advisory Commuters",
-        "Seven",
+        "Altaf Bukhari",
         "Dal Lake",
-        "Altaf Bukhari Seeks Probe"
+        "Seven",
+        "Fresh",
+        "Srinagar Jammu NH"
       ]
     },
     "Doda": {
-      "mentions": 4,
-      "sentiment": -0.023,
+      "mentions": 5,
+      "sentiment": -0.018,
       "top_terms": [
         "Woman",
         "High",
-        "Unidentified Woman Found Dead"
+        "Unidentified Woman Found Dead",
+        "Police Recover Woman",
+        "Body"
       ]
     },
     "Jammu": {
-      "mentions": 44,
-      "sentiment": -0.114,
+      "mentions": 41,
+      "sentiment": -0.007,
       "top_terms": [
+        "CAT Jammu",
+        "Dr Jitendra",
         "CAT Jammu Bench",
         "Country",
-        "CAT Jammu",
-        "Case Disposal Among Highest",
-        "Dr Jitendra"
+        "Cine Association"
       ]
     },
     "Kathua": {
-      "mentions": 10,
-      "sentiment": 0.187,
+      "mentions": 11,
+      "sentiment": 0.029,
       "top_terms": [
         "High",
-        "Drug Peddlers Held",
-        "Heroin",
-        "Ks Kathua",
-        "How Pakistan"
+        "SIM Camera",
+        "Army",
+        "Pakistani",
+        "Drug Peddlers Held"
       ]
     },
     "Kishtwar": {
-      "mentions": 4,
-      "sentiment": 0.104,
+      "mentions": 3,
+      "sentiment": 0.186,
       "top_terms": [
         "High",
-        "Ashok Koul",
-        "Scoop Jammu Kashmir",
-        "DC Kishtwar",
-        "Solid Waste Management Rules"
+        "Koul",
+        "Ashok Koul Kishtwar Mission",
+        "BJP Reviews Ground Strategy",
+        "Worker Network"
       ]
     },
     "Poonch": {
-      "mentions": 6,
-      "sentiment": 0.159,
+      "mentions": 4,
+      "sentiment": 0.0,
       "top_terms": [
         "Pakistani",
-        "Police",
         "DC Poonch",
         "NEET",
-        "Academic Achievers"
+        "Police",
+        "Division"
       ]
     },
     "Rajouri": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.0,
+      "top_terms": [
+        "Girls Kabaddi"
+      ]
     },
     "Ramban": {
       "mentions": 1,
@@ -328,34 +344,36 @@
       ]
     },
     "Reasi": {
-      "mentions": 10,
-      "sentiment": -0.581,
+      "mentions": 8,
+      "sentiment": -0.503,
       "top_terms": [
         "Fire",
         "Mata Vaishno Devi",
         "Vaishno Devi",
-        "Fire Damages Mata Vaishno",
-        "Devi Helipad Terminal"
+        "Drug Peddlers Held",
+        "Heroin"
       ]
     },
     "Samba": {
       "mentions": 5,
       "sentiment": 0.231,
       "top_terms": [
-        "Heritage Restoration Projects Worth",
-        "Crore Launched Samba",
         "Crore Heritage Restoration Projects",
         "Launched",
-        "High"
+        "High",
+        "LG Sinha",
+        "Heritage Restoration Projects Worth"
       ]
     },
     "Udhampur": {
-      "mentions": 2,
-      "sentiment": 0.427,
+      "mentions": 4,
+      "sentiment": 0.463,
       "top_terms": [
         "High",
-        "IIOJK",
-        "Majalta"
+        "Fresh",
+        "Srinagar Jammu NH",
+        "Dewal",
+        "IIOJK"
       ]
     }
   },
@@ -365,28 +383,24 @@
   ],
   "source_breakdown": [
     {
+      "domain": "Daily Excelsior",
+      "count": 50
+    },
+    {
       "domain": "Greater Kashmir",
       "count": 39
     },
     {
       "domain": "Rising Kashmir",
-      "count": 27
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 18
+      "count": 21
     },
     {
       "domain": "thekashmirimages.com",
-      "count": 17
+      "count": 21
     },
     {
       "domain": "Kashmir Life",
-      "count": 16
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 16
+      "count": 15
     },
     {
       "domain": "Brighter Kashmir",
@@ -394,26 +408,26 @@
     },
     {
       "domain": "KNS Kashmir",
-      "count": 13
-    },
-    {
-      "domain": "thechenabtimes.com",
-      "count": 11
-    },
-    {
-      "domain": "Jammu Links News",
       "count": 10
+    },
+    {
+      "domain": "The Chenab Times",
+      "count": 8
     },
     {
       "domain": "The Tribune",
       "count": 7
     },
     {
-      "domain": "thenorthlines.com",
-      "count": 5
+      "domain": "The Kashmir Horizon",
+      "count": 6
     },
     {
-      "domain": "News On AIR",
+      "domain": "thenorthlines.com",
+      "count": 4
+    },
+    {
+      "domain": "ETV Bharat",
       "count": 4
     },
     {
@@ -421,15 +435,19 @@
       "count": 4
     },
     {
-      "domain": "ANI News",
+      "domain": "aninews.in",
       "count": 4
     },
     {
-      "domain": "kashmirlife.net",
+      "domain": "kmsnews.org",
       "count": 4
     },
     {
-      "domain": "ETV Bharat",
+      "domain": "Jammu Links News",
+      "count": 4
+    },
+    {
+      "domain": "News On AIR",
       "count": 3
     },
     {
@@ -437,16 +455,16 @@
       "count": 3
     },
     {
-      "domain": "The Statesman",
+      "domain": "RADIO PAKISTAN",
       "count": 3
     },
     {
-      "domain": "Rediff",
+      "domain": "The Statesman",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 301,
+    "articles_fetched": 293,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
