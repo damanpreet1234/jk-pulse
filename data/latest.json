@@ -1,240 +1,254 @@
 {
-  "generated_at": "2026-09-23T09:02:05.518975+00:00",
+  "generated_at": "2026-09-23T16:00:34.115084+00:00",
   "date": "2026-09-23",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.027,
+    "score": -0.052,
     "label": "mixed / neutral",
-    "positive_pct": 23.0,
-    "neutral_pct": 51.9,
-    "negative_pct": 25.1,
-    "sample_size": 374
+    "positive_pct": 24.6,
+    "neutral_pct": 43.4,
+    "negative_pct": 32.0,
+    "sample_size": 325
   },
   "top_keywords": [
     {
+      "term": "India",
+      "mentions": 23,
+      "sentiment": -0.358
+    },
+    {
       "term": "Govt",
-      "mentions": 18,
-      "sentiment": -0.025
-    },
-    {
-      "term": "Assembly",
       "mentions": 16,
-      "sentiment": -0.019
-    },
-    {
-      "term": "Bank",
-      "mentions": 11,
-      "sentiment": 0.058
-    },
-    {
-      "term": "Police",
-      "mentions": 9,
-      "sentiment": -0.206
+      "sentiment": 0.011
     },
     {
       "term": "Delhi",
-      "mentions": 8,
-      "sentiment": -0.166
+      "mentions": 10,
+      "sentiment": -0.18
     },
     {
-      "term": "LG Sinha",
+      "term": "Police",
       "mentions": 7,
-      "sentiment": 0.084
+      "sentiment": -0.115
     },
     {
-      "term": "Yash Paul Bourney",
+      "term": "Pakistan",
       "mentions": 6,
-      "sentiment": 0.065
-    },
-    {
-      "term": "Maharaja Hari Singh",
-      "mentions": 6,
-      "sentiment": 0.319
-    },
-    {
-      "term": "Ladakh",
-      "mentions": 6,
-      "sentiment": 0.088
-    },
-    {
-      "term": "Two Cops Found Dead",
-      "mentions": 5,
-      "sentiment": -0.649
-    },
-    {
-      "term": "High Court",
-      "mentions": 5,
-      "sentiment": 0.105
+      "sentiment": -0.286
     },
     {
       "term": "UAPA",
+      "mentions": 6,
+      "sentiment": -0.107
+    },
+    {
+      "term": "Year",
       "mentions": 5,
-      "sentiment": -0.129
+      "sentiment": -0.237
     },
     {
-      "term": "House",
+      "term": "Asia",
       "mentions": 5,
-      "sentiment": 0.082
+      "sentiment": 0.088
     },
     {
-      "term": "BJP MLA",
+      "term": "CM Omar",
+      "mentions": 5,
+      "sentiment": 0.121
+    },
+    {
+      "term": "Assembly",
+      "mentions": 5,
+      "sentiment": -0.029
+    },
+    {
+      "term": "LG Sinha",
+      "mentions": 5,
+      "sentiment": 0.117
+    },
+    {
+      "term": "Govt Tells Assembly",
       "mentions": 4,
-      "sentiment": -0.222
+      "sentiment": 0.009
     },
     {
-      "term": "Hari Singh",
+      "term": "Jammu Kashmir High Court",
       "mentions": 4,
-      "sentiment": 0.415
+      "sentiment": -0.181
     },
     {
-      "term": "Sheikh Abdullah",
+      "term": "Jammu Kashmir Govt",
       "mentions": 4,
-      "sentiment": 0.51
+      "sentiment": 0.119
     },
     {
-      "term": "Green India Mission",
+      "term": "CM Omar Abdullah",
       "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": 0.207
     },
     {
-      "term": "NC MLAs",
+      "term": "Two Cops Found Dead",
       "mentions": 4,
-      "sentiment": 0.383
+      "sentiment": -0.649
     },
     {
-      "term": "Sardar Patel",
+      "term": "Education",
       "mentions": 4,
-      "sentiment": 0.146
+      "sentiment": 0.202
     },
     {
-      "term": "Erdogan",
+      "term": "High Court",
+      "mentions": 4,
+      "sentiment": -0.123
+    },
+    {
+      "term": "Jammu Kashmir",
       "mentions": 3,
-      "sentiment": -0.034
+      "sentiment": -0.082
+    },
+    {
+      "term": "Omar Abdullah",
+      "mentions": 3,
+      "sentiment": 0.126
     }
   ],
   "emerging": [
     {
-      "term": "Delhi",
-      "mentions_now": 8,
-      "baseline_avg": 1.45,
-      "zscore": 9.98,
+      "term": "India",
+      "mentions_now": 23,
+      "baseline_avg": 2.2,
+      "zscore": 17.84,
       "reason": "spike"
     },
     {
-      "term": "UAPA",
+      "term": "Asia",
       "mentions_now": 5,
       "baseline_avg": 1.33,
       "zscore": 7.78,
       "reason": "spike"
     },
     {
-      "term": "Sakeena Itoo",
-      "mentions_now": 3,
-      "baseline_avg": 1.18,
-      "zscore": 4.71,
+      "term": "Year",
+      "mentions_now": 5,
+      "baseline_avg": 1.6,
+      "zscore": 6.94,
       "reason": "spike"
     },
     {
-      "term": "Terror",
-      "mentions_now": 3,
+      "term": "Govt Tells Assembly",
+      "mentions_now": 4,
       "baseline_avg": 1,
+      "zscore": 6.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Inter",
+      "mentions_now": 3,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
+      "term": "Pakistan",
+      "mentions_now": 6,
+      "baseline_avg": 1.5,
+      "zscore": 4.02,
+      "reason": "spike"
+    },
+    {
+      "term": "Delhi",
+      "mentions_now": 10,
+      "baseline_avg": 2.09,
       "zscore": 4.0,
       "reason": "spike"
     },
     {
-      "term": "Maharaja Hari Singh",
+      "term": "IGP Kashmir Reviews Security",
+      "mentions_now": 3,
+      "baseline_avg": 1.44,
+      "zscore": 3.13,
+      "reason": "spike"
+    },
+    {
+      "term": "CM Omar",
+      "mentions_now": 5,
+      "baseline_avg": 2.58,
+      "zscore": 2.53,
+      "reason": "spike"
+    },
+    {
+      "term": "Jammu Kashmir Govt",
+      "mentions_now": 4,
+      "baseline_avg": 2.12,
+      "zscore": 2.4,
+      "reason": "spike"
+    },
+    {
+      "term": "UAPA",
       "mentions_now": 6,
-      "baseline_avg": 2.75,
-      "zscore": 2.98,
+      "baseline_avg": 2.25,
+      "zscore": 2.29,
+      "reason": "spike"
+    },
+    {
+      "term": "Omar Abdullah",
+      "mentions_now": 3,
+      "baseline_avg": 1.88,
+      "zscore": 1.88,
       "reason": "spike"
     },
     {
       "term": "DC Pulwama",
       "mentions_now": 3,
-      "baseline_avg": 1.71,
-      "zscore": 2.85,
-      "reason": "spike"
-    },
-    {
-      "term": "Yash Paul Bourney",
-      "mentions_now": 6,
       "baseline_avg": 2,
-      "zscore": 2.83,
+      "zscore": 1.87,
       "reason": "spike"
-    },
-    {
-      "term": "Sheikh Mohammad Abdullah",
-      "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Bank",
-      "mentions_now": 11,
-      "baseline_avg": 4.09,
-      "zscore": 2.03,
-      "reason": "spike"
-    },
-    {
-      "term": "High Court",
-      "mentions_now": 5,
-      "baseline_avg": 2.11,
-      "zscore": 1.9,
-      "reason": "spike"
-    },
-    {
-      "term": "Two Cops Found Dead",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 10,
-      "sentiment": 0.156,
+      "mentions": 7,
+      "sentiment": 0.194,
       "top_terms": [
         "Police",
-        "Liquor Bottles",
-        "Liquor Bottles Seized",
-        "Held",
-        "Police Seizes Liquor"
+        "DC Anantnag",
+        "Anantnag Liquor Case Photo",
+        "Goes Viral Arrested",
+        "Men Pose Smiling"
       ]
     },
     "Bandipora": {
-      "mentions": 4,
-      "sentiment": -0.15,
+      "mentions": 10,
+      "sentiment": -0.074,
       "top_terms": [
-        "KVK Bandipora",
-        "RAWE",
-        "DC Bandipora",
-        "Students",
-        "Nathpora Middle School"
+        "IGP Kashmir Reviews Security",
+        "IGP Kashmir",
+        "Jammu Kashmir HC Quashes",
+        "Disengagement Bandipora SPO",
+        "Orders Reinstatement Due"
       ]
     },
     "Baramulla": {
-      "mentions": 13,
-      "sentiment": -0.078,
+      "mentions": 14,
+      "sentiment": -0.178,
       "top_terms": [
-        "Police",
         "UAPA",
-        "Terror",
+        "Police",
         "Residential",
-        "Related Case"
+        "Terror",
+        "Police Attaches Residential Property"
       ]
     },
     "Budgam": {
       "mentions": 9,
-      "sentiment": 0.174,
+      "sentiment": 0.107,
       "top_terms": [
         "Asia",
-        "Baramulla Girls Create History",
-        "Defeat Budgam Win",
-        "Kashmir Kho",
-        "Kho Championship"
+        "Chinar",
+        "Govt",
+        "Year",
+        "Old Chinar Identified"
       ]
     },
     "Ganderbal": {
@@ -243,10 +257,12 @@
       "top_terms": []
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": 0.211,
+      "mentions": 3,
+      "sentiment": 0.14,
       "top_terms": [
         "DC Kulgam",
+        "Ganesh Asthapan Mandir",
+        "Batpora Hergam Frisal",
         "Census",
         "Baseball Tournament"
       ]
@@ -257,36 +273,36 @@
       "top_terms": []
     },
     "Pulwama": {
-      "mentions": 5,
-      "sentiment": -0.125,
+      "mentions": 7,
+      "sentiment": -0.152,
       "top_terms": [
         "DC Pulwama",
+        "SOG Arrests Man",
+        "Eight Grenades",
         "HC Issues Warrants Against",
-        "Other Officials",
-        "BJYM Pulwama",
-        "Seva Sankalp Abhiyan"
+        "Other Officials"
       ]
     },
     "Shopian": {
-      "mentions": 5,
-      "sentiment": -0.332,
+      "mentions": 4,
+      "sentiment": 0.0,
       "top_terms": [
-        "Shopian Court Awards Life",
-        "Imprisonment Man",
-        "Murder Case",
-        "Three Acquitted",
-        "ASMITA Women"
+        "JKNC",
+        "Apni Party District President",
+        "Gowhar Hussain Wani",
+        "President",
+        "District Bar Association Shopian"
       ]
     },
     "Srinagar": {
-      "mentions": 32,
-      "sentiment": 0.141,
+      "mentions": 34,
+      "sentiment": 0.085,
       "top_terms": [
         "NC MLAs",
-        "Srinagar Has",
-        "Stray Dogs",
         "Jammu National Highway",
-        "Heritage"
+        "NIT Srinagar",
+        "Srinagar Has",
+        "Stray Dogs"
       ]
     },
     "Doda": {
@@ -297,19 +313,19 @@
       ]
     },
     "Jammu": {
-      "mentions": 72,
-      "sentiment": -0.083,
+      "mentions": 62,
+      "sentiment": -0.1,
       "top_terms": [
+        "India",
         "Delhi",
+        "Govt Tells Assembly",
         "Govt",
-        "Two Cops Found Dead",
-        "BJP MLA",
-        "Jammu Kashmir"
+        "Jammu Kashmir High Court"
       ]
     },
     "Kathua": {
-      "mentions": 6,
-      "sentiment": -0.112,
+      "mentions": 5,
+      "sentiment": -0.358,
       "top_terms": [
         "BJP Leaders Teenage Son",
         "Goes Missing",
@@ -319,41 +335,42 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 5,
-      "sentiment": 0.027,
+      "mentions": 4,
+      "sentiment": 0.034,
       "top_terms": [
         "National Integration",
-        "Short",
-        "POCSO",
         "Multipurpose Indoor Stadiums",
-        "DC Kishtwar"
+        "DC Kishtwar",
+        "Girls Cricket"
       ]
     },
     "Poonch": {
-      "mentions": 4,
-      "sentiment": 0.031,
+      "mentions": 6,
+      "sentiment": 0.0,
       "top_terms": [
-        "POONCH TO DELHI",
-        "LET PASSENGERS HAVE",
-        "CHOICE",
-        "DDC Poonch",
-        "EMRS Behra"
+        "Mines Defused Near LoC",
+        "Three Landmines Defused Near",
+        "LoC Poonch",
+        "Ks Poonch",
+        "Anti"
       ]
     },
     "Rajouri": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": 0.617,
       "top_terms": [
-        "Green India Mission"
+        "DC Rajouri",
+        "Vibrant Village Sariah",
+        "National Tuberculosis Elimination Program"
       ]
     },
     "Ramban": {
-      "mentions": 14,
-      "sentiment": -0.648,
+      "mentions": 15,
+      "sentiment": -0.647,
       "top_terms": [
         "Two Cops Found Dead",
-        "Police Personnel Found Dead",
         "Inside Car",
+        "Poilce",
         "BREAKING NEWS",
         "RAMBAN Two"
       ]
@@ -370,25 +387,23 @@
       ]
     },
     "Samba": {
-      "mentions": 4,
-      "sentiment": 0.217,
+      "mentions": 3,
+      "sentiment": 0.113,
       "top_terms": [
         "DC Samba",
         "Swachhata Hi Seva Campaign",
         "Drivers",
         "Delhi",
-        "Vibrant Villages Programme"
+        "Security Train Driver"
       ]
     },
     "Udhampur": {
-      "mentions": 4,
-      "sentiment": -0.201,
+      "mentions": 1,
+      "sentiment": -0.802,
       "top_terms": [
-        "DC Udhampur",
-        "District Steering Committee",
-        "Green India Mission",
-        "District SPCA",
-        "Inquiry Ordered Against Former"
+        "JeM Terrorist Adil Mustafa",
+        "Neutralised Udhampur Encounter",
+        "Identified Pak Native"
       ]
     }
   },
@@ -397,88 +412,88 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 45
-    },
-    {
-      "domain": "Greater Kashmir",
+      "domain": "Kashmir Life",
       "count": 41
     },
     {
-      "domain": "Kashmir Life",
-      "count": 40
+      "domain": "Greater Kashmir",
+      "count": 28
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 25
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 21
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 16
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 14
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 14
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 12
+      "domain": "Daily Excelsior",
+      "count": 23
     },
     {
       "domain": "KNS News",
-      "count": 9
+      "count": 20
+    },
+    {
+      "domain": "thekashmirimages.com",
+      "count": 17
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 16
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 15
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 12
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 9
+      "count": 8
     },
     {
-      "domain": "ETV Bharat",
+      "domain": "Jammu Links News",
       "count": 7
     },
     {
-      "domain": "The New Indian Express",
+      "domain": "Kashmir Observer",
+      "count": 7
+    },
+    {
+      "domain": "kashmirindepth.com",
       "count": 6
     },
     {
-      "domain": "timesofindia.indiatimes.com",
+      "domain": "The Tribune",
       "count": 6
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 6
-    },
-    {
-      "domain": "Free Press Kashmir",
+      "domain": "ETV Bharat",
       "count": 5
     },
     {
+      "domain": "freepresskashmir.news",
+      "count": 5
+    },
+    {
+      "domain": "kmsnews.org",
+      "count": 5
+    },
+    {
+      "domain": "The Chenab Times",
+      "count": 4
+    },
+    {
+      "domain": "Social News XYZ",
+      "count": 4
+    },
+    {
       "domain": "NDTV",
-      "count": 4
+      "count": 3
     },
     {
-      "domain": "ThePrint",
-      "count": 4
-    },
-    {
-      "domain": "The Global Kashmir",
-      "count": 4
-    },
-    {
-      "domain": "10net.in",
-      "count": 4
+      "domain": "The Indian Express",
+      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 374,
+    "articles_fetched": 325,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
