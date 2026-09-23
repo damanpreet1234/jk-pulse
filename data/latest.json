@@ -1,56 +1,71 @@
 {
-  "generated_at": "2026-09-22T16:11:26.185175+00:00",
-  "date": "2026-09-22",
+  "generated_at": "2026-09-23T03:06:30.206524+00:00",
+  "date": "2026-09-23",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.033,
+    "score": 0.012,
     "label": "mixed / neutral",
-    "positive_pct": 34.2,
-    "neutral_pct": 45.9,
-    "negative_pct": 19.9,
-    "sample_size": 357
+    "positive_pct": 25.8,
+    "neutral_pct": 53.7,
+    "negative_pct": 20.5,
+    "sample_size": 380
   },
   "top_keywords": [
     {
-      "term": "Assembly",
-      "mentions": 30,
-      "sentiment": 0.018
+      "term": "Govt",
+      "mentions": 24,
+      "sentiment": -0.001
     },
     {
-      "term": "Govt",
-      "mentions": 16,
-      "sentiment": 0.004
+      "term": "Assembly",
+      "mentions": 17,
+      "sentiment": 0.021
     },
     {
       "term": "Bank",
-      "mentions": 9,
+      "mentions": 12,
       "sentiment": 0.09
     },
     {
-      "term": "Sheikh Abdullah",
-      "mentions": 9,
-      "sentiment": 0.345
-    },
-    {
       "term": "LG Sinha",
-      "mentions": 6,
-      "sentiment": 0.202
+      "mentions": 9,
+      "sentiment": 0.089
     },
     {
-      "term": "Jammu Kashmir Assembly",
-      "mentions": 5,
-      "sentiment": 0.059
+      "term": "Ladakh",
+      "mentions": 7,
+      "sentiment": 0.075
+    },
+    {
+      "term": "Sheikh Abdullah",
+      "mentions": 7,
+      "sentiment": 0.518
+    },
+    {
+      "term": "Judge",
+      "mentions": 6,
+      "sentiment": 0.0
+    },
+    {
+      "term": "High Court",
+      "mentions": 6,
+      "sentiment": 0.109
     },
     {
       "term": "Police",
-      "mentions": 5,
-      "sentiment": -0.305
+      "mentions": 6,
+      "sentiment": -0.104
     },
     {
-      "term": "NC MLAs",
+      "term": "Article",
       "mentions": 5,
-      "sentiment": 0.327
+      "sentiment": 0.169
+    },
+    {
+      "term": "Yash Paul Bourney",
+      "mentions": 5,
+      "sentiment": 0.0
     },
     {
       "term": "Yash Paul Bourney Sworn",
@@ -58,85 +73,84 @@
       "sentiment": 0.0
     },
     {
-      "term": "Sardar Patel",
+      "term": "SKIMS",
       "mentions": 4,
-      "sentiment": 0.062
+      "sentiment": 0.08
     },
     {
-      "term": "Anti",
+      "term": "House",
       "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": 0.102
     },
     {
-      "term": "National",
+      "term": "Hari Singh",
       "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": 0.58
     },
     {
-      "term": "CM Omar Abdullah",
-      "mentions": 4,
-      "sentiment": 0.238
-    },
-    {
-      "term": "Maharaja Hari Singh",
-      "mentions": 4,
-      "sentiment": 0.266
-    },
-    {
-      "term": "Short",
-      "mentions": 4,
-      "sentiment": -0.153
-    },
-    {
-      "term": "Assembly Passes Cooperative Societies",
+      "term": "Green India Mission",
       "mentions": 4,
       "sentiment": 0.0
     },
     {
-      "term": "Amendment Bill",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Daily",
-      "mentions": 4,
-      "sentiment": -0.476
-    },
-    {
-      "term": "July",
+      "term": "Two Cops Found Dead",
       "mentions": 3,
-      "sentiment": 0.268
+      "sentiment": -0.649
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 3,
-      "sentiment": -0.204
+      "sentiment": -0.216
+    },
+    {
+      "term": "Tasleema Akhter",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "PoJK",
+      "mentions": 3,
+      "sentiment": 0.0
     }
   ],
   "emerging": [
     {
-      "term": "Amendment Bill",
+      "term": "Yash Paul Bourney",
+      "mentions_now": 5,
+      "baseline_avg": 1.5,
+      "zscore": 7.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Judge",
+      "mentions_now": 6,
+      "baseline_avg": 1.43,
+      "zscore": 6.28,
+      "reason": "spike"
+    },
+    {
+      "term": "Ladakh",
+      "mentions_now": 7,
+      "baseline_avg": 2.33,
+      "zscore": 6.26,
+      "reason": "spike"
+    },
+    {
+      "term": "High Court",
+      "mentions_now": 6,
+      "baseline_avg": 1.78,
+      "zscore": 5.37,
+      "reason": "spike"
+    },
+    {
+      "term": "SKIMS",
       "mentions_now": 4,
-      "baseline_avg": 1.25,
-      "zscore": 6.35,
+      "baseline_avg": 1.6,
+      "zscore": 4.9,
       "reason": "spike"
     },
     {
-      "term": "Gulmarg",
-      "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "University",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Power",
+      "term": "PoJK",
       "mentions_now": 3,
       "baseline_avg": 1,
       "zscore": 4.0,
@@ -144,56 +158,35 @@
     },
     {
       "term": "Bank",
-      "mentions_now": 9,
-      "baseline_avg": 3.08,
-      "zscore": 3.81,
+      "mentions_now": 12,
+      "baseline_avg": 3.36,
+      "zscore": 3.74,
       "reason": "spike"
     },
     {
-      "term": "Judge",
+      "term": "LG Sinha",
+      "mentions_now": 9,
+      "baseline_avg": 4.31,
+      "zscore": 2.87,
+      "reason": "spike"
+    },
+    {
+      "term": "Gulmarg",
       "mentions_now": 3,
-      "baseline_avg": 1.38,
-      "zscore": 3.36,
+      "baseline_avg": 1.43,
+      "zscore": 2.16,
       "reason": "spike"
     },
     {
       "term": "NC MLA",
       "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 2.65,
-      "reason": "spike"
-    },
-    {
-      "term": "Jammu Kashmir Assembly",
-      "mentions_now": 5,
-      "baseline_avg": 1.75,
-      "zscore": 2.5,
-      "reason": "spike"
-    },
-    {
-      "term": "High Court",
-      "mentions_now": 3,
-      "baseline_avg": 1.7,
-      "zscore": 2.03,
-      "reason": "spike"
-    },
-    {
-      "term": "IGP Kashmir",
-      "mentions_now": 3,
-      "baseline_avg": 1.57,
-      "zscore": 1.96,
+      "baseline_avg": 1.44,
+      "zscore": 1.87,
       "reason": "spike"
     },
     {
       "term": "Sheikh Abdullah",
-      "mentions_now": 9,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "NC MLAs",
-      "mentions_now": 5,
+      "mentions_now": 7,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
@@ -201,210 +194,202 @@
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 6,
-      "sentiment": 0.205,
+      "mentions": 10,
+      "sentiment": 0.099,
       "top_terms": [
         "Police",
-        "NDPS Act",
-        "Ayurveda Day",
-        "Anantnag Police Seizes",
-        "Liquor Bottles"
+        "Liquor Bottles",
+        "Liquor Bottles Seized",
+        "Held",
+        "Police Seizes Liquor"
       ]
     },
     "Bandipora": {
-      "mentions": 5,
-      "sentiment": -0.163,
+      "mentions": 3,
+      "sentiment": -0.2,
       "top_terms": [
-        "My Youth My Pride",
-        "Batote",
-        "Days",
-        "Multiple Breakthroughs",
-        "Bandipora Police Intensify Crackdown"
+        "Day Probe Turns",
+        "Day Wait",
+        "Bandipora Newborn Death Report",
+        "Still Pending",
+        "DC Bandipora"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": 0.048,
-      "top_terms": [
-        "Police",
-        "Baramulla Girls Create History",
-        "Defeat Budgam Win",
-        "Kashmir Kho",
-        "Kho Championship"
-      ]
-    },
-    "Budgam": {
       "mentions": 4,
-      "sentiment": 0.007,
+      "sentiment": 0.211,
       "top_terms": [
         "Baramulla Girls Create History",
         "Defeat Budgam Win",
         "Kashmir Kho",
         "Kho Championship",
-        "Posts Vacant"
+        "Vehicles Seized"
+      ]
+    },
+    "Budgam": {
+      "mentions": 7,
+      "sentiment": 0.16,
+      "top_terms": [
+        "Baramulla Girls Create History",
+        "Defeat Budgam Win",
+        "Kashmir Kho",
+        "Kho Championship",
+        "DC Budgam"
       ]
     },
     "Ganderbal": {
-      "mentions": 1,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Sat Sharma Felicitates Students"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Kulgam": {
       "mentions": 2,
-      "sentiment": -0.466,
+      "sentiment": 0.211,
       "top_terms": [
-        "NEWS HEADLINE DDC Kulgam",
-        "Reviews Solid Waste Management",
-        "Plan",
-        "Stresses",
-        "Scientific Disposal"
+        "DC Kulgam",
+        "Census",
+        "Baseball Tournament"
       ]
     },
     "Kupwara": {
-      "mentions": 2,
+      "mentions": 1,
       "sentiment": 0.0,
-      "top_terms": [
-        "Electrification",
-        "CM Omar Abdullah"
-      ]
+      "top_terms": []
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": -0.022,
+      "mentions": 5,
+      "sentiment": -0.197,
       "top_terms": [
-        "Frequent Highway Stoppages Cause",
-        "Inconvenience",
-        "Pulwama MLA Tells Assembly",
-        "Tipper Seized Pulwama",
-        "Police"
+        "DC Pulwama",
+        "HC Issues Warrants Against",
+        "Other Officials",
+        "BJYM Pulwama",
+        "Seva Sankalp Abhiyan"
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": -0.158,
+      "mentions": 5,
+      "sentiment": -0.332,
       "top_terms": [
-        "Police",
-        "ASMITA Women",
-        "Wushu League Commences",
-        "Participation",
-        "More Than"
+        "Shopian Court Awards Life",
+        "Imprisonment Man",
+        "Murder Case",
+        "Three Acquitted",
+        "ASMITA Women"
       ]
     },
     "Srinagar": {
-      "mentions": 42,
-      "sentiment": 0.131,
+      "mentions": 29,
+      "sentiment": 0.08,
       "top_terms": [
-        "Daily",
-        "NC MLAs",
-        "Astrophysics",
-        "DC Srinagar",
-        "Football Rolling Trophy"
+        "Security Review Meeting",
+        "NC MLAs Call",
+        "Relaxing Security Restrictions",
+        "Jammu National Highway",
+        "SSP Srinagar Chairs Crime"
       ]
     },
     "Doda": {
-      "mentions": 1,
-      "sentiment": 0.772,
+      "mentions": 2,
+      "sentiment": -0.363,
       "top_terms": [
-        "Level Taekwondo Championship"
+        "National Integration"
       ]
     },
     "Jammu": {
-      "mentions": 68,
-      "sentiment": 0.016,
+      "mentions": 75,
+      "sentiment": 0.008,
       "top_terms": [
-        "Jammu Kashmir Assembly",
+        "Two Cops Found Dead",
         "Jammu Kashmir",
-        "Sardar Patel",
-        "University",
-        "NC MLAs"
+        "Inside Car Jammu",
+        "Tasleema Akhter",
+        "PoJK"
       ]
     },
     "Kathua": {
-      "mentions": 5,
-      "sentiment": 0.42,
+      "mentions": 4,
+      "sentiment": 0.096,
       "top_terms": [
-        "DC Kathua",
+        "BJP Leaders Teenage Son",
+        "Goes Missing",
+        "Ks Kathua",
         "Jasrota",
-        "GMC Kathua",
-        "Govt",
-        "Didi Ki Rasoi"
+        "GMC Kathua"
       ]
     },
     "Kishtwar": {
-      "mentions": 10,
-      "sentiment": -0.327,
+      "mentions": 8,
+      "sentiment": -0.134,
       "top_terms": [
-        "POCSO",
-        "Govt",
+        "National Integration",
+        "Cloudburst",
         "Short",
-        "Teacher",
-        "Kishtwar POCSO"
+        "POCSO",
+        "Multipurpose Indoor Stadiums"
       ]
     },
     "Poonch": {
-      "mentions": 8,
-      "sentiment": -0.161,
+      "mentions": 5,
+      "sentiment": -0.014,
       "top_terms": [
         "Safely Destroyed",
         "Three Rusted Landmines Recovered",
         "Destroyed",
-        "Three",
-        "Three Rusted Mines Found"
+        "DDC Poonch",
+        "EMRS Behra"
       ]
     },
     "Rajouri": {
-      "mentions": 12,
-      "sentiment": 0.326,
+      "mentions": 2,
+      "sentiment": 0.238,
       "top_terms": [
-        "DC Rajouri",
         "CM Omar Abdullah",
-        "Cr Relief Disbursed",
-        "Rajouri Flood Victims",
-        "Omar Abdullah"
+        "Green India Mission"
       ]
     },
     "Ramban": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": -0.432,
       "top_terms": [
+        "Two Cops Found Dead",
+        "Inside Car Jammu",
         "ADC Ramban",
         "Action Plans",
         "Youth Empowerment Programme"
       ]
     },
     "Reasi": {
-      "mentions": 2,
-      "sentiment": 0.17,
+      "mentions": 3,
+      "sentiment": 0.12,
       "top_terms": [
-        "LG Manoj Sinha Pays",
-        "Obeisance Mata Vaishnidevi",
-        "Shrine Reasi",
-        "DIG Udhampur",
-        "Reasi Range Conducts Extensive"
+        "DC Reasi",
+        "Farm Machinery Bank",
+        "HADP",
+        "DDC Reasi",
+        "District Steering Committee"
       ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.109,
+      "mentions": 4,
+      "sentiment": -0.046,
       "top_terms": [
+        "DC Samba",
+        "Swachhata Hi Seva Campaign",
         "Jammu Tawi",
         "Kolkata Express Attacked Near",
-        "Locomotive Windshield Damaged",
-        "Drivers Cabin Glass",
-        "Delhi"
+        "Locomotive Windshield Damaged"
       ]
     },
     "Udhampur": {
-      "mentions": 5,
-      "sentiment": -0.027,
+      "mentions": 4,
+      "sentiment": -0.119,
       "top_terms": [
-        "DIG Udhampur",
-        "Reasi Range Conducts Extensive",
-        "Foot Patrol",
-        "Udhampur Town Security",
-        "Concerns"
+        "DC Udhampur",
+        "District Steering Committee",
+        "Green India Mission",
+        "Bus Returning Wedding",
+        "Procession Meets Accident"
       ]
     }
   },
@@ -413,27 +398,31 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 43
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 37
-    },
-    {
       "domain": "Daily Excelsior",
-      "count": 21
+      "count": 60
+    },
+    {
+      "domain": "Kashmir Life",
+      "count": 48
+    },
+    {
+      "domain": "greaterkashmir.com",
+      "count": 42
     },
     {
       "domain": "Rising Kashmir",
-      "count": 21
+      "count": 27
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 19
+      "domain": "The Kashmir Horizon",
+      "count": 20
     },
     {
-      "domain": "KNS Kashmir",
+      "domain": "kashmirobserver.net",
+      "count": 15
+    },
+    {
+      "domain": "Brighter Kashmir",
       "count": 15
     },
     {
@@ -441,60 +430,56 @@
       "count": 13
     },
     {
-      "domain": "Kashmir Observer",
+      "domain": "Kashmir News Observer",
       "count": 12
     },
     {
       "domain": "ETV Bharat",
-      "count": 10
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 10
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 8
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 8
+      "count": 11
     },
     {
       "domain": "Kashmir Convener",
       "count": 7
     },
     {
-      "domain": "10net.in",
+      "domain": "KNS News",
       "count": 7
     },
     {
-      "domain": "Free Press Kashmir",
-      "count": 5
-    },
-    {
-      "domain": "The Tribune",
-      "count": 5
-    },
-    {
       "domain": "The Times of India",
-      "count": 4
+      "count": 6
+    },
+    {
+      "domain": "thekashmirimages.com",
+      "count": 6
     },
     {
       "domain": "ThePrint",
+      "count": 5
+    },
+    {
+      "domain": "10net.in",
+      "count": 5
+    },
+    {
+      "domain": "The Hindu",
       "count": 4
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "The Global Kashmir",
       "count": 4
     },
     {
-      "domain": "globalkashmir.net",
+      "domain": "The New Indian Express",
       "count": 4
+    },
+    {
+      "domain": "NDTV",
+      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 357,
+    "articles_fetched": 380,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
