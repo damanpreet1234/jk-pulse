@@ -1,243 +1,201 @@
 {
-  "generated_at": "2026-09-23T22:39:00.977752+00:00",
-  "date": "2026-09-23",
+  "generated_at": "2026-09-24T02:57:26.207524+00:00",
+  "date": "2026-09-24",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.045,
+    "score": -0.052,
     "label": "mixed / neutral",
-    "positive_pct": 25.8,
-    "neutral_pct": 41.9,
-    "negative_pct": 32.3,
-    "sample_size": 353
+    "positive_pct": 25.1,
+    "neutral_pct": 42.5,
+    "negative_pct": 32.4,
+    "sample_size": 358
   },
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 21,
-      "sentiment": -0.431
+      "mentions": 26,
+      "sentiment": -0.26
     },
     {
       "term": "Govt",
-      "mentions": 14,
-      "sentiment": -0.016
+      "mentions": 18,
+      "sentiment": -0.065
     },
     {
-      "term": "UAPA",
-      "mentions": 10,
-      "sentiment": -0.117
+      "term": "Marco Rubio",
+      "mentions": 12,
+      "sentiment": -0.659
     },
     {
       "term": "Police",
-      "mentions": 10,
-      "sentiment": -0.2
+      "mentions": 9,
+      "sentiment": -0.161
     },
     {
-      "term": "CM Omar",
-      "mentions": 8,
-      "sentiment": 0.069
+      "term": "UAPA",
+      "mentions": 9,
+      "sentiment": -0.13
     },
     {
       "term": "Delhi",
+      "mentions": 8,
+      "sentiment": -0.158
+    },
+    {
+      "term": "Maharaja Hari Singh",
       "mentions": 7,
-      "sentiment": -0.216
+      "sentiment": 0.245
     },
     {
-      "term": "Education",
+      "term": "Omar Abdullah",
       "mentions": 6,
-      "sentiment": 0.202
+      "sentiment": -0.082
     },
     {
-      "term": "Year",
+      "term": "Jammu Kashmir Govt",
       "mentions": 6,
-      "sentiment": -0.197
-    },
-    {
-      "term": "Asia",
-      "mentions": 6,
-      "sentiment": 0.073
-    },
-    {
-      "term": "Jammu Kashmir High Court",
-      "mentions": 5,
-      "sentiment": -0.065
+      "sentiment": 0.058
     },
     {
       "term": "Assembly",
       "mentions": 5,
-      "sentiment": -0.222
+      "sentiment": -0.357
     },
     {
-      "term": "Jammu Kashmir Govt",
+      "term": "CM Omar",
       "mentions": 5,
-      "sentiment": 0.095
+      "sentiment": 0.169
     },
     {
-      "term": "Pakistan",
+      "term": "Rajeev Gupta",
       "mentions": 5,
-      "sentiment": -0.404
+      "sentiment": 0.0
     },
     {
-      "term": "Omar Abdullah",
+      "term": "Additional Director",
       "mentions": 5,
-      "sentiment": -0.065
+      "sentiment": 0.0
     },
     {
-      "term": "Jammu Kashmir",
-      "mentions": 4,
-      "sentiment": -0.062
+      "term": "Year",
+      "mentions": 5,
+      "sentiment": -0.237
     },
     {
-      "term": "Colleges",
-      "mentions": 4,
-      "sentiment": 0.013
-    },
-    {
-      "term": "Bank",
-      "mentions": 4,
-      "sentiment": 0.207
-    },
-    {
-      "term": "CM Omar Abdullah",
-      "mentions": 4,
-      "sentiment": 0.207
-    },
-    {
-      "term": "Two Cops Found Dead",
-      "mentions": 4,
-      "sentiment": -0.649
+      "term": "Asia",
+      "mentions": 5,
+      "sentiment": 0.088
     },
     {
       "term": "JKSC",
+      "mentions": 5,
+      "sentiment": -0.059
+    },
+    {
+      "term": "Hari Singh",
       "mentions": 4,
-      "sentiment": -0.074
+      "sentiment": 0.517
+    },
+    {
+      "term": "Jammu Kashmir High Court",
+      "mentions": 4,
+      "sentiment": -0.081
+    },
+    {
+      "term": "Education",
+      "mentions": 4,
+      "sentiment": 0.202
+    },
+    {
+      "term": "Pakistan",
+      "mentions": 4,
+      "sentiment": -0.298
     }
   ],
   "emerging": [
     {
-      "term": "JKSC",
-      "mentions_now": 4,
-      "baseline_avg": 1.33,
-      "zscore": 5.66,
+      "term": "Rajeev Gupta",
+      "mentions_now": 5,
+      "baseline_avg": 1.25,
+      "zscore": 8.66,
       "reason": "spike"
     },
     {
-      "term": "CM Omar",
-      "mentions_now": 8,
-      "baseline_avg": 2.75,
-      "zscore": 4.51,
+      "term": "Additional Director",
+      "mentions_now": 5,
+      "baseline_avg": 1.33,
+      "zscore": 7.78,
       "reason": "spike"
     },
     {
       "term": "Omar Abdullah",
-      "mentions_now": 5,
-      "baseline_avg": 2,
-      "zscore": 4.5,
-      "reason": "spike"
-    },
-    {
-      "term": "NIT Srinagar",
-      "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
-      "reason": "spike"
-    },
-    {
-      "term": "Books",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "UAPA",
-      "mentions_now": 10,
-      "baseline_avg": 3,
-      "zscore": 3.34,
-      "reason": "spike"
-    },
-    {
-      "term": "Inter",
-      "mentions_now": 4,
-      "baseline_avg": 1.5,
-      "zscore": 3.27,
-      "reason": "spike"
-    },
-    {
-      "term": "Year",
       "mentions_now": 6,
-      "baseline_avg": 2.17,
-      "zscore": 2.85,
+      "baseline_avg": 2.3,
+      "zscore": 3.36,
+      "reason": "spike"
+    },
+    {
+      "term": "IGP Kashmir Reviews Security",
+      "mentions_now": 4,
+      "baseline_avg": 1.8,
+      "zscore": 2.94,
       "reason": "spike"
     },
     {
       "term": "Jammu Kashmir Govt",
-      "mentions_now": 5,
-      "baseline_avg": 2.33,
+      "mentions_now": 6,
+      "baseline_avg": 2.6,
       "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Police",
-      "mentions_now": 10,
-      "baseline_avg": 5.23,
-      "zscore": 2.78,
+      "term": "Maharaja Hari Singh",
+      "mentions_now": 7,
+      "baseline_avg": 3.29,
+      "zscore": 2.68,
       "reason": "spike"
     },
     {
       "term": "India",
-      "mentions_now": 21,
-      "baseline_avg": 4,
-      "zscore": 2.67,
+      "mentions_now": 26,
+      "baseline_avg": 5.9,
+      "zscore": 2.48,
       "reason": "spike"
     },
     {
-      "term": "IGP Kashmir",
-      "mentions_now": 4,
-      "baseline_avg": 1.91,
-      "zscore": 2.64,
-      "reason": "spike"
-    },
-    {
-      "term": "Chinar",
-      "mentions_now": 4,
+      "term": "JKSC",
+      "mentions_now": 5,
       "baseline_avg": 2,
       "zscore": 2.45,
       "reason": "spike"
     },
     {
-      "term": "IGP Kashmir Reviews Security",
-      "mentions_now": 3,
-      "baseline_avg": 1.6,
-      "zscore": 2.11,
-      "reason": "spike"
-    },
-    {
-      "term": "Asia",
-      "mentions_now": 6,
-      "baseline_avg": 2.67,
-      "zscore": 1.96,
-      "reason": "spike"
+      "term": "Marco Rubio",
+      "mentions_now": 12,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 6,
-      "sentiment": 0.431,
+      "mentions": 5,
+      "sentiment": 0.518,
       "top_terms": [
         "Anantnag Liquor Case Photo",
         "Goes Viral Arrested",
-        "Police",
         "Men Pose Smiling",
+        "Police",
         "DDC Anantnag"
       ]
     },
     "Bandipora": {
-      "mentions": 10,
-      "sentiment": 0.054,
+      "mentions": 9,
+      "sentiment": -0.008,
       "top_terms": [
-        "IGP Kashmir",
         "IGP Kashmir Reviews Security",
+        "IGP Kashmir",
         "Jammu Kashmir HC Quashes",
         "Disengagement Bandipora SPO",
         "Orders Reinstatement Due"
@@ -245,7 +203,7 @@
     },
     "Baramulla": {
       "mentions": 17,
-      "sentiment": -0.178,
+      "sentiment": -0.145,
       "top_terms": [
         "UAPA",
         "Police",
@@ -255,13 +213,13 @@
       ]
     },
     "Budgam": {
-      "mentions": 11,
-      "sentiment": 0.184,
+      "mentions": 9,
+      "sentiment": 0.129,
       "top_terms": [
         "Asia",
         "Chinar",
-        "Govt",
         "Year",
+        "Govt",
         "Old Chinar Identified"
       ]
     },
@@ -271,20 +229,22 @@
       "top_terms": []
     },
     "Kulgam": {
-      "mentions": 4,
-      "sentiment": 0.105,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
-        "DC Kulgam",
         "Bandipora Girls Team Clinch",
         "Inter",
         "Provincial Baseball Title",
+        "DC Kulgam",
         "Ganesh Asthapan Mandir"
       ]
     },
     "Kupwara": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.0,
+      "top_terms": [
+        "NTPHC"
+      ]
     },
     "Pulwama": {
       "mentions": 3,
@@ -292,77 +252,72 @@
       "top_terms": [
         "SOG Arrests Man",
         "Eight Grenades",
-        "High Court",
-        "DC Pulwama",
-        "High Court Issues"
+        "High Court Issues",
+        "Bailable Warrants Against Three",
+        "Pulwama Officers Non"
       ]
     },
     "Shopian": {
-      "mentions": 4,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": 0.134,
       "top_terms": [
-        "JKNC",
-        "Apni Party District President",
         "Gowhar Hussain Wani",
-        "President",
-        "District Bar Association Shopian"
+        "District Bar Association Shopian",
+        "JKNC",
+        "Choudry Ramzan",
+        "Showkat Mir"
       ]
     },
     "Srinagar": {
-      "mentions": 30,
-      "sentiment": 0.05,
+      "mentions": 26,
+      "sentiment": 0.055,
       "top_terms": [
+        "Shortest NH",
         "NIT Srinagar",
         "Interface Engineering",
         "Hybrid Materials",
-        "Heritage",
-        "Stale FIR"
+        "Heritage"
       ]
     },
     "Doda": {
-      "mentions": 3,
-      "sentiment": -0.034,
+      "mentions": 1,
+      "sentiment": 0.625,
       "top_terms": [
-        "Jitendra Singh",
-        "National Integration"
+        "Jitendra Singh"
       ]
     },
     "Jammu": {
-      "mentions": 66,
-      "sentiment": -0.093,
+      "mentions": 65,
+      "sentiment": -0.016,
       "top_terms": [
-        "Jammu Kashmir High Court",
-        "Govt",
         "Jammu Kashmir Govt",
         "India",
-        "Jammu Kashmir"
+        "Govt",
+        "Jammu Kashmir High Court",
+        "Delhi"
       ]
     },
     "Kathua": {
-      "mentions": 4,
-      "sentiment": -0.258,
+      "mentions": 3,
+      "sentiment": -0.45,
       "top_terms": [
-        "BJP Leaders Teenage Son",
-        "Goes Missing",
-        "Ks Kathua",
-        "NAPS Apprenticeship Mela",
-        "Youth"
+        "BJP MLA Vijay Kumar"
       ]
     },
     "Kishtwar": {
-      "mentions": 5,
-      "sentiment": -0.032,
+      "mentions": 3,
+      "sentiment": -0.394,
       "top_terms": [
-        "National Integration",
-        "Multipurpose Indoor Stadiums",
-        "DC Kishtwar",
-        "Girls Cricket",
-        "Kishtwar Minor Rape"
+        "Kishtwar Minor Rape",
+        "Murder Case",
+        "Govt",
+        "Main Accused School Headmaster",
+        "Dismissed"
       ]
     },
     "Poonch": {
-      "mentions": 7,
-      "sentiment": -0.042,
+      "mentions": 4,
+      "sentiment": 0.0,
       "top_terms": [
         "Mines Defused Near LoC",
         "Ks Poonch",
@@ -372,43 +327,35 @@
       ]
     },
     "Rajouri": {
-      "mentions": 2,
-      "sentiment": 0.617,
+      "mentions": 3,
+      "sentiment": 0.411,
       "top_terms": [
         "DC Rajouri",
         "Vibrant Village Sariah",
-        "National Tuberculosis Elimination Program"
+        "National Tuberculosis Elimination Program",
+        "Rajouri District Taekwondo"
       ]
     },
     "Ramban": {
-      "mentions": 15,
-      "sentiment": -0.648,
+      "mentions": 12,
+      "sentiment": -0.702,
       "top_terms": [
-        "Inside Car",
         "Police",
         "Poilce",
-        "Two Cops Found Dead",
-        "Two Police Personnel Found"
+        "BREAKING NEWS",
+        "RAMBAN Two",
+        "Police Personnel Found Dead"
       ]
     },
     "Reasi": {
-      "mentions": 1,
-      "sentiment": 0.361,
-      "top_terms": [
-        "DC Reasi",
-        "Farm Machinery Bank",
-        "HADP"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Samba": {
-      "mentions": 2,
-      "sentiment": 0.0,
-      "top_terms": [
-        "DC Samba",
-        "Swachhata Hi Seva Campaign",
-        "Drivers",
-        "Delhi"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Udhampur": {
       "mentions": 1,
@@ -421,6 +368,7 @@
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
@@ -429,51 +377,35 @@
       "count": 42
     },
     {
+      "domain": "Daily Excelsior",
+      "count": 37
+    },
+    {
       "domain": "Greater Kashmir",
-      "count": 29
+      "count": 31
     },
     {
       "domain": "Rising Kashmir",
       "count": 22
     },
     {
-      "domain": "Daily Excelsior",
-      "count": 22
-    },
-    {
       "domain": "KNS News",
-      "count": 18
-    },
-    {
-      "domain": "thekashmirhorizon.com",
-      "count": 18
+      "count": 15
     },
     {
       "domain": "Kashmir Observer",
-      "count": 14
-    },
-    {
-      "domain": "Kashmir News Observer",
       "count": 9
     },
     {
-      "domain": "JK MONITOR",
+      "domain": "kashmirnewsobserver.com",
       "count": 8
-    },
-    {
-      "domain": "The Tribune",
-      "count": 8
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 8
-    },
-    {
-      "domain": "NDTV",
-      "count": 7
     },
     {
       "domain": "The Times of India",
+      "count": 7
+    },
+    {
+      "domain": "Jammu Links News",
       "count": 7
     },
     {
@@ -485,28 +417,44 @@
       "count": 6
     },
     {
-      "domain": "Jammu Links News",
+      "domain": "thekashmirhorizon.com",
       "count": 6
     },
     {
-      "domain": "ETV Bharat",
-      "count": 5
-    },
-    {
       "domain": "kmsnews.org",
-      "count": 5
+      "count": 6
     },
     {
-      "domain": "The New Indian Express",
-      "count": 4
+      "domain": "NDTV",
+      "count": 5
     },
     {
       "domain": "News On AIR",
+      "count": 5
+    },
+    {
+      "domain": "The Tribune",
+      "count": 5
+    },
+    {
+      "domain": "thekashmirimages.com",
+      "count": 5
+    },
+    {
+      "domain": "Kashmir Dot Com",
+      "count": 5
+    },
+    {
+      "domain": "dailyexcelsior.com",
+      "count": 4
+    },
+    {
+      "domain": "thehindu.com",
       "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 353,
+    "articles_fetched": 358,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
