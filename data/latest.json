@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-09-24T22:58:47.847421+00:00",
-  "date": "2026-09-24",
+  "generated_at": "2026-09-25T03:14:30.154001+00:00",
+  "date": "2026-09-25",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.003,
+    "score": -0.002,
     "label": "mixed / neutral",
-    "positive_pct": 27.8,
-    "neutral_pct": 46.6,
-    "negative_pct": 25.6,
-    "sample_size": 363
+    "positive_pct": 26.5,
+    "neutral_pct": 47.6,
+    "negative_pct": 25.9,
+    "sample_size": 347
   },
   "top_keywords": [
     {
       "term": "Govt",
-      "mentions": 50,
-      "sentiment": 0.006
+      "mentions": 52,
+      "sentiment": 0.013
     },
     {
       "term": "Assembly",
-      "mentions": 17,
-      "sentiment": -0.009
+      "mentions": 16,
+      "sentiment": -0.045
     },
     {
       "term": "Jammu Kashmir",
@@ -29,56 +29,31 @@
     },
     {
       "term": "Jammu Kashmir Govt",
-      "mentions": 11,
-      "sentiment": -0.058
-    },
-    {
-      "term": "Pakistan",
-      "mentions": 7,
-      "sentiment": -0.508
+      "mentions": 10,
+      "sentiment": -0.064
     },
     {
       "term": "Bill",
-      "mentions": 7,
-      "sentiment": 0.043
-    },
-    {
-      "term": "Kashmiri Activist Beigh",
-      "mentions": 6,
-      "sentiment": -0.511
-    },
-    {
-      "term": "Gilgit",
-      "mentions": 6,
-      "sentiment": -0.511
-    },
-    {
-      "term": "Baltistan",
-      "mentions": 6,
-      "sentiment": -0.511
-    },
-    {
-      "term": "Kashmiri Pandits",
-      "mentions": 5,
-      "sentiment": 0.377
-    },
-    {
-      "term": "Lakh ST",
-      "mentions": 5,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Jammu Kashmir Assembly",
-      "mentions": 4,
-      "sentiment": -0.279
+      "mentions": 8,
+      "sentiment": 0.062
     },
     {
       "term": "House",
-      "mentions": 4,
-      "sentiment": 0.145
+      "mentions": 5,
+      "sentiment": -0.018
     },
     {
       "term": "Medical Officer",
+      "mentions": 4,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Kashmiri Pandits",
+      "mentions": 4,
+      "sentiment": 0.331
+    },
+    {
+      "term": "Lakh ST",
       "mentions": 4,
       "sentiment": 0.0
     },
@@ -88,187 +63,191 @@
       "sentiment": 0.0
     },
     {
+      "term": "Industrial Policy",
+      "mentions": 4,
+      "sentiment": 0.0
+    },
+    {
       "term": "Autumn Session",
       "mentions": 4,
       "sentiment": 0.0
     },
     {
-      "term": "DDC Anantnag",
-      "mentions": 4,
-      "sentiment": 0.065
+      "term": "Jammu Kashmir Assembly",
+      "mentions": 3,
+      "sentiment": -0.186
     },
     {
-      "term": "GMC Baramulla",
-      "mentions": 4,
-      "sentiment": -0.09
+      "term": "Speaker",
+      "mentions": 3,
+      "sentiment": -0.091
     },
     {
-      "term": "Chinar",
-      "mentions": 4,
-      "sentiment": 0.006
-    },
-    {
-      "term": "Municipal Act",
+      "term": "II Certificates Issued Across",
       "mentions": 3,
       "sentiment": 0.0
+    },
+    {
+      "term": "September",
+      "mentions": 3,
+      "sentiment": -0.298
+    },
+    {
+      "term": "Hindustan Times",
+      "mentions": 3,
+      "sentiment": 0.075
+    },
+    {
+      "term": "Police",
+      "mentions": 3,
+      "sentiment": -0.225
+    },
+    {
+      "term": "Short",
+      "mentions": 3,
+      "sentiment": 0.098
+    },
+    {
+      "term": "Around",
+      "mentions": 3,
+      "sentiment": 0.272
     }
   ],
   "emerging": [
     {
-      "term": "Kashmiri Pandits",
-      "mentions_now": 5,
-      "baseline_avg": 1,
-      "zscore": 8.0,
+      "term": "Speaker",
+      "mentions_now": 3,
+      "baseline_avg": 1.29,
+      "zscore": 3.79,
+      "reason": "spike"
+    },
+    {
+      "term": "Court",
+      "mentions_now": 3,
+      "baseline_avg": 1.43,
+      "zscore": 3.18,
       "reason": "spike"
     },
     {
       "term": "Bill",
-      "mentions_now": 7,
-      "baseline_avg": 1.89,
-      "zscore": 5.14,
+      "mentions_now": 8,
+      "baseline_avg": 2.33,
+      "zscore": 3.01,
       "reason": "spike"
     },
     {
-      "term": "DC Bandipora",
+      "term": "September",
       "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
+      "baseline_avg": 1.55,
+      "zscore": 2.92,
       "reason": "spike"
     },
     {
       "term": "Jammu Kashmir",
       "mentions_now": 14,
-      "baseline_avg": 4.62,
-      "zscore": 4.01,
+      "baseline_avg": 5.38,
+      "zscore": 2.53,
       "reason": "spike"
     },
     {
       "term": "Govt",
-      "mentions_now": 50,
-      "baseline_avg": 24.62,
-      "zscore": 2.97,
+      "mentions_now": 52,
+      "baseline_avg": 26.92,
+      "zscore": 2.33,
+      "reason": "spike"
+    },
+    {
+      "term": "Kashmiri Pandits",
+      "mentions_now": 4,
+      "baseline_avg": 1.5,
+      "zscore": 1.89,
+      "reason": "spike"
+    },
+    {
+      "term": "Industrial Policy",
+      "mentions_now": 4,
+      "baseline_avg": 2,
+      "zscore": 1.83,
       "reason": "spike"
     },
     {
       "term": "Jammu Kashmir Govt",
-      "mentions_now": 11,
-      "baseline_avg": 3.77,
-      "zscore": 2.95,
+      "mentions_now": 10,
+      "baseline_avg": 4.46,
+      "zscore": 1.81,
       "reason": "spike"
-    },
-    {
-      "term": "Around",
-      "mentions_now": 3,
-      "baseline_avg": 1.4,
-      "zscore": 2.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Pakistan",
-      "mentions_now": 7,
-      "baseline_avg": 3.12,
-      "zscore": 1.97,
-      "reason": "spike"
-    },
-    {
-      "term": "Kashmiri Activist Beigh",
-      "mentions_now": 6,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "Gilgit",
-      "mentions_now": 6,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "Baltistan",
-      "mentions_now": 6,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "Lakh ST",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 6,
-      "sentiment": 0.043,
+      "mentions": 4,
+      "sentiment": 0.074,
       "top_terms": [
         "DDC Anantnag",
         "Anantnag DDC",
         "Dooru",
         "SDM Office Dooru",
-        "MAH Scheme"
+        "Vyeth Truvah"
       ]
     },
     "Bandipora": {
       "mentions": 12,
-      "sentiment": 0.131,
+      "sentiment": 0.078,
       "top_terms": [
         "DC Bandipora",
-        "IGP Kashmir",
         "Govt",
         "Bandipora MLA",
+        "Sopore",
         "Day Workshop"
       ]
     },
     "Baramulla": {
       "mentions": 6,
-      "sentiment": -0.178,
+      "sentiment": -0.141,
       "top_terms": [
         "GMC Baramulla",
         "Govt",
-        "Tenders",
-        "Govt Taking Prompt Measures",
-        "Restore Ventilators"
+        "Defunct",
+        "Baramulla GMC",
+        "House"
       ]
     },
     "Budgam": {
       "mentions": 4,
-      "sentiment": 0.122,
+      "sentiment": 0.012,
       "top_terms": [
+        "Khag",
         "Chinar",
         "DLSA Budgam",
         "Legal Awareness Programme",
-        "NALSA JAGRITI Scheme",
-        "Speaker Rather"
+        "NALSA JAGRITI Scheme"
       ]
     },
     "Ganderbal": {
-      "mentions": 7,
-      "sentiment": -0.281,
+      "mentions": 8,
+      "sentiment": -0.34,
       "top_terms": [
         "DC Ganderbal",
-        "Bandipora MLA",
-        "Govt",
-        "SE Canal",
-        "District Level NCORD Meeting"
+        "Wild Bear Attack Leaves",
+        "Year",
+        "Old Woman Injured",
+        "Bandipora MLA"
       ]
     },
     "Kulgam": {
-      "mentions": 4,
-      "sentiment": 0.0,
+      "mentions": 6,
+      "sentiment": 0.014,
       "top_terms": [
-        "PMAY",
-        "Houses Incomplete",
-        "Govt",
-        "DDC Kulgam",
-        "RDSS"
+        "Katra",
+        "Gambling Racket Busted",
+        "Five Arrested",
+        "Police",
+        "PMAY"
       ]
     },
     "Kupwara": {
-      "mentions": 7,
-      "sentiment": -0.091,
+      "mentions": 4,
+      "sentiment": -0.154,
       "top_terms": [
         "Per Cent Teaching Posts",
         "Vacant",
@@ -278,36 +257,35 @@
       ]
     },
     "Pulwama": {
-      "mentions": 2,
-      "sentiment": 0.022,
+      "mentions": 1,
+      "sentiment": -0.542,
       "top_terms": [
         "DLSA Pulwama",
         "Awareness Programme",
         "Prevention",
-        "Sexual Harassment",
-        "Humble Hope Foundation"
+        "Sexual Harassment"
       ]
     },
     "Shopian": {
-      "mentions": 6,
+      "mentions": 4,
       "sentiment": 0.0,
       "top_terms": [
-        "UAPA",
         "Court",
+        "UAPA",
         "Shopian Court Orders Reopening",
         "Seminary Shut Under",
-        "Choudry Ramzan"
+        "Siraj"
       ]
     },
     "Srinagar": {
-      "mentions": 20,
-      "sentiment": 0.002,
+      "mentions": 19,
+      "sentiment": 0.03,
       "top_terms": [
-        "Jammu Kashmir HC Upholds",
-        "Amendment Allowing Rs",
-        "Monthly Mesne Profits Claim",
-        "Srinagar Shop Dispute",
-        "Anganwadi Workers Protest"
+        "Govt",
+        "SE Canal",
+        "Kashmiri Pandits",
+        "Autumn Session",
+        "Gallery"
       ]
     },
     "Doda": {
@@ -321,14 +299,14 @@
       ]
     },
     "Jammu": {
-      "mentions": 80,
-      "sentiment": -0.02,
+      "mentions": 81,
+      "sentiment": -0.001,
       "top_terms": [
         "Jammu Kashmir",
         "Govt",
         "Jammu Kashmir Govt",
         "Jammu Kashmir Assembly",
-        "Lakh ST"
+        "IGP Jammu"
       ]
     },
     "Kathua": {
@@ -337,14 +315,14 @@
       "top_terms": []
     },
     "Kishtwar": {
-      "mentions": 3,
-      "sentiment": 0.085,
+      "mentions": 4,
+      "sentiment": -0.048,
       "top_terms": [
-        "DC Kishtwar",
         "KISHTWAR POLICE ARRESTED TWO",
         "DRUG PEDDLERS",
         "CHARAS",
-        "LIKE SUBSTANCE"
+        "LIKE SUBSTANCE",
+        "SCHEDULED DRUGS RECOVERED"
       ]
     },
     "Poonch": {
@@ -359,18 +337,19 @@
       ]
     },
     "Rajouri": {
-      "mentions": 2,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": -0.239,
       "top_terms": [
+        "Police",
+        "Rajouri IED",
         "UT Capex",
         "Govt",
-        "DC Rajouri",
-        "Mission YUVA"
+        "DC Rajouri"
       ]
     },
     "Ramban": {
-      "mentions": 2,
-      "sentiment": -0.154,
+      "mentions": 4,
+      "sentiment": 0.093,
       "top_terms": [
         "IGP Jammu"
       ]
@@ -407,87 +386,87 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 68
+      "count": 61
     },
     {
       "domain": "Daily Excelsior",
-      "count": 30
+      "count": 38
     },
     {
-      "domain": "greaterkashmir.com",
-      "count": 25
+      "domain": "Greater Kashmir",
+      "count": 29
     },
     {
       "domain": "Jammu Links News",
-      "count": 24
+      "count": 25
     },
     {
       "domain": "Rising Kashmir",
-      "count": 21
+      "count": 22
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 13
+      "domain": "thekashmirimages.com",
+      "count": 15
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 11
+      "count": 14
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 12
     },
     {
       "domain": "ETV Bharat",
-      "count": 10
+      "count": 9
     },
     {
-      "domain": "Kashmir News Observer",
-      "count": 10
+      "domain": "Kashmir Observer",
+      "count": 9
     },
     {
-      "domain": "kashmirobserver.net",
-      "count": 10
+      "domain": "kashmirnewsobserver.com",
+      "count": 8
     },
     {
       "domain": "Kashmir Convener",
-      "count": 9
+      "count": 7
+    },
+    {
+      "domain": "The Indian Express",
+      "count": 6
     },
     {
       "domain": "KNS News",
       "count": 6
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 6
-    },
-    {
-      "domain": "Free Press Kashmir",
+      "domain": "News On AIR",
       "count": 5
     },
     {
-      "domain": "The Hindu",
-      "count": 4
-    },
-    {
-      "domain": "The Indian Express",
-      "count": 4
-    },
-    {
-      "domain": "Only Kashmir",
-      "count": 4
-    },
-    {
-      "domain": "The Tribune",
-      "count": 4
-    },
-    {
-      "domain": "thenorthlines.com",
-      "count": 4
-    },
-    {
       "domain": "The New Indian Express",
+      "count": 4
+    },
+    {
+      "domain": "tribuneindia.com",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Reader",
+      "count": 4
+    },
+    {
+      "domain": "India Today",
+      "count": 3
+    },
+    {
+      "domain": "The Hindu",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 363,
+    "articles_fetched": 347,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
