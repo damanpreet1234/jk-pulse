@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-09-26T15:40:34.108546+00:00",
+  "generated_at": "2026-09-26T18:58:27.765199+00:00",
   "date": "2026-09-26",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.034,
+    "score": -0.031,
     "label": "mixed / neutral",
-    "positive_pct": 20.2,
-    "neutral_pct": 52.0,
-    "negative_pct": 27.7,
-    "sample_size": 321
+    "positive_pct": 21.6,
+    "neutral_pct": 52.1,
+    "negative_pct": 26.3,
+    "sample_size": 334
   },
   "top_keywords": [
     {
-      "term": "Govt",
-      "mentions": 16,
-      "sentiment": -0.079
+      "term": "Assembly",
+      "mentions": 11,
+      "sentiment": 0.075
     },
     {
-      "term": "Assembly",
-      "mentions": 14,
-      "sentiment": 0.013
+      "term": "India",
+      "mentions": 11,
+      "sentiment": -0.315
     },
     {
       "term": "Amit Shah",
-      "mentions": 10,
-      "sentiment": 0.008
+      "mentions": 8,
+      "sentiment": 0.003
     },
     {
       "term": "Army",
@@ -33,19 +33,19 @@
       "sentiment": -0.073
     },
     {
-      "term": "India",
+      "term": "Govt",
       "mentions": 7,
-      "sentiment": -0.378
-    },
-    {
-      "term": "LoP Sunil Sharma Meets",
-      "mentions": 6,
-      "sentiment": 0.125
+      "sentiment": -0.046
     },
     {
       "term": "Issues",
       "mentions": 5,
       "sentiment": 0.0
+    },
+    {
+      "term": "Pakistan",
+      "mentions": 5,
+      "sentiment": -0.321
     },
     {
       "term": "Omar",
@@ -63,29 +63,24 @@
       "sentiment": -0.249
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "LoP Sunil Sharma Meets",
       "mentions": 4,
-      "sentiment": -0.479
+      "sentiment": 0.174
     },
     {
-      "term": "Deputy CM",
+      "term": "LG Manoj Sinha",
       "mentions": 4,
-      "sentiment": -0.409
+      "sentiment": 0.22
     },
     {
-      "term": "Pakistan",
+      "term": "Shah",
       "mentions": 4,
-      "sentiment": -0.231
+      "sentiment": 0.0
     },
     {
-      "term": "North Kashmir",
+      "term": "University",
       "mentions": 4,
-      "sentiment": -0.229
-    },
-    {
-      "term": "Demand",
-      "mentions": 4,
-      "sentiment": -0.128
+      "sentiment": 0.128
     },
     {
       "term": "Delhi",
@@ -93,19 +88,24 @@
       "sentiment": -0.019
     },
     {
-      "term": "IIM Jammu",
+      "term": "Ring Road Phase",
       "mentions": 4,
       "sentiment": 0.0
+    },
+    {
+      "term": "December",
+      "mentions": 4,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Div Com",
+      "mentions": 4,
+      "sentiment": 0.074
     },
     {
       "term": "Div Com Kashmir",
       "mentions": 4,
       "sentiment": 0.0
-    },
-    {
-      "term": "Hindustan Times",
-      "mentions": 4,
-      "sentiment": -0.14
     },
     {
       "term": "AMRUT",
@@ -115,50 +115,57 @@
   ],
   "emerging": [
     {
-      "term": "Army",
-      "mentions_now": 8,
-      "baseline_avg": 1.33,
-      "zscore": 14.14,
+      "term": "LG Manoj Sinha",
+      "mentions_now": 4,
+      "baseline_avg": 1.4,
+      "zscore": 5.31,
       "reason": "spike"
     },
     {
-      "term": "Demand",
-      "mentions_now": 4,
+      "term": "Do Not Just Reduce",
+      "mentions_now": 3,
       "baseline_avg": 1,
-      "zscore": 6.0,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Geopolitical Narrative",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "University",
+      "mentions_now": 4,
+      "baseline_avg": 1.67,
+      "zscore": 3.5,
       "reason": "spike"
     },
     {
       "term": "Div Com",
-      "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "mentions_now": 4,
+      "baseline_avg": 1.5,
+      "zscore": 3.27,
       "reason": "spike"
     },
     {
-      "term": "Dy CM",
+      "term": "LoP Sunil Sharma",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
       "reason": "spike"
     },
     {
-      "term": "People",
+      "term": "JKCA",
       "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
+      "baseline_avg": 1.44,
+      "zscore": 3.13,
       "reason": "spike"
     },
     {
       "term": "Amit Shah",
-      "mentions_now": 10,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
-    },
-    {
-      "term": "LoP Sunil Sharma Meets",
-      "mentions_now": 6,
+      "mentions_now": 8,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
@@ -181,57 +188,57 @@
   "districts": {
     "Anantnag": {
       "mentions": 7,
-      "sentiment": -0.038,
+      "sentiment": -0.169,
       "top_terms": [
-        "Govt",
         "DC Anantnag",
+        "Police",
         "Census",
         "Quiz",
         "GMHSS Ranibagh Anantnag"
       ]
     },
     "Bandipora": {
-      "mentions": 8,
-      "sentiment": -0.027,
+      "mentions": 6,
+      "sentiment": -0.097,
       "top_terms": [
         "Leader",
         "BSF Wular Ultra Run",
         "Edition",
-        "Level",
-        "Boys Handball Championship"
+        "DM Bandipora",
+        "NCORD Meeting"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": -0.047,
+      "mentions": 5,
+      "sentiment": -0.028,
       "top_terms": [
+        "Qazigund",
+        "Railway Ministry",
+        "Uri Rail Line",
         "Police Foil Narcotics Trafficking",
-        "One Arrested",
-        "Baramulla Pittu Championship",
-        "Young Athletes Create",
-        "Sports Buzz Kashmir"
+        "One Arrested"
       ]
     },
     "Budgam": {
-      "mentions": 2,
-      "sentiment": 0.039,
+      "mentions": 4,
+      "sentiment": 0.019,
       "top_terms": [
-        "Locals",
-        "Asia",
-        "Chinar",
-        "Jammu Universitys Research Centre",
-        "Campus"
+        "Qazigund",
+        "Railway Ministry",
+        "Uri Rail Line",
+        "Ministry",
+        "Railways"
       ]
     },
     "Ganderbal": {
       "mentions": 4,
       "sentiment": 0.181,
       "top_terms": [
+        "Waqf Board",
         "Dr Darakhshan",
         "DLSA Ganderbal",
         "Training Programme",
-        "Proposed Community Mediators",
-        "Waqf Board Chairperson Darakhshan"
+        "Proposed Community Mediators"
       ]
     },
     "Kulgam": {
@@ -245,30 +252,30 @@
       ]
     },
     "Kupwara": {
-      "mentions": 7,
-      "sentiment": 0.063,
+      "mentions": 6,
+      "sentiment": -0.1,
       "top_terms": [
+        "Kupwara Man",
+        "Fourth PSA Detention Upheld",
+        "High Court",
         "Sulaiman Bhat",
-        "LG Praises Army Doctors",
-        "Restoring Sight",
-        "People",
-        "Youth"
+        "Waste"
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": -0.255,
+      "mentions": 4,
+      "sentiment": -0.286,
       "top_terms": [
         "Keegam",
+        "Man Dies",
+        "Electric Shock",
         "Youth",
-        "Sports Competitions",
-        "Sports Council",
-        "Man Dies"
+        "Sports Competitions"
       ]
     },
     "Shopian": {
-      "mentions": 5,
-      "sentiment": 0.336,
+      "mentions": 4,
+      "sentiment": 0.218,
       "top_terms": [
         "ADDC Shopian",
         "Kisan Mela",
@@ -279,13 +286,13 @@
     },
     "Srinagar": {
       "mentions": 33,
-      "sentiment": -0.03,
+      "sentiment": -0.038,
       "top_terms": [
+        "Srinagar Police",
         "Div Com Kashmir",
         "Alignments",
         "Srinagar Ring Road Phase",
-        "Habba Khatun Memorial",
-        "Srinagar Police Attaches Properties"
+        "Habba Khatun Memorial"
       ]
     },
     "Doda": {
@@ -300,32 +307,31 @@
       ]
     },
     "Jammu": {
-      "mentions": 57,
-      "sentiment": -0.07,
+      "mentions": 59,
+      "sentiment": -0.06,
       "top_terms": [
-        "Jammu Kashmir",
         "India",
-        "IIM Jammu",
         "Jammu Kashmir High Court",
-        "Jammu Kashmir Govt"
+        "Jammu Kashmir",
+        "Jammu Kashmir Govt",
+        "Kashmir LoP"
       ]
     },
     "Kathua": {
-      "mentions": 7,
-      "sentiment": -0.03,
+      "mentions": 8,
+      "sentiment": -0.103,
       "top_terms": [
+        "DGP Nalin Prabhat",
         "DGP Nalin Prabhat Reviews",
         "Kathua Belt",
-        "DGP Nalin Prabhat",
-        "Ongoing Anti",
-        "Terror Operations Udhampur"
+        "Pakistani Jaish",
+        "Op Soan"
       ]
     },
     "Kishtwar": {
-      "mentions": 2,
-      "sentiment": 0.17,
+      "mentions": 1,
+      "sentiment": 0.34,
       "top_terms": [
-        "Cloudburst",
         "White Knight Corps Chief",
         "Reviews Security",
         "Orders Intensified Counter",
@@ -333,8 +339,8 @@
       ]
     },
     "Poonch": {
-      "mentions": 3,
-      "sentiment": 0.458,
+      "mentions": 2,
+      "sentiment": 0.449,
       "top_terms": [
         "District",
         "CSS Works",
@@ -344,8 +350,8 @@
       ]
     },
     "Rajouri": {
-      "mentions": 8,
-      "sentiment": -0.072,
+      "mentions": 7,
+      "sentiment": -0.151,
       "top_terms": [
         "Rajouri IED",
         "Govt",
@@ -365,30 +371,36 @@
       ]
     },
     "Reasi": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": 0.099,
       "top_terms": [
+        "DM Reasi",
+        "SPCA",
         "Bhopal",
         "Chenab Rail Bridge",
         "Anji Bridge"
       ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.45,
+      "mentions": 4,
+      "sentiment": -0.322,
       "top_terms": [
-        "Police"
+        "Police Arrest Man",
+        "Connection Samba Firing",
+        "Incident",
+        "Assessment",
+        "Awareness Camp"
       ]
     },
     "Udhampur": {
       "mentions": 12,
-      "sentiment": 0.086,
+      "sentiment": -0.011,
       "top_terms": [
+        "DGP Nalin Prabhat",
         "DGP Nalin Prabhat Reviews",
         "Kathua Belt",
-        "DGP Nalin Prabhat",
-        "Ongoing Anti",
-        "Terror Operations Udhampur"
+        "Pakistani Jaish",
+        "Op Soan"
       ]
     }
   },
@@ -397,51 +409,63 @@
   ],
   "source_breakdown": [
     {
-      "domain": "kashmirlife.net",
-      "count": 32
+      "domain": "Jammu Links News",
+      "count": 41
     },
     {
       "domain": "Greater Kashmir",
-      "count": 32
+      "count": 38
     },
     {
-      "domain": "Jammu Links News",
+      "domain": "kashmirlife.net",
       "count": 31
     },
     {
+      "domain": "Rising Kashmir",
+      "count": 17
+    },
+    {
       "domain": "Daily Excelsior",
-      "count": 20
-    },
-    {
-      "domain": "risingkashmir.com",
-      "count": 18
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 14
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 13
+      "count": 15
     },
     {
       "domain": "KNS News",
-      "count": 13
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 10
+      "count": 12
     },
     {
       "domain": "Kashmir Observer",
-      "count": 9
+      "count": 11
     },
     {
-      "domain": "News On AIR",
-      "count": 8
+      "domain": "thekashmirhorizon.com",
+      "count": 11
     },
     {
       "domain": "The Hindu",
+      "count": 9
+    },
+    {
+      "domain": "Kashmir News Observer",
+      "count": 9
+    },
+    {
+      "domain": "thekashmirimages.com",
+      "count": 9
+    },
+    {
+      "domain": "etvbharat.com",
+      "count": 8
+    },
+    {
+      "domain": "News On AIR",
+      "count": 7
+    },
+    {
+      "domain": "The Global Kashmir",
+      "count": 6
+    },
+    {
+      "domain": "Kashmir Reader",
       "count": 6
     },
     {
@@ -453,32 +477,20 @@
       "count": 5
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "Kashmir Indepth",
       "count": 5
     },
     {
-      "domain": "Kashmir Convener",
+      "domain": "JK MONITOR",
       "count": 5
     },
     {
       "domain": "kimskashmir.com",
       "count": 5
-    },
-    {
-      "domain": "ETV Bharat",
-      "count": 4
-    },
-    {
-      "domain": "The Times of India",
-      "count": 4
-    },
-    {
-      "domain": "Kashmir Indepth",
-      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 321,
+    "articles_fetched": 334,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
