@@ -1,81 +1,106 @@
 {
-  "generated_at": "2026-09-26T03:18:21.292104+00:00",
+  "generated_at": "2026-09-26T09:02:24.524916+00:00",
   "date": "2026-09-26",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.016,
+    "score": -0.05,
     "label": "mixed / neutral",
-    "positive_pct": 23.6,
-    "neutral_pct": 51.9,
-    "negative_pct": 24.5,
-    "sample_size": 318
+    "positive_pct": 18.4,
+    "neutral_pct": 54.4,
+    "negative_pct": 27.2,
+    "sample_size": 320
   },
   "top_keywords": [
     {
       "term": "Govt",
-      "mentions": 30,
-      "sentiment": -0.005
+      "mentions": 28,
+      "sentiment": -0.094
     },
     {
       "term": "Assembly",
-      "mentions": 24,
-      "sentiment": -0.075
+      "mentions": 15,
+      "sentiment": -0.022
+    },
+    {
+      "term": "India",
+      "mentions": 10,
+      "sentiment": -0.224
+    },
+    {
+      "term": "Amit Shah",
+      "mentions": 8,
+      "sentiment": 0.006
     },
     {
       "term": "Omar",
-      "mentions": 11,
-      "sentiment": 0.011
+      "mentions": 8,
+      "sentiment": -0.061
     },
     {
       "term": "House",
-      "mentions": 9,
-      "sentiment": 0.017
+      "mentions": 8,
+      "sentiment": -0.221
     },
     {
-      "term": "Omar Abdullah",
-      "mentions": 6,
+      "term": "IIM Jammu",
+      "mentions": 7,
       "sentiment": 0.0
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 6,
-      "sentiment": 0.057
+      "sentiment": -0.274
     },
     {
-      "term": "Statehood",
+      "term": "Hindustan Times",
       "mentions": 6,
-      "sentiment": 0.102
+      "sentiment": -0.181
     },
     {
-      "term": "Statehood Resolution",
-      "mentions": 6,
-      "sentiment": -0.132
+      "term": "Issues",
+      "mentions": 5,
+      "sentiment": 0.0
     },
     {
-      "term": "India",
-      "mentions": 6,
-      "sentiment": -0.032
+      "term": "North Kashmir",
+      "mentions": 5,
+      "sentiment": -0.184
+    },
+    {
+      "term": "Jammu Kashmir Govt",
+      "mentions": 4,
+      "sentiment": -0.199
     },
     {
       "term": "CM Omar",
-      "mentions": 5,
-      "sentiment": 0.09
+      "mentions": 4,
+      "sentiment": 0.145
     },
     {
-      "term": "CM Omar Abdullah",
-      "mentions": 5,
-      "sentiment": 0.157
-    },
-    {
-      "term": "IIM Jammu",
+      "term": "October",
       "mentions": 4,
       "sentiment": 0.0
     },
     {
-      "term": "Hindustan Times",
+      "term": "LoP Sunil Sharma Meets",
       "mentions": 4,
-      "sentiment": 0.007
+      "sentiment": 0.013
+    },
+    {
+      "term": "Police",
+      "mentions": 4,
+      "sentiment": -0.683
+    },
+    {
+      "term": "Home Minister Amit Shah",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Pakistan",
+      "mentions": 3,
+      "sentiment": -0.283
     },
     {
       "term": "Congress",
@@ -83,111 +108,87 @@
       "sentiment": -0.636
     },
     {
-      "term": "Assembly Told",
+      "term": "Govt Tells Assembly",
       "mentions": 3,
-      "sentiment": 0.287
-    },
-    {
-      "term": "October",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "NHPC",
-      "mentions": 3,
-      "sentiment": -0.099
-    },
-    {
-      "term": "Army Chief",
-      "mentions": 3,
-      "sentiment": 0.197
-    },
-    {
-      "term": "Short",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Houses",
-      "mentions": 3,
-      "sentiment": -0.311
+      "sentiment": -0.218
     }
   ],
   "emerging": [
     {
-      "term": "Omar",
-      "mentions_now": 11,
-      "baseline_avg": 3.25,
-      "zscore": 3.4,
-      "reason": "spike"
-    },
-    {
-      "term": "House",
-      "mentions_now": 9,
-      "baseline_avg": 4,
-      "zscore": 2.6,
-      "reason": "spike"
-    },
-    {
       "term": "Hindustan Times",
-      "mentions_now": 4,
-      "baseline_avg": 2.38,
-      "zscore": 2.33,
+      "mentions_now": 6,
+      "baseline_avg": 2.56,
+      "zscore": 4.14,
       "reason": "spike"
     },
     {
-      "term": "Assembly Told",
+      "term": "Operation Drishti",
       "mentions_now": 3,
-      "baseline_avg": 1.38,
-      "zscore": 2.33,
+      "baseline_avg": 1.29,
+      "zscore": 3.79,
       "reason": "spike"
     },
     {
       "term": "North Kashmir",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 1.96,
+      "mentions_now": 5,
+      "baseline_avg": 1.71,
+      "zscore": 3.73,
       "reason": "spike"
     },
     {
-      "term": "NHPC",
+      "term": "Higher Education Department Transfers",
       "mentions_now": 3,
-      "baseline_avg": 1.71,
-      "zscore": 1.84,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
       "reason": "spike"
+    },
+    {
+      "term": "Amit Shah",
+      "mentions_now": 8,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Issues",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 5,
-      "sentiment": 0.195,
+      "mentions": 6,
+      "sentiment": -0.008,
       "top_terms": [
-        "Deputy Commissioner Anantnag",
         "Govt",
-        "Year",
-        "Old Cyclist Killed",
-        "Hit Tractor"
+        "Anantnag SRTC Complex Stuck",
+        "Two Decades",
+        "Crore DPR Under Vetting",
+        "Anantnag Police Nab Peddler"
       ]
     },
     "Bandipora": {
-      "mentions": 8,
-      "sentiment": 0.019,
+      "mentions": 9,
+      "sentiment": -0.04,
       "top_terms": [
+        "Leader",
         "BSF Wular Ultra Run",
         "Edition",
         "JK Govt Rules Out",
-        "Immediate Construction",
-        "Lolab"
+        "Immediate Construction"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": 0.226,
+      "mentions": 2,
+      "sentiment": -0.116,
       "top_terms": [
+        "Projects Worth Rs",
+        "Crore Under Execution",
         "Baramulla Town",
         "Govt",
-        "Projects Worth Rs",
-        "Crore Under Execution"
+        "Couple Injured Car"
       ]
     },
     "Budgam": {
@@ -221,14 +222,14 @@
       ]
     },
     "Kupwara": {
-      "mentions": 3,
-      "sentiment": 0.0,
+      "mentions": 6,
+      "sentiment": -0.089,
       "top_terms": [
         "Youth",
         "Sports Competitions",
         "Sports Council",
-        "AFMS Surgeons Perform",
-        "Sight"
+        "Waste",
+        "AFMS Surgeons Perform"
       ]
     },
     "Pulwama": {
@@ -247,20 +248,20 @@
       "sentiment": 0.355,
       "top_terms": [
         "Gowhar Hassan Wani",
+        "President",
+        "Shopian District Bar Association",
         "President District Bar Association",
-        "Siraj",
-        "Uloom",
-        "Court"
+        "Siraj"
       ]
     },
     "Srinagar": {
       "mentions": 25,
-      "sentiment": -0.002,
+      "sentiment": 0.009,
       "top_terms": [
-        "Srinagar Kashmir",
         "Cricketer Sarfaraz Khan",
-        "GMC Srinagar",
         "Gallery",
+        "Four Immovable Properties Worth",
+        "Crore Attached",
         "Director"
       ]
     },
@@ -275,14 +276,14 @@
       ]
     },
     "Jammu": {
-      "mentions": 68,
-      "sentiment": -0.024,
+      "mentions": 70,
+      "sentiment": -0.065,
       "top_terms": [
-        "Govt",
-        "Jammu Kashmir",
         "IIM Jammu",
-        "Congress",
-        "Assembly Told"
+        "Jammu Kashmir",
+        "Govt",
+        "Jammu Kashmir Govt",
+        "India"
       ]
     },
     "Kathua": {
@@ -318,24 +319,23 @@
       ]
     },
     "Rajouri": {
-      "mentions": 7,
-      "sentiment": 0.067,
+      "mentions": 10,
+      "sentiment": -0.048,
       "top_terms": [
+        "Rajouri IED",
         "Govt",
-        "IMCT",
-        "Dy CM",
-        "Floods Damage Infrastructure Worth",
-        "Crore Rajouri"
+        "Police",
+        "Hindustan Times",
+        "IMCT"
       ]
     },
     "Ramban": {
-      "mentions": 3,
-      "sentiment": -0.259,
+      "mentions": 2,
+      "sentiment": -0.389,
       "top_terms": [
-        "IGP Jammu",
+        "Police",
         "NAPS Apprenticeship Mela",
-        "ITI Ramban",
-        "Police"
+        "ITI Ramban"
       ]
     },
     "Reasi": {
@@ -344,14 +344,14 @@
       "top_terms": []
     },
     "Samba": {
-      "mentions": 6,
-      "sentiment": -0.386,
+      "mentions": 5,
+      "sentiment": -0.45,
       "top_terms": [
         "Police",
-        "Man Found Dead",
-        "District Level Committee",
-        "HADP",
-        "Tarore"
+        "Police Arrest Man",
+        "Connection Samba Firing",
+        "Incident",
+        "District Level Committee"
       ]
     },
     "Udhampur": {
@@ -372,46 +372,50 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 53
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 30
+      "count": 49
     },
     {
       "domain": "Greater Kashmir",
-      "count": 28
+      "count": 34
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 26
     },
     {
       "domain": "Rising Kashmir",
-      "count": 25
+      "count": 20
     },
     {
       "domain": "Jammu Links News",
-      "count": 17
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 15
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 15
+      "count": 18
     },
     {
       "domain": "Kashmir Observer",
       "count": 13
     },
     {
+      "domain": "thekashmirimages.com",
+      "count": 13
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 12
+    },
+    {
       "domain": "Kashmir News Observer",
       "count": 10
     },
     {
-      "domain": "The Hindu",
-      "count": 6
+      "domain": "Brighter Kashmir",
+      "count": 7
     },
     {
       "domain": "KNS News",
+      "count": 6
+    },
+    {
+      "domain": "Hindustan Times",
       "count": 6
     },
     {
@@ -419,40 +423,36 @@
       "count": 6
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 6
-    },
-    {
-      "domain": "Hindustan Times",
-      "count": 4
+      "domain": "Kashmir Reader",
+      "count": 5
     },
     {
       "domain": "News On AIR",
       "count": 4
     },
     {
-      "domain": "Social News XYZ",
+      "domain": "The Hindu",
       "count": 4
     },
     {
-      "domain": "ETV Bharat",
+      "domain": "kimskashmir.com",
+      "count": 4
+    },
+    {
+      "domain": "The Indian Express",
       "count": 3
     },
     {
-      "domain": "aimamedia.org",
+      "domain": "The Global Kashmir",
       "count": 3
     },
     {
-      "domain": "rediff.com",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Reader",
+      "domain": "ThePrint",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 318,
+    "articles_fetched": 320,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
