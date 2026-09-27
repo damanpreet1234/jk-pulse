@@ -1,51 +1,66 @@
 {
-  "generated_at": "2026-09-27T03:26:17.929814+00:00",
+  "generated_at": "2026-09-27T09:47:26.867643+00:00",
   "date": "2026-09-27",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.031,
+    "score": 0.033,
     "label": "mixed / neutral",
-    "positive_pct": 30.1,
-    "neutral_pct": 48.2,
-    "negative_pct": 21.7,
-    "sample_size": 309
+    "positive_pct": 32.7,
+    "neutral_pct": 45.8,
+    "negative_pct": 21.6,
+    "sample_size": 306
   },
   "top_keywords": [
     {
-      "term": "Amit Shah",
+      "term": "India",
       "mentions": 9,
-      "sentiment": 0.124
+      "sentiment": 0.186
     },
     {
-      "term": "December",
-      "mentions": 6,
-      "sentiment": 0.0
+      "term": "World Tourism Day",
+      "mentions": 5,
+      "sentiment": 0.049
+    },
+    {
+      "term": "LG Sinha Invites Tourists",
+      "mentions": 5,
+      "sentiment": 0.432
+    },
+    {
+      "term": "Statehood",
+      "mentions": 5,
+      "sentiment": 0.028
+    },
+    {
+      "term": "LG Manoj Sinha",
+      "mentions": 5,
+      "sentiment": -0.072
+    },
+    {
+      "term": "Amit Shah",
+      "mentions": 5,
+      "sentiment": 0.111
+    },
+    {
+      "term": "Absconding Accused",
+      "mentions": 4,
+      "sentiment": -0.748
+    },
+    {
+      "term": "Multi",
+      "mentions": 4,
+      "sentiment": -0.761
     },
     {
       "term": "Govt",
-      "mentions": 5,
-      "sentiment": -0.05
-    },
-    {
-      "term": "JK Tyre Rally",
-      "mentions": 5,
-      "sentiment": 0.389
-    },
-    {
-      "term": "Himalayas",
-      "mentions": 5,
-      "sentiment": 0.389
-    },
-    {
-      "term": "Army",
-      "mentions": 5,
-      "sentiment": -0.092
-    },
-    {
-      "term": "Assembly",
       "mentions": 4,
-      "sentiment": 0.141
+      "sentiment": 0.0
+    },
+    {
+      "term": "BCCI President Mithun Manhas",
+      "mentions": 4,
+      "sentiment": 0.0
     },
     {
       "term": "Qazigund",
@@ -53,111 +68,89 @@
       "sentiment": 0.0
     },
     {
-      "term": "LG Manoj Sinha",
-      "mentions": 4,
-      "sentiment": -0.016
-    },
-    {
-      "term": "India",
-      "mentions": 4,
-      "sentiment": -0.21
-    },
-    {
-      "term": "Ring Road Phase",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Div Com",
-      "mentions": 4,
-      "sentiment": 0.0
-    },
-    {
       "term": "Hindustan Times",
       "mentions": 4,
-      "sentiment": 0.279
+      "sentiment": 0.213
     },
     {
-      "term": "Maintain",
+      "term": "JK Tyre Rally",
+      "mentions": 4,
+      "sentiment": 0.389
+    },
+    {
+      "term": "Himalayas",
+      "mentions": 4,
+      "sentiment": 0.389
+    },
+    {
+      "term": "December",
       "mentions": 4,
       "sentiment": 0.0
     },
     {
-      "term": "Shah",
-      "mentions": 4,
-      "sentiment": -0.013
-    },
-    {
-      "term": "Dr Jitendra",
+      "term": "Discover",
       "mentions": 3,
-      "sentiment": 0.331
+      "sentiment": 0.586
     },
     {
-      "term": "Jammu Kashmir High Court",
+      "term": "Crown",
       "mentions": 3,
-      "sentiment": -0.261
+      "sentiment": 0.586
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "Statehood Resolution",
       "mentions": 3,
-      "sentiment": -0.548
+      "sentiment": -0.379
     },
     {
-      "term": "Railways",
+      "term": "Uri Rail Line",
       "mentions": 3,
       "sentiment": 0.0
     },
     {
-      "term": "Deputy CM",
+      "term": "Crore Fraud",
       "mentions": 3,
-      "sentiment": -0.503
+      "sentiment": -0.718
     }
   ],
   "emerging": [
     {
-      "term": "LoP Sharma",
+      "term": "BCCI President Mithun Manhas",
+      "mentions_now": 4,
+      "baseline_avg": 1.67,
+      "zscore": 4.95,
+      "reason": "spike"
+    },
+    {
+      "term": "Uri Rail Line",
       "mentions_now": 3,
-      "baseline_avg": 1.14,
-      "zscore": 5.31,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
       "term": "DC Anantnag",
       "mentions_now": 3,
-      "baseline_avg": 1.3,
-      "zscore": 3.71,
+      "baseline_avg": 1.45,
+      "zscore": 2.36,
       "reason": "spike"
     },
     {
-      "term": "Ashok Koul",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
+      "term": "LG Manoj Sinha",
+      "mentions_now": 5,
+      "baseline_avg": 3.2,
+      "zscore": 1.84,
       "reason": "spike"
     },
     {
-      "term": "December",
-      "mentions_now": 6,
-      "baseline_avg": 4,
-      "zscore": 2.45,
-      "reason": "spike"
-    },
-    {
-      "term": "Dr Jitendra",
-      "mentions_now": 3,
-      "baseline_avg": 1.29,
-      "zscore": 2.45,
-      "reason": "spike"
-    },
-    {
-      "term": "JK Tyre Rally",
+      "term": "World Tourism Day",
       "mentions_now": 5,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
     },
     {
-      "term": "Himalayas",
+      "term": "LG Sinha Invites Tourists",
       "mentions_now": 5,
       "baseline_avg": 0.0,
       "zscore": null,
@@ -166,8 +159,8 @@
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 6,
-      "sentiment": -0.018,
+      "mentions": 4,
+      "sentiment": 0.036,
       "top_terms": [
         "DC Anantnag",
         "Embrace",
@@ -177,8 +170,8 @@
       ]
     },
     "Bandipora": {
-      "mentions": 3,
-      "sentiment": 0.147,
+      "mentions": 4,
+      "sentiment": 0.253,
       "top_terms": [
         "Level",
         "Boys Handball Championship",
@@ -188,14 +181,14 @@
       ]
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": -0.02,
+      "mentions": 11,
+      "sentiment": -0.041,
       "top_terms": [
         "Qazigund",
         "Uri Rail Line",
         "Railways",
-        "Railway Ministry",
-        "Railway Ministry Withdraws Baramulla"
+        "Hold",
+        "Railway Ministry"
       ]
     },
     "Budgam": {
@@ -211,13 +204,13 @@
     },
     "Ganderbal": {
       "mentions": 4,
-      "sentiment": 0.181,
+      "sentiment": 0.09,
       "top_terms": [
+        "Drinking Water Supply Disrupted",
+        "Ganderbal Areas Sindh",
+        "Extension Canal Breach",
         "Waqf Board",
-        "Dr Darakhshan",
-        "DLSA Ganderbal",
-        "Training Programme",
-        "Proposed Community Mediators"
+        "Dr Darakhshan"
       ]
     },
     "Kulgam": {
@@ -230,23 +223,25 @@
       ]
     },
     "Kupwara": {
-      "mentions": 4,
-      "sentiment": 0.09,
+      "mentions": 5,
+      "sentiment": 0.131,
       "top_terms": [
         "Kupwara Man",
         "Fourth PSA Detention Upheld",
         "High Court",
-        "Sulaiman Bhat",
-        "MLA Lolab Qaysar Jamshaid"
+        "Hindustan Times",
+        "Operation Drishti"
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": -0.382,
+      "mentions": 6,
+      "sentiment": -0.255,
       "top_terms": [
+        "Seals Unlicensed Packaged Drinking",
+        "Water Unit",
+        "IGC Lassipora",
         "Keegam",
-        "Man Dies",
-        "Electric Shock"
+        "Man Dies"
       ]
     },
     "Shopian": {
@@ -261,33 +256,35 @@
       ]
     },
     "Srinagar": {
-      "mentions": 32,
-      "sentiment": -0.043,
+      "mentions": 28,
+      "sentiment": -0.132,
       "top_terms": [
         "Vande Bharat Jammu",
         "Journey",
         "Uri Rail Line",
         "Qazigund",
-        "December"
+        "Phase"
       ]
     },
     "Doda": {
-      "mentions": 2,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": 0.075,
       "top_terms": [
         "PM National Apprenticeship Mela",
-        "Government ITI Doda"
+        "Government ITI Doda",
+        "Police",
+        "NDPS Act"
       ]
     },
     "Jammu": {
-      "mentions": 49,
-      "sentiment": -0.017,
+      "mentions": 39,
+      "sentiment": 0.063,
       "top_terms": [
-        "Jammu Kashmir High Court",
-        "Jammu Kashmir",
         "Kashmir LoP",
         "Union Home Minister",
-        "Statehood"
+        "Statehood",
+        "Approves Rs",
+        "Crore Multi"
       ]
     },
     "Kathua": {
@@ -302,32 +299,34 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": -0.409,
       "top_terms": [
+        "Crime Branch Tells Kishtwar",
+        "Court Chatroo Minor Death",
+        "Probe Still Underway",
+        "Forensic Reports Awaited",
         "Cloudburst"
       ]
     },
     "Poonch": {
-      "mentions": 2,
-      "sentiment": 0.275,
+      "mentions": 3,
+      "sentiment": 0.226,
       "top_terms": [
+        "Leopard Cub Saved",
+        "Wire Trap",
         "District",
         "CSS Works",
-        "Poonch District",
-        "Plantation Drive",
-        "Poonch Schools"
+        "Poonch District"
       ]
     },
     "Rajouri": {
-      "mentions": 3,
-      "sentiment": -0.12,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
         "Field",
         "Smooth Rollout",
-        "Rajouri District",
-        "IIOJK",
-        "Retired"
+        "Rajouri District"
       ]
     },
     "Ramban": {
@@ -351,14 +350,12 @@
       ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.195,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
         "Assessment",
         "Awareness Camp",
-        "DC Office Samba",
-        "Police Arrest Man",
-        "Connection Samba Firing"
+        "DC Office Samba"
       ]
     },
     "Udhampur": {
@@ -378,75 +375,67 @@
   ],
   "source_breakdown": [
     {
-      "domain": "dailyexcelsior.com",
-      "count": 33
+      "domain": "Daily Excelsior",
+      "count": 39
     },
     {
       "domain": "Greater Kashmir",
-      "count": 30
-    },
-    {
-      "domain": "Kashmir Life",
-      "count": 29
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 23
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 19
+      "count": 35
     },
     {
       "domain": "Rising Kashmir",
-      "count": 16
+      "count": 25
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 11
+      "domain": "Jammu Links News",
+      "count": 25
     },
     {
-      "domain": "Daily Excelsior",
-      "count": 8
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 8
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 8
-    },
-    {
-      "domain": "ETV Bharat",
-      "count": 7
+      "domain": "Kashmir Life",
+      "count": 23
     },
     {
       "domain": "thekashmirimages.com",
-      "count": 7
+      "count": 16
     },
     {
-      "domain": "The Hindu",
-      "count": 6
+      "domain": "The Kashmir Horizon",
+      "count": 14
     },
     {
-      "domain": "News On AIR",
-      "count": 6
+      "domain": "Kashmir Observer",
+      "count": 13
     },
     {
       "domain": "KNS News",
+      "count": 12
+    },
+    {
+      "domain": "News On AIR",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir News Observer",
+      "count": 7
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 7
+    },
+    {
+      "domain": "ETV Bharat",
       "count": 6
     },
     {
-      "domain": "The Tribune",
+      "domain": "The Hindu",
       "count": 5
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "kashmirindepth.com",
       "count": 4
     },
     {
-      "domain": "jknewstoday.com",
+      "domain": "Hindustan Times",
       "count": 4
     },
     {
@@ -454,12 +443,20 @@
       "count": 4
     },
     {
-      "domain": "The Indian Express",
+      "domain": "The Global Kashmir",
+      "count": 4
+    },
+    {
+      "domain": "kimskashmir.com",
+      "count": 4
+    },
+    {
+      "domain": "10net.in",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 309,
+    "articles_fetched": 306,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
