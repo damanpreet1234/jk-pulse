@@ -1,91 +1,91 @@
 {
-  "generated_at": "2026-09-28T03:24:01.800120+00:00",
+  "generated_at": "2026-09-28T10:28:52.463942+00:00",
   "date": "2026-09-28",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.005,
+    "score": -0.089,
     "label": "mixed / neutral",
-    "positive_pct": 28.2,
-    "neutral_pct": 47.3,
-    "negative_pct": 24.5,
-    "sample_size": 319
+    "positive_pct": 20.0,
+    "neutral_pct": 47.1,
+    "negative_pct": 32.9,
+    "sample_size": 340
   },
   "top_keywords": [
     {
-      "term": "World Tourism Day",
-      "mentions": 18,
-      "sentiment": 0.231
-    },
-    {
       "term": "Assembly",
-      "mentions": 15,
-      "sentiment": 0.028
+      "mentions": 38,
+      "sentiment": -0.085
     },
     {
       "term": "Statehood",
-      "mentions": 11,
-      "sentiment": -0.116
+      "mentions": 13,
+      "sentiment": -0.02
     },
     {
-      "term": "India",
-      "mentions": 9,
-      "sentiment": 0.037
+      "term": "Speaker",
+      "mentions": 10,
+      "sentiment": 0.012
     },
     {
-      "term": "JKCA",
-      "mentions": 9,
-      "sentiment": 0.02
-    },
-    {
-      "term": "Jewel Chowk",
+      "term": "Ruckus",
       "mentions": 7,
-      "sentiment": 0.656
+      "sentiment": -0.245
     },
     {
-      "term": "Altaf Bukhari",
+      "term": "CM Omar",
       "mentions": 6,
-      "sentiment": 0.08
+      "sentiment": 0.017
     },
     {
-      "term": "Bukhari",
-      "mentions": 5,
-      "sentiment": 0.368
-    },
-    {
-      "term": "Irani Cup",
-      "mentions": 5,
+      "term": "Statehood Resolution",
+      "mentions": 6,
       "sentiment": 0.0
     },
     {
+      "term": "CM Omar Abdullah",
+      "mentions": 6,
+      "sentiment": -0.139
+    },
+    {
+      "term": "Omar Abdullah",
+      "mentions": 6,
+      "sentiment": 0.201
+    },
+    {
+      "term": "India",
+      "mentions": 5,
+      "sentiment": 0.134
+    },
+    {
+      "term": "World Tourism Day",
+      "mentions": 5,
+      "sentiment": 0.298
+    },
+    {
+      "term": "Police",
+      "mentions": 5,
+      "sentiment": -0.305
+    },
+    {
       "term": "Govt",
-      "mentions": 5,
-      "sentiment": 0.471
-    },
-    {
-      "term": "Three",
-      "mentions": 5,
-      "sentiment": -0.334
-    },
-    {
-      "term": "Daily Excelsior",
-      "mentions": 5,
-      "sentiment": 0.137
+      "mentions": 4,
+      "sentiment": 0.011
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 4,
-      "sentiment": -0.349
+      "sentiment": -0.253
     },
     {
-      "term": "Industrial Policy",
+      "term": "Mehbooba Mufti",
       "mentions": 4,
       "sentiment": 0.0
     },
     {
-      "term": "Discover",
+      "term": "BJP Moves Motion",
       "mentions": 4,
-      "sentiment": 0.293
+      "sentiment": 0.0
     },
     {
       "term": "Crime Situation",
@@ -93,253 +93,266 @@
       "sentiment": -0.192
     },
     {
-      "term": "Absconding Accused",
-      "mentions": 4,
-      "sentiment": -0.777
+      "term": "Centre",
+      "mentions": 3,
+      "sentiment": 0.122
     },
     {
-      "term": "Omar",
-      "mentions": 4,
-      "sentiment": 0.038
-    },
-    {
-      "term": "PDP MLA Waheed Para",
-      "mentions": 4,
+      "term": "CM Omar Abdullah Introduces",
+      "mentions": 3,
       "sentiment": 0.0
     },
     {
-      "term": "Multi",
-      "mentions": 4,
-      "sentiment": -0.791
+      "term": "Jammu Kashmir Govt",
+      "mentions": 3,
+      "sentiment": -0.306
+    },
+    {
+      "term": "JKAS Officers Transferred",
+      "mentions": 3,
+      "sentiment": 0.382
     }
   ],
   "emerging": [
     {
-      "term": "Irani Cup",
-      "mentions_now": 5,
-      "baseline_avg": 1.14,
-      "zscore": 11.02,
-      "reason": "spike"
-    },
-    {
-      "term": "JKCA",
-      "mentions_now": 9,
-      "baseline_avg": 1.83,
-      "zscore": 7.98,
-      "reason": "spike"
-    },
-    {
-      "term": "Three",
-      "mentions_now": 5,
-      "baseline_avg": 1.6,
-      "zscore": 4.25,
-      "reason": "spike"
-    },
-    {
-      "term": "Altaf Bukhari",
-      "mentions_now": 6,
-      "baseline_avg": 2.75,
-      "zscore": 2.2,
-      "reason": "spike"
-    },
-    {
-      "term": "Industrial Policy",
+      "term": "Mehbooba Mufti",
       "mentions_now": 4,
-      "baseline_avg": 1.67,
-      "zscore": 2.11,
+      "baseline_avg": 1.12,
+      "zscore": 8.69,
       "reason": "spike"
     },
     {
-      "term": "EOW Kashmir Arrests Long",
+      "term": "Speaker",
+      "mentions_now": 10,
+      "baseline_avg": 2.5,
+      "zscore": 8.66,
+      "reason": "spike"
+    },
+    {
+      "term": "Article",
       "mentions_now": 3,
-      "baseline_avg": 2,
-      "zscore": 2.0,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
+      "term": "MLAs",
+      "mentions_now": 3,
+      "baseline_avg": 1.25,
+      "zscore": 4.04,
+      "reason": "spike"
+    },
+    {
+      "term": "Kargil",
+      "mentions_now": 3,
+      "baseline_avg": 1.25,
+      "zscore": 4.04,
+      "reason": "spike"
+    },
+    {
+      "term": "IIT Jammu",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Ruckus",
+      "mentions_now": 7,
+      "baseline_avg": 2.43,
+      "zscore": 3.53,
+      "reason": "spike"
+    },
+    {
+      "term": "Assembly",
+      "mentions_now": 38,
+      "baseline_avg": 15.5,
+      "zscore": 2.34,
       "reason": "spike"
     },
     {
       "term": "Statehood",
-      "mentions_now": 11,
-      "baseline_avg": 4.92,
-      "zscore": 1.9,
+      "mentions_now": 13,
+      "baseline_avg": 5.38,
+      "zscore": 2.19,
       "reason": "spike"
     },
     {
-      "term": "Multi",
-      "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 1.83,
+      "term": "Centre",
+      "mentions_now": 3,
+      "baseline_avg": 1.64,
+      "zscore": 2.12,
       "reason": "spike"
     },
     {
-      "term": "Bukhari",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
+      "term": "Resolution",
+      "mentions_now": 3,
+      "baseline_avg": 1.57,
+      "zscore": 1.96,
+      "reason": "spike"
     },
     {
-      "term": "Daily Excelsior",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
+      "term": "LG Sinha",
+      "mentions_now": 3,
+      "baseline_avg": 1.57,
+      "zscore": 1.96,
+      "reason": "spike"
     }
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 5,
-      "sentiment": -0.122,
+      "mentions": 3,
+      "sentiment": -0.263,
       "top_terms": [
-        "IACL",
         "Drug",
         "Massive Forest Fire Engulfs",
         "Badoora Achabal Anantnag",
-        "Fire Tenders"
+        "Fire Tenders",
+        "Forest Deptt"
       ]
     },
     "Bandipora": {
-      "mentions": 4,
-      "sentiment": 0.172,
+      "mentions": 7,
+      "sentiment": -0.026,
       "top_terms": [
-        "Himalayan Tribal Healers Workshop",
-        "Concludes",
-        "Focus",
-        "Recognition",
-        "Preservation"
+        "JK Govt Admits Critical",
+        "Gaps",
+        "Bandipora Healthcare",
+        "Senior Consultants",
+        "Uphill"
       ]
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": -0.094,
+      "mentions": 6,
+      "sentiment": -0.198,
       "top_terms": [
-        "Hold",
-        "Uri Rail Line",
-        "Valley Doubling Project Put",
-        "Uri Rail",
-        "MP Er. Rashid"
+        "Police",
+        "India Withdraws Baramulla",
+        "Uri Railway Project",
+        "Khidmat Centre",
+        "Railways"
       ]
     },
     "Budgam": {
-      "mentions": 7,
-      "sentiment": -0.277,
+      "mentions": 11,
+      "sentiment": -0.226,
       "top_terms": [
         "Crime Situation",
         "IGP Kashmir",
         "IGP Kashmir Reviews Security",
-        "IGP Kashmir Takes Stock",
-        "Budgam Security"
+        "MLA Budgam Submits Amendment",
+        "Statehood Resolution"
       ]
     },
     "Ganderbal": {
-      "mentions": 1,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Drinking Water Supply Disrupted",
-        "Ganderbal Areas Sindh",
-        "Extension Canal Breach"
-      ]
-    },
-    "Kulgam": {
-      "mentions": 1,
-      "sentiment": 0.511,
-      "top_terms": [
-        "Sakeena Itoo"
-      ]
-    },
-    "Kupwara": {
-      "mentions": 2,
-      "sentiment": -0.17,
-      "top_terms": [
-        "AFMS Surgeons Perform",
-        "Sight",
-        "Restoring Surgeries",
-        "Kupwara Under Operation Drishti",
-        "Fireman"
-      ]
-    },
-    "Pulwama": {
-      "mentions": 3,
-      "sentiment": -0.181,
-      "top_terms": [
-        "Seals Unlicensed Packaged Drinking",
-        "Water Unit",
-        "IGC Lassipora",
-        "FDA Seals Unlicensed",
-        "Icy Wave"
-      ]
-    },
-    "Shopian": {
       "mentions": 0,
       "sentiment": null,
       "top_terms": []
     },
-    "Srinagar": {
-      "mentions": 29,
-      "sentiment": -0.076,
+    "Kulgam": {
+      "mentions": 2,
+      "sentiment": -0.17,
       "top_terms": [
-        "Outsiders",
-        "Altaf Bukhari",
-        "Mirwaiz Farooq",
-        "December",
-        "Srinagar Jammu National Highway"
+        "Police Crack Khidmat Centre",
+        "Theft Case",
+        "Arrest Kulgam Man",
+        "Kulgam Police Conducts Verification",
+        "SIM Vendors"
       ]
     },
-    "Doda": {
-      "mentions": 5,
-      "sentiment": 0.206,
+    "Kupwara": {
+      "mentions": 13,
+      "sentiment": -0.628,
       "top_terms": [
-        "Colonel",
-        "Commanding Officer",
-        "Rifle Shooting Championship",
-        "Wrestling Dangal",
+        "LG Sinha",
+        "Several Injured",
+        "Leopard",
+        "Nine",
+        "Month"
+      ]
+    },
+    "Pulwama": {
+      "mentions": 1,
+      "sentiment": -0.542,
+      "top_terms": [
+        "FDA Kashmir Crackdown",
+        "Pulwama Water Plant Sealed",
+        "FSSAI Licence Row"
+      ]
+    },
+    "Shopian": {
+      "mentions": 2,
+      "sentiment": -0.47,
+      "top_terms": [
+        "PDD Daily",
+        "Wager Electrocuted Death",
+        "While Duty",
+        "Receiving Station Shopian",
         "Police"
       ]
     },
+    "Srinagar": {
+      "mentions": 34,
+      "sentiment": -0.075,
+      "top_terms": [
+        "Mehbooba Mufti",
+        "Mirwaiz Farooq",
+        "Srinagar Jammu National Highway",
+        "Water",
+        "Mirwaiz Umar Farooq"
+      ]
+    },
+    "Doda": {
+      "mentions": 6,
+      "sentiment": 0.151,
+      "top_terms": [
+        "Dengue Cases Rise",
+        "Patients Admitted GMC",
+        "Hospital",
+        "Colonel",
+        "Commanding Officer"
+      ]
+    },
     "Jammu": {
-      "mentions": 43,
-      "sentiment": -0.02,
+      "mentions": 58,
+      "sentiment": -0.062,
       "top_terms": [
         "Jammu Kashmir",
-        "Jewel Chowk",
-        "JKCA",
-        "India",
-        "Crore Multi"
+        "Govt",
+        "Jammu Kashmir Govt",
+        "Kanyakumari",
+        "Kargil"
       ]
     },
     "Kathua": {
-      "mentions": 3,
-      "sentiment": 0.254,
+      "mentions": 5,
+      "sentiment": 0.158,
       "top_terms": [
         "Bani",
-        "Basohli",
-        "Billawar",
-        "Bhaderwah",
-        "MLA Kathua"
+        "Cops Video Allegedly Collecting",
+        "Entry Fee Trucker",
+        "Goes Viral",
+        "Ks Kathua"
       ]
     },
     "Kishtwar": {
-      "mentions": 1,
-      "sentiment": -0.818,
-      "top_terms": [
-        "Crime Branch Tells Kishtwar",
-        "Court Chatroo Minor Death",
-        "Probe Still Underway",
-        "Forensic Reports Awaited"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Poonch": {
-      "mentions": 2,
-      "sentiment": 0.064,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "Leopard Cub Saved",
-        "Wire Trap",
         "District Poonch Dodgeball Cship"
       ]
     },
     "Rajouri": {
-      "mentions": 2,
-      "sentiment": 0.572,
-      "top_terms": []
+      "mentions": 3,
+      "sentiment": 0.228,
+      "top_terms": [
+        "Tempo"
+      ]
     },
     "Ramban": {
       "mentions": 0,
@@ -350,11 +363,11 @@
       "mentions": 3,
       "sentiment": -0.383,
       "top_terms": [
-        "Jammu Kashmir High Court",
-        "Grants Bail Reasi",
-        "Treasury Fraud Accused",
         "Three",
-        "Year"
+        "Year",
+        "Old Boy Dies",
+        "Being Hit",
+        "Tempo"
       ]
     },
     "Samba": {
@@ -363,14 +376,14 @@
       "top_terms": []
     },
     "Udhampur": {
-      "mentions": 4,
-      "sentiment": -0.199,
+      "mentions": 5,
+      "sentiment": -0.17,
       "top_terms": [
-        "Anti",
-        "Public Protest",
-        "Gol Mela Chowk Udhampur",
-        "Illegal Garbage Dump",
-        "NGO President Tariq Shah"
+        "Kanyakumari",
+        "Kargil",
+        "Kargil Cycling Expedition Leaves",
+        "Jammu Udhampur",
+        "Anti"
       ]
     }
   },
@@ -380,47 +393,55 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 64
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 25
-    },
-    {
       "domain": "Kashmir Life",
-      "count": 24
-    },
-    {
-      "domain": "greaterkashmir.com",
-      "count": 19
+      "count": 48
     },
     {
       "domain": "Greater Kashmir",
+      "count": 37
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 33
+    },
+    {
+      "domain": "Rising Kashmir",
       "count": 19
     },
     {
-      "domain": "KNS News",
-      "count": 18
+      "domain": "thekashmirimages.com",
+      "count": 15
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 14
+      "count": 13
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 12
-    },
-    {
-      "domain": "The Tribune",
-      "count": 9
-    },
-    {
-      "domain": "dailyexcelsior.com",
+      "domain": "Kashmir Observer",
       "count": 8
     },
     {
-      "domain": "theprint.in",
+      "domain": "KNS News",
+      "count": 8
+    },
+    {
+      "domain": "Kashmir Indepth",
+      "count": 8
+    },
+    {
+      "domain": "The Hindu",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 7
+    },
+    {
+      "domain": "The New Indian Express",
+      "count": 7
+    },
+    {
+      "domain": "10net.in",
       "count": 7
     },
     {
@@ -428,40 +449,32 @@
       "count": 6
     },
     {
-      "domain": "The Hindu",
+      "domain": "The Indian Express",
       "count": 6
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "thenorthlines.com",
       "count": 6
     },
     {
-      "domain": "10net.in",
+      "domain": "etvbharat.com",
       "count": 5
     },
     {
-      "domain": "The New Indian Express",
-      "count": 4
+      "domain": "kimskashmir.com",
+      "count": 5
     },
     {
-      "domain": "The Kashmir Horizon",
-      "count": 4
+      "domain": "Kashmir Dot Com",
+      "count": 5
     },
     {
-      "domain": "jkmonitor.org",
+      "domain": "Free Press Kashmir",
       "count": 4
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 4
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 319,
+    "articles_fetched": 340,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
