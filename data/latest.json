@@ -1,178 +1,136 @@
 {
-  "generated_at": "2026-09-28T19:10:43.082011+00:00",
-  "date": "2026-09-28",
+  "generated_at": "2026-09-29T00:09:06.430393+00:00",
+  "date": "2026-09-29",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.072,
-    "label": "mixed / neutral",
-    "positive_pct": 20.3,
-    "neutral_pct": 47.3,
-    "negative_pct": 32.4,
-    "sample_size": 355
+    "score": -0.226,
+    "label": "negative",
+    "positive_pct": 18.2,
+    "neutral_pct": 36.4,
+    "negative_pct": 45.5,
+    "sample_size": 33
   },
   "top_keywords": [
     {
-      "term": "Assembly",
-      "mentions": 31,
-      "sentiment": -0.069
+      "term": "India",
+      "mentions": 8,
+      "sentiment": -0.701
     },
     {
-      "term": "Govt",
-      "mentions": 16,
-      "sentiment": -0.014
-    },
-    {
-      "term": "Statehood",
-      "mentions": 15,
-      "sentiment": -0.059
-    },
-    {
-      "term": "Jammu Kashmir",
+      "term": "IBSA FMs",
       "mentions": 7,
-      "sentiment": -0.05
+      "sentiment": -0.827
     },
     {
-      "term": "CM Omar Abdullah",
-      "mentions": 6,
-      "sentiment": -0.076
+      "term": "UNSC",
+      "mentions": 7,
+      "sentiment": -0.827
     },
     {
-      "term": "Police",
-      "mentions": 6,
-      "sentiment": -0.201
+      "term": "Pahalgam",
+      "mentions": 7,
+      "sentiment": -0.827
     },
     {
-      "term": "Jammu Kashmir Govt",
-      "mentions": 5,
-      "sentiment": -0.248
+      "term": "Dal Lake",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
-      "term": "Assembly Passes Statehood Resolution",
-      "mentions": 5,
-      "sentiment": -0.154
+      "term": "Daily Excelsior",
+      "mentions": 2,
+      "sentiment": 0.178
     },
     {
       "term": "Omar Abdullah",
-      "mentions": 5,
-      "sentiment": 0.017
+      "mentions": 2,
+      "sentiment": -0.159
     },
     {
-      "term": "Statehood Resolution",
-      "mentions": 4,
+      "term": "September",
+      "mentions": 2,
       "sentiment": 0.0
     },
     {
-      "term": "Centre",
-      "mentions": 4,
-      "sentiment": -0.013
-    },
-    {
-      "term": "CM Omar",
-      "mentions": 4,
-      "sentiment": -0.406
-    },
-    {
-      "term": "Five",
-      "mentions": 4,
-      "sentiment": -0.602
-    },
-    {
-      "term": "Old Pension Scheme",
-      "mentions": 3,
+      "term": "Gurgaon",
+      "mentions": 2,
       "sentiment": 0.0
     },
     {
-      "term": "Anti",
-      "mentions": 3,
-      "sentiment": -0.116
+      "term": "JK Deptt",
+      "mentions": 1,
+      "sentiment": 0.617
     },
     {
-      "term": "Kashmir Assembly",
-      "mentions": 3,
-      "sentiment": -0.075
+      "term": "Commercial",
+      "mentions": 1,
+      "sentiment": 0.617
     },
     {
-      "term": "Gulmarg",
-      "mentions": 3,
-      "sentiment": 0.346
+      "term": "Farooq",
+      "mentions": 1,
+      "sentiment": 0.178
     },
     {
-      "term": "Congress MLAs",
-      "mentions": 3,
-      "sentiment": 0.13
+      "term": "Karnah",
+      "mentions": 1,
+      "sentiment": -0.807
     },
     {
-      "term": "Ruckus",
-      "mentions": 3,
-      "sentiment": -0.216
+      "term": "Speaker",
+      "mentions": 1,
+      "sentiment": 0.0
     },
     {
-      "term": "Sajad Lone",
-      "mentions": 3,
-      "sentiment": 0.192
+      "term": "Four",
+      "mentions": 1,
+      "sentiment": -0.421
+    },
+    {
+      "term": "MLAs",
+      "mentions": 1,
+      "sentiment": -0.421
+    },
+    {
+      "term": "Assembly",
+      "mentions": 1,
+      "sentiment": -0.421
+    },
+    {
+      "term": "CM INTRODUCES BILLS",
+      "mentions": 1,
+      "sentiment": 0.361
+    },
+    {
+      "term": "Ease",
+      "mentions": 1,
+      "sentiment": 0.361
+    },
+    {
+      "term": "Bill",
+      "mentions": 1,
+      "sentiment": 0.361
     }
   ],
   "emerging": [
     {
-      "term": "Anti",
-      "mentions_now": 3,
-      "baseline_avg": 1.09,
-      "zscore": 6.64,
-      "reason": "spike"
-    },
-    {
-      "term": "Five",
-      "mentions_now": 4,
+      "term": "UNSC",
+      "mentions_now": 7,
       "baseline_avg": 1,
-      "zscore": 6.0,
+      "zscore": 12.0,
       "reason": "spike"
     },
     {
-      "term": "Gulmarg",
-      "mentions_now": 3,
-      "baseline_avg": 1.4,
-      "zscore": 3.27,
+      "term": "Pahalgam",
+      "mentions_now": 7,
+      "baseline_avg": 1,
+      "zscore": 12.0,
       "reason": "spike"
     },
     {
-      "term": "Centre",
-      "mentions_now": 4,
-      "baseline_avg": 1.73,
-      "zscore": 3.03,
-      "reason": "spike"
-    },
-    {
-      "term": "Kashmir Assembly",
-      "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Statehood",
-      "mentions_now": 15,
-      "baseline_avg": 5.93,
-      "zscore": 2.34,
-      "reason": "spike"
-    },
-    {
-      "term": "Jammu Kashmir Govt",
-      "mentions_now": 5,
-      "baseline_avg": 2.5,
-      "zscore": 2.24,
-      "reason": "spike"
-    },
-    {
-      "term": "Sakeena Itoo",
-      "mentions_now": 3,
-      "baseline_avg": 1.78,
-      "zscore": 1.94,
-      "reason": "spike"
-    },
-    {
-      "term": "Assembly Passes Statehood Resolution",
-      "mentions_now": 5,
+      "term": "IBSA FMs",
+      "mentions_now": 7,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
@@ -180,48 +138,24 @@
   ],
   "districts": {
     "Anantnag": {
-      "mentions": 6,
-      "sentiment": -0.036,
-      "top_terms": [
-        "Police",
-        "DC Anantnag",
-        "CRPF Takes Anantnag Students",
-        "Bharat Darshan",
-        "Drug"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Bandipora": {
-      "mentions": 10,
-      "sentiment": -0.034,
-      "top_terms": [
-        "Bandipora Constituency",
-        "Sakeena Itoo",
-        "Footpaths",
-        "Healthcare Institutions Functioning",
-        "JK Govt Admits Critical"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": -0.205,
-      "top_terms": [
-        "Police Crack Khidmat Centre",
-        "Accused Arrested",
-        "Serious Ramifications",
-        "High Court Transfers Investigation",
-        "Baramulla Fake Decree"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Budgam": {
-      "mentions": 9,
-      "sentiment": 0.047,
-      "top_terms": [
-        "DC Budgam",
-        "MLA Budgam Submits Amendment",
-        "Statehood Resolution",
-        "Jammu Kashmir Assembly",
-        "Railway Ministry"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Ganderbal": {
       "mentions": 0,
@@ -229,26 +163,14 @@
       "top_terms": []
     },
     "Kulgam": {
-      "mentions": 8,
-      "sentiment": -0.085,
-      "top_terms": [
-        "DC Kulgam",
-        "Yaripora",
-        "Behibagh",
-        "Police",
-        "Five"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Kupwara": {
-      "mentions": 21,
-      "sentiment": -0.548,
-      "top_terms": [
-        "Five Killed",
-        "LG Sinha",
-        "Road Accident",
-        "Leopard",
-        "Several Injured"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Pulwama": {
       "mentions": 0,
@@ -256,219 +178,156 @@
       "top_terms": []
     },
     "Shopian": {
-      "mentions": 7,
-      "sentiment": -0.12,
-      "top_terms": [
-        "Police",
-        "Five",
-        "Govt",
-        "Environment Building Programme",
-        "Inclusive Education"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Srinagar": {
-      "mentions": 29,
-      "sentiment": -0.087,
-      "top_terms": [
-        "IN PHOTOS",
-        "Daily",
-        "Srinagar Jammu National Highway",
-        "Srinagar Set Host",
-        "Irani Cup Debut"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Doda": {
-      "mentions": 6,
-      "sentiment": 0.161,
-      "top_terms": [
-        "Dengue Cases Rise",
-        "Patients Admitted GMC",
-        "Hospital",
-        "Health Department",
-        "Ks Doda Reports"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Jammu": {
-      "mentions": 70,
-      "sentiment": -0.048,
+      "mentions": 1,
+      "sentiment": 0.153,
       "top_terms": [
-        "Jammu Kashmir",
-        "Jammu Kashmir Govt",
-        "Govt",
-        "Statehood",
-        "Kashmir Assembly"
+        "CGPWA Releases Newsletter",
+        "Scoop Jammu Kashmir"
       ]
     },
     "Kathua": {
-      "mentions": 11,
-      "sentiment": -0.062,
-      "top_terms": [
-        "Ks Kathua",
-        "Bani",
-        "Cops Viral Video",
-        "Police Disengages SPO",
-        "Orders DE Against Another"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Kishtwar": {
-      "mentions": 3,
-      "sentiment": -0.033,
-      "top_terms": [
-        "Capacity Building Workshop",
-        "Liquor Sale",
-        "Consumption Banned Within",
-        "Metres Sarthal Devi",
-        "Shrine"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Poonch": {
-      "mentions": 3,
-      "sentiment": -0.2,
-      "top_terms": [
-        "Man Electrocuted",
-        "Death",
-        "Man Dies Electrocution",
-        "District Poonch Dodgeball Cship"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Rajouri": {
-      "mentions": 5,
-      "sentiment": -0.08,
-      "top_terms": [
-        "Tempo",
-        "Jammu Kashmir High Court",
-        "Orders Perjury Complaint Against",
-        "Rajouri Man",
-        "Fictitious"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Ramban": {
-      "mentions": 1,
-      "sentiment": -0.202,
-      "top_terms": [
-        "Land",
-        "Govt"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Reasi": {
-      "mentions": 2,
-      "sentiment": 0.01,
-      "top_terms": [
-        "DDC Reasi",
-        "IEC Van",
-        "Viksit Gram Panchayat Plan",
-        "Congress",
-        "Amarujala"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Police",
-        "AHD Jammu",
-        "Rabies"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Udhampur": {
-      "mentions": 5,
-      "sentiment": 0.01,
-      "top_terms": [
-        "Kanyakumari",
-        "Kargil",
-        "DC Udhampur",
-        "NCORD",
-        "Kargil Cycling Expedition Leaves"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     }
   },
   "sources_used": [
-    "google_news"
+    "gdelt"
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 62
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 25
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 23
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 20
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 19
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 17
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 16
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 11
-    },
-    {
-      "domain": "knskashmir.com",
-      "count": 10
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 8
-    },
-    {
-      "domain": "kimskashmir.com",
-      "count": 8
-    },
-    {
-      "domain": "The Kashmir Horizon",
+      "domain": "kashmirreader.com",
       "count": 7
     },
     {
-      "domain": "theprint.in",
-      "count": 6
-    },
-    {
-      "domain": "ETV Bharat",
-      "count": 6
-    },
-    {
-      "domain": "Kashmir Indepth",
-      "count": 6
-    },
-    {
-      "domain": "The New Indian Express",
+      "domain": "dailyexcelsior.com",
       "count": 5
     },
     {
-      "domain": "The Indian Express",
-      "count": 4
+      "domain": "timesofindia.indiatimes.com",
+      "count": 2
     },
     {
-      "domain": "The Hindu",
-      "count": 4
+      "domain": "indiankanoon.org",
+      "count": 2
     },
     {
-      "domain": "10net.in",
-      "count": 4
+      "domain": "thenorthlines.com",
+      "count": 1
     },
     {
-      "domain": "Rediff",
-      "count": 4
+      "domain": "m.rediff.com",
+      "count": 1
+    },
+    {
+      "domain": "tribuneindia.com",
+      "count": 1
+    },
+    {
+      "domain": "theuknews.com",
+      "count": 1
+    },
+    {
+      "domain": "scroll.in",
+      "count": 1
+    },
+    {
+      "domain": "azerbaijannews.net",
+      "count": 1
+    },
+    {
+      "domain": "northkoreatimes.com",
+      "count": 1
+    },
+    {
+      "domain": "thailandnews.net",
+      "count": 1
+    },
+    {
+      "domain": "argentinastar.com",
+      "count": 1
+    },
+    {
+      "domain": "economictimes.indiatimes.com",
+      "count": 1
+    },
+    {
+      "domain": "bilkulonline.com",
+      "count": 1
+    },
+    {
+      "domain": "lancashiretelegraph.co.uk",
+      "count": 1
+    },
+    {
+      "domain": "russiaherald.com",
+      "count": 1
+    },
+    {
+      "domain": "brazilsun.com",
+      "count": 1
+    },
+    {
+      "domain": "scoopnews.in",
+      "count": 1
+    },
+    {
+      "domain": "southeastasiapost.com",
+      "count": 1
     }
   ],
   "run_stats": {
-    "articles_fetched": 355,
+    "articles_fetched": 33,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
