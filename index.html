@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>J&amp;K Pulse — News &amp; Mood Tracker</title>
+<title id="pageTitle">J&amp;K Pulse — News &amp; Mood Tracker</title>
 <style>
   :root {
     color-scheme: light;
@@ -154,8 +154,8 @@
 <div class="wrap">
   <header>
     <div>
-      <h1>J&amp;K Pulse</h1>
-      <div class="subtitle">Automated news &amp; mood tracker for Jammu &amp; Kashmir — free, self-updating, no manual steps</div>
+      <h1 id="pageH1">J&amp;K Pulse</h1>
+      <div class="subtitle" id="pageSubtitle">Automated news &amp; mood tracker for Jammu &amp; Kashmir — free, self-updating, no manual steps</div>
     </div>
     <div style="text-align:right">
       <button class="theme-btn" id="themeBtn" type="button">Toggle theme</button>
@@ -165,12 +165,17 @@
 
   <nav class="tabs">
     <button data-tab="overview" class="active">Overview</button>
-    <button data-tab="districts">By district</button>
+    <button data-tab="districts" id="tabDistrictsBtn">By district</button>
     <button data-tab="search">Search</button>
     <button data-tab="sources">Sources</button>
   </nav>
 
   <div class="scope-bar">
+    <label for="regionSelect">Region</label>
+    <select id="regionSelect">
+      <option value="jk">Jammu &amp; Kashmir</option>
+      <option value="pakistan">Pakistan (Pakistani media)</option>
+    </select>
     <label for="scopeSelect">Showing data for</label>
     <select id="scopeSelect"><option value="all">All available</option></select>
     <span class="empty" id="scopeNote"></span>
@@ -186,10 +191,26 @@
 
 <script>
 (function () {
-  // Must match scripts/geo_reference.json's J&K district list.
-  var DISTRICTS = ["Anantnag","Bandipora","Baramulla","Budgam","Ganderbal","Kulgam","Kupwara",
-    "Pulwama","Shopian","Srinagar","Doda","Jammu","Kathua","Kishtwar","Poonch","Rajouri",
-    "Ramban","Reasi","Samba","Udhampur"];
+  // Region configs must match scripts/collect.py's REGIONS list and
+  // scripts/geo_reference.json's area lists.
+  var REGION_CONFIGS = {
+    jk: {
+      key: 'jk', brand: 'J&amp;K Pulse',
+      subtitle: 'Automated news &amp; mood tracker for Jammu &amp; Kashmir — free, self-updating, no manual steps',
+      areaLabel: 'District', areaLabelPlural: 'district', areaField: 'districts', dataDir: 'data/',
+      indiaRelated: false,
+      areas: ["Anantnag","Bandipora","Baramulla","Budgam","Ganderbal","Kulgam","Kupwara",
+        "Pulwama","Shopian","Srinagar","Doda","Jammu","Kathua","Kishtwar","Poonch","Rajouri",
+        "Ramban","Reasi","Samba","Udhampur"],
+    },
+    pakistan: {
+      key: 'pakistan', brand: 'Pakistan Pulse',
+      subtitle: 'What&#39;s circulating in Pakistani media, province by province, and its tone toward India — free, self-updating',
+      areaLabel: 'Province', areaLabelPlural: 'province', areaField: 'provinces', dataDir: 'data/pakistan/',
+      indiaRelated: true,
+      areas: ["Punjab","Sindh","Khyber Pakhtunkhwa","Balochistan","Gilgit-Baltistan","Azad Kashmir","Islamabad"],
+    },
+  };
 
   var root = document.documentElement;
   document.getElementById('themeBtn').addEventListener('click', function () {
@@ -197,7 +218,8 @@
     root.setAttribute('data-theme', cur === 'dark' ? 'light' : 'dark');
   });
 
-  var STATE = { latest: null, history: [], index: [], scope: 'all' };
+  var STATE = { region: 'jk', latest: null, history: [], index: [], scope: 'all', cache: {} };
+  function currentRegion() { return REGION_CONFIGS[STATE.region]; }
 
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, function (c) {
@@ -245,7 +267,8 @@
     return STATE.index.filter(function (a) { return a.date === STATE.scope; });
   }
 
-  function aggregateArticles(articles) {
+  function aggregateArticles(articles, region) {
+    region = region || currentRegion();
     var scores = articles.map(function (a) { return a.sentiment; });
     var pos = scores.filter(function (s) { return s >= 0.05; }).length;
     var neg = scores.filter(function (s) { return s <= -0.05; }).length;
@@ -269,20 +292,27 @@
     var sourceBreakdown = Object.keys(domMap).map(function (d) { return { domain: d, count: domMap[d] }; })
       .sort(function (a, b) { return b.count - a.count; });
 
-    var districts = {};
-    DISTRICTS.forEach(function (d) {
-      var arts = articles.filter(function (a) { return (a.districts || []).indexOf(d) !== -1; });
-      if (!arts.length) { districts[d] = { mentions: 0, sentiment: null, articles: [] }; return; }
+    var areaField = region.areaField;
+    var areas = {};
+    region.areas.forEach(function (d) {
+      var arts = articles.filter(function (a) { return (a[areaField] || []).indexOf(d) !== -1; });
+      if (!arts.length) { areas[d] = { mentions: 0, sentiment: null, articles: [] }; return; }
       var s = arts.map(function (a) { return a.sentiment; });
-      districts[d] = { mentions: arts.length, sentiment: s.reduce(function (a, b) { return a + b; }, 0) / s.length, articles: arts };
+      areas[d] = { mentions: arts.length, sentiment: s.reduce(function (a, b) { return a + b; }, 0) / s.length, articles: arts };
     });
+
+    var indiaScores = region.indiaRelated
+      ? articles.filter(function (a) { return a.india_related; }).map(function (a) { return a.sentiment; })
+      : [];
+    var indiaAvg = indiaScores.length ? indiaScores.reduce(function (a, b) { return a + b; }, 0) / indiaScores.length : null;
 
     return {
       sampleSize: scores.length,
       mood: { score: avg, positive_pct: scores.length ? 100 * pos / scores.length : null,
               neutral_pct: scores.length ? 100 * neu / scores.length : null,
               negative_pct: scores.length ? 100 * neg / scores.length : null },
-      topKeywords: topKeywords, sourceBreakdown: sourceBreakdown, districts: districts,
+      indiaTone: region.indiaRelated ? { score: indiaAvg, sampleSize: indiaScores.length } : null,
+      topKeywords: topKeywords, sourceBreakdown: sourceBreakdown, areas: areas,
     };
   }
 
@@ -306,6 +336,7 @@
 
   // ---- OVERVIEW ----
   function renderOverview() {
+    var region = currentRegion();
     var el = document.getElementById('tab-overview');
     el.innerHTML = '';
     var snap = STATE.latest;
@@ -317,27 +348,32 @@
       return;
     }
 
-    var mood = snap.overall_mood;
-    var grid = document.createElement('div');
-    grid.className = 'grid'; grid.style.marginBottom = '4px';
-    grid.innerHTML =
-      tile('Overall tone (latest run)', mood.label, moodClass(mood.score), mood.score.toFixed(2)) +
-      tile('Positive coverage', fmtPct(mood.positive_pct), '') +
-      tile('Negative coverage', fmtPct(mood.negative_pct), '') +
-      tile('Articles this run', mood.sample_size, '');
-    el.appendChild(grid);
-    var runNote = document.createElement('div');
-    runNote.className = 'empty'; runNote.style.margin = '2px 0 16px';
-    runNote.textContent = 'Latest run: ' + new Date(snap.generated_at).toLocaleString() + '. The tiles above always reflect the most recent run; everything below reflects the date range selected above.';
-    el.appendChild(runNote);
-
     function tile(label, value, cls, sub) {
       return '<div class="tile"><div class="label">' + label + '</div>' +
         '<div class="value ' + cls + '">' + value + '</div>' +
         (sub ? '<div class="label">score ' + sub + '</div>' : '') + '</div>';
     }
 
-    var scoped = aggregateArticles(articlesInScope());
+    var mood = snap.overall_mood;
+    var tiles =
+      tile('Overall tone (latest run)', mood.label, moodClass(mood.score), mood.score.toFixed(2)) +
+      tile('Positive coverage', fmtPct(mood.positive_pct), '') +
+      tile('Negative coverage', fmtPct(mood.negative_pct), '') +
+      tile('Articles this run', mood.sample_size, '');
+    if (region.indiaRelated && snap.india_tone && snap.india_tone.score !== null && snap.india_tone.score !== undefined) {
+      var it = snap.india_tone;
+      tiles += tile('Tone toward India (latest run)', it.label, moodClass(it.score), it.score.toFixed(2) + ' · ' + it.sample_size + ' articles');
+    }
+    var grid = document.createElement('div');
+    grid.className = 'grid'; grid.style.marginBottom = '4px';
+    grid.innerHTML = tiles;
+    el.appendChild(grid);
+    var runNote = document.createElement('div');
+    runNote.className = 'empty'; runNote.style.margin = '2px 0 16px';
+    runNote.textContent = 'Latest run: ' + new Date(snap.generated_at).toLocaleString() + '. The tiles above always reflect the most recent run; everything below reflects the date range selected above.';
+    el.appendChild(runNote);
+
+    var scoped = aggregateArticles(articlesInScope(), region);
 
     var moodCard = document.createElement('div');
     moodCard.className = 'card';
@@ -358,6 +394,21 @@
         '</div>';
     }
     el.appendChild(moodCard);
+
+    if (region.indiaRelated) {
+      var indiaCard = document.createElement('div');
+      indiaCard.className = 'card';
+      if (!scoped.indiaTone || !scoped.indiaTone.sampleSize) {
+        indiaCard.innerHTML = '<h2>Tone toward India <span class="note">(selected range)</span></h2>';
+        renderEmpty(indiaCard, 'No India-related coverage indexed for this date range yet.');
+      } else {
+        indiaCard.innerHTML = '<h2>Tone toward India <span class="note">(selected range · ' + scoped.indiaTone.sampleSize + ' India-related articles)</span></h2>' +
+          '<div class="tile" style="max-width:220px"><div class="label">Average score</div>' +
+          '<div class="value ' + moodClass(scoped.indiaTone.score) + '">' + moodLabel(scoped.indiaTone.score) + '</div>' +
+          '<div class="label">score ' + scoped.indiaTone.score.toFixed(2) + '</div></div>';
+      }
+      el.appendChild(indiaCard);
+    }
 
     if (STATE.history && STATE.history.length > 1) el.appendChild(buildHistoryChart(STATE.history));
 
@@ -425,24 +476,25 @@
     return card;
   }
 
-  // ---- DISTRICTS ----
+  // ---- BY AREA (districts for J&K, provinces for Pakistan) ----
   function renderDistricts() {
+    var region = currentRegion();
     var el = document.getElementById('tab-districts');
     el.innerHTML = '';
-    var scoped = aggregateArticles(articlesInScope());
+    var scoped = aggregateArticles(articlesInScope(), region);
     var card = document.createElement('div'); card.className = 'card';
-    card.innerHTML = '<h2>By district <span class="note">(selected range — click a row for sources)</span></h2>';
-    var names = Object.keys(scoped.districts).sort(function (a, b) { return scoped.districts[b].mentions - scoped.districts[a].mentions; });
+    card.innerHTML = '<h2>By ' + region.areaLabelPlural + ' <span class="note">(selected range — click a row for sources)</span></h2>';
+    var names = Object.keys(scoped.areas).sort(function (a, b) { return scoped.areas[b].mentions - scoped.areas[a].mentions; });
     if (!STATE.index.length) {
-      renderEmpty(card, 'District drill-down needs the search index (data/search_index.json), which appears after this update\'s first run.');
+      renderEmpty(card, 'Drill-down needs the search index (' + region.dataDir + 'search_index.json), which appears after this update\'s first run.');
     } else {
       var wrap = document.createElement('div'); wrap.className = 'table-wrap';
-      var html = '<table><thead><tr><th>District</th><th>Mentions</th><th>Tone</th><th>Top terms</th></tr></thead><tbody>';
+      var html = '<table><thead><tr><th>' + escapeHtml(region.areaLabel) + '</th><th>Mentions</th><th>Tone</th><th>Top terms</th></tr></thead><tbody>';
       names.forEach(function (name) {
-        var d = scoped.districts[name];
+        var d = scoped.areas[name];
         var toneLabel = d.sentiment === null ? '—' : (moodClass(d.sentiment) === 'pos' ? 'positive' : moodClass(d.sentiment) === 'neg' ? 'negative' : 'neutral');
-        var topTerms = aggregateArticles(d.articles || []).topKeywords.slice(0, 5).map(function (k) { return k.term; }).join(', ') || '—';
-        html += '<tr class="dist-row" data-district="' + escapeHtml(name) + '"><td>' + escapeHtml(name) + '</td><td>' + d.mentions + '</td>' +
+        var topTerms = aggregateArticles(d.articles || [], region).topKeywords.slice(0, 5).map(function (k) { return k.term; }).join(', ') || '—';
+        html += '<tr class="dist-row" data-area="' + escapeHtml(name) + '"><td>' + escapeHtml(name) + '</td><td>' + d.mentions + '</td>' +
           '<td><span class="dot ' + moodClass(d.sentiment) + '"></span>' + toneLabel + '</td>' +
           '<td class="terms-cell">' + escapeHtml(topTerms) + '</td></tr>' +
           '<tr><td class="drilldown-cell" colspan="4"></td></tr>';
@@ -455,7 +507,7 @@
           wrap.querySelectorAll('tr.dist-row.open').forEach(function (r) { r.classList.remove('open'); });
           if (willOpen) {
             tr.classList.add('open');
-            var d = scoped.districts[tr.dataset.district];
+            var d = scoped.areas[tr.dataset.area];
             tr.nextElementSibling.querySelector('.drilldown-cell').innerHTML = renderArticleList(d.articles || [], 15);
           }
         });
@@ -491,7 +543,7 @@
   function renderSources() {
     var el = document.getElementById('tab-sources');
     el.innerHTML = '';
-    var scoped = aggregateArticles(articlesInScope());
+    var scoped = aggregateArticles(articlesInScope(), currentRegion());
     var card = document.createElement('div'); card.className = 'card';
     card.innerHTML = '<h2>Sources contributing <span class="note">(selected range)</span></h2>';
     if (!scoped.sourceBreakdown.length) {
@@ -524,7 +576,7 @@
     sel.innerHTML = '<option value="all">All available' + (dates.length ? ' (' + dates.length + ' days)' : '') + '</option>' +
       dates.map(function (d, i) { return '<option value="' + d + '">' + (i === 0 ? 'Today — ' : '') + fmtDate(d) + '</option>'; }).join('');
     sel.value = STATE.scope;
-    sel.addEventListener('change', function () { STATE.scope = sel.value; renderAll(); });
+    sel.onchange = function () { STATE.scope = sel.value; renderAll(); };
     document.getElementById('scopeNote').textContent = STATE.index.length
       ? '' : 'Search/date filtering appears after the next run (needs data/search_index.json).';
   }
@@ -539,25 +591,64 @@
       'Runs automatically every few hours via GitHub Actions — nothing to start or keep running manually.';
   }
 
+  function updateChrome(region) {
+    document.getElementById('pageH1').innerHTML = region.brand;
+    document.getElementById('pageSubtitle').innerHTML = region.subtitle;
+    document.getElementById('pageTitle').textContent = region.brand.replace(/&amp;/g, '&') + ' — News & Mood Tracker';
+    document.getElementById('tabDistrictsBtn').textContent = 'By ' + region.areaLabelPlural;
+    document.getElementById('regionSelect').value = region.key;
+  }
+
   function parseJsonl(text) {
     return text.split('\n').map(function (l) { return l.trim(); }).filter(Boolean).map(function (l) {
       try { return JSON.parse(l); } catch (e) { return null; }
     }).filter(Boolean);
   }
 
-  Promise.all([
-    fetch('data/latest.json', { cache: 'no-store' }).then(function (r) { return r.json(); }),
-    fetch('data/history.jsonl', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(parseJsonl).catch(function () { return []; }),
-    fetch('data/search_index.json', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).catch(function () { return []; }),
-  ]).then(function (results) {
-    STATE.latest = results[0]; STATE.history = results[1]; STATE.index = results[2];
-    populateScopeSelect();
-    renderFooter();
-    renderAll();
-  }).catch(function (err) {
-    document.getElementById('tab-overview').innerHTML =
-      '<div class="card"><h2>Could not load data</h2><div class="empty">' + escapeHtml(String(err)) + '</div></div>';
+  function fetchRegionData(region) {
+    return Promise.all([
+      fetch(region.dataDir + 'latest.json', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw new Error('no latest.json yet for this region'); return r.json(); }),
+      fetch(region.dataDir + 'history.jsonl', { cache: 'no-store' }).then(function (r) { return r.text(); }).then(parseJsonl).catch(function () { return []; }),
+      fetch(region.dataDir + 'search_index.json', { cache: 'no-store' }).then(function (r) { if (!r.ok) throw 0; return r.json(); }).catch(function () { return []; }),
+    ]).then(function (results) {
+      return { latest: results[0], history: results[1], index: results[2] };
+    });
+  }
+
+  function loadRegion(key, opts) {
+    opts = opts || {};
+    var region = REGION_CONFIGS[key];
+    STATE.region = key;
+    updateChrome(region);
+    if (!opts.keepScope) STATE.scope = 'all';
+
+    var cached = STATE.cache[key];
+    var apply = function (data) {
+      STATE.latest = data.latest; STATE.history = data.history; STATE.index = data.index;
+      populateScopeSelect();
+      renderFooter();
+      renderAll();
+    };
+    if (cached) { apply(cached); return; }
+    fetchRegionData(region).then(function (data) {
+      STATE.cache[key] = data;
+      apply(data);
+    }).catch(function (err) {
+      document.getElementById('tab-overview').innerHTML =
+        '<div class="card"><h2>Could not load data</h2><div class="empty">' + escapeHtml(String(err)) +
+        '</div></div>';
+      document.getElementById('tab-districts').innerHTML = '';
+      document.getElementById('tab-search').innerHTML = '';
+      document.getElementById('tab-sources').innerHTML = '';
+      document.getElementById('updatedAt').textContent = 'Not yet run';
+    });
+  }
+
+  document.getElementById('regionSelect').addEventListener('change', function (e) {
+    loadRegion(e.target.value);
   });
+
+  loadRegion(STATE.region);
 })();
 </script>
 </body>

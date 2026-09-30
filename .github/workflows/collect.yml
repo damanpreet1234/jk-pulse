@@ -1,4 +1,4 @@
-name: Collect J&K pulse data
+name: Collect J&K + Pakistan pulse data
 
 on:
   schedule:
@@ -16,7 +16,10 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    # Two regions (J&K + Pakistan) now run one after another in the same job,
+    # each with its own areas fetched concurrently - bumped up from 10 to
+    # leave safe margin since total query volume roughly doubled.
+    timeout-minutes: 20
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -45,6 +48,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No data changes this run."
           else
-            git commit -m "Update J&K pulse data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            git commit -m "Update J&K + Pakistan pulse data ($(date -u +'%Y-%m-%d %H:%M UTC'))"
             git push
           fi

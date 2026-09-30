@@ -1,0 +1,13 @@
+{
+  "generated_at": null,
+  "region": "Pakistan",
+  "not_yet_run": true,
+  "overall_mood": null,
+  "india_tone": null,
+  "top_keywords": [],
+  "emerging": [],
+  "areas": {},
+  "sources_used": [],
+  "run_stats": {"articles_fetched": 0, "errors": []},
+  "methodology_note": "No data collected yet. This fills in automatically after the first scheduled GitHub Actions run (or trigger it manually from the Actions tab)."
+}

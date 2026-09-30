@@ -29,5 +29,22 @@
       "Daily Excelsior", "Kashmir Life", "Kashmir Reader", "Free Press Kashmir"
     ]
   },
-  "notes": "District-level granularity is realistically achievable only where a source ties content to a place name (news datelines, regional outlets, NER on article text). Most social platforms do not expose district-level geotags, so district resolution for social signal is inferred, not direct. State-level is reliable via Google Trends region codes; J&K district-level is the priority/pilot region given regional outlets cover it explicitly."
+  "notes": "District-level granularity is realistically achievable only where a source ties content to a place name (news datelines, regional outlets, NER on article text). Most social platforms do not expose district-level geotags, so district resolution for social signal is inferred, not direct. State-level is reliable via Google Trends region codes; J&K district-level is the priority/pilot region given regional outlets cover it explicitly.",
+  "pakistan_region": {
+    "name": "Pakistan",
+    "provinces": [
+      "Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan",
+      "Gilgit-Baltistan", "Azad Kashmir", "Islamabad"
+    ],
+    "province_disambiguation": {
+      "Punjab": "Pakistan",
+      "Islamabad": "Pakistan"
+    },
+    "regional_news_sources": [
+      "Dawn", "The News International", "Express Tribune", "Geo News",
+      "ARY News", "Samaa TV", "Business Recorder", "Pakistan Today", "The Nation"
+    ],
+    "india_related_terms": ["India", "Indian", "New Delhi", "Bharat", "Modi", "Kashmir"],
+    "notes": "Coverage is filtered to Pakistani-sourced outlets (GDELT sourcecountry:pakistan filter, Google News Pakistan edition) so this reflects what is circulating IN Pakistani media, not global coverage about Pakistan. 'Punjab' and 'Islamabad' get an explicit Pakistan disambiguator in queries since Punjab also names an Indian state."
+  }
 }
