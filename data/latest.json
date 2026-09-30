@@ -1,461 +1,471 @@
 {
-  "generated_at": "2026-09-29T10:22:35.471247+00:00",
-  "date": "2026-09-29",
+  "generated_at": "2026-09-30T03:47:32.797364+00:00",
+  "date": "2026-09-30",
   "region": "Jammu & Kashmir",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.063,
-    "label": "mixed / neutral",
-    "positive_pct": 18.5,
-    "neutral_pct": 51.9,
-    "negative_pct": 29.6,
-    "sample_size": 378
+    "score": -0.18,
+    "label": "negative",
+    "positive_pct": 19.6,
+    "neutral_pct": 38.4,
+    "negative_pct": 42.0,
+    "sample_size": 438
   },
   "top_keywords": [
     {
+      "term": "CISF",
+      "mentions": 26,
+      "sentiment": -0.663
+    },
+    {
       "term": "Assembly",
-      "mentions": 35,
-      "sentiment": 0.007
+      "mentions": 21,
+      "sentiment": -0.084
     },
     {
       "term": "Govt",
-      "mentions": 16,
-      "sentiment": -0.08
-    },
-    {
-      "term": "Ruckus",
-      "mentions": 13,
-      "sentiment": 0.064
-    },
-    {
-      "term": "Farooq Abdullah",
-      "mentions": 11,
-      "sentiment": 0.042
-    },
-    {
-      "term": "Speaker",
-      "mentions": 9,
-      "sentiment": 0.058
+      "mentions": 20,
+      "sentiment": -0.07
     },
     {
       "term": "India",
-      "mentions": 8,
-      "sentiment": -0.009
-    },
-    {
-      "term": "Gallery",
-      "mentions": 6,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Statehood Resolution",
-      "mentions": 6,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Articles",
-      "mentions": 5,
-      "sentiment": -0.01
-    },
-    {
-      "term": "Congress",
-      "mentions": 5,
-      "sentiment": -0.4
+      "mentions": 12,
+      "sentiment": -0.316
     },
     {
       "term": "Jammu Kashmir",
-      "mentions": 4,
-      "sentiment": -0.183
+      "mentions": 8,
+      "sentiment": -0.042
     },
     {
-      "term": "Old Pension Scheme",
-      "mentions": 4,
-      "sentiment": 0.032
+      "term": "Top LeT",
+      "mentions": 7,
+      "sentiment": -0.854
     },
     {
-      "term": "Assembly Statehood Resolution",
-      "mentions": 4,
-      "sentiment": 0.0
+      "term": "Four CISF",
+      "mentions": 7,
+      "sentiment": -0.738
     },
     {
-      "term": "Omar",
-      "mentions": 4,
-      "sentiment": 0.004
+      "term": "Colleagues",
+      "mentions": 6,
+      "sentiment": -0.709
     },
     {
-      "term": "JK Assembly",
-      "mentions": 4,
-      "sentiment": 0.398
+      "term": "Terrorist",
+      "mentions": 6,
+      "sentiment": -0.853
     },
     {
-      "term": "Sunil Sharma",
-      "mentions": 4,
-      "sentiment": 0.107
+      "term": "Army",
+      "mentions": 6,
+      "sentiment": -0.571
     },
     {
-      "term": "Bills",
-      "mentions": 4,
-      "sentiment": 0.0
+      "term": "Encounter",
+      "mentions": 6,
+      "sentiment": -0.698
     },
     {
-      "term": "BJP Walks Out",
-      "mentions": 4,
-      "sentiment": 0.08
+      "term": "Killed",
+      "mentions": 6,
+      "sentiment": -0.805
     },
     {
-      "term": "Three Arrested",
-      "mentions": 4,
-      "sentiment": -0.472
+      "term": "Four CISF Personnel Killed",
+      "mentions": 6,
+      "sentiment": -0.744
     },
     {
-      "term": "Reform Utsav",
-      "mentions": 4,
+      "term": "Omar Abdullah",
+      "mentions": 5,
+      "sentiment": -0.16
+    },
+    {
+      "term": "LG Sinha",
+      "mentions": 5,
+      "sentiment": 0.241
+    },
+    {
+      "term": "UNGA",
+      "mentions": 5,
+      "sentiment": -0.494
+    },
+    {
+      "term": "CISF Jawan Opens Fire",
+      "mentions": 5,
+      "sentiment": -0.732
+    },
+    {
+      "term": "Yousmarg",
+      "mentions": 5,
+      "sentiment": -0.704
+    },
+    {
+      "term": "Budgam Encounter",
+      "mentions": 5,
+      "sentiment": -0.86
+    },
+    {
+      "term": "Sessions Judge Srinagar",
+      "mentions": 5,
       "sentiment": 0.0
     }
   ],
   "emerging": [
     {
-      "term": "Farooq Abdullah",
-      "mentions_now": 11,
-      "baseline_avg": 1.17,
-      "zscore": 26.39,
-      "reason": "spike"
-    },
-    {
-      "term": "Bills",
-      "mentions_now": 4,
-      "baseline_avg": 1.14,
-      "zscore": 8.16,
-      "reason": "spike"
-    },
-    {
-      "term": "Three Arrested",
-      "mentions_now": 4,
-      "baseline_avg": 1,
-      "zscore": 6.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Sunil Sharma",
-      "mentions_now": 4,
-      "baseline_avg": 1.33,
-      "zscore": 5.66,
-      "reason": "spike"
-    },
-    {
-      "term": "JK Assembly",
-      "mentions_now": 4,
-      "baseline_avg": 1.4,
-      "zscore": 5.31,
-      "reason": "spike"
-    },
-    {
-      "term": "Ruckus",
-      "mentions_now": 13,
-      "baseline_avg": 3.14,
-      "zscore": 4.85,
-      "reason": "spike"
-    },
-    {
-      "term": "Gallery",
-      "mentions_now": 6,
-      "baseline_avg": 1.89,
-      "zscore": 4.7,
-      "reason": "spike"
-    },
-    {
-      "term": "Chief Secretary",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Government",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
       "term": "High Court",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "mentions_now": 4,
+      "baseline_avg": 1.44,
+      "zscore": 3.73,
       "reason": "spike"
     },
     {
-      "term": "Congress",
-      "mentions_now": 5,
-      "baseline_avg": 1.73,
-      "zscore": 3.79,
-      "reason": "spike"
-    },
-    {
-      "term": "BJP MLAs",
+      "term": "Fire",
       "mentions_now": 3,
-      "baseline_avg": 1.43,
-      "zscore": 3.18,
-      "reason": "spike"
-    },
-    {
-      "term": "September",
-      "mentions_now": 3,
-      "baseline_avg": 1.64,
+      "baseline_avg": 1.67,
       "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Jammu Kashmir Assembly",
-      "mentions_now": 3,
-      "baseline_avg": 1.56,
-      "zscore": 2.11,
+      "term": "Killed",
+      "mentions_now": 6,
+      "baseline_avg": 2.6,
+      "zscore": 2.27,
       "reason": "spike"
     },
     {
-      "term": "Sakeena Itoo",
-      "mentions_now": 3,
-      "baseline_avg": 1.88,
-      "zscore": 1.88,
+      "term": "LG Sinha",
+      "mentions_now": 5,
+      "baseline_avg": 2.5,
+      "zscore": 1.95,
       "reason": "spike"
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions_now": 8,
+      "baseline_avg": 4.5,
+      "zscore": 1.94,
+      "reason": "spike"
+    },
+    {
+      "term": "CISF",
+      "mentions_now": 26,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Top LeT",
+      "mentions_now": 7,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Four CISF",
+      "mentions_now": 7,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Colleagues",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Terrorist",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Encounter",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Four CISF Personnel Killed",
+      "mentions_now": 6,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "CISF Jawan Opens Fire",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Yousmarg",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Budgam Encounter",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
     }
   ],
   "districts": {
     "Anantnag": {
       "mentions": 6,
-      "sentiment": 0.09,
+      "sentiment": -0.07,
       "top_terms": [
-        "Police",
-        "DC Anantnag",
-        "CRPF Takes Anantnag Students",
-        "Bharat Darshan",
-        "Where"
+        "Anantnag SRTC",
+        "Omar Abdullah",
+        "GMC Anantnag",
+        "Medical College Core Committee",
+        "SRTC Complex Anantnag"
       ]
     },
     "Bandipora": {
       "mentions": 5,
-      "sentiment": 0.021,
+      "sentiment": 0.0,
       "top_terms": [
-        "Bandipora Constituency",
-        "Sakeena Itoo",
-        "Healthcare Institutions Functioning",
-        "Footpaths",
-        "DDAC Bandipora"
+        "S.K. Stadium",
+        "Bandipora Clinches",
+        "Boys",
+        "Handball Title",
+        "Waqar Knowledge Centre Bandipora"
       ]
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": -0.131,
+      "mentions": 4,
+      "sentiment": -0.002,
       "top_terms": [
-        "Sopore",
-        "Pattan Master Plan",
-        "Admin",
-        "October",
-        "Serious Ramifications"
+        "VARMULPEX",
+        "Baramulla Hosts First District",
+        "Level Philatelic Exhibition",
+        "JK Teachers Association Baramulla",
+        "Raises Voice"
       ]
     },
     "Budgam": {
-      "mentions": 4,
-      "sentiment": 0.193,
+      "mentions": 38,
+      "sentiment": -0.785,
       "top_terms": [
-        "Heavy",
-        "Beerwah",
-        "Khag",
-        "Cases",
-        "PMFME Scheme"
+        "Top LeT",
+        "Terrorist",
+        "Encounter",
+        "Budgam Encounter",
+        "Top Lashkar"
       ]
     },
     "Ganderbal": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": 0.14,
       "top_terms": [
         "Woman Dies Reported",
-        "Scuffle Daughter"
+        "Scuffle Daughter",
+        "DC Ganderbal",
+        "Road Safety Measures",
+        "Ganderbal Press Association Elects"
       ]
     },
     "Kulgam": {
       "mentions": 5,
-      "sentiment": -0.068,
+      "sentiment": 0.014,
       "top_terms": [
-        "DC Kulgam",
-        "Police",
-        "Five",
-        "District Capex",
+        "KV Aminoo Kulgam",
+        "Under",
+        "Cricket",
+        "National Sports Meet",
         "Kulgam Police"
       ]
     },
     "Kupwara": {
-      "mentions": 10,
-      "sentiment": -0.476,
+      "mentions": 4,
+      "sentiment": 0.333,
       "top_terms": [
-        "Road Accident",
-        "Five",
-        "Five Killed",
-        "Seven Injured",
-        "Event"
+        "Health",
+        "Shazana Anjum Takes Women",
+        "Emotional Wellness Conversation Beyond",
+        "Awareness",
+        "JKAP IR Battalion Organises"
       ]
     },
     "Pulwama": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 2,
+      "sentiment": 0.0,
+      "top_terms": [
+        "Kabaddi",
+        "Government Primary School",
+        "India CSR"
+      ]
     },
     "Shopian": {
-      "mentions": 6,
-      "sentiment": -0.082,
+      "mentions": 5,
+      "sentiment": -0.169,
       "top_terms": [
         "Govt",
-        "Police",
-        "Five",
-        "Man Dies Falling",
-        "Walnut Tree"
+        "Shopian Polytechnic",
+        "Assembly",
+        "Yuva Sammelan",
+        "Youth Empowerment"
       ]
     },
     "Srinagar": {
-      "mentions": 33,
-      "sentiment": 0.016,
+      "mentions": 27,
+      "sentiment": 0.058,
       "top_terms": [
+        "Sessions Judge Srinagar",
+        "Principal District",
+        "National Deaf Men",
         "Farooq Abdullah",
-        "Irani Cup",
-        "Govt",
-        "Srinagar Jammu NH",
-        "India"
-      ]
-    },
-    "Doda": {
-      "mentions": 6,
-      "sentiment": 0.07,
-      "top_terms": [
-        "Rana",
-        "Jal Shakti Schemes",
-        "Bhaderwah",
-        "Health Department",
-        "Wrestling Dangal"
-      ]
-    },
-    "Jammu": {
-      "mentions": 65,
-      "sentiment": -0.122,
-      "top_terms": [
-        "Jammu Kashmir",
-        "Three Arrested",
-        "Jammu Kashmir Assembly",
-        "Govt",
-        "Jammu Kashmir Govt"
-      ]
-    },
-    "Kathua": {
-      "mentions": 7,
-      "sentiment": -0.13,
-      "top_terms": [
-        "Cops",
-        "SPO Dismissed Alleged",
-        "Bribery",
-        "Departmental Inquiry Ordered Against",
-        "SPO Dismissed Bribery"
-      ]
-    },
-    "Kishtwar": {
-      "mentions": 2,
-      "sentiment": -0.229,
-      "top_terms": [
-        "Liquor Sale",
-        "Consumption Banned Within",
-        "Metres Sarthal Devi",
-        "Shrine",
-        "Ks Kishtwar"
-      ]
-    },
-    "Poonch": {
-      "mentions": 2,
-      "sentiment": -0.3,
-      "top_terms": [
-        "Man Electrocuted",
-        "Death",
-        "Man Dies Electrocution"
-      ]
-    },
-    "Rajouri": {
-      "mentions": 1,
-      "sentiment": -0.625,
-      "top_terms": [
-        "Jammu Kashmir High Court",
-        "Orders Perjury Complaint Against",
-        "Rajouri Man",
-        "Fictitious",
-        "Daughter"
-      ]
-    },
-    "Ramban": {
-      "mentions": 1,
-      "sentiment": -0.202,
-      "top_terms": [
-        "Land",
         "Govt"
       ]
     },
-    "Reasi": {
-      "mentions": 5,
-      "sentiment": -0.213,
+    "Doda": {
+      "mentions": 4,
+      "sentiment": 0.185,
       "top_terms": [
-        "Congress",
-        "Amarujala",
-        "DDC Reasi",
-        "IEC Van",
-        "Viksit Gram Panchayat Plan"
+        "Even Dengue Cases",
+        "Witness",
+        "Sharp Dip Jammu",
+        "Doda District Sees",
+        "Surge"
+      ]
+    },
+    "Jammu": {
+      "mentions": 89,
+      "sentiment": -0.109,
+      "top_terms": [
+        "Jammu Kashmir",
+        "GCC Summit",
+        "IIM Jammu",
+        "CISF",
+        "Political"
+      ]
+    },
+    "Kathua": {
+      "mentions": 66,
+      "sentiment": -0.571,
+      "top_terms": [
+        "CISF",
+        "Four CISF",
+        "Four CISF Personnel Killed",
+        "Colleagues",
+        "Jawan Opens Fire"
+      ]
+    },
+    "Kishtwar": {
+      "mentions": 4,
+      "sentiment": -0.28,
+      "top_terms": [
+        "Least Seven Houses",
+        "Destroyed",
+        "Fire",
+        "Warwan",
+        "Cloudburst"
+      ]
+    },
+    "Poonch": {
+      "mentions": 8,
+      "sentiment": 0.14,
+      "top_terms": [
+        "Search",
+        "Security",
+        "Search Operations Underway",
+        "Nearly",
+        "Dozen Locations Rajouri"
+      ]
+    },
+    "Rajouri": {
+      "mentions": 11,
+      "sentiment": 0.103,
+      "top_terms": [
+        "Search",
+        "DGP Nalin Prabhat",
+        "IG Jammu Tejinder Singh",
+        "Security",
+        "Search Operations Underway"
+      ]
+    },
+    "Ramban": {
+      "mentions": 2,
+      "sentiment": 0.211,
+      "top_terms": [
+        "DC Ramban",
+        "Road Safety Measures",
+        "Anti",
+        "Narcotics"
+      ]
+    },
+    "Reasi": {
+      "mentions": 3,
+      "sentiment": -0.059,
+      "top_terms": [
+        "MW Ans",
+        "II Power Project Stuck",
+        "Nine Years Jammu",
+        "Kashmir Awaits Centre",
+        "Funding"
       ]
     },
     "Samba": {
       "mentions": 5,
-      "sentiment": -0.061,
+      "sentiment": -0.058,
       "top_terms": [
-        "BSF Sub",
-        "Dies Falling",
-        "Tractor",
-        "Police",
-        "AHD Jammu"
+        "DC Samba",
+        "High Court",
+        "Div Com",
+        "Man Bihar Detained",
+        "Questioning Near International"
       ]
     },
     "Udhampur": {
-      "mentions": 3,
-      "sentiment": 0.026,
+      "mentions": 5,
+      "sentiment": -0.011,
       "top_terms": [
-        "DC Udhampur",
-        "NCORD",
-        "JKEDI",
-        "Startup Idea",
-        "Govt. Polytechnic Udhampur"
+        "Revolutionary",
+        "Dr Jitendra",
+        "Kanyakumari",
+        "Kargil",
+        "Dr Jitendra Singh Holds"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 52
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 36
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 27
+      "domain": "kashmirlife.net",
+      "count": 48
     },
     {
       "domain": "Daily Excelsior",
-      "count": 25
+      "count": 46
     },
     {
-      "domain": "KNS News",
-      "count": 20
+      "domain": "Greater Kashmir",
+      "count": 34
     },
     {
-      "domain": "Jammu Links News",
-      "count": 19
+      "domain": "jammulinksnews.com",
+      "count": 18
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 17
+    },
+    {
+      "domain": "Kashmir News Observer",
+      "count": 15
     },
     {
       "domain": "thekashmirimages.com",
@@ -463,59 +473,59 @@
     },
     {
       "domain": "Kashmir Observer",
-      "count": 12
-    },
-    {
-      "domain": "Kashmir News Observer",
       "count": 10
     },
     {
-      "domain": "kashmirlife.net",
-      "count": 8
+      "domain": "KNS News",
+      "count": 10
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 7
-    },
-    {
-      "domain": "kimskashmir.com",
-      "count": 7
-    },
-    {
-      "domain": "10net.in",
-      "count": 6
-    },
-    {
-      "domain": "ETV Bharat",
-      "count": 5
-    },
-    {
-      "domain": "The Indian Express",
-      "count": 5
+      "domain": "The Global Kashmir",
+      "count": 9
     },
     {
       "domain": "The Kashmir Horizon",
+      "count": 9
+    },
+    {
+      "domain": "Kashmir Dot Com",
+      "count": 9
+    },
+    {
+      "domain": "ETV Bharat",
+      "count": 8
+    },
+    {
+      "domain": "The Hindu",
+      "count": 7
+    },
+    {
+      "domain": "The Indian Express",
+      "count": 7
+    },
+    {
+      "domain": "The Times of India",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Vision",
+      "count": 6
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 6
+    },
+    {
+      "domain": "Only Kashmir",
       "count": 5
-    },
-    {
-      "domain": "kashmirtimes.com",
-      "count": 4
-    },
-    {
-      "domain": "Deccan Herald",
-      "count": 4
-    },
-    {
-      "domain": "Free Press Kashmir",
-      "count": 4
-    },
-    {
-      "domain": "Amar Ujala",
-      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 378,
+    "articles_fetched": 438,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District figures depend on district names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
