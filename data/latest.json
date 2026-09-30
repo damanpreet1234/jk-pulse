@@ -1,73 +1,63 @@
 {
-  "generated_at": "2026-09-30T17:32:03.000240+00:00",
+  "generated_at": "2026-09-30T23:24:39.650900+00:00",
   "date": "2026-09-30",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.023,
+    "score": -0.032,
     "label": "mixed / neutral",
-    "positive_pct": 28.9,
-    "neutral_pct": 41.6,
-    "negative_pct": 29.5,
-    "sample_size": 305
+    "positive_pct": 26.1,
+    "neutral_pct": 42.9,
+    "negative_pct": 31.1,
+    "sample_size": 280
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Govt",
-      "mentions": 23,
-      "sentiment": 0.029
-    },
-    {
-      "term": "LG Sinha",
-      "mentions": 8,
-      "sentiment": 0.292
+      "mentions": 14,
+      "sentiment": 0.044
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 7,
-      "sentiment": 0.181
+      "sentiment": 0.177
     },
     {
-      "term": "India",
-      "mentions": 6,
-      "sentiment": 0.157
-    },
-    {
-      "term": "Army",
-      "mentions": 6,
-      "sentiment": 0.006
+      "term": "Assembly",
+      "mentions": 5,
+      "sentiment": -0.045
     },
     {
       "term": "Irani Cup",
       "mentions": 5,
-      "sentiment": -0.172
+      "sentiment": -0.071
     },
     {
-      "term": "Hashim Moosa",
-      "mentions": 5,
-      "sentiment": -0.484
-    },
-    {
-      "term": "Indian",
-      "mentions": 5,
-      "sentiment": -0.257
-    },
-    {
-      "term": "Assembly",
+      "term": "Army",
       "mentions": 4,
-      "sentiment": -0.057
-    },
-    {
-      "term": "Autumn Session",
-      "mentions": 4,
-      "sentiment": -0.22
+      "sentiment": -0.334
     },
     {
       "term": "Centre",
       "mentions": 4,
-      "sentiment": 0.008
+      "sentiment": -0.001
+    },
+    {
+      "term": "India",
+      "mentions": 4,
+      "sentiment": 0.139
+    },
+    {
+      "term": "Operation Drishti",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "LG Sinha",
+      "mentions": 3,
+      "sentiment": 0.282
     },
     {
       "term": "Crore",
@@ -75,9 +65,14 @@
       "sentiment": -0.075
     },
     {
-      "term": "Media Policy",
+      "term": "Statehood",
       "mentions": 3,
-      "sentiment": 0.0
+      "sentiment": -0.005
+    },
+    {
+      "term": "Hashim Moosa",
+      "mentions": 3,
+      "sentiment": -0.705
     },
     {
       "term": "Jammu Kashmir Govt",
@@ -85,129 +80,71 @@
       "sentiment": -0.17
     },
     {
-      "term": "Musharraf",
+      "term": "Indian",
       "mentions": 3,
-      "sentiment": -0.144
-    },
-    {
-      "term": "Council",
-      "mentions": 3,
-      "sentiment": 0.219
+      "sentiment": -0.234
     },
     {
       "term": "Police",
       "mentions": 3,
-      "sentiment": -0.401
-    },
-    {
-      "term": "Operation Drishti",
-      "mentions": 3,
-      "sentiment": 0.227
-    },
-    {
-      "term": "Take",
-      "mentions": 2,
-      "sentiment": 0.045
+      "sentiment": -0.406
     },
     {
       "term": "Chief Secretary",
       "mentions": 2,
-      "sentiment": 0.283
+      "sentiment": 0.257
+    },
+    {
+      "term": "Law Secretary",
+      "mentions": 2,
+      "sentiment": 0.154
+    },
+    {
+      "term": "Across Jammu Kashmir Till",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Allows Jammu University",
+      "mentions": 2,
+      "sentiment": -0.17
+    },
+    {
+      "term": "Autumn Session",
+      "mentions": 2,
+      "sentiment": -0.381
     }
   ],
   "emerging": [
     {
-      "term": "Indian",
-      "mentions_now": 5,
-      "baseline_avg": 1.57,
-      "zscore": 4.71,
-      "reason": "spike"
-    },
-    {
-      "term": "Musharraf",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Autumn Session",
-      "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 3.74,
-      "reason": "spike"
-    },
-    {
-      "term": "LG Sinha",
-      "mentions_now": 8,
-      "baseline_avg": 3.58,
-      "zscore": 3.07,
-      "reason": "spike"
-    },
-    {
       "term": "Crore",
       "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Council",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Centre",
-      "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 2.08,
-      "reason": "spike"
-    },
-    {
-      "term": "Irani Cup",
-      "mentions_now": 5,
-      "baseline_avg": 2.9,
-      "zscore": 2.01,
-      "reason": "spike"
-    },
-    {
-      "term": "Govt",
-      "mentions_now": 23,
-      "baseline_avg": 11.38,
-      "zscore": 1.89,
-      "reason": "spike"
-    },
-    {
-      "term": "Army",
-      "mentions_now": 6,
-      "baseline_avg": 2.5,
-      "zscore": 1.88,
+      "baseline_avg": 1.71,
+      "zscore": 1.84,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 5,
-      "sentiment": -0.073,
+      "mentions": 6,
+      "sentiment": -0.064,
       "top_terms": [
+        "Upgradation",
+        "Javed Rana",
         "GMC Anantnag",
         "Medical College Core Committee",
-        "Br MSME DFO Srinagar",
-        "PM Vishwakarma Capacity Building",
-        "Programme"
+        "SRTC Complex Anantnag Completion"
       ]
     },
     "Bandipora": {
-      "mentions": 3,
-      "sentiment": 0.048,
+      "mentions": 5,
+      "sentiment": 0.101,
       "top_terms": [
         "District",
         "Level Meeting",
         "Rabies Elimination Action Plan",
-        "KVK Bandipora",
-        "Sherpathri Agro Producers Cooperative"
+        "NABARD",
+        "Common Facilitation Centre"
       ]
     },
     "Baramulla": {
@@ -221,19 +158,19 @@
       ]
     },
     "Budgam": {
-      "mentions": 17,
-      "sentiment": -0.208,
+      "mentions": 15,
+      "sentiment": -0.14,
       "top_terms": [
-        "Hashim Moosa",
         "Army",
         "DC Budgam",
         "Jammu Kashmir High Court",
-        "Allows Jammu University"
+        "Allows Jammu University",
+        "Begin Work"
       ]
     },
     "Ganderbal": {
-      "mentions": 3,
-      "sentiment": -0.005,
+      "mentions": 5,
+      "sentiment": 0.052,
       "top_terms": [
         "PM Vishwakarma Awareness Programme",
         "Branding",
@@ -254,14 +191,13 @@
       ]
     },
     "Kupwara": {
-      "mentions": 6,
-      "sentiment": 0.075,
+      "mentions": 2,
+      "sentiment": -0.442,
       "top_terms": [
         "Five Killed",
         "Seven Injured",
         "Road Accident",
-        "MLA Kupwara",
-        "Health"
+        "MLA Kupwara"
       ]
     },
     "Pulwama": {
@@ -276,19 +212,19 @@
       ]
     },
     "Shopian": {
-      "mentions": 5,
-      "sentiment": -0.198,
+      "mentions": 4,
+      "sentiment": 0.104,
       "top_terms": [
+        "Sporting Spirit Soars",
+        "Young Athletes Embrace Competition",
         "POLICE ORGANISES MEDICAL CAMP",
         "FOR POLICE PERSONNEL AT",
-        "DPL SHOPIAN",
-        "Autumn Session",
-        "Calling Attention Motion"
+        "DPL SHOPIAN"
       ]
     },
     "Srinagar": {
-      "mentions": 27,
-      "sentiment": 0.104,
+      "mentions": 26,
+      "sentiment": 0.091,
       "top_terms": [
         "Year",
         "Old Man Found Dead",
@@ -301,27 +237,27 @@
       "mentions": 5,
       "sentiment": 0.056,
       "top_terms": [
-        "People Doda",
-        "Siraj",
+        "UT Taekwondo Championship",
         "Committee Constituted",
         "GMC Doda Complaint",
-        "Alleging Abaya Removal"
+        "Alleging Abaya Removal",
+        "Taekwondo"
       ]
     },
     "Jammu": {
-      "mentions": 72,
-      "sentiment": -0.062,
+      "mentions": 67,
+      "sentiment": -0.054,
       "top_terms": [
         "Govt",
         "Jammu Kashmir",
-        "Irani Cup",
         "Jammu Kashmir Govt",
-        "Across Jammu Kashmir Till"
+        "Across Jammu Kashmir Till",
+        "Allows Jammu University"
       ]
     },
     "Kathua": {
-      "mentions": 10,
-      "sentiment": -0.421,
+      "mentions": 8,
+      "sentiment": -0.426,
       "top_terms": [
         "CISF Head Constable Shoots",
         "Dead Four Colleagues",
@@ -331,30 +267,30 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 6,
-      "sentiment": -0.026,
+      "mentions": 8,
+      "sentiment": -0.109,
       "top_terms": [
-        "Watch",
-        "Massive",
+        "Fire",
         "Sporting Spirit Soars",
         "Young Athletes Embrace Competition",
-        "Warwan"
+        "Warwan",
+        "Swachhata Karmi Samaan Programme"
       ]
     },
     "Poonch": {
       "mentions": 4,
       "sentiment": 0.192,
       "top_terms": [
+        "GDC Poonch",
+        "Inter",
+        "Collegiate",
         "DDC Poonch",
-        "Public Grievances Redressal Camp",
-        "Posshana",
-        "DC Poonch",
-        "Road Safety"
+        "Public Grievances Redressal Camp"
       ]
     },
     "Rajouri": {
-      "mentions": 6,
-      "sentiment": 0.089,
+      "mentions": 5,
+      "sentiment": 0.048,
       "top_terms": [
         "Relief",
         "DPRs",
@@ -364,9 +300,11 @@
       ]
     },
     "Ramban": {
-      "mentions": 1,
-      "sentiment": -0.557,
+      "mentions": 2,
+      "sentiment": -0.279,
       "top_terms": [
+        "Planning",
+        "Sr. Assistant",
         "DC Ramban"
       ]
     },
@@ -374,12 +312,12 @@
       "mentions": 2,
       "sentiment": -0.148,
       "top_terms": [
-        "DM Reasi"
+        "Amar Ujala"
       ]
     },
     "Samba": {
       "mentions": 4,
-      "sentiment": 0.149,
+      "sentiment": 0.097,
       "top_terms": [
         "DC Samba",
         "DIPR Samba",
@@ -389,14 +327,14 @@
       ]
     },
     "Udhampur": {
-      "mentions": 7,
-      "sentiment": 0.045,
+      "mentions": 4,
+      "sentiment": 0.125,
       "top_terms": [
         "Safaimitra Suraksha",
         "Samman Shivir",
         "Civic",
-        "JKEDI",
-        "GCW Udhampur"
+        "Reforms Utsav",
+        "JKEDI"
       ]
     }
   },
@@ -406,70 +344,58 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 45
+      "count": 46
     },
     {
       "domain": "Jammu Links News",
-      "count": 23
+      "count": 27
     },
     {
       "domain": "Daily Excelsior",
-      "count": 19
-    },
-    {
-      "domain": "knskashmir.com",
-      "count": 17
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 15
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 13
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 11
-    },
-    {
-      "domain": "The Hindu",
-      "count": 9
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 9
+      "count": 16
     },
     {
       "domain": "Rising Kashmir",
+      "count": 13
+    },
+    {
+      "domain": "knskashmir.com",
+      "count": 13
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 11
+    },
+    {
+      "domain": "Kashmir News Observer",
+      "count": 11
+    },
+    {
+      "domain": "Greater Kashmir",
+      "count": 11
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 9
+    },
+    {
+      "domain": "The Hindu",
       "count": 7
     },
     {
-      "domain": "Kashmir Convener",
+      "domain": "The Kashmir Horizon",
       "count": 6
     },
     {
+      "domain": "Kashmir Convener",
+      "count": 5
+    },
+    {
       "domain": "The Indian Express",
-      "count": 5
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 5
-    },
-    {
-      "domain": "Kashmir Vision",
-      "count": 5
-    },
-    {
-      "domain": "The Global Kashmir",
-      "count": 5
-    },
-    {
-      "domain": "NDTV",
       "count": 4
     },
     {
-      "domain": "The New Indian Express",
+      "domain": "News On AIR",
       "count": 4
     },
     {
@@ -477,17 +403,29 @@
       "count": 4
     },
     {
-      "domain": "Kashmir Dot Com",
-      "count": 4
+      "domain": "NDTV",
+      "count": 3
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 4
+      "domain": "Deccan Herald",
+      "count": 3
+    },
+    {
+      "domain": "etvbharat.com",
+      "count": 3
+    },
+    {
+      "domain": "The Times of India",
+      "count": 3
+    },
+    {
+      "domain": "Free Press Kashmir",
+      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 305,
-    "raw_articles_before_dedup": 507,
+    "articles_fetched": 280,
+    "raw_articles_before_dedup": 491,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
