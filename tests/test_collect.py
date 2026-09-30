@@ -15,6 +15,7 @@ accumulated real data.
 """
 import json
 import os
+import statistics
 import sys
 import tempfile
 import unittest
@@ -157,6 +158,36 @@ class TestParsing(unittest.TestCase):
         self.assertLess(neg, -0.2)
         self.assertGreater(pos, 0.2)
 
+    def test_successful_counter_terror_operation_is_not_scored_negative(self):
+        # Regression test: "terrorist"/"militant" are (correctly) strongly
+        # negative words in the lexicon, but a headline reporting security
+        # forces eliminating them is conventionally a successful-operation
+        # story, not bad news - it should NOT come out strongly negative
+        # just because those words appear.
+        score = collect.score_text("Security forces eliminate 2 terrorists in Baramulla encounter")
+        self.assertGreaterEqual(score, 0.3)
+
+        score2 = collect.score_text("3 militants killed in overnight gunfight with security forces")
+        self.assertGreaterEqual(score2, 0.3)
+
+    def test_security_casualty_headlines_still_score_negative(self):
+        # The success-framing override must NOT suppress genuinely bad news -
+        # if security personnel or civilians are also reported killed in the
+        # same headline, it must stay negative regardless of the
+        # terrorist/militant wording.
+        score = collect.score_text("Terrorists attack army camp, 3 soldiers martyred")
+        self.assertLess(score, -0.3)
+
+        score2 = collect.score_text("2 militants killed but 1 jawan martyred in fierce gunfight")
+        self.assertLess(score2, 0)
+
+    def test_unrelated_headlines_are_unaffected_by_security_success_override(self):
+        # Sanity check the override is narrowly scoped - ordinary negative
+        # news with no terrorist/militant-casualty framing should score
+        # exactly as before.
+        score = collect.score_text("Curfew imposed after deadly clashes and encounter")
+        self.assertLess(score, -0.3)
+
     def test_keyphrase_extraction_skips_excluded_terms(self):
         titles = ["Jammu and Kashmir sees Amarnath Yatra records", "Amarnath Yatra concludes peacefully"]
         counts = collect.extract_keyphrases(titles, exclude=["Jammu and Kashmir", "J&K", "Jammu", "Kashmir"])
@@ -271,6 +302,97 @@ class TestHistoryAndSearchIndex(unittest.TestCase):
         self.assertEqual(merged[0]["india_related"], True)
 
 
+class TestClusterSimilarStories(unittest.TestCase):
+    def test_merges_verbatim_wire_copy_across_outlets(self):
+        # The clean case: many outlets running the exact same wire copy -
+        # this is the "50 outlets, 1 real story" case that would otherwise
+        # inflate negative/positive-coverage percentages as if 50 separate
+        # things happened.
+        articles = [
+            {"title": "Security forces eliminate 2 terrorists in Baramulla encounter",
+             "url": f"https://v/{i}", "domain": f"Outlet{i}", "date": "2026-09-29", "sentiment": 0.4}
+            for i in range(5)
+        ]
+        merged = collect.cluster_similar_stories(articles)
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]["source_count"], 5)
+        self.assertEqual(len(merged[0]["also_reported_by"]), 4)
+
+    def test_reduces_heavily_paraphrased_real_world_duplicates(self):
+        # Real headlines (from an actual run) covering one event - outlets
+        # paraphrase to very different degrees, so this is a harder case
+        # than verbatim wire copy. The matcher is deliberately conservative
+        # (see cluster_similar_stories docstring): it catches the outlets
+        # that share enough vocabulary or the same named entities, which
+        # meaningfully reduces the count even when it can't perfectly merge
+        # every paraphrase into a single entry.
+        articles = [
+            {"title": "India rejects Kashmir references in Turkish President's UNGA address as 'unwarranted'",
+             "url": "https://a/1", "domain": "The Hindu", "date": "2026-09-29", "sentiment": -0.4,
+             "keywords": ["Turkish President"]},
+            {"title": "'No locus standi': India rejects Turkey President Erdogan's remarks on Kashmir at UNGA",
+             "url": "https://a/2", "domain": "The Times of India", "date": "2026-09-29", "sentiment": -0.5,
+             "keywords": ["Turkey President Erdogan"]},
+            {"title": "India rejects Turkish President Erdogan's 'unwarranted' references to J&K at UNGA",
+             "url": "https://a/3", "domain": "News On AIR", "date": "2026-09-29", "sentiment": -0.35,
+             "keywords": ["Turkish President Erdogan"]},
+            {"title": "'Unwarranted': India rejects references to Kashmir issue in Turkish president's UNGA address",
+             "url": "https://a/4", "domain": "Deccan Herald", "date": "2026-09-29", "sentiment": -0.45,
+             "keywords": ["Turkish"]},
+        ]
+        merged = collect.cluster_similar_stories(articles)
+        # 4 raw articles reduced to 2 distinct entries, not left as 4 -
+        # the 3 that share enough vocabulary/entities merge into one.
+        self.assertEqual(len(merged), 2)
+        source_counts = sorted(m["source_count"] for m in merged)
+        self.assertEqual(source_counts, [1, 3])
+        merged_one = next(m for m in merged if m["source_count"] == 3)
+        self.assertAlmostEqual(merged_one["sentiment"], statistics.mean([-0.4, -0.35, -0.45]), places=3)
+
+    def test_does_not_merge_unrelated_same_day_stories_sharing_only_generic_terms(self):
+        # Two genuinely different India/Kashmir-UNGA stories about
+        # different foreign leaders would otherwise look deceptively
+        # similar if "India"/"UNGA"/"Kashmir" counted as real signal - they
+        # must NOT merge just because both mention those ubiquitous terms.
+        articles = [
+            {"title": "India rejects Turkish President Erdogan's Kashmir remarks at UNGA",
+             "url": "https://d/1", "domain": "Dawn", "date": "2026-09-29", "sentiment": -0.4,
+             "keywords": ["Turkish President Erdogan"]},
+            {"title": "India slams Pakistan PM Sharif's Kashmir remarks at UNGA session",
+             "url": "https://d/2", "domain": "The Nation", "date": "2026-09-29", "sentiment": -0.3,
+             "keywords": ["Sharif"]},
+        ]
+        merged = collect.cluster_similar_stories(articles)
+        self.assertEqual(len(merged), 2)
+
+    def test_keeps_genuinely_distinct_stories_separate(self):
+        articles = [
+            {"title": "Record tourist footfall boosts Kashmir economy",
+             "url": "https://b/1", "domain": "Kashmir Observer", "date": "2026-09-29", "sentiment": 0.5},
+            {"title": "Landslide blocks Jammu-Srinagar highway near Ramban",
+             "url": "https://b/2", "domain": "Greater Kashmir", "date": "2026-09-29", "sentiment": -0.4},
+            {"title": "Scholarship scheme launched for students in Anantnag",
+             "url": "https://b/3", "domain": "Daily Excelsior", "date": "2026-09-29", "sentiment": 0.4},
+        ]
+        merged = collect.cluster_similar_stories(articles)
+        self.assertEqual(len(merged), 3)
+        self.assertTrue(all(m["source_count"] == 1 for m in merged))
+        self.assertTrue(all(m["also_reported_by"] == [] for m in merged))
+
+    def test_does_not_merge_same_headline_template_across_different_days(self):
+        # Same/similar headline template, but on different dates - these are
+        # two distinct daily occurrences (e.g. a recurring weather advisory),
+        # not duplicate coverage of one event, so they must stay separate.
+        articles = [
+            {"title": "Landslide blocks Jammu-Srinagar highway",
+             "url": "https://c/1", "domain": "Greater Kashmir", "date": "2026-09-28", "sentiment": -0.4},
+            {"title": "Landslide blocks Jammu-Srinagar highway",
+             "url": "https://c/2", "domain": "Greater Kashmir", "date": "2026-09-29", "sentiment": -0.4},
+        ]
+        merged = collect.cluster_similar_stories(articles)
+        self.assertEqual(len(merged), 2)
+
+
 class TestRegionConfig(unittest.TestCase):
     def test_jk_and_pakistan_regions_present_with_distinct_keys(self):
         keys = {r["key"] for r in collect.REGIONS}
@@ -343,6 +465,40 @@ class TestRunRegionEndToEnd(unittest.TestCase):
         self.assertGreaterEqual(snapshot["areas"]["Srinagar"]["mentions"], 1)
         self.assertTrue(os.path.exists(os.path.join(region["data_dir"], "history.jsonl")))
         self.assertTrue(os.path.exists(os.path.join(region["data_dir"], "search_index.json")))
+
+    def test_run_region_collapses_duplicate_wire_coverage_before_scoring(self):
+        # End-to-end version of the dedup fix: many outlets running the
+        # exact same wire story about one district must count as ONE
+        # story in the written snapshot/search index, not N - this is the
+        # actual bug report ("1 negative story picked up by 50 outlets
+        # shouldn't count as 50 negative developments").
+        region = dict(next(r for r in collect.REGIONS if r["key"] == "jk"))
+        region["data_dir"] = os.path.join(self._tmpdir.name, "jk_dedup")
+        region["areas"] = ["Srinagar"]
+
+        duplicated_story = [
+            {"title": "Curfew imposed in Srinagar after clashes", "url": f"https://dup/{i}",
+             "domain": f"Outlet{i}", "seendate": "20260910T060000Z", "source": "gdelt"}
+            for i in range(6)
+        ]
+
+        with _mock.patch.object(collect, "fetch_gdelt", return_value=list(duplicated_story)), \
+             _mock.patch.object(collect, "fetch_google_news_rss", return_value=[]), \
+             _mock.patch.object(collect, "fetch_reddit", return_value=[]), \
+             _mock.patch.object(collect, "fetch_youtube", return_value=[]):
+            collect.run_region(region, youtube_key=None)
+
+        with open(os.path.join(region["data_dir"], "latest.json")) as f:
+            snapshot = json.load(f)
+        with open(os.path.join(region["data_dir"], "search_index.json")) as f:
+            index = json.load(f)
+
+        # 6 near-identical articles from 6 outlets -> 1 distinct story
+        self.assertEqual(snapshot["overall_mood"]["sample_size"], 1)
+        self.assertEqual(snapshot["run_stats"]["raw_articles_before_dedup"], 6)
+        self.assertEqual(len(index), 1)
+        self.assertEqual(index[0]["source_count"], 6)
+        self.assertEqual(len(index[0]["also_reported_by"]), 5)
 
     def test_run_region_pakistan_computes_separate_india_tone(self):
         region = dict(next(r for r in collect.REGIONS if r["key"] == "pakistan"))

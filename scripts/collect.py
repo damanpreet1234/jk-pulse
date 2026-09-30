@@ -27,6 +27,7 @@ import urllib.request
 import xml.etree.ElementTree as ET
 from collections import Counter, defaultdict
 from datetime import datetime, timedelta, timezone
+from difflib import SequenceMatcher
 from email.utils import parsedate_to_datetime
 
 try:
@@ -167,13 +168,42 @@ for _i, _phrase in enumerate(sorted(_PHRASE_LEXICON, key=len, reverse=True)):
 _PHRASE_RE = (re.compile("|".join(re.escape(p) for p in _PHRASE_TOKENS), re.IGNORECASE)
               if _PHRASE_TOKENS else None)
 
+# A "security forces eliminate N terrorists" headline is conventionally
+# reported (and read by most of the audience this tracks) as a successful
+# counter-terror operation, not bad news for the region - but the lexicon
+# above still scores "terrorist"/"militant" strongly negative, which is
+# correct when THEY are the ones doing the killing, and wrong when they are
+# the ones eliminated. _SECURITY_SUCCESS_RE catches the latter framing;
+# _SECURITY_CASUALTY_RE is a deliberate override-of-the-override - if the
+# same headline ALSO reports a security-personnel or civilian casualty,
+# that must stay negative regardless of how the terrorist/militant side of
+# it reads. This is a genuine editorial judgment call, not a neutral fact -
+# see the methodology note surfaced in the dashboard for the caveat.
+_SECURITY_SUCCESS_RE = re.compile(
+    r"\b(?:\d+\s+)?(?:terrorists?|militants?)\b[^.\n]{0,40}"
+    r"\b(?:kill\w*|eliminat\w*|neutrali[sz]\w*|gun\w*\s+down|shot\s+dead)\b"
+    r"|\b(?:kill\w*|eliminat\w*|neutrali[sz]\w*|gun\w*\s+down|shot\s+dead)\b[^.\n]{0,40}"
+    r"\b(?:\d+\s+)?(?:terrorists?|militants?)\b",
+    re.IGNORECASE,
+)
+_SECURITY_CASUALTY_RE = re.compile(
+    r"\b(?:soldiers?|jawans?|troops?|army\s+(?:personnel|men|man)|crpf|bsf|policemen|policeman|"
+    r"police\s+officers?|officers?|civilians?|security\s+personnel)\b[^.\n]{0,40}"
+    r"\b(?:killed|martyred|injured|dead|wounded)\b",
+    re.IGNORECASE,
+)
+
 
 def score_text(text):
     if not text:
         return 0.0
+    scored_text = text
     if _PHRASE_RE:
-        text = _PHRASE_RE.sub(lambda m: _PHRASE_TOKENS[m.group(0).lower()], text)
-    return _analyzer.polarity_scores(text)["compound"]
+        scored_text = _PHRASE_RE.sub(lambda m: _PHRASE_TOKENS[m.group(0).lower()], scored_text)
+    base = _analyzer.polarity_scores(scored_text)["compound"]
+    if _SECURITY_SUCCESS_RE.search(text) and not _SECURITY_CASUALTY_RE.search(text):
+        return max(base, 0.35)
+    return base
 
 
 # ---------------------------------------------------------------------------
@@ -379,6 +409,8 @@ def update_search_index(path, tagged_articles, existing, area_field, extra_field
             "source": a.get("source", ""), "date": a["date"], "seendate": a.get("seendate", ""),
             "sentiment": a.get("sentiment", 0.0), area_field: a.get(area_field, []),
             "keywords": a.get("keywords", []),
+            "source_count": a.get("source_count", 1),
+            "also_reported_by": a.get("also_reported_by", []),
         }
         for ef in extra_fields:
             entry[ef] = a.get(ef)
@@ -497,6 +529,118 @@ def dedupe(articles):
     return out
 
 
+_TITLE_WORD_RE = re.compile(r"[A-Za-z']+")
+_TITLE_STOPWORDS = {w.lower() for w in STOPWORDS} | {
+    "a", "an", "the", "in", "on", "at", "for", "to", "of", "and", "or", "but",
+    "with", "from", "by", "as", "is", "are", "was", "were", "has", "have",
+    "had", "not", "no", "any", "that", "this",
+}
+# Words so common in this domain's headlines (India, Pakistan, UNGA, Kashmir,
+# ...) that sharing them proves almost nothing about whether two headlines
+# are the SAME story - e.g. two entirely different leaders' Kashmir remarks
+# at the same UNGA session would otherwise look deceptively similar. Always
+# stripped before comparing two titles, on top of each region's own
+# exclude_terms (district/province names etc).
+_CLUSTER_GENERIC_TERMS = {"india", "pakistan", "unga", "un", "kashmir", "jammu", "j&k", "mea"}
+
+
+def _title_word_signature(title):
+    words = _TITLE_WORD_RE.findall(title.lower())
+    return {w for w in words if len(w) > 3 and w not in _TITLE_STOPWORDS and w not in _CLUSTER_GENERIC_TERMS}
+
+
+def _title_phrase_signature(keywords):
+    return {k.lower() for k in keywords if k.lower() not in _CLUSTER_GENERIC_TERMS}
+
+
+def _titles_similar(a, b):
+    """True if two tagged articles (each needs "title" and, ideally, an
+    already-computed "keywords" list) read as coverage of the same story.
+    Combines three independent, deliberately conservative signals - a hit on
+    any one is enough:
+      - word-level overlap of the headline's less-common words (catches
+        paraphrases that reuse most of the same vocabulary)
+      - overlap of the extracted named-entity/topic phrases (catches cases
+        where outlets restructure the sentence but keep the same proper
+        nouns, e.g. "Turkish President Erdogan")
+      - near-identical full-title match (catches outlets running one wire
+        story close to verbatim)
+    This deliberately does NOT try to be clever about synonyms ("Erdogan"
+    vs "the Turkish President" referring to the same person with no shared
+    words) - calibrated against real near-duplicate headlines to avoid ever
+    merging two genuinely different same-day stories, at the cost of
+    sometimes leaving a real duplicate pair unmerged rather than risk a
+    false merge."""
+    wa, wb = _title_word_signature(a["title"]), _title_word_signature(b["title"])
+    if wa and wb:
+        union = wa | wb
+        if union and len(wa & wb) / len(union) >= 0.35:
+            return True
+    pa = _title_phrase_signature(a.get("keywords", []))
+    pb = _title_phrase_signature(b.get("keywords", []))
+    if pa and pb:
+        union = pa | pb
+        if union and len(pa & pb) / len(union) >= 0.4:
+            return True
+    return SequenceMatcher(None, a["title"].lower(), b["title"].lower()).ratio() >= 0.85
+
+
+def cluster_similar_stories(articles):
+    """Collapses near-duplicate coverage of the same story into one entry.
+
+    A single wire story (PTI/ANI/AP) or a single real development routinely
+    gets run - reworded to varying degrees - by a dozen-plus outlets within
+    the same day. Left alone, that inflates mood/mention counts as if a
+    dozen separate things happened instead of one - one negative story
+    picked up by 50 outlets would otherwise swing "negative coverage" the
+    same as 50 distinct negative developments. This merges those into a
+    single representative article (averaging their sentiment scores, which
+    are usually close anyway) and records how many outlets carried it, so
+    search/drilldown can still surface that without letting it distort the
+    aggregate figures.
+
+    Honest limitation: this is lexical matching, not semantic understanding,
+    so headlines that describe the same event with almost no shared
+    vocabulary (one calls him "the Turkish President", another just
+    "Erdogan") won't always merge - it's tuned to be conservative and never
+    merge two genuinely different stories, which means some real duplicates
+    are left standing as separate entries rather than risk a false merge.
+    Only merges within the same day - keeps the comparison cheap (O(n^2) on
+    a day's article count, fine at these volumes) and avoids ever
+    conflating two unrelated stories that happen to reuse a headline
+    template months apart."""
+    by_day = defaultdict(list)
+    for a in articles:
+        by_day[a.get("date", "")].append(a)
+
+    result = []
+    for _day, day_articles in by_day.items():
+        clusters = []  # each: {"members": [...], "domains": set}
+        for a in day_articles:
+            placed = False
+            for c in clusters:
+                if any(_titles_similar(a, m) for m in c["members"]):
+                    c["members"].append(a)
+                    if a.get("domain"):
+                        c["domains"].add(a["domain"])
+                    placed = True
+                    break
+            if not placed:
+                clusters.append({"members": [a], "domains": {a["domain"]} if a.get("domain") else set()})
+        for c in clusters:
+            rep = dict(c["members"][0])
+            if len(c["members"]) > 1:
+                scores = [m["sentiment"] for m in c["members"]]
+                rep["sentiment"] = round(statistics.mean(scores), 3)
+                rep["source_count"] = len(c["members"])
+                rep["also_reported_by"] = sorted(d for d in c["domains"] if d and d != rep.get("domain"))[:8]
+            else:
+                rep["source_count"] = 1
+                rep["also_reported_by"] = []
+            result.append(rep)
+    return result
+
+
 def collect_for_query(query, region, youtube_key=None, include_reddit=True):
     arts = []
     arts += fetch_gdelt(query, extra=region["gdelt_extra"])
@@ -574,6 +718,15 @@ def run_region(region, youtube_key):
         if region["india_related"]:
             a["india_related"] = any(t.lower() in title_lower for t in region["india_terms"])
 
+    raw_article_count = len(all_articles)
+
+    # Collapse near-duplicate coverage of the same story (a single wire
+    # story or real development commonly gets run near-verbatim by dozens
+    # of outlets) before computing mood/mentions/keywords, so a heavily
+    # republished story doesn't skew the aggregate figures as if that many
+    # separate things happened. See cluster_similar_stories() docstring.
+    all_articles = cluster_similar_stories(all_articles)
+
     overall_scores = [a["sentiment"] for a in all_articles]
     overall_mood = mood_breakdown(overall_scores)
 
@@ -618,10 +771,18 @@ def run_region(region, youtube_key):
         "Article tone (not necessarily public mood) is scored automatically from "
         f"headlines using a lexicon-based model tuned for this region's news idiom. "
         f"{region['area_label'].capitalize()}-level figures depend on {region['area_label']} "
-        "names appearing in coverage and are best-effort, not exhaustive. Sources: GDELT + "
-        "Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), "
-        "YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook "
-        "are not included - neither offers a free public search API as of 2026."
+        "names appearing in coverage and are best-effort, not exhaustive. Near-duplicate "
+        "coverage of the same story (many outlets running one wire story near-verbatim) is "
+        "merged into a single entry before mood/mention figures are computed, so one heavily "
+        "republished story doesn't count as if that many separate things happened - the "
+        "Search/By-area drilldowns note how many outlets carried a merged story. A headline "
+        "reporting security forces killing/eliminating terrorists or militants is scored as a "
+        "successful operation (neutral-to-positive), not automatically negative just because "
+        "those words appear - unless the same headline also reports a security-personnel or "
+        "civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no "
+        "key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API "
+        "key is configured). X/Twitter and Instagram/Facebook are not included - neither "
+        "offers a free public search API as of 2026."
     ) + region["methodology_extra"]
 
     snapshot = {
@@ -637,7 +798,11 @@ def run_region(region, youtube_key):
         "areas": area_summary,
         "sources_used": sorted(sources_seen),
         "source_breakdown": source_breakdown,
-        "run_stats": {"articles_fetched": len(all_articles), "errors": []},
+        "run_stats": {
+            "articles_fetched": len(all_articles),
+            "raw_articles_before_dedup": raw_article_count,
+            "errors": [],
+        },
         "methodology_note": base_methodology,
     }
 

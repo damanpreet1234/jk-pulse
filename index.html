@@ -324,9 +324,12 @@
     if (!list.length) return '<div class="empty">No linked articles for this window.</div>';
     var shown = list.slice(0, limit || 12);
     var html = shown.map(function (a) {
+      var extra = (a.source_count && a.source_count > 1)
+        ? ' · also carried by ' + (a.source_count - 1) + ' other outlet' + (a.source_count - 1 === 1 ? '' : 's')
+        : '';
       return '<div class="article-row"><span class="dot ' + moodClass(a.sentiment) + '" style="margin-top:6px"></span>' +
         '<div><div><a href="' + escapeHtml(a.url) + '" target="_blank" rel="noopener">' + escapeHtml(a.title) + '</a></div>' +
-        '<div class="article-meta">' + escapeHtml(a.domain || a.source || '') + (a.date ? ' · ' + escapeHtml(a.date) : '') + '</div></div></div>';
+        '<div class="article-meta">' + escapeHtml(a.domain || a.source || '') + (a.date ? ' · ' + escapeHtml(a.date) : '') + extra + '</div></div></div>';
     }).join('');
     if (list.length > shown.length) {
       html += '<div class="more-note">showing ' + shown.length + ' of ' + list.length + '</div>';
