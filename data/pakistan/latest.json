@@ -1,40 +1,50 @@
 {
-  "generated_at": "2026-09-30T07:38:02.833678+00:00",
+  "generated_at": "2026-09-30T10:16:43.032017+00:00",
   "date": "2026-09-30",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.003,
+    "score": -0.0,
     "label": "mixed / neutral",
-    "positive_pct": 32.0,
-    "neutral_pct": 39.7,
-    "negative_pct": 28.3,
-    "sample_size": 375
+    "positive_pct": 33.7,
+    "neutral_pct": 36.9,
+    "negative_pct": 29.4,
+    "sample_size": 374
   },
   "india_tone": {
-    "score": -0.062,
+    "score": -0.025,
     "label": "mixed / neutral",
-    "positive_pct": 20.0,
-    "neutral_pct": 56.0,
-    "negative_pct": 24.0,
-    "sample_size": 25
+    "positive_pct": 22.7,
+    "neutral_pct": 54.5,
+    "negative_pct": 22.7,
+    "sample_size": 22
   },
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 11,
-      "sentiment": -0.004
+      "mentions": 9,
+      "sentiment": -0.072
     },
     {
       "term": "October",
       "mentions": 7,
-      "sentiment": 0.017
+      "sentiment": 0.047
     },
     {
-      "term": "Dawn",
+      "term": "Years",
       "mentions": 5,
-      "sentiment": 0.143
+      "sentiment": 0.126
+    },
+    {
+      "term": "KP CM",
+      "mentions": 5,
+      "sentiment": -0.023
+    },
+    {
+      "term": "Quetta",
+      "mentions": 5,
+      "sentiment": -0.099
     },
     {
       "term": "Gilgit",
@@ -42,19 +52,9 @@
       "sentiment": 0.506
     },
     {
-      "term": "Years",
-      "mentions": 5,
-      "sentiment": 0.217
-    },
-    {
       "term": "Pakistani",
       "mentions": 4,
-      "sentiment": -0.073
-    },
-    {
-      "term": "Bangladesh",
-      "mentions": 4,
-      "sentiment": 0.109
+      "sentiment": 0.028
     },
     {
       "term": "Indian",
@@ -62,39 +62,14 @@
       "sentiment": 0.087
     },
     {
-      "term": "China",
-      "mentions": 4,
-      "sentiment": 0.139
-    },
-    {
       "term": "Governor",
       "mentions": 4,
       "sentiment": -0.183
     },
     {
-      "term": "KP CM",
-      "mentions": 4,
-      "sentiment": -0.119
-    },
-    {
-      "term": "Govt",
-      "mentions": 4,
-      "sentiment": -0.051
-    },
-    {
-      "term": "Quetta",
-      "mentions": 4,
-      "sentiment": -0.14
-    },
-    {
-      "term": "Asian Games",
+      "term": "Bangladesh",
       "mentions": 3,
-      "sentiment": 0.113
-    },
-    {
-      "term": "Iran",
-      "mentions": 3,
-      "sentiment": -0.268
+      "sentiment": 0.164
     },
     {
       "term": "Buddhist",
@@ -102,30 +77,55 @@
       "sentiment": 0.311
     },
     {
-      "term": "Afghan",
+      "term": "Afridi",
       "mentions": 3,
-      "sentiment": 0.038
+      "sentiment": -0.17
     },
     {
-      "term": "Karachi",
+      "term": "Security",
       "mentions": 3,
-      "sentiment": -0.032
+      "sentiment": 0.112
     },
     {
-      "term": "Days",
+      "term": "Baltistan",
       "mentions": 3,
-      "sentiment": 0.064
+      "sentiment": 0.674
+    },
+    {
+      "term": "Dawn",
+      "mentions": 3,
+      "sentiment": 0.411
+    },
+    {
+      "term": "SIFC",
+      "mentions": 3,
+      "sentiment": 0.607
     },
     {
       "term": "Afghanistan",
       "mentions": 3,
-      "sentiment": 0.362
+      "sentiment": 0.05
+    },
+    {
+      "term": "Govt",
+      "mentions": 3,
+      "sentiment": -0.067
+    },
+    {
+      "term": "Days",
+      "mentions": 3,
+      "sentiment": 0.127
+    },
+    {
+      "term": "Sohail Afridi",
+      "mentions": 3,
+      "sentiment": -0.051
     }
   ],
   "emerging": [
     {
       "term": "India",
-      "mentions_now": 11,
+      "mentions_now": 9,
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
@@ -138,7 +138,21 @@
       "reason": "new_topic"
     },
     {
-      "term": "Dawn",
+      "term": "Years",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "KP CM",
+      "mentions_now": 5,
+      "baseline_avg": 0.0,
+      "zscore": null,
+      "reason": "new_topic"
+    },
+    {
+      "term": "Quetta",
       "mentions_now": 5,
       "baseline_avg": 0.0,
       "zscore": null,
@@ -150,41 +164,34 @@
       "baseline_avg": 0.0,
       "zscore": null,
       "reason": "new_topic"
-    },
-    {
-      "term": "Years",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 33,
-      "sentiment": -0.011,
+      "mentions": 29,
+      "sentiment": -0.048,
       "top_terms": [
-        "CM Maryam",
         "Years",
-        "Ahmadiyya",
         "Healthy",
-        "Healthy Punjab"
+        "Hina Javed",
+        "Punjab CM",
+        "Driving"
       ]
     },
     "Sindh": {
       "mentions": 26,
-      "sentiment": 0.03,
+      "sentiment": 0.034,
       "top_terms": [
         "Sindh High Court",
-        "Sindh Government",
         "Afghan",
-        "Sindh Approves Special Security",
-        "Unit Headquarters Worth Rs"
+        "Work",
+        "Title",
+        "Jai Hind Jai Sindh"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 8,
-      "sentiment": 0.051,
+      "mentions": 6,
+      "sentiment": -0.086,
       "top_terms": [
         "Tarar",
         "Choose Between Pakistan",
@@ -194,14 +201,14 @@
       ]
     },
     "Balochistan": {
-      "mentions": 30,
-      "sentiment": -0.097,
+      "mentions": 32,
+      "sentiment": -0.196,
       "top_terms": [
         "Security",
         "Balochistan Liberation Front",
-        "Dispatch Desk",
-        "Four",
-        "Three"
+        "Inshorts",
+        "Pakistans KPK",
+        "Dispatch Desk"
       ]
     },
     "Gilgit-Baltistan": {
@@ -216,24 +223,25 @@
       ]
     },
     "Azad Kashmir": {
-      "mentions": 1,
-      "sentiment": 0.36,
+      "mentions": 2,
+      "sentiment": 0.575,
       "top_terms": [
+        "Investment Projects",
+        "Azad Kashmir See Progress",
+        "SIFC Support",
         "Azad Kashmir JAAC",
-        "Four Muzaffarabad Members Announce",
-        "Dissociation",
-        "Major Development"
+        "Four Muzaffarabad Members Announce"
       ]
     },
     "Islamabad": {
       "mentions": 28,
-      "sentiment": -0.056,
+      "sentiment": 0.013,
       "top_terms": [
         "Days",
-        "India",
-        "Peshawar",
         "Kashmir",
-        "Indian"
+        "Pakistan Hockey League",
+        "October",
+        "Riyadh"
       ]
     }
   },
@@ -243,22 +251,14 @@
   "source_breakdown": [
     {
       "domain": "dailyindependent.com.pk",
-      "count": 26
+      "count": 32
     },
     {
       "domain": "The Express Tribune",
-      "count": 22
+      "count": 27
     },
     {
       "domain": "Dawn",
-      "count": 19
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
-      "count": 19
-    },
-    {
-      "domain": "ProPakistani",
       "count": 18
     },
     {
@@ -266,55 +266,63 @@
       "count": 17
     },
     {
-      "domain": "UrduPoint",
+      "domain": "app.com.pk",
       "count": 17
     },
     {
-      "domain": "arabnews.pk",
-      "count": 13
+      "domain": "UrduPoint",
+      "count": 16
     },
     {
       "domain": "The News Pakistan",
-      "count": 12
+      "count": 15
+    },
+    {
+      "domain": "ProPakistani",
+      "count": 14
+    },
+    {
+      "domain": "Arab News PK",
+      "count": 13
     },
     {
       "domain": "Mettis Global",
-      "count": 8
-    },
-    {
-      "domain": "UA.NEWS",
-      "count": 8
-    },
-    {
-      "domain": "Aaj English TV",
-      "count": 8
+      "count": 12
     },
     {
       "domain": "Islamabad Post",
       "count": 8
     },
     {
-      "domain": "RADIO PAKISTAN",
+      "domain": "english.aaj.tv",
       "count": 7
     },
     {
       "domain": "Pakistan Observer",
-      "count": 7
-    },
-    {
-      "domain": "nation.com.pk",
       "count": 6
     },
     {
-      "domain": "Aaj News",
+      "domain": "ARYnews.tv",
       "count": 6
     },
     {
-      "domain": "The Times of India",
+      "domain": "ua.news",
+      "count": 6
+    },
+    {
+      "domain": "The Nation (Pakistan )",
       "count": 5
     },
     {
-      "domain": "Pakistan Today",
+      "domain": "RADIO PAKISTAN",
+      "count": 5
+    },
+    {
+      "domain": "aninews.in",
+      "count": 5
+    },
+    {
+      "domain": "timesofindia.indiatimes.com",
       "count": 5
     },
     {
@@ -323,8 +331,8 @@
     }
   ],
   "run_stats": {
-    "articles_fetched": 375,
-    "raw_articles_before_dedup": 494,
+    "articles_fetched": 374,
+    "raw_articles_before_dedup": 493,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
