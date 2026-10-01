@@ -1,105 +1,95 @@
 {
-  "generated_at": "2026-10-01T03:55:55.383598+00:00",
+  "generated_at": "2026-10-01T10:42:45.038688+00:00",
   "date": "2026-10-01",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.034,
+    "score": -0.022,
     "label": "mixed / neutral",
-    "positive_pct": 31.2,
-    "neutral_pct": 33.3,
-    "negative_pct": 35.5,
+    "positive_pct": 28.4,
+    "neutral_pct": 40.1,
+    "negative_pct": 31.5,
     "sample_size": 327
   },
   "india_tone": {
-    "score": 0.079,
+    "score": 0.042,
     "label": "mixed / neutral",
-    "positive_pct": 26.7,
+    "positive_pct": 25.0,
     "neutral_pct": 40.0,
-    "negative_pct": 33.3,
-    "sample_size": 15
+    "negative_pct": 35.0,
+    "sample_size": 20
   },
   "top_keywords": [
     {
-      "term": "China",
-      "mentions": 10,
-      "sentiment": 0.166
-    },
-    {
-      "term": "Governor",
-      "mentions": 7,
-      "sentiment": -0.233
-    },
-    {
       "term": "India",
-      "mentions": 6,
-      "sentiment": -0.063
+      "mentions": 12,
+      "sentiment": 0.095
+    },
+    {
+      "term": "China",
+      "mentions": 7,
+      "sentiment": 0.253
     },
     {
       "term": "October",
-      "mentions": 5,
-      "sentiment": 0.01
+      "mentions": 6,
+      "sentiment": -0.007
     },
     {
-      "term": "Dawn",
-      "mentions": 4,
-      "sentiment": -0.095
+      "term": "Lahore",
+      "mentions": 5,
+      "sentiment": 0.204
+    },
+    {
+      "term": "Governor",
+      "mentions": 5,
+      "sentiment": -0.179
     },
     {
       "term": "Sharjeel",
       "mentions": 4,
-      "sentiment": 0.262
+      "sentiment": 0.346
     },
     {
-      "term": "KP CM",
+      "term": "Peshawar",
       "mentions": 4,
-      "sentiment": 0.352
+      "sentiment": 0.09
     },
     {
       "term": "Quetta",
       "mentions": 4,
-      "sentiment": 0.0
+      "sentiment": 0.146
     },
     {
-      "term": "Bangladesh",
+      "term": "Afghanistan",
       "mentions": 3,
-      "sentiment": 0.368
+      "sentiment": -0.196
+    },
+    {
+      "term": "Asian Games",
+      "mentions": 3,
+      "sentiment": 0.162
+    },
+    {
+      "term": "Pakistani",
+      "mentions": 3,
+      "sentiment": -0.105
     },
     {
       "term": "President",
       "mentions": 3,
-      "sentiment": 0.457
+      "sentiment": 0.381
     },
     {
-      "term": "Lahore",
+      "term": "Karachi",
       "mentions": 3,
-      "sentiment": 0.233
+      "sentiment": 0.064
     },
     {
-      "term": "Afghan",
+      "term": "Rescue",
       "mentions": 3,
-      "sentiment": 0.027
-    },
-    {
-      "term": "Afridi",
-      "mentions": 3,
-      "sentiment": -0.283
-    },
-    {
-      "term": "Centre",
-      "mentions": 3,
-      "sentiment": -0.152
-    },
-    {
-      "term": "Peshawar",
-      "mentions": 3,
-      "sentiment": 0.12
-    },
-    {
-      "term": "Indian",
-      "mentions": 3,
-      "sentiment": 0.198
+      "sentiment": 0.61
     },
     {
       "term": "Emergency",
@@ -107,133 +97,136 @@
       "sentiment": -0.395
     },
     {
-      "term": "Baloch",
+      "term": "Reko Diq",
       "mentions": 3,
-      "sentiment": -0.702
+      "sentiment": 0.119
     },
     {
-      "term": "Asian Games",
-      "mentions": 2,
-      "sentiment": 0.076
+      "term": "Saudi Arabia",
+      "mentions": 3,
+      "sentiment": -0.427
     },
     {
-      "term": "Somalia",
+      "term": "Bangladesh",
       "mentions": 2,
-      "sentiment": -0.234
+      "sentiment": 0.004
+    },
+    {
+      "term": "Iran",
+      "mentions": 2,
+      "sentiment": -0.177
+    },
+    {
+      "term": "Taliban",
+      "mentions": 2,
+      "sentiment": -0.691
     }
   ],
   "emerging": [
     {
-      "term": "China",
-      "mentions_now": 10,
-      "baseline_avg": 3.2,
-      "zscore": 6.94,
+      "term": "Reko Diq",
+      "mentions_now": 3,
+      "baseline_avg": 1.75,
+      "zscore": 2.89,
       "reason": "spike"
     },
     {
-      "term": "Sharjeel",
-      "mentions_now": 4,
-      "baseline_avg": 1.25,
-      "zscore": 6.35,
+      "term": "Rescue",
+      "mentions_now": 3,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
+      "reason": "spike"
+    },
+    {
+      "term": "Lahore",
+      "mentions_now": 5,
+      "baseline_avg": 2.67,
+      "zscore": 2.11,
       "reason": "spike"
     },
     {
       "term": "President",
       "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "baseline_avg": 1.5,
+      "zscore": 1.96,
       "reason": "spike"
     },
     {
-      "term": "Centre",
-      "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
-      "reason": "spike"
-    },
-    {
-      "term": "Governor",
-      "mentions_now": 7,
-      "baseline_avg": 4.8,
-      "zscore": 2.94,
+      "term": "Sharjeel",
+      "mentions_now": 4,
+      "baseline_avg": 1.8,
+      "zscore": 1.89,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 24,
-      "sentiment": -0.066,
+      "mentions": 30,
+      "sentiment": -0.072,
       "top_terms": [
+        "Punjab CM",
+        "Lahore",
         "Bajwa",
         "CM Punjab",
-        "Amit Shah",
-        "Centre",
-        "Balochistan CM"
+        "Punjab Assembly"
       ]
     },
     "Sindh": {
-      "mentions": 24,
-      "sentiment": 0.031,
+      "mentions": 30,
+      "sentiment": 0.0,
       "top_terms": [
         "Sindh CM",
-        "China",
-        "Sharjeel",
-        "Sindh Squash",
-        "Platinum"
+        "Rescue",
+        "Mir Raza",
+        "Mir Raza Ali",
+        "China"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 10,
-      "sentiment": -0.312,
+      "mentions": 12,
+      "sentiment": -0.381,
       "top_terms": [
-        "Dawn",
-        "Pakistan Edge",
-        "Government Mulls Emergency",
-        "Governor",
-        "Rule Khyber Pakhtunkhwa"
+        "Preparations",
+        "Possible Emergency",
+        "Governor Rule",
+        "Khyber Pakhtunkhwa Reported",
+        "Emergency"
       ]
     },
     "Balochistan": {
       "mentions": 24,
-      "sentiment": -0.124,
+      "sentiment": -0.064,
       "top_terms": [
+        "Reko Diq",
+        "Security",
         "Baloch",
-        "Balochistan CM",
-        "Sindh CM",
-        "Balochistan PPP",
-        "Bilawal"
+        "Kacchi",
+        "Naqvi"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 1,
-      "sentiment": 0.423,
-      "top_terms": [
-        "Gilgit",
-        "Baltistan",
-        "Baltistan Highway",
-        "Dawn"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Azad Kashmir": {
-      "mentions": 2,
-      "sentiment": 0.331,
+      "mentions": 1,
+      "sentiment": -0.128,
       "top_terms": [
         "Azad Kashmir Internet Blackout",
         "Enters Day",
-        "Users Demand Refund",
-        "Investment Projects",
-        "Azad Kashmir See Progress"
+        "Users Demand Refund"
       ]
     },
     "Islamabad": {
-      "mentions": 29,
+      "mentions": 30,
       "sentiment": 0.003,
       "top_terms": [
+        "India",
         "October",
-        "Shandana",
-        "Delhi",
-        "Prof. Dr. Furqan",
-        "Foundation"
+        "Groundbreaking",
+        "Lahore",
+        "India Strike Cordial Note"
       ]
     }
   },
@@ -242,89 +235,89 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Business Recorder",
-      "count": 28
-    },
-    {
       "domain": "The Express Tribune",
       "count": 27
     },
     {
-      "domain": "dailyindependent.com.pk",
-      "count": 27
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 16
+      "domain": "Dawn",
+      "count": 22
     },
     {
       "domain": "ProPakistani",
-      "count": 14
+      "count": 19
     },
     {
-      "domain": "Arab News PK",
-      "count": 12
+      "domain": "dailyindependent.com.pk",
+      "count": 19
     },
     {
-      "domain": "app.com.pk",
-      "count": 12
+      "domain": "Business Recorder",
+      "count": 15
     },
     {
       "domain": "UrduPoint",
-      "count": 12
+      "count": 13
     },
     {
-      "domain": "Dawn",
+      "domain": "The News Pakistan",
       "count": 11
     },
     {
-      "domain": "greenpost.com.pk",
+      "domain": "Balochistan Pulse",
+      "count": 10
+    },
+    {
+      "domain": "| Associated Press Of Pakistan",
       "count": 9
     },
     {
-      "domain": "Daily Ausaf",
-      "count": 6
-    },
-    {
-      "domain": "Balochistan Pulse",
-      "count": 6
-    },
-    {
       "domain": "Islamabad Post",
-      "count": 6
+      "count": 9
     },
     {
-      "domain": "The Nation (Pakistan )",
-      "count": 5
+      "domain": "Arab News PK",
+      "count": 8
     },
     {
-      "domain": "UA.NEWS",
-      "count": 5
+      "domain": "greenpost.com.pk",
+      "count": 8
     },
     {
       "domain": "Pakistan Observer",
-      "count": 5
+      "count": 8
     },
     {
       "domain": "RADIO PAKISTAN",
+      "count": 7
+    },
+    {
+      "domain": "Pakistan Today",
+      "count": 7
+    },
+    {
+      "domain": "aaj.tv",
+      "count": 6
+    },
+    {
+      "domain": "TechJuice",
+      "count": 5
+    },
+    {
+      "domain": "Bol News",
+      "count": 5
+    },
+    {
+      "domain": "The Nation (Pakistan )",
       "count": 4
     },
     {
-      "domain": "Cricinfo",
-      "count": 4
-    },
-    {
-      "domain": "Daily Lead Pakistan",
-      "count": 4
-    },
-    {
-      "domain": "ARYnews.tv",
+      "domain": "The Diplomatic Insight",
       "count": 4
     }
   ],
   "run_stats": {
     "articles_fetched": 327,
-    "raw_articles_before_dedup": 467,
+    "raw_articles_before_dedup": 468,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
