@@ -1,100 +1,75 @@
 {
-  "generated_at": "2026-10-03T09:38:53.340487+00:00",
+  "generated_at": "2026-10-03T15:39:29.460674+00:00",
   "date": "2026-10-03",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.055,
+    "score": -0.078,
     "label": "mixed / neutral",
-    "positive_pct": 30.6,
-    "neutral_pct": 35.8,
-    "negative_pct": 33.7,
-    "sample_size": 288
+    "positive_pct": 26.4,
+    "neutral_pct": 38.0,
+    "negative_pct": 35.6,
+    "sample_size": 284
   },
   "india_tone": {
-    "score": -0.087,
-    "label": "mixed / neutral",
-    "positive_pct": 33.3,
-    "neutral_pct": 28.6,
-    "negative_pct": 38.1,
-    "sample_size": 21
+    "score": -0.109,
+    "label": "negative",
+    "positive_pct": 30.4,
+    "neutral_pct": 30.4,
+    "negative_pct": 39.1,
+    "sample_size": 23
   },
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 11,
-      "sentiment": -0.026
-    },
-    {
-      "term": "Pakistani",
-      "mentions": 7,
-      "sentiment": -0.26
-    },
-    {
-      "term": "Houthi",
-      "mentions": 5,
-      "sentiment": -0.427
-    },
-    {
-      "term": "Saudi Arabia",
-      "mentions": 5,
-      "sentiment": -0.276
-    },
-    {
-      "term": "MDCAT",
-      "mentions": 5,
-      "sentiment": -0.047
-    },
-    {
-      "term": "October",
-      "mentions": 5,
-      "sentiment": -0.022
+      "mentions": 14,
+      "sentiment": 0.034
     },
     {
       "term": "Imran Khan",
-      "mentions": 4,
-      "sentiment": 0.07
+      "mentions": 6,
+      "sentiment": -0.004
     },
     {
-      "term": "Governor",
-      "mentions": 4,
-      "sentiment": -0.263
-    },
-    {
-      "term": "Afghan",
-      "mentions": 4,
-      "sentiment": -0.381
-    },
-    {
-      "term": "Govt",
-      "mentions": 4,
-      "sentiment": -0.146
+      "term": "October",
+      "mentions": 6,
+      "sentiment": -0.086
     },
     {
       "term": "Asian Games",
-      "mentions": 3,
-      "sentiment": 0.174
-    },
-    {
-      "term": "Indian",
-      "mentions": 3,
-      "sentiment": -0.622
-    },
-    {
-      "term": "Houthis",
-      "mentions": 3,
-      "sentiment": 0.037
+      "mentions": 4,
+      "sentiment": 0.154
     },
     {
       "term": "Security",
-      "mentions": 3,
-      "sentiment": -0.096
+      "mentions": 4,
+      "sentiment": -0.172
     },
     {
-      "term": "Report",
+      "term": "Houthi",
+      "mentions": 4,
+      "sentiment": -0.428
+    },
+    {
+      "term": "Sindh MDCAT",
       "mentions": 3,
-      "sentiment": -0.492
+      "sentiment": -0.224
+    },
+    {
+      "term": "KP CM",
+      "mentions": 3,
+      "sentiment": -0.078
+    },
+    {
+      "term": "Governor",
+      "mentions": 3,
+      "sentiment": -0.204
+    },
+    {
+      "term": "PTI Long March",
+      "mentions": 3,
+      "sentiment": -0.075
     },
     {
       "term": "China",
@@ -102,118 +77,130 @@
       "sentiment": 0.0
     },
     {
-      "term": "April",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Sohail Afridi",
-      "mentions": 3,
-      "sentiment": -0.074
-    },
-    {
-      "term": "Imran",
-      "mentions": 3,
-      "sentiment": 0.134
-    },
-    {
       "term": "Rana Sanaullah",
       "mentions": 3,
       "sentiment": -0.164
+    },
+    {
+      "term": "Sri Lanka",
+      "mentions": 2,
+      "sentiment": 0.156
+    },
+    {
+      "term": "Abhishek",
+      "mentions": 2,
+      "sentiment": 0.17
+    },
+    {
+      "term": "Kashmir",
+      "mentions": 2,
+      "sentiment": -0.238
+    },
+    {
+      "term": "Afghanistan",
+      "mentions": 2,
+      "sentiment": 0.175
+    },
+    {
+      "term": "Saudi Arabia",
+      "mentions": 2,
+      "sentiment": -0.191
+    },
+    {
+      "term": "Report",
+      "mentions": 2,
+      "sentiment": -0.516
+    },
+    {
+      "term": "Houthis",
+      "mentions": 2,
+      "sentiment": 0.026
+    },
+    {
+      "term": "Riyadh",
+      "mentions": 2,
+      "sentiment": 0.051
     }
   ],
   "emerging": [
     {
-      "term": "Houthis",
+      "term": "Imran Khan",
+      "mentions_now": 6,
+      "baseline_avg": 2.36,
+      "zscore": 4.13,
+      "reason": "spike"
+    },
+    {
+      "term": "PTI Long March",
       "mentions_now": 3,
-      "baseline_avg": 1.29,
-      "zscore": 3.79,
+      "baseline_avg": 1.43,
+      "zscore": 3.18,
       "reason": "spike"
     },
     {
-      "term": "Report",
+      "term": "Security",
+      "mentions_now": 4,
+      "baseline_avg": 1.91,
+      "zscore": 2.64,
+      "reason": "spike"
+    },
+    {
+      "term": "Sindh MDCAT",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
-      "reason": "spike"
-    },
-    {
-      "term": "Houthi",
-      "mentions_now": 5,
-      "baseline_avg": 2,
-      "zscore": 2.68,
-      "reason": "spike"
-    },
-    {
-      "term": "Saudi Arabia",
-      "mentions_now": 5,
-      "baseline_avg": 2.27,
-      "zscore": 2.25,
-      "reason": "spike"
-    },
-    {
-      "term": "MDCAT",
-      "mentions_now": 5,
-      "baseline_avg": 2.08,
-      "zscore": 2.21,
+      "baseline_avg": 1.44,
+      "zscore": 2.27,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 25,
-      "sentiment": -0.215,
+      "mentions": 28,
+      "sentiment": -0.217,
       "top_terms": [
         "Pakistani",
-        "India",
-        "Tarn Taran",
-        "Two Suspected Pak Intruders",
-        "Shot Dead BSF"
+        "Punjab CM",
+        "Two Pakistani",
+        "Suspected Militants Arrested",
+        "Intelligence Operations Across Pakistan"
       ]
     },
     "Sindh": {
-      "mentions": 22,
-      "sentiment": -0.021,
+      "mentions": 20,
+      "sentiment": 0.009,
       "top_terms": [
-        "MDCAT",
-        "Sharjeel",
+        "Sindh MDCAT",
         "Health",
+        "Sharjeel",
         "Governor",
-        "CM Murad"
+        "Sindh CM"
       ]
     },
     "Khyber Pakhtunkhwa": {
       "mentions": 7,
-      "sentiment": -0.492,
+      "sentiment": -0.237,
       "top_terms": [
         "Security",
-        "KP Doctors Protest",
-        "Private Clinics Strike",
-        "Doctors Demands",
-        "Policeman"
+        "Militants Killed",
+        "Operations",
+        "Khyber Pakhtunkhwa Received",
+        "Billion"
       ]
     },
     "Balochistan": {
-      "mentions": 16,
-      "sentiment": 0.182,
+      "mentions": 23,
+      "sentiment": 0.124,
       "top_terms": [
         "Security",
-        "National Party",
-        "Balochistan Launches Technical",
-        "Digital Skills Training Programme",
-        "Youth"
+        "Militants Killed",
+        "Operations",
+        "Female Face",
+        "Insurgency"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 1,
-      "sentiment": 0.0,
-      "top_terms": [
-        "India Draws Ladakh Red",
-        "Line China",
-        "Aksai Chin",
-        "Shaksgam",
-        "Gilgit"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Azad Kashmir": {
       "mentions": 0,
@@ -221,14 +208,14 @@
       "top_terms": []
     },
     "Islamabad": {
-      "mentions": 31,
-      "sentiment": -0.097,
+      "mentions": 35,
+      "sentiment": -0.106,
       "top_terms": [
-        "Govt",
         "Rana Sanaullah",
         "ISLAMABAD",
         "Imran Khan",
-        "October"
+        "October",
+        "Second"
       ]
     }
   },
@@ -237,89 +224,89 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Dawn",
-      "count": 18
-    },
-    {
-      "domain": "dailyindependent.com.pk",
+      "domain": "The Express Tribune",
       "count": 17
     },
     {
-      "domain": "The Express Tribune",
-      "count": 16
+      "domain": "brecorder.com",
+      "count": 15
     },
     {
-      "domain": "Business Recorder",
-      "count": 16
+      "domain": "dailyindependent.com.pk",
+      "count": 14
     },
     {
-      "domain": "ProPakistani",
-      "count": 12
-    },
-    {
-      "domain": "Arab News PK",
-      "count": 11
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
+      "domain": "Dawn",
       "count": 10
     },
     {
-      "domain": "The News Pakistan",
+      "domain": "The Times of India",
       "count": 9
     },
     {
-      "domain": "UrduPoint",
+      "domain": "Arab News PK",
       "count": 8
     },
     {
-      "domain": "The Times of India",
-      "count": 7
-    },
-    {
-      "domain": "Islamabad Post",
-      "count": 7
-    },
-    {
       "domain": "Aaj English TV",
-      "count": 6
+      "count": 8
     },
     {
-      "domain": "The Nation (Pakistan )",
-      "count": 5
+      "domain": "The News Pakistan",
+      "count": 8
     },
     {
-      "domain": "Aaj News",
-      "count": 5
-    },
-    {
-      "domain": "24 News HD",
-      "count": 5
-    },
-    {
-      "domain": "Pakistan Observer",
-      "count": 5
-    },
-    {
-      "domain": "thepakistanconnect.com",
-      "count": 5
+      "domain": "Balochistan Pulse",
+      "count": 8
     },
     {
       "domain": "Cricinfo",
-      "count": 4
+      "count": 7
     },
     {
-      "domain": "Daily Pakistan",
-      "count": 4
+      "domain": "Aaj News",
+      "count": 7
     },
     {
-      "domain": "Daily Times",
-      "count": 3
+      "domain": "greenpost.com.pk",
+      "count": 7
+    },
+    {
+      "domain": "en.dailypakistan.com.pk",
+      "count": 7
+    },
+    {
+      "domain": "| Associated Press Of Pakistan",
+      "count": 7
+    },
+    {
+      "domain": "ProPakistani",
+      "count": 6
+    },
+    {
+      "domain": "thefridaytimes.com",
+      "count": 5
+    },
+    {
+      "domain": "UrduPoint",
+      "count": 5
+    },
+    {
+      "domain": "dailyausaf.com",
+      "count": 5
+    },
+    {
+      "domain": "TechJuice",
+      "count": 5
+    },
+    {
+      "domain": "The Nation (Pakistan )",
+      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 288,
-    "raw_articles_before_dedup": 419,
+    "articles_fetched": 284,
+    "raw_articles_before_dedup": 412,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
