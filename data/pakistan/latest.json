@@ -1,179 +1,200 @@
 {
-  "generated_at": "2026-10-03T22:39:49.461669+00:00",
-  "date": "2026-10-03",
+  "generated_at": "2026-10-04T04:07:38.878490+00:00",
+  "date": "2026-10-04",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.064,
+    "score": -0.067,
     "label": "mixed / neutral",
-    "positive_pct": 26.8,
-    "neutral_pct": 37.3,
-    "negative_pct": 35.9,
-    "sample_size": 276
+    "positive_pct": 25.7,
+    "neutral_pct": 37.8,
+    "negative_pct": 36.5,
+    "sample_size": 307
   },
   "india_tone": {
-    "score": -0.129,
-    "label": "negative",
-    "positive_pct": 31.6,
-    "neutral_pct": 26.3,
-    "negative_pct": 42.1,
-    "sample_size": 19
+    "score": -0.073,
+    "label": "mixed / neutral",
+    "positive_pct": 33.3,
+    "neutral_pct": 25.9,
+    "negative_pct": 40.7,
+    "sample_size": 27
   },
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 15,
-      "sentiment": -0.117
+      "mentions": 21,
+      "sentiment": -0.076
     },
     {
       "term": "October",
-      "mentions": 7,
-      "sentiment": -0.153
-    },
-    {
-      "term": "Asian Games",
-      "mentions": 3,
-      "sentiment": 0.29
+      "mentions": 6,
+      "sentiment": -0.147
     },
     {
       "term": "Imran Khan",
+      "mentions": 5,
+      "sentiment": 0.081
+    },
+    {
+      "term": "Asian Games",
+      "mentions": 5,
+      "sentiment": 0.354
+    },
+    {
+      "term": "China",
+      "mentions": 5,
+      "sentiment": 0.437
+    },
+    {
+      "term": "Sri Lanka",
       "mentions": 3,
-      "sentiment": -0.029
+      "sentiment": 0.104
+    },
+    {
+      "term": "Spain",
+      "mentions": 3,
+      "sentiment": 0.106
+    },
+    {
+      "term": "Sindh MDCAT",
+      "mentions": 3,
+      "sentiment": -0.185
+    },
+    {
+      "term": "Azma",
+      "mentions": 3,
+      "sentiment": 0.265
     },
     {
       "term": "Govt",
       "mentions": 3,
-      "sentiment": -0.219
+      "sentiment": 0.02
     },
     {
-      "term": "Insight",
-      "mentions": 3,
-      "sentiment": 0.491
-    },
-    {
-      "term": "Security",
-      "mentions": 3,
-      "sentiment": -0.017
-    },
-    {
-      "term": "Riyadh",
+      "term": "Middle East",
       "mentions": 2,
-      "sentiment": -0.17
+      "sentiment": -0.386
     },
     {
-      "term": "Afghanistan",
+      "term": "British",
       "mentions": 2,
-      "sentiment": -0.373
+      "sentiment": -0.026
     },
     {
-      "term": "Somalia",
+      "term": "What Pakistan",
       "mentions": 2,
-      "sentiment": -0.637
+      "sentiment": 0.238
     },
     {
-      "term": "Sri Lanka",
+      "term": "Ferozepur",
       "mentions": 2,
-      "sentiment": 0.156
+      "sentiment": -0.269
     },
     {
-      "term": "Pakistan Champions",
+      "term": "National Day",
       "mentions": 2,
-      "sentiment": 0.397
+      "sentiment": 0.335
     },
     {
-      "term": "Kashmir",
+      "term": "March",
       "mentions": 2,
-      "sentiment": -0.238
+      "sentiment": 0.201
     },
     {
-      "term": "Governor",
+      "term": "Lakki Marwat",
       "mentions": 2,
-      "sentiment": -0.221
+      "sentiment": 0.165
     },
     {
-      "term": "Spain",
+      "term": "Bilawal",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": -0.172
     },
     {
-      "term": "Saudi Arabia",
+      "term": "KP CM",
       "mentions": 2,
-      "sentiment": -0.319
+      "sentiment": -0.181
     },
     {
-      "term": "Azma",
+      "term": "Rangers",
       "mentions": 2,
-      "sentiment": 0.397
-    },
-    {
-      "term": "Balochistan Security",
-      "mentions": 2,
-      "sentiment": 0.566
-    },
-    {
-      "term": "Security Situation Comparison",
-      "mentions": 2,
-      "sentiment": 0.566
-    },
-    {
-      "term": "Pakistan Update",
-      "mentions": 2,
-      "sentiment": 0.566
+      "sentiment": 0.016
     }
   ],
   "emerging": [
     {
-      "term": "Insight",
+      "term": "Azma",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
+      "term": "Sri Lanka",
+      "mentions_now": 3,
+      "baseline_avg": 1.2,
+      "zscore": 4.5,
+      "reason": "spike"
+    },
+    {
+      "term": "India",
+      "mentions_now": 21,
+      "baseline_avg": 11.92,
+      "zscore": 2.46,
+      "reason": "spike"
+    },
+    {
+      "term": "Asian Games",
+      "mentions_now": 5,
+      "baseline_avg": 2.54,
+      "zscore": 2.27,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 25,
-      "sentiment": -0.127,
+      "mentions": 29,
+      "sentiment": -0.118,
       "top_terms": [
         "Spain",
+        "India",
         "Maryam Nawaz",
-        "Govt",
-        "Rangers",
-        "Christian"
+        "Spanish",
+        "Barcelona"
       ]
     },
     "Sindh": {
-      "mentions": 22,
-      "sentiment": 0.024,
+      "mentions": 23,
+      "sentiment": 0.004,
       "top_terms": [
         "Sindh MDCAT",
-        "Karachi",
-        "JPMC",
-        "Health",
-        "CM Murad"
+        "PMDC",
+        "Panel",
+        "Sindh Indus",
+        "Potohar"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 9,
-      "sentiment": -0.131,
+      "mentions": 6,
+      "sentiment": -0.005,
       "top_terms": [
-        "Security",
-        "Militants Killed",
-        "Operations",
-        "Khyber Pakhtunkhwa Received",
-        "Billion"
+        "March",
+        "Imran Khan",
+        "Lakki Marwat",
+        "Khyber Pakhtunkhwa CM",
+        "Militants Killed"
       ]
     },
     "Balochistan": {
-      "mentions": 21,
-      "sentiment": 0.073,
+      "mentions": 24,
+      "sentiment": -0.005,
       "top_terms": [
-        "Balochistan Security",
-        "Security Situation Comparison",
-        "Pakistan Update",
-        "Insight",
-        "Security"
+        "Political",
+        "Balochistan CM Bugti",
+        "BLA Claims",
+        "Attacks Across Balochistan",
+        "September"
       ]
     },
     "Gilgit-Baltistan": {
@@ -187,14 +208,14 @@
       "top_terms": []
     },
     "Islamabad": {
-      "mentions": 20,
-      "sentiment": -0.038,
+      "mentions": 19,
+      "sentiment": -0.036,
       "top_terms": [
-        "Ministry",
-        "Information",
-        "Yadgar",
-        "Fatah",
-        "PTI Long March"
+        "Pakistan Super League",
+        "Islamabad United Cricket Team",
+        "Records",
+        "Stats",
+        "Ministry"
       ]
     }
   },
@@ -203,39 +224,51 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Business Recorder",
-      "count": 44
+      "domain": "The Express Tribune",
+      "count": 35
     },
     {
-      "domain": "The Express Tribune",
-      "count": 23
+      "domain": "brecorder.com",
+      "count": 30
+    },
+    {
+      "domain": "The News Pakistan",
+      "count": 19
+    },
+    {
+      "domain": "Balochistan Pulse",
+      "count": 15
     },
     {
       "domain": "dailyindependent.com.pk",
-      "count": 16
-    },
-    {
-      "domain": "balochistanpulse.com",
-      "count": 10
-    },
-    {
-      "domain": "Aaj English TV",
-      "count": 9
+      "count": 14
     },
     {
       "domain": "Dawn",
+      "count": 12
+    },
+    {
+      "domain": "The Nation (Pakistan )",
+      "count": 9
+    },
+    {
+      "domain": "Arab News PK",
       "count": 8
+    },
+    {
+      "domain": "Dunya News",
+      "count": 7
     },
     {
       "domain": "greenpost.com.pk",
       "count": 7
     },
     {
-      "domain": "Minute Mirror",
-      "count": 7
+      "domain": "Cricinfo",
+      "count": 6
     },
     {
-      "domain": "Daily Pakistan",
+      "domain": "en.dailypakistan.com.pk",
       "count": 6
     },
     {
@@ -243,40 +276,28 @@
       "count": 6
     },
     {
+      "domain": "islamabadpost.com.pk",
+      "count": 6
+    },
+    {
+      "domain": "Daily Times",
+      "count": 5
+    },
+    {
+      "domain": "Aaj English TV",
+      "count": 5
+    },
+    {
       "domain": "Daily Ausaf",
-      "count": 6
+      "count": 5
     },
     {
-      "domain": "Dunya News",
-      "count": 6
-    },
-    {
-      "domain": "Islamabad Post",
-      "count": 6
-    },
-    {
-      "domain": "Arab News PK",
+      "domain": "Minute Mirror",
       "count": 5
     },
     {
       "domain": "| Associated Press Of Pakistan",
-      "count": 5
-    },
-    {
-      "domain": "Cricinfo",
       "count": 4
-    },
-    {
-      "domain": "Daily Times",
-      "count": 4
-    },
-    {
-      "domain": "Pakistan Connect",
-      "count": 4
-    },
-    {
-      "domain": "The Friday Times",
-      "count": 3
     },
     {
       "domain": "Afghanistan International",
@@ -284,8 +305,8 @@
     }
   ],
   "run_stats": {
-    "articles_fetched": 276,
-    "raw_articles_before_dedup": 434,
+    "articles_fetched": 307,
+    "raw_articles_before_dedup": 458,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
