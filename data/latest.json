@@ -1,186 +1,200 @@
 {
-  "generated_at": "2026-10-04T04:06:31.737775+00:00",
+  "generated_at": "2026-10-04T13:38:33.874737+00:00",
   "date": "2026-10-04",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.037,
+    "score": -0.053,
     "label": "mixed / neutral",
-    "positive_pct": 27.2,
-    "neutral_pct": 44.0,
-    "negative_pct": 28.9,
-    "sample_size": 232
+    "positive_pct": 23.9,
+    "neutral_pct": 45.5,
+    "negative_pct": 30.6,
+    "sample_size": 222
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 9,
-      "sentiment": 0.015
+      "mentions": 11,
+      "sentiment": -0.067
+    },
+    {
+      "term": "Rest",
+      "mentions": 8,
+      "sentiment": -0.058
     },
     {
       "term": "Irani Cup",
       "mentions": 7,
-      "sentiment": 0.094
-    },
-    {
-      "term": "Rest",
-      "mentions": 7,
-      "sentiment": 0.057
-    },
-    {
-      "term": "INDIA",
-      "mentions": 4,
-      "sentiment": 0.019
-    },
-    {
-      "term": "Statehood",
-      "mentions": 3,
-      "sentiment": 0.173
-    },
-    {
-      "term": "Army",
-      "mentions": 3,
-      "sentiment": 0.288
-    },
-    {
-      "term": "Save Democracy",
-      "mentions": 3,
-      "sentiment": 0.147
-    },
-    {
-      "term": "October",
-      "mentions": 3,
-      "sentiment": 0.098
+      "sentiment": 0.073
     },
     {
       "term": "Police",
-      "mentions": 3,
-      "sentiment": -0.386
+      "mentions": 4,
+      "sentiment": -0.432
     },
     {
-      "term": "September",
-      "mentions": 3,
-      "sentiment": -0.176
+      "term": "October",
+      "mentions": 4,
+      "sentiment": 0.072
     },
     {
-      "term": "BL Santhosh",
+      "term": "Speaker",
       "mentions": 3,
-      "sentiment": 0.617
+      "sentiment": -0.059
     },
     {
-      "term": "Free Power Units",
+      "term": "Stats",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 3,
+      "sentiment": -0.336
+    },
+    {
+      "term": "Union Power Secretary",
+      "mentions": 3,
+      "sentiment": 0.376
+    },
+    {
+      "term": "Sakeena Itoo",
+      "mentions": 3,
+      "sentiment": 0.088
+    },
+    {
+      "term": "Recent Match Report",
       "mentions": 2,
-      "sentiment": 0.511
+      "sentiment": 0.044
     },
     {
-      "term": "Power Secretary",
+      "term": "Assembly",
       "mentions": 2,
-      "sentiment": 0.446
+      "sentiment": 0.191
+    },
+    {
+      "term": "Lakh",
+      "mentions": 2,
+      "sentiment": -0.264
+    },
+    {
+      "term": "Northern Army Commander Reviews",
+      "mentions": 2,
+      "sentiment": 0.387
     },
     {
       "term": "BCCI Chief",
       "mentions": 2,
-      "sentiment": 0.63
+      "sentiment": 0.561
     },
     {
-      "term": "Day Three",
+      "term": "Centre",
       "mentions": 2,
-      "sentiment": 0.101
+      "sentiment": 0.296
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "Saturday",
       "mentions": 2,
-      "sentiment": 0.206
+      "sentiment": -0.257
     },
     {
-      "term": "Union Power Secretary",
+      "term": "Fraud",
       "mentions": 2,
-      "sentiment": 0.373
+      "sentiment": -0.695
     },
     {
-      "term": "Final",
+      "term": "Accused",
       "mentions": 2,
-      "sentiment": -0.058
+      "sentiment": -0.742
     },
     {
-      "term": "Smaran Ravichandran",
+      "term": "Army",
       "mentions": 2,
-      "sentiment": 0.115
-    },
-    {
-      "term": "Inspectors",
-      "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.25
     }
   ],
   "emerging": [
     {
-      "term": "INDIA",
-      "mentions_now": 4,
-      "baseline_avg": 1.25,
-      "zscore": 6.35,
+      "term": "Stats",
+      "mentions_now": 3,
+      "baseline_avg": 1.11,
+      "zscore": 6.01,
       "reason": "spike"
     },
     {
-      "term": "BL Santhosh",
+      "term": "Speaker",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.33,
+      "zscore": 3.54,
       "reason": "spike"
     },
     {
       "term": "Rest",
-      "mentions_now": 7,
-      "baseline_avg": 4,
-      "zscore": 2.55,
+      "mentions_now": 8,
+      "baseline_avg": 4.46,
+      "zscore": 3.27,
+      "reason": "spike"
+    },
+    {
+      "term": "Sakeena Itoo",
+      "mentions_now": 3,
+      "baseline_avg": 1.33,
+      "zscore": 2.24,
+      "reason": "spike"
+    },
+    {
+      "term": "Police",
+      "mentions_now": 4,
+      "baseline_avg": 2.08,
+      "zscore": 2.1,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
       "mentions": 3,
-      "sentiment": 0.409,
+      "sentiment": 0.436,
       "top_terms": [
-        "Minister",
-        "ADDC Anantnag",
-        "Road Safety Measures",
         "Sakeena Itoo",
-        "Social Welfare"
+        "Social Welfare",
+        "Nanil",
+        "Minister",
+        "ADDC Anantnag"
       ]
     },
     "Bandipora": {
-      "mentions": 4,
-      "sentiment": -0.006,
+      "mentions": 5,
+      "sentiment": -0.165,
       "top_terms": [
-        "Bandipora Police Arrested Two",
-        "Accused",
-        "Theft Case",
-        "Stolen Property Recovered",
-        "Traffic Suspended Bandipora"
+        "DC Bandipora",
+        "Road Safety Measures",
+        "Time",
+        "Bound ATRs",
+        "Bandipora Police Arrested Two"
       ]
     },
     "Baramulla": {
-      "mentions": 6,
-      "sentiment": -0.112,
+      "mentions": 8,
+      "sentiment": -0.256,
       "top_terms": [
         "Police",
-        "Baramulla Police Warns Against",
-        "Tourist Harassment",
-        "Crore Sanctioned",
-        "Baramulla Sanitation Infrastructure"
+        "Two Killed",
+        "One Injured",
+        "Tractor Overturns",
+        "Lakh Recovered"
       ]
     },
     "Budgam": {
       "mentions": 3,
-      "sentiment": -0.335,
+      "sentiment": -0.404,
       "top_terms": [
-        "Lashkar",
-        "Taiba",
-        "Hashim Musa",
-        "India",
-        "Pakistan"
+        "Three",
+        "Ayyam",
+        "Fatima",
+        "Jamadi",
+        "Awwal"
       ]
     },
     "Ganderbal": {
@@ -193,25 +207,25 @@
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": -0.379,
+      "mentions": 4,
+      "sentiment": -0.263,
       "top_terms": [
+        "Leopard",
+        "Minor Injured Kulgam",
+        "Leopard Attack",
         "Veterinary",
-        "Medical Camp",
-        "Rashtriya Rifles Brings Essential",
-        "Healthcare Services Closer",
-        "Gujjar"
+        "Medical Camp"
       ]
     },
     "Kupwara": {
       "mentions": 4,
-      "sentiment": 0.015,
+      "sentiment": 0.121,
       "top_terms": [
-        "Man Injured",
-        "Kitchen Damaged",
-        "Gas Cylinder Blast",
-        "Urdu Council Holds Literary",
-        "Event"
+        "Jabdi Bijaldara House",
+        "Karnah",
+        "Kupwara Fire",
+        "Historic Darul Mominat Madrasa",
+        "Reduced Ashes"
       ]
     },
     "Pulwama": {
@@ -224,109 +238,100 @@
       ]
     },
     "Shopian": {
-      "mentions": 5,
-      "sentiment": -0.188,
+      "mentions": 6,
+      "sentiment": -0.214,
       "top_terms": [
+        "High Court",
+        "Hindustan Times",
         "ADDC Shopian Flags Off",
         "Exposure Visit",
-        "Children",
-        "Special Needs",
-        "High Court"
+        "Children"
       ]
     },
     "Srinagar": {
       "mentions": 23,
-      "sentiment": 0.026,
+      "sentiment": 0.04,
       "top_terms": [
         "Recent Match Report",
         "Rest",
         "India",
-        "Jammu Highway",
-        "Traffic Advisory Commuters"
+        "Army Personnel Arrested",
+        "Srinagar Airport Suspected"
       ]
     },
     "Doda": {
-      "mentions": 2,
-      "sentiment": 0.256,
+      "mentions": 3,
+      "sentiment": 0.34,
       "top_terms": [
+        "Amar Ujala",
         "Awareness",
         "Medicine",
-        "Bhabore",
-        "Amar Ujala"
+        "Bhabore"
       ]
     },
     "Jammu": {
-      "mentions": 43,
-      "sentiment": -0.044,
+      "mentions": 47,
+      "sentiment": -0.11,
       "top_terms": [
+        "India",
         "Rest",
         "Irani Cup",
-        "India",
-        "Day Three",
-        "Jammu Kashmir"
+        "Jammu Kashmir",
+        "Recent Match Report"
       ]
     },
     "Kathua": {
-      "mentions": 2,
-      "sentiment": 0.145,
+      "mentions": 3,
+      "sentiment": 0.255,
       "top_terms": [
-        "IGP Jammu",
-        "Implementation",
-        "District Plan"
+        "Kathua Police Rescue",
+        "Bovines",
+        "Seize Truck",
+        "Lakhanpur",
+        "IGP Jammu"
       ]
     },
     "Kishtwar": {
       "mentions": 2,
       "sentiment": 0.0,
       "top_terms": [
+        "Reforms Utsav",
+        "District Kishtwar",
         "DC Kishtwar",
         "Tour",
-        "Warwan",
-        "Reforms Utsav",
-        "District Kishtwar"
+        "Warwan"
       ]
     },
     "Poonch": {
-      "mentions": 1,
-      "sentiment": -0.681,
-      "top_terms": [
-        "Midnight Fire Engulfs Grass",
-        "Store Poonch Village",
-        "Bundles Destroyed"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Rajouri": {
       "mentions": 6,
-      "sentiment": -0.061,
+      "sentiment": -0.121,
       "top_terms": [
-        "DHSJ",
-        "Health Department",
-        "PoK Teen Detained",
-        "Crossing Line Control",
-        "PoK Woman Apprehended Along"
+        "Search",
+        "Security Forces Conduct Searches",
+        "Indian Army Detains PoJK",
+        "Teenager Crossing LoC",
+        "DHSJ"
       ]
     },
     "Ramban": {
-      "mentions": 6,
-      "sentiment": -0.795,
+      "mentions": 3,
+      "sentiment": -0.62,
       "top_terms": [
-        "Ramban Bus Accident",
-        "Five Injured",
-        "Ramban Road Accident",
-        "LG Sinha Expresses Grief",
-        "One Dead"
+        "Traffic Jam Turns Fatal",
+        "Man Falls Through Flyover",
+        "Tourist",
+        "Marog"
       ]
     },
     "Reasi": {
-      "mentions": 2,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Reasi Police Register Four",
-        "FIRs",
-        "Recover",
-        "Pregabalin Capsules",
-        "Vande Bharat"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Samba": {
       "mentions": 1,
@@ -338,13 +343,13 @@
     },
     "Udhampur": {
       "mentions": 4,
-      "sentiment": -0.003,
+      "sentiment": -0.164,
       "top_terms": [
-        "Health Camp",
-        "Old Bus Stand Udhampur",
-        "District Wushu Ch",
-        "MVD Udhampur",
-        "Road Safety"
+        "Search",
+        "Security Forces Conduct Searches",
+        "Bariote Road",
+        "PMGSY Terminates Contract",
+        "Orders Rs"
       ]
     }
   },
@@ -353,36 +358,36 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 30
+      "domain": "kashmirlife.net",
+      "count": 26
     },
     {
       "domain": "Greater Kashmir",
-      "count": 27
+      "count": 26
     },
     {
-      "domain": "Kashmir Life",
-      "count": 21
-    },
-    {
-      "domain": "risingkashmir.com",
-      "count": 16
+      "domain": "Daily Excelsior",
+      "count": 22
     },
     {
       "domain": "Jammu Links News",
-      "count": 13
+      "count": 18
     },
     {
-      "domain": "The Kashmir Horizon",
-      "count": 10
-    },
-    {
-      "domain": "kashmirobserver.net",
-      "count": 9
+      "domain": "Kashmir Observer",
+      "count": 11
     },
     {
       "domain": "KNS News",
-      "count": 9
+      "count": 10
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 10
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 8
     },
     {
       "domain": "thekashmirimages.com",
@@ -390,30 +395,26 @@
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 5
-    },
-    {
-      "domain": "The Tribune",
-      "count": 5
+      "count": 6
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 5
-    },
-    {
-      "domain": "The Times of India",
-      "count": 4
-    },
-    {
-      "domain": "theprint.in",
-      "count": 4
+      "count": 6
     },
     {
       "domain": "The Hindu",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Vision",
+      "count": 4
+    },
+    {
+      "domain": "ETV Bharat",
       "count": 3
     },
     {
-      "domain": "Kashmir Convener",
+      "domain": "The Tribune",
       "count": 3
     },
     {
@@ -421,21 +422,25 @@
       "count": 3
     },
     {
-      "domain": "Kashmir Dot Com",
-      "count": 3
+      "domain": "ESPN",
+      "count": 2
     },
     {
-      "domain": "Kashmir Reader",
-      "count": 3
+      "domain": "bcci.tv",
+      "count": 2
     },
     {
-      "domain": "News On AIR",
+      "domain": "Cricinfo",
+      "count": 2
+    },
+    {
+      "domain": "The Shillong Times",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 232,
-    "raw_articles_before_dedup": 368,
+    "articles_fetched": 222,
+    "raw_articles_before_dedup": 343,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
