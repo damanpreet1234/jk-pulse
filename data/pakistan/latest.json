@@ -1,207 +1,200 @@
 {
-  "generated_at": "2026-10-11T10:34:20.956958+00:00",
+  "generated_at": "2026-10-11T17:17:15.946246+00:00",
   "date": "2026-10-11",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.039,
+    "score": -0.059,
     "label": "mixed / neutral",
-    "positive_pct": 32.0,
-    "neutral_pct": 32.0,
-    "negative_pct": 36.1,
-    "sample_size": 269
+    "positive_pct": 27.4,
+    "neutral_pct": 37.0,
+    "negative_pct": 35.6,
+    "sample_size": 219
   },
   "india_tone": {
-    "score": 0.145,
-    "label": "positive",
-    "positive_pct": 36.4,
-    "neutral_pct": 45.5,
-    "negative_pct": 18.2,
-    "sample_size": 11
+    "score": 0.062,
+    "label": "mixed / neutral",
+    "positive_pct": 20.0,
+    "neutral_pct": 50.0,
+    "negative_pct": 30.0,
+    "sample_size": 10
   },
   "top_keywords": [
     {
+      "term": "Riyadh",
+      "mentions": 6,
+      "sentiment": -0.505
+    },
+    {
       "term": "India",
-      "mentions": 7,
-      "sentiment": 0.143
+      "mentions": 6,
+      "sentiment": 0.004
+    },
+    {
+      "term": "Sri Lanka",
+      "mentions": 5,
+      "sentiment": 0.189
     },
     {
       "term": "Governor",
-      "mentions": 6,
-      "sentiment": -0.327
+      "mentions": 4,
+      "sentiment": -0.22
     },
     {
-      "term": "PM Shehbaz",
-      "mentions": 5,
-      "sentiment": 0.029
+      "term": "Pakistani",
+      "mentions": 4,
+      "sentiment": -0.461
+    },
+    {
+      "term": "Lahore",
+      "mentions": 4,
+      "sentiment": -0.207
     },
     {
       "term": "Barkhan",
-      "mentions": 5,
-      "sentiment": 0.28
+      "mentions": 4,
+      "sentiment": 0.262
     },
     {
-      "term": "Riyadh",
+      "term": "Houthi",
       "mentions": 3,
-      "sentiment": -0.441
-    },
-    {
-      "term": "Saudi Arabia",
-      "mentions": 3,
-      "sentiment": 0.279
-    },
-    {
-      "term": "Tank",
-      "mentions": 3,
-      "sentiment": -0.592
-    },
-    {
-      "term": "IT Park",
-      "mentions": 3,
-      "sentiment": 0.4
-    },
-    {
-      "term": "Rain",
-      "mentions": 3,
-      "sentiment": 0.099
-    },
-    {
-      "term": "PTI Long March",
-      "mentions": 3,
-      "sentiment": 0.186
-    },
-    {
-      "term": "Development",
-      "mentions": 3,
-      "sentiment": 0.617
+      "sentiment": -0.589
     },
     {
       "term": "October",
       "mentions": 3,
+      "sentiment": -0.075
+    },
+    {
+      "term": "Saudi Arabia",
+      "mentions": 3,
+      "sentiment": -0.349
+    },
+    {
+      "term": "Rain",
+      "mentions": 3,
       "sentiment": 0.0
     },
     {
-      "term": "Sohail Afridi",
+      "term": "Exclusive",
       "mentions": 3,
-      "sentiment": 0.106
+      "sentiment": -0.188
     },
     {
-      "term": "Breaking",
+      "term": "PM Shehbaz",
       "mentions": 3,
-      "sentiment": 0.143
+      "sentiment": -0.19
     },
     {
       "term": "Imran Khan",
       "mentions": 2,
-      "sentiment": -0.277
-    },
-    {
-      "term": "Rule",
-      "mentions": 2,
-      "sentiment": -0.51
+      "sentiment": -0.378
     },
     {
       "term": "Emergency",
       "mentions": 2,
-      "sentiment": -0.354
+      "sentiment": -0.455
     },
     {
-      "term": "Sri Lanka",
+      "term": "Bangladesh",
       "mentions": 2,
-      "sentiment": 0.101
+      "sentiment": 0.072
     },
     {
-      "term": "Bangkok",
+      "term": "Chinese",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.137
     },
     {
-      "term": "Federal",
+      "term": "Army",
       "mentions": 2,
-      "sentiment": -0.372
+      "sentiment": -0.492
+    },
+    {
+      "term": "Gold Medal Match",
+      "mentions": 2,
+      "sentiment": 0.477
+    },
+    {
+      "term": "Asian Games",
+      "mentions": 2,
+      "sentiment": 0.477
     }
   ],
   "emerging": [
     {
-      "term": "Tank",
+      "term": "Exclusive",
       "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
       "reason": "spike"
     },
     {
-      "term": "Barkhan",
-      "mentions_now": 5,
-      "baseline_avg": 1.67,
-      "zscore": 4.47,
+      "term": "Riyadh",
+      "mentions_now": 6,
+      "baseline_avg": 2.1,
+      "zscore": 4.7,
       "reason": "spike"
     },
     {
-      "term": "IT Park",
+      "term": "Houthi",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.55,
+      "zscore": 2.92,
       "reason": "spike"
     },
     {
-      "term": "Breaking",
-      "mentions_now": 3,
-      "baseline_avg": 1.29,
-      "zscore": 3.79,
-      "reason": "spike"
-    },
-    {
-      "term": "PM Shehbaz",
-      "mentions_now": 5,
-      "baseline_avg": 2,
-      "zscore": 2.22,
+      "term": "Lahore",
+      "mentions_now": 4,
+      "baseline_avg": 1.88,
+      "zscore": 2.72,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 18,
-      "sentiment": 0.042,
+      "mentions": 15,
+      "sentiment": 0.149,
       "top_terms": [
         "Canadian MPs",
         "Sikh",
-        "Punjab CBD",
-        "Lahore",
-        "AQI Hits"
+        "Punjab University Research Examines",
+        "How Photo",
+        "Updates"
       ]
     },
     "Sindh": {
-      "mentions": 17,
-      "sentiment": 0.03,
+      "mentions": 19,
+      "sentiment": -0.009,
       "top_terms": [
+        "Sindh Governor",
         "Sindh CM",
-        "Sindh CM Murad Ali",
-        "Shah",
-        "Sukkur",
+        "Heritage Conservation Projects",
+        "PWCA",
         "Awami Tehreek"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 18,
-      "sentiment": -0.141,
+      "mentions": 15,
+      "sentiment": -0.223,
       "top_terms": [
-        "Governor",
-        "PTI Long March",
-        "Khyber Pakhtunkhwa Politics",
-        "Khyber Pakhtunkhwa Bachao Tehreek",
-        "Sohail Afridi"
+        "Pakistan Imposes Emergency",
+        "Imran Khan Supporters March",
+        "Pakistan President",
+        "Pakistan Army",
+        "Pakistan Declares Emergency"
       ]
     },
     "Balochistan": {
-      "mentions": 18,
-      "sentiment": 0.071,
+      "mentions": 19,
+      "sentiment": -0.133,
       "top_terms": [
-        "Barkhan",
         "Breaking",
+        "Rain",
         "Commuters",
         "Balochistan CM Bugti",
-        "Balochistan CM"
+        "Paank"
       ]
     },
     "Gilgit-Baltistan": {
@@ -221,14 +214,14 @@
       "top_terms": []
     },
     "Islamabad": {
-      "mentions": 27,
-      "sentiment": 0.07,
+      "mentions": 19,
+      "sentiment": 0.061,
       "top_terms": [
-        "Kabul",
-        "October",
-        "Pakistan Bans Public Gatherings",
-        "Rawalpindi PTI",
-        "Marches Towards Islamabad"
+        "Riyadh",
+        "Exclusive",
+        "PM Shehbaz",
+        "Pakistan PM",
+        "Shaza"
       ]
     }
   },
@@ -237,89 +230,89 @@
   ],
   "source_breakdown": [
     {
-      "domain": "The Express Tribune",
-      "count": 30
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 20
-    },
-    {
       "domain": "Dawn",
-      "count": 19
+      "count": 23
+    },
+    {
+      "domain": "The Express Tribune",
+      "count": 16
     },
     {
       "domain": "Business Recorder",
       "count": 15
     },
     {
+      "domain": "| Associated Press Of Pakistan",
+      "count": 12
+    },
+    {
       "domain": "Arab News PK",
-      "count": 13
+      "count": 10
     },
     {
       "domain": "The Nation (Pakistan )",
-      "count": 13
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
-      "count": 11
+      "count": 10
     },
     {
       "domain": "Daily Independent",
-      "count": 11
+      "count": 9
     },
     {
-      "domain": "Bol News",
-      "count": 7
+      "domain": "The News Pakistan",
+      "count": 8
     },
     {
       "domain": "Daily Times",
-      "count": 5
+      "count": 6
+    },
+    {
+      "domain": "Bol News",
+      "count": 6
     },
     {
       "domain": "Aaj News",
-      "count": 5
+      "count": 4
     },
     {
-      "domain": "UrduPoint",
-      "count": 5
-    },
-    {
-      "domain": "TechJuice",
-      "count": 5
+      "domain": "The Tribune",
+      "count": 4
     },
     {
       "domain": "ProPakistani",
-      "count": 5
-    },
-    {
-      "domain": "UA.NEWS",
-      "count": 4
+      "count": 3
     },
     {
       "domain": "Pakistan Observer",
-      "count": 4
-    },
-    {
-      "domain": "Khaama Press",
       "count": 3
     },
     {
-      "domain": "Daily Ausaf",
+      "domain": "Social News XYZ",
       "count": 3
     },
     {
-      "domain": "thekabultribune.com",
+      "domain": "News18",
+      "count": 3
+    },
+    {
+      "domain": "Cricinfo",
       "count": 2
     },
     {
-      "domain": "Radio Veritas Asia",
+      "domain": "Cricbuzz",
+      "count": 2
+    },
+    {
+      "domain": "CGTN",
+      "count": 2
+    },
+    {
+      "domain": "The Times of India",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 269,
-    "raw_articles_before_dedup": 375,
+    "articles_fetched": 219,
+    "raw_articles_before_dedup": 347,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
