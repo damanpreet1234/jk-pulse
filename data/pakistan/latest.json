@@ -1,90 +1,80 @@
 {
-  "generated_at": "2026-10-11T03:45:41.442893+00:00",
+  "generated_at": "2026-10-11T10:34:20.956958+00:00",
   "date": "2026-10-11",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.04,
+    "score": -0.039,
     "label": "mixed / neutral",
-    "positive_pct": 29.7,
-    "neutral_pct": 33.6,
-    "negative_pct": 36.7,
-    "sample_size": 283
+    "positive_pct": 32.0,
+    "neutral_pct": 32.0,
+    "negative_pct": 36.1,
+    "sample_size": 269
   },
   "india_tone": {
-    "score": 0.026,
-    "label": "mixed / neutral",
-    "positive_pct": 18.2,
-    "neutral_pct": 63.6,
+    "score": 0.145,
+    "label": "positive",
+    "positive_pct": 36.4,
+    "neutral_pct": 45.5,
     "negative_pct": 18.2,
     "sample_size": 11
   },
   "top_keywords": [
     {
-      "term": "PM Shehbaz",
-      "mentions": 4,
-      "sentiment": -0.026
-    },
-    {
-      "term": "Sri Lanka",
-      "mentions": 4,
-      "sentiment": 0.168
-    },
-    {
       "term": "India",
-      "mentions": 4,
-      "sentiment": -0.073
+      "mentions": 7,
+      "sentiment": 0.143
     },
     {
       "term": "Governor",
-      "mentions": 4,
-      "sentiment": -0.398
+      "mentions": 6,
+      "sentiment": -0.327
+    },
+    {
+      "term": "PM Shehbaz",
+      "mentions": 5,
+      "sentiment": 0.029
+    },
+    {
+      "term": "Barkhan",
+      "mentions": 5,
+      "sentiment": 0.28
+    },
+    {
+      "term": "Riyadh",
+      "mentions": 3,
+      "sentiment": -0.441
     },
     {
       "term": "Saudi Arabia",
       "mentions": 3,
-      "sentiment": 0.1
+      "sentiment": 0.279
     },
     {
-      "term": "OpEd",
+      "term": "Tank",
       "mentions": 3,
-      "sentiment": 0.031
+      "sentiment": -0.592
     },
     {
-      "term": "Barkhan",
+      "term": "IT Park",
       "mentions": 3,
-      "sentiment": 0.233
+      "sentiment": 0.4
     },
     {
-      "term": "KP Emergency Decision",
+      "term": "Rain",
       "mentions": 3,
-      "sentiment": -0.339
+      "sentiment": 0.099
     },
     {
-      "term": "China",
+      "term": "PTI Long March",
       "mentions": 3,
-      "sentiment": -0.23
-    },
-    {
-      "term": "Karachi",
-      "mentions": 3,
-      "sentiment": -0.099
-    },
-    {
-      "term": "Rule",
-      "mentions": 3,
-      "sentiment": -0.467
+      "sentiment": 0.186
     },
     {
       "term": "Development",
       "mentions": 3,
-      "sentiment": 0.755
-    },
-    {
-      "term": "Emergency",
-      "mentions": 3,
-      "sentiment": -0.471
+      "sentiment": 0.617
     },
     {
       "term": "October",
@@ -92,39 +82,49 @@
       "sentiment": 0.0
     },
     {
-      "term": "Test",
-      "mentions": 2,
-      "sentiment": -0.478
+      "term": "Sohail Afridi",
+      "mentions": 3,
+      "sentiment": 0.106
     },
     {
-      "term": "Riyadh",
-      "mentions": 2,
-      "sentiment": -0.3
+      "term": "Breaking",
+      "mentions": 3,
+      "sentiment": 0.143
     },
     {
-      "term": "Canadian MPs",
+      "term": "Imran Khan",
       "mentions": 2,
-      "sentiment": 0.402
+      "sentiment": -0.277
     },
     {
-      "term": "Houthis",
+      "term": "Rule",
       "mentions": 2,
-      "sentiment": -0.395
+      "sentiment": -0.51
     },
     {
-      "term": "Yemen",
+      "term": "Emergency",
       "mentions": 2,
-      "sentiment": -0.565
+      "sentiment": -0.354
     },
     {
-      "term": "Tarar",
+      "term": "Sri Lanka",
       "mentions": 2,
-      "sentiment": -0.352
+      "sentiment": 0.101
+    },
+    {
+      "term": "Bangkok",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Federal",
+      "mentions": 2,
+      "sentiment": -0.372
     }
   ],
   "emerging": [
     {
-      "term": "Emergency",
+      "term": "Tank",
       "mentions_now": 3,
       "baseline_avg": 1.2,
       "zscore": 4.5,
@@ -132,62 +132,76 @@
     },
     {
       "term": "Barkhan",
-      "mentions_now": 3,
-      "baseline_avg": 1.4,
-      "zscore": 3.27,
+      "mentions_now": 5,
+      "baseline_avg": 1.67,
+      "zscore": 4.47,
       "reason": "spike"
     },
     {
-      "term": "Rule",
+      "term": "IT Park",
       "mentions_now": 3,
-      "baseline_avg": 1.58,
-      "zscore": 1.87,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Breaking",
+      "mentions_now": 3,
+      "baseline_avg": 1.29,
+      "zscore": 3.79,
+      "reason": "spike"
+    },
+    {
+      "term": "PM Shehbaz",
+      "mentions_now": 5,
+      "baseline_avg": 2,
+      "zscore": 2.22,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 17,
-      "sentiment": 0.1,
+      "mentions": 18,
+      "sentiment": 0.042,
       "top_terms": [
         "Canadian MPs",
-        "Arms Ordinance",
-        "District",
-        "BOP Share Price Today",
-        "Bank"
+        "Sikh",
+        "Punjab CBD",
+        "Lahore",
+        "AQI Hits"
       ]
     },
     "Sindh": {
-      "mentions": 12,
-      "sentiment": 0.046,
+      "mentions": 17,
+      "sentiment": 0.03,
       "top_terms": [
-        "Nawaz Sharif",
-        "Sindh Governor Nihal Hashmi",
-        "Sindh Governor",
-        "PA Speaker",
-        "Sharjeel"
+        "Sindh CM",
+        "Sindh CM Murad Ali",
+        "Shah",
+        "Sukkur",
+        "Awami Tehreek"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 17,
-      "sentiment": -0.158,
+      "mentions": 18,
+      "sentiment": -0.141,
       "top_terms": [
+        "Governor",
+        "PTI Long March",
+        "Khyber Pakhtunkhwa Politics",
         "Khyber Pakhtunkhwa Bachao Tehreek",
-        "Federal Minister",
-        "Aiwan",
-        "Sadr",
-        "Increasing Fragility"
+        "Sohail Afridi"
       ]
     },
     "Balochistan": {
-      "mentions": 16,
-      "sentiment": -0.033,
+      "mentions": 18,
+      "sentiment": 0.071,
       "top_terms": [
-        "Barkhan CTD Operation",
-        "Balochistan Security Update",
-        "Militants Reportedly Neutralized",
-        "CPEC",
-        "Balochistan Graduates Facing Employment"
+        "Barkhan",
+        "Breaking",
+        "Commuters",
+        "Balochistan CM Bugti",
+        "Balochistan CM"
       ]
     },
     "Gilgit-Baltistan": {
@@ -195,28 +209,26 @@
       "sentiment": 0.17,
       "top_terms": [
         "Gilgit",
+        "Baltistan",
         "Federal Minister",
         "Kashmir",
-        "Baltistan Affairs",
-        "SAFRON Engineer Amir Muqam"
+        "Baltistan Affairs"
       ]
     },
     "Azad Kashmir": {
-      "mentions": 1,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Beyond Breaking"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Islamabad": {
-      "mentions": 28,
-      "sentiment": 0.003,
+      "mentions": 27,
+      "sentiment": 0.07,
       "top_terms": [
         "Kabul",
         "October",
-        "Suicide Islamabad",
-        "ISLAMABAD",
-        "Flurry"
+        "Pakistan Bans Public Gatherings",
+        "Rawalpindi PTI",
+        "Marches Towards Islamabad"
       ]
     }
   },
@@ -226,88 +238,88 @@
   "source_breakdown": [
     {
       "domain": "The Express Tribune",
-      "count": 33
-    },
-    {
-      "domain": "Business Recorder",
-      "count": 32
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
-      "count": 14
+      "count": 30
     },
     {
       "domain": "The News Pakistan",
-      "count": 12
-    },
-    {
-      "domain": "Daily Independent",
-      "count": 12
-    },
-    {
-      "domain": "The Nation (Pakistan )",
-      "count": 11
-    },
-    {
-      "domain": "UrduPoint",
-      "count": 11
-    },
-    {
-      "domain": "Arab News PK",
-      "count": 10
+      "count": 20
     },
     {
       "domain": "Dawn",
+      "count": 19
+    },
+    {
+      "domain": "Business Recorder",
+      "count": 15
+    },
+    {
+      "domain": "Arab News PK",
+      "count": 13
+    },
+    {
+      "domain": "The Nation (Pakistan )",
+      "count": 13
+    },
+    {
+      "domain": "| Associated Press Of Pakistan",
+      "count": 11
+    },
+    {
+      "domain": "Daily Independent",
+      "count": 11
+    },
+    {
+      "domain": "Bol News",
       "count": 7
     },
     {
-      "domain": "TechJuice",
-      "count": 6
-    },
-    {
-      "domain": "ProPakistani",
-      "count": 6
-    },
-    {
-      "domain": "Balochistan Pulse",
-      "count": 6
+      "domain": "Daily Times",
+      "count": 5
     },
     {
       "domain": "Aaj News",
       "count": 5
     },
     {
-      "domain": "Eurasia Review",
+      "domain": "UrduPoint",
+      "count": 5
+    },
+    {
+      "domain": "TechJuice",
+      "count": 5
+    },
+    {
+      "domain": "ProPakistani",
+      "count": 5
+    },
+    {
+      "domain": "UA.NEWS",
       "count": 4
     },
     {
-      "domain": "خبرگزاری اطلس",
+      "domain": "Pakistan Observer",
       "count": 4
     },
     {
-      "domain": "Aaj English TV",
-      "count": 4
-    },
-    {
-      "domain": "Daily Pakistan",
-      "count": 4
-    },
-    {
-      "domain": "The Friday Times",
+      "domain": "Khaama Press",
       "count": 3
     },
     {
-      "domain": "Pakistan Today",
+      "domain": "Daily Ausaf",
       "count": 3
     },
     {
-      "domain": "24 News HD",
-      "count": 3
+      "domain": "thekabultribune.com",
+      "count": 2
+    },
+    {
+      "domain": "Radio Veritas Asia",
+      "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 283,
-    "raw_articles_before_dedup": 381,
+    "articles_fetched": 269,
+    "raw_articles_before_dedup": 375,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."

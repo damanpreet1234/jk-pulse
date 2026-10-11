@@ -1,58 +1,48 @@
 {
-  "generated_at": "2026-10-11T03:44:28.816286+00:00",
+  "generated_at": "2026-10-11T10:33:15.498330+00:00",
   "date": "2026-10-11",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.028,
+    "score": 0.03,
     "label": "mixed / neutral",
-    "positive_pct": 39.0,
-    "neutral_pct": 34.7,
-    "negative_pct": 26.3,
-    "sample_size": 236
+    "positive_pct": 38.5,
+    "neutral_pct": 35.5,
+    "negative_pct": 26.1,
+    "sample_size": 234
   },
   "india_tone": null,
   "top_keywords": [
     {
-      "term": "Jammu Kashmir",
-      "mentions": 6,
-      "sentiment": 0.044
-    },
-    {
-      "term": "Navratri",
-      "mentions": 5,
-      "sentiment": 0.52
-    },
-    {
-      "term": "Govt",
+      "term": "Jammu Kashmir High Court",
       "mentions": 4,
-      "sentiment": -0.013
-    },
-    {
-      "term": "Waqf Board",
-      "mentions": 4,
-      "sentiment": -0.184
+      "sentiment": -0.292
     },
     {
       "term": "GCC Summit",
       "mentions": 4,
-      "sentiment": 0.359
-    },
-    {
-      "term": "LG Sinha",
-      "mentions": 3,
-      "sentiment": 0.331
-    },
-    {
-      "term": "Congress",
-      "mentions": 3,
-      "sentiment": -0.479
+      "sentiment": 0.374
     },
     {
       "term": "Police",
+      "mentions": 4,
+      "sentiment": -0.346
+    },
+    {
+      "term": "Navratri",
       "mentions": 3,
-      "sentiment": -0.292
+      "sentiment": 0.468
+    },
+    {
+      "term": "Madhya Pradesh",
+      "mentions": 3,
+      "sentiment": -0.059
+    },
+    {
+      "term": "Rain",
+      "mentions": 3,
+      "sentiment": 0.0
     },
     {
       "term": "October",
@@ -60,19 +50,49 @@
       "sentiment": 0.0
     },
     {
-      "term": "Global Capability Centres",
+      "term": "LG Sinha",
       "mentions": 3,
-      "sentiment": 0.52
+      "sentiment": 0.338
     },
     {
-      "term": "Jammu Kashmir High Court",
+      "term": "Govt",
       "mentions": 3,
-      "sentiment": -0.237
+      "sentiment": 0.005
     },
     {
-      "term": "ICMR",
+      "term": "Delhi",
+      "mentions": 3,
+      "sentiment": -0.452
+    },
+    {
+      "term": "Ease",
+      "mentions": 3,
+      "sentiment": 0.404
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 3,
+      "sentiment": -0.213
+    },
+    {
+      "term": "India",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "JKSSB",
       "mentions": 2,
-      "sentiment": -0.33
+      "sentiment": -0.271
+    },
+    {
+      "term": "GCCs",
+      "mentions": 2,
+      "sentiment": 0.535
+    },
+    {
+      "term": "Report",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
       "term": "Women",
@@ -85,110 +105,85 @@
       "sentiment": 0.077
     },
     {
-      "term": "High Court",
+      "term": "ICMR",
       "mentions": 2,
-      "sentiment": 0.076
+      "sentiment": -0.33
     },
     {
-      "term": "Sadhotra",
+      "term": "Riyadh Airport",
       "mentions": 2,
-      "sentiment": -0.23
-    },
-    {
-      "term": "Pay Commission",
-      "mentions": 2,
-      "sentiment": 0.097
-    },
-    {
-      "term": "Chief Justice",
-      "mentions": 2,
-      "sentiment": 0.648
-    },
-    {
-      "term": "Leadless",
-      "mentions": 2,
-      "sentiment": 0.443
-    },
-    {
-      "term": "Jammu CME",
-      "mentions": 2,
-      "sentiment": 0.372
+      "sentiment": -0.621
     }
   ],
   "emerging": [
     {
-      "term": "Navratri",
-      "mentions_now": 5,
-      "baseline_avg": 1.5,
-      "zscore": 7.0,
+      "term": "Madhya Pradesh",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
       "reason": "spike"
     },
     {
-      "term": "Global Capability Centres",
+      "term": "Rain",
       "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "LG Sinha",
-      "mentions_now": 3,
-      "baseline_avg": 1.75,
-      "zscore": 1.89,
+      "baseline_avg": 1.44,
+      "zscore": 2.27,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 5,
-      "sentiment": -0.198,
+      "mentions": 6,
+      "sentiment": -0.251,
       "top_terms": [
         "Police",
-        "GMC Anantnag",
-        "ICMR",
-        "District Administration Anantnag",
-        "Warm Farewell"
+        "Ashmuqam",
+        "Fire",
+        "Verinag",
+        "NDPS Act"
       ]
     },
     "Bandipora": {
-      "mentions": 2,
-      "sentiment": 0.329,
+      "mentions": 3,
+      "sentiment": 0.219,
       "top_terms": [
+        "Bandipora Police",
+        "Badibaith",
         "Army Goodwill School Bandipora",
         "Observes World Mental Health",
-        "DC Bandipora",
-        "Second",
-        "Waqar Knowledge"
+        "DC Bandipora"
       ]
     },
     "Baramulla": {
-      "mentions": 7,
-      "sentiment": -0.005,
+      "mentions": 5,
+      "sentiment": -0.06,
       "top_terms": [
         "SSP Baramulla",
-        "People",
-        "Baramulla Police",
-        "Baramulla Police Success Hinges",
-        "Public Cooperation"
+        "DC Baramulla",
+        "Traffic Management Plan",
+        "Stakeholders",
+        "Rajouri Police"
       ]
     },
     "Budgam": {
-      "mentions": 4,
-      "sentiment": -0.22,
+      "mentions": 3,
+      "sentiment": 0.009,
       "top_terms": [
         "Four Bail Applications Rejected",
         "POCSO Cases",
-        "Athar Aamir Khan",
-        "Budgam Police"
+        "Missing Budgam",
+        "Athar Aamir Khan"
       ]
     },
     "Ganderbal": {
-      "mentions": 1,
-      "sentiment": -0.67,
+      "mentions": 3,
+      "sentiment": -0.021,
       "top_terms": [
-        "Two Truck Drivers Injured",
-        "Head",
-        "Collision"
+        "Sajad Lone Welcomes Former",
+        "Ganderbal Municipal Chairman Hilal",
+        "Ahmad Tantray",
+        "Associates",
+        "Outgoing DC Jatin Kishore"
       ]
     },
     "Kulgam": {
@@ -200,14 +195,14 @@
       ]
     },
     "Kupwara": {
-      "mentions": 5,
-      "sentiment": -0.02,
+      "mentions": 4,
+      "sentiment": 0.343,
       "top_terms": [
         "International Day",
         "Girl Child Celebrated",
         "Enthusiasm",
-        "BSF Assistant Commandant Found",
-        "Unconscious"
+        "Warm Farewell",
+        "DC Shrikant Suse"
       ]
     },
     "Pulwama": {
@@ -221,33 +216,34 @@
       "top_terms": []
     },
     "Srinagar": {
-      "mentions": 11,
-      "sentiment": 0.075,
+      "mentions": 12,
+      "sentiment": 0.185,
       "top_terms": [
         "NIT Srinagar",
-        "Gallery",
-        "Srinagar Jammu National Highway",
-        "Short",
-        "World"
+        "Jammu Kashmir Begin Ranji",
+        "Trophy Title Defence Against",
+        "Madhya Pradesh",
+        "Union Minister Centre"
       ]
     },
     "Doda": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": -0.211,
       "top_terms": [
+        "Sixth",
         "World Mental Health Day",
         "District Doda"
       ]
     },
     "Jammu": {
       "mentions": 47,
-      "sentiment": 0.03,
+      "sentiment": -0.069,
       "top_terms": [
+        "Jammu Kashmir High Court",
         "Jammu Kashmir",
         "Navratri",
-        "Congress",
-        "Jammu Kashmir High Court",
-        "Leadless"
+        "Madhya Pradesh",
+        "Jammu CME"
       ]
     },
     "Kathua": {
@@ -262,36 +258,35 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 3,
-      "sentiment": 0.067,
+      "mentions": 4,
+      "sentiment": 0.05,
       "top_terms": [
+        "DC Kishtwar",
         "Four Bail Applications Rejected",
         "POCSO Cases",
-        "DC Kishtwar",
         "Navratri",
         "Mahanavami"
       ]
     },
     "Poonch": {
-      "mentions": 4,
-      "sentiment": -0.278,
+      "mentions": 3,
+      "sentiment": -0.202,
       "top_terms": [
         "Army Detects",
         "Safely Destroys",
         "Landmines Along Loc",
-        "Five",
-        "Poonch Road Mishap Leaves"
+        "Five Landmines Found",
+        "Defused Along LoC"
       ]
     },
     "Rajouri": {
-      "mentions": 4,
-      "sentiment": -0.322,
+      "mentions": 3,
+      "sentiment": -0.161,
       "top_terms": [
         "Rajouri Police",
         "ADDC Rajouri",
         "Navratri Festival",
-        "Inshorts",
-        "Two Killed"
+        "Inshorts"
       ]
     },
     "Ramban": {
@@ -302,14 +297,14 @@
       ]
     },
     "Reasi": {
-      "mentions": 6,
-      "sentiment": -0.241,
+      "mentions": 4,
+      "sentiment": -0.237,
       "top_terms": [
         "Searches",
         "Reasi Administration",
-        "CISF Constable Mohammad Mushtaq",
-        "Dies",
-        "Gunshot Injury While"
+        "Reasi Police Recover",
+        "Grams",
+        "Heroin During Navratri Security"
       ]
     },
     "Samba": {
@@ -333,20 +328,20 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 31
+      "domain": "Kashmir Life",
+      "count": 24
     },
     {
-      "domain": "Kashmir Life",
-      "count": 27
+      "domain": "Daily Excelsior",
+      "count": 24
     },
     {
       "domain": "Greater Kashmir",
-      "count": 25
+      "count": 24
     },
     {
       "domain": "Kashmir News Service",
-      "count": 15
+      "count": 18
     },
     {
       "domain": "Jammu Links News",
@@ -354,31 +349,43 @@
     },
     {
       "domain": "Rising Kashmir",
-      "count": 11
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 11
+      "count": 14
     },
     {
       "domain": "thekashmirimages.com",
-      "count": 6
+      "count": 9
     },
     {
-      "domain": "The Kashmir Horizon",
-      "count": 6
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 6
+      "domain": "Kashmir Observer",
+      "count": 8
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 5
+      "count": 8
     },
     {
       "domain": "Kashmir News Observer",
+      "count": 7
+    },
+    {
+      "domain": "The Global Kashmir",
       "count": 5
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 5
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 5
+    },
+    {
+      "domain": "Free Press Kashmir",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Indepth",
+      "count": 4
     },
     {
       "domain": "Kashmir Vision",
@@ -389,33 +396,21 @@
       "count": 4
     },
     {
-      "domain": "JK MONITOR",
-      "count": 4
-    },
-    {
-      "domain": "The Hindu",
+      "domain": "ETV Bharat",
       "count": 3
-    },
-    {
-      "domain": "Kashmir Dot Com",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Independent Media Service",
-      "count": 3
-    },
-    {
-      "domain": "The Global Kashmir",
-      "count": 2
     },
     {
       "domain": "The Tribune",
+      "count": 3
+    },
+    {
+      "domain": "Live Law",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 236,
-    "raw_articles_before_dedup": 338,
+    "articles_fetched": 234,
+    "raw_articles_before_dedup": 317,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
