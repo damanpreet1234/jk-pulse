@@ -1,65 +1,60 @@
 {
-  "generated_at": "2026-10-10T23:11:30.507250+00:00",
-  "date": "2026-10-10",
+  "generated_at": "2026-10-11T03:45:41.442893+00:00",
+  "date": "2026-10-11",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.046,
+    "score": -0.04,
     "label": "mixed / neutral",
-    "positive_pct": 31.4,
-    "neutral_pct": 30.7,
-    "negative_pct": 38.0,
-    "sample_size": 274
+    "positive_pct": 29.7,
+    "neutral_pct": 33.6,
+    "negative_pct": 36.7,
+    "sample_size": 283
   },
   "india_tone": {
-    "score": -0.032,
+    "score": 0.026,
     "label": "mixed / neutral",
-    "positive_pct": 15.4,
-    "neutral_pct": 53.8,
-    "negative_pct": 30.8,
-    "sample_size": 13
+    "positive_pct": 18.2,
+    "neutral_pct": 63.6,
+    "negative_pct": 18.2,
+    "sample_size": 11
   },
   "top_keywords": [
     {
+      "term": "PM Shehbaz",
+      "mentions": 4,
+      "sentiment": -0.026
+    },
+    {
+      "term": "Sri Lanka",
+      "mentions": 4,
+      "sentiment": 0.168
+    },
+    {
       "term": "India",
-      "mentions": 6,
+      "mentions": 4,
       "sentiment": -0.073
     },
     {
-      "term": "OpEd",
-      "mentions": 5,
-      "sentiment": 0.034
-    },
-    {
-      "term": "Sohail Afridi",
-      "mentions": 5,
-      "sentiment": -0.118
-    },
-    {
-      "term": "Karachi",
+      "term": "Governor",
       "mentions": 4,
-      "sentiment": -0.202
-    },
-    {
-      "term": "China",
-      "mentions": 4,
-      "sentiment": -0.173
-    },
-    {
-      "term": "Rule Emergency",
-      "mentions": 4,
-      "sentiment": -0.429
-    },
-    {
-      "term": "PM Shehbaz",
-      "mentions": 3,
-      "sentiment": 0.024
+      "sentiment": -0.398
     },
     {
       "term": "Saudi Arabia",
       "mentions": 3,
-      "sentiment": -0.124
+      "sentiment": 0.1
+    },
+    {
+      "term": "OpEd",
+      "mentions": 3,
+      "sentiment": 0.031
+    },
+    {
+      "term": "Barkhan",
+      "mentions": 3,
+      "sentiment": 0.233
     },
     {
       "term": "KP Emergency Decision",
@@ -67,14 +62,19 @@
       "sentiment": -0.339
     },
     {
-      "term": "Yemen",
+      "term": "China",
       "mentions": 3,
-      "sentiment": -0.32
+      "sentiment": -0.23
     },
     {
-      "term": "Asian Champions Trophy",
+      "term": "Karachi",
       "mentions": 3,
-      "sentiment": 0.618
+      "sentiment": -0.099
+    },
+    {
+      "term": "Rule",
+      "mentions": 3,
+      "sentiment": -0.467
     },
     {
       "term": "Development",
@@ -82,29 +82,14 @@
       "sentiment": 0.755
     },
     {
-      "term": "Peshawar",
+      "term": "Emergency",
       "mentions": 3,
-      "sentiment": 0.12
+      "sentiment": -0.471
     },
     {
       "term": "October",
       "mentions": 3,
       "sentiment": 0.0
-    },
-    {
-      "term": "Sri Lanka",
-      "mentions": 2,
-      "sentiment": 0.335
-    },
-    {
-      "term": "CM Afridi",
-      "mentions": 2,
-      "sentiment": -0.022
-    },
-    {
-      "term": "Turkiye",
-      "mentions": 2,
-      "sentiment": -0.035
     },
     {
       "term": "Test",
@@ -117,71 +102,86 @@
       "sentiment": -0.3
     },
     {
-      "term": "KP Government Crisis",
+      "term": "Canadian MPs",
       "mentions": 2,
-      "sentiment": -0.509
+      "sentiment": 0.402
+    },
+    {
+      "term": "Houthis",
+      "mentions": 2,
+      "sentiment": -0.395
+    },
+    {
+      "term": "Yemen",
+      "mentions": 2,
+      "sentiment": -0.565
+    },
+    {
+      "term": "Tarar",
+      "mentions": 2,
+      "sentiment": -0.352
     }
   ],
   "emerging": [
     {
-      "term": "Asian Champions Trophy",
+      "term": "Emergency",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "baseline_avg": 1.2,
+      "zscore": 4.5,
       "reason": "spike"
     },
     {
-      "term": "Rule Emergency",
-      "mentions_now": 4,
-      "baseline_avg": 1.71,
-      "zscore": 1.97,
+      "term": "Barkhan",
+      "mentions_now": 3,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
       "reason": "spike"
     },
     {
-      "term": "OpEd",
-      "mentions_now": 5,
-      "baseline_avg": 0.0,
-      "zscore": null,
-      "reason": "new_topic"
+      "term": "Rule",
+      "mentions_now": 3,
+      "baseline_avg": 1.58,
+      "zscore": 1.87,
+      "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 15,
-      "sentiment": 0.09,
+      "mentions": 17,
+      "sentiment": 0.1,
       "top_terms": [
-        "Bangladesh",
+        "Canadian MPs",
         "Arms Ordinance",
         "District",
-        "Canadian MPs",
-        "CBD Punjab"
+        "BOP Share Price Today",
+        "Bank"
       ]
     },
     "Sindh": {
       "mentions": 12,
-      "sentiment": 0.008,
+      "sentiment": 0.046,
       "top_terms": [
+        "Nawaz Sharif",
+        "Sindh Governor Nihal Hashmi",
         "Sindh Governor",
         "PA Speaker",
-        "Sharjeel",
-        "Heritage Conservation Projects",
-        "PWCA"
+        "Sharjeel"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 15,
-      "sentiment": -0.217,
+      "mentions": 17,
+      "sentiment": -0.158,
       "top_terms": [
-        "KP Government Crisis",
-        "Khyber Pakhtunkhwa Politics",
         "Khyber Pakhtunkhwa Bachao Tehreek",
         "Federal Minister",
-        "Aiwan"
+        "Aiwan",
+        "Sadr",
+        "Increasing Fragility"
       ]
     },
     "Balochistan": {
-      "mentions": 17,
-      "sentiment": 0.093,
+      "mentions": 16,
+      "sentiment": -0.033,
       "top_terms": [
         "Barkhan CTD Operation",
         "Balochistan Security Update",
@@ -191,12 +191,12 @@
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": 0.17,
       "top_terms": [
+        "Gilgit",
         "Federal Minister",
         "Kashmir",
-        "Gilgit",
         "Baltistan Affairs",
         "SAFRON Engineer Amir Muqam"
       ]
@@ -209,14 +209,14 @@
       ]
     },
     "Islamabad": {
-      "mentions": 27,
-      "sentiment": -0.034,
+      "mentions": 28,
+      "sentiment": 0.003,
       "top_terms": [
         "Kabul",
         "October",
         "Suicide Islamabad",
         "ISLAMABAD",
-        "Islamabad IT"
+        "Flurry"
       ]
     }
   },
@@ -225,63 +225,59 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Business Recorder",
-      "count": 39
-    },
-    {
       "domain": "The Express Tribune",
-      "count": 17
+      "count": 33
     },
     {
-      "domain": "UrduPoint",
-      "count": 17
+      "domain": "Business Recorder",
+      "count": 32
     },
     {
       "domain": "| Associated Press Of Pakistan",
       "count": 14
     },
     {
-      "domain": "Arab News PK",
-      "count": 12
-    },
-    {
-      "domain": "Dawn",
+      "domain": "The News Pakistan",
       "count": 12
     },
     {
       "domain": "Daily Independent",
+      "count": 12
+    },
+    {
+      "domain": "The Nation (Pakistan )",
+      "count": 11
+    },
+    {
+      "domain": "UrduPoint",
+      "count": 11
+    },
+    {
+      "domain": "Arab News PK",
       "count": 10
     },
     {
-      "domain": "Balochistan Pulse",
+      "domain": "Dawn",
       "count": 7
     },
     {
-      "domain": "Daily Times",
-      "count": 7
+      "domain": "TechJuice",
+      "count": 6
     },
     {
       "domain": "ProPakistani",
       "count": 6
     },
     {
-      "domain": "Eurasia Review",
-      "count": 5
+      "domain": "Balochistan Pulse",
+      "count": 6
     },
     {
       "domain": "Aaj News",
       "count": 5
     },
     {
-      "domain": "Aaj English TV",
-      "count": 5
-    },
-    {
-      "domain": "The Nation (Pakistan )",
-      "count": 4
-    },
-    {
-      "domain": "The Friday Times",
+      "domain": "Eurasia Review",
       "count": 4
     },
     {
@@ -289,25 +285,29 @@
       "count": 4
     },
     {
-      "domain": "24 News HD",
+      "domain": "Aaj English TV",
       "count": 4
     },
     {
-      "domain": "Cricinfo",
+      "domain": "Daily Pakistan",
+      "count": 4
+    },
+    {
+      "domain": "The Friday Times",
       "count": 3
     },
     {
-      "domain": "The Tribune",
+      "domain": "Pakistan Today",
       "count": 3
     },
     {
-      "domain": "Daily Ausaf",
+      "domain": "24 News HD",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 274,
-    "raw_articles_before_dedup": 374,
+    "articles_fetched": 283,
+    "raw_articles_before_dedup": 381,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
