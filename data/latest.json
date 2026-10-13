@@ -1,88 +1,108 @@
 {
-  "generated_at": "2026-10-13T11:22:21.835598+00:00",
+  "generated_at": "2026-10-13T18:49:01.271390+00:00",
   "date": "2026-10-13",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.045,
+    "score": -0.054,
     "label": "mixed / neutral",
-    "positive_pct": 26.6,
-    "neutral_pct": 43.0,
-    "negative_pct": 30.5,
-    "sample_size": 256
+    "positive_pct": 27.1,
+    "neutral_pct": 38.9,
+    "negative_pct": 34.0,
+    "sample_size": 247
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Jammu Kashmir",
       "mentions": 7,
-      "sentiment": -0.137
+      "sentiment": -0.083
+    },
+    {
+      "term": "Jammu Kashmir High Court",
+      "mentions": 5,
+      "sentiment": -0.199
     },
     {
       "term": "Police",
       "mentions": 5,
-      "sentiment": -0.233
+      "sentiment": -0.23
     },
     {
       "term": "October",
       "mentions": 4,
-      "sentiment": 0.013
-    },
-    {
-      "term": "Friday Sermons",
-      "mentions": 3,
-      "sentiment": 0.073
+      "sentiment": 0.147
     },
     {
       "term": "Waqf Board",
       "mentions": 3,
-      "sentiment": -0.017
-    },
-    {
-      "term": "Jammu Kashmir High Court",
-      "mentions": 3,
-      "sentiment": -0.222
-    },
-    {
-      "term": "SKUAST",
-      "mentions": 3,
-      "sentiment": 0.208
+      "sentiment": -0.032
     },
     {
       "term": "Friday",
       "mentions": 3,
-      "sentiment": 0.0
+      "sentiment": -0.032
     },
     {
-      "term": "Ladakh",
+      "term": "Friday Sermons",
       "mentions": 3,
-      "sentiment": 0.14
+      "sentiment": 0.162
+    },
+    {
+      "term": "Arms",
+      "mentions": 3,
+      "sentiment": -0.127
+    },
+    {
+      "term": "Fresh Snowfall",
+      "mentions": 3,
+      "sentiment": 0.28
+    },
+    {
+      "term": "Ranji Trophy",
+      "mentions": 3,
+      "sentiment": -0.152
+    },
+    {
+      "term": "Delhi",
+      "mentions": 3,
+      "sentiment": 0.46
     },
     {
       "term": "Omar",
       "mentions": 3,
-      "sentiment": 0.137
+      "sentiment": 0.205
     },
     {
-      "term": "Inter",
-      "mentions": 3,
-      "sentiment": 0.195
-    },
-    {
-      "term": "High Court",
-      "mentions": 3,
-      "sentiment": -0.201
-    },
-    {
-      "term": "Committee",
+      "term": "Madhya Pradesh",
       "mentions": 2,
-      "sentiment": 0.211
+      "sentiment": -0.293
     },
     {
-      "term": "Advocates",
+      "term": "Around",
       "mentions": 2,
-      "sentiment": 0.029
+      "sentiment": 0.0
+    },
+    {
+      "term": "Jitendra Singh",
+      "mentions": 2,
+      "sentiment": 0.148
+    },
+    {
+      "term": "Order",
+      "mentions": 2,
+      "sentiment": -0.157
+    },
+    {
+      "term": "Opposition",
+      "mentions": 2,
+      "sentiment": 0.295
+    },
+    {
+      "term": "DGP Prabhat",
+      "mentions": 2,
+      "sentiment": 0.52
     },
     {
       "term": "Laboratory",
@@ -90,98 +110,69 @@
       "sentiment": 0.012
     },
     {
-      "term": "Order",
+      "term": "Body",
       "mentions": 2,
-      "sentiment": -0.216
-    },
-    {
-      "term": "Opposition",
-      "mentions": 2,
-      "sentiment": 0.27
-    },
-    {
-      "term": "Uniform Friday Sermons",
-      "mentions": 2,
-      "sentiment": -0.229
-    },
-    {
-      "term": "Mamta Yadav",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Rain",
-      "mentions": 2,
-      "sentiment": -0.043
+      "sentiment": -0.426
     }
   ],
   "emerging": [
     {
-      "term": "SKUAST",
-      "mentions_now": 3,
-      "baseline_avg": 1.11,
-      "zscore": 6.01,
-      "reason": "spike"
-    },
-    {
-      "term": "Friday",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
+      "term": "Jammu Kashmir High Court",
+      "mentions_now": 5,
+      "baseline_avg": 2.69,
+      "zscore": 3.2,
       "reason": "spike"
     },
     {
       "term": "Omar",
       "mentions_now": 3,
-      "baseline_avg": 1.27,
-      "zscore": 2.8,
+      "baseline_avg": 1.36,
+      "zscore": 2.12,
       "reason": "spike"
     },
     {
-      "term": "Police",
-      "mentions_now": 5,
-      "baseline_avg": 3.07,
-      "zscore": 2.01,
+      "term": "Friday",
+      "mentions_now": 3,
+      "baseline_avg": 1.71,
+      "zscore": 1.84,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
       "mentions": 7,
-      "sentiment": -0.33,
+      "sentiment": -0.212,
       "top_terms": [
-        "Forest Rights Act",
         "Jammu Kashmir High Court",
         "Quashes PSA Detention Order",
         "Against Anantnag Man",
-        "HC Dismisses Plea"
+        "FCIK Mourns Prominent Anantnag",
+        "Industrialist Shakeel Ahmad Shakeel"
       ]
     },
     "Bandipora": {
-      "mentions": 3,
-      "sentiment": -0.187,
+      "mentions": 4,
+      "sentiment": -0.072,
       "top_terms": [
-        "Hailstorm",
-        "Tahir Saleem",
-        "SSP Bandipora",
-        "AMNT Nursing College Bandipora",
-        "World Mental Health Day"
+        "Fresh Snowfall",
+        "Tulail",
+        "Razdan Pass",
+        "KVK Bandipora",
+        "Second Training Programme"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": -0.221,
+      "mentions": 1,
+      "sentiment": -0.527,
       "top_terms": [
-        "Police",
         "Eight Vehicles Seized",
         "Traffic Violations Baramulla",
-        "Baramulla MLA Questions Quarry",
-        "Restrictions"
+        "Police"
       ]
     },
     "Budgam": {
-      "mentions": 5,
-      "sentiment": 0.099,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
         "Two JKPDCL Employees Electrocuted",
         "Hospitalised",
@@ -191,135 +182,140 @@
       ]
     },
     "Ganderbal": {
-      "mentions": 2,
-      "sentiment": -0.379,
+      "mentions": 4,
+      "sentiment": -0.38,
       "top_terms": [
-        "Youth Injured",
-        "Bear Attack",
-        "Shifted",
-        "SKIMS Soura",
-        "Shreya Singhal"
+        "Man Found Dead",
+        "Nine",
+        "DC Ganderbal",
+        "Police Arrest Man",
+        "Seize Suspected Contraband During"
       ]
     },
     "Kulgam": {
       "mentions": 3,
-      "sentiment": -0.22,
+      "sentiment": -0.079,
       "top_terms": [
+        "Nine",
+        "JKREGP",
+        "JKBRSETI Kulgam",
         "Three Dumpers Seized",
-        "Illegal Mining Kulgam",
-        "Police",
-        "SWD Kulgam",
-        "International Girl Child Day"
+        "Illegal Mining Kulgam"
       ]
     },
     "Kupwara": {
-      "mentions": 2,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Abhishek Sharma",
-        "DC Kupwara",
-        "Shri Sudhanshu Dhama",
-        "Assumes Charge",
-        "SSP Kupwara"
-      ]
-    },
-    "Pulwama": {
       "mentions": 1,
       "sentiment": 0.0,
       "top_terms": [
-        "Kuldeep Krishan Sidha",
-        "Dy Commissioner Pulwama"
+        "Abhishek Sharma",
+        "DC Kupwara"
+      ]
+    },
+    "Pulwama": {
+      "mentions": 4,
+      "sentiment": 0.0,
+      "top_terms": [
+        "Education Dept",
+        "GGHSS Pulwama",
+        "MVD Pulwama",
+        "DC Pulwama",
+        "Kuldeep Krishan Sidha"
       ]
     },
     "Shopian": {
-      "mentions": 2,
-      "sentiment": 0.286,
+      "mentions": 3,
+      "sentiment": 0.191,
       "top_terms": [
+        "Drugs Control Department",
+        "Enforcement Drive",
         "DC Shopian",
-        "Winter Preparedness",
-        "Preparatory Meeting",
-        "Zawoora",
-        "Wins Knockout"
+        "Late",
+        "Night Inspection"
       ]
     },
     "Srinagar": {
-      "mentions": 21,
+      "mentions": 22,
       "sentiment": -0.104,
       "top_terms": [
-        "Pak LeT",
-        "SWD Srinagar",
-        "Truck Driver Killed",
-        "Vehicle Plunges",
-        "Gorge"
+        "Jammu Kashmir High Court",
+        "Stays Srinagar Trial Court",
+        "Order",
+        "Disputed Wall Construction Case",
+        "Class Work"
       ]
     },
     "Doda": {
-      "mentions": 3,
-      "sentiment": -0.592,
+      "mentions": 4,
+      "sentiment": -0.518,
       "top_terms": [
+        "Dengue",
+        "ICMR",
         "Mini",
         "Bus Overturns",
-        "Four Passengers Injured",
-        "Two Women Among",
-        "Injured Vehicle Overturns"
+        "Four Passengers Injured"
       ]
     },
     "Jammu": {
-      "mentions": 51,
-      "sentiment": -0.074,
+      "mentions": 48,
+      "sentiment": -0.135,
       "top_terms": [
         "Jammu Kashmir",
         "Jammu Kashmir High Court",
-        "Advocates",
         "Friday Sermons",
-        "Uniform Friday Sermons"
+        "Order",
+        "Body"
       ]
     },
     "Kathua": {
       "mentions": 2,
       "sentiment": -0.312,
       "top_terms": [
+        "DIPR Kathua",
+        "GDCW",
         "GDC Kathua",
-        "Prof. Rampal",
-        "DC Kathua",
-        "Jourian Mata Shrine"
+        "Prof. Rampal"
       ]
     },
     "Kishtwar": {
       "mentions": 1,
-      "sentiment": 0.279,
+      "sentiment": -0.153,
       "top_terms": [
-        "Kishtwar Ranks First Among",
-        "Districts",
-        "Irrigation Infrastructure Under PMDDKY"
+        "Landmark April Verdict",
+        "Ending",
+        "Year Legal Battle",
+        "Jammu Kashmir HC Stays",
+        "Kishtwar Court Proceedings"
       ]
     },
     "Poonch": {
       "mentions": 23,
-      "sentiment": -0.329,
+      "sentiment": -0.333,
       "top_terms": [
+        "Arms",
         "Terrorist",
-        "Blaze Ravages Residential Houses",
-        "Damages Six Shops",
-        "Three Minors Among Four",
-        "Injured"
+        "Three Houses",
+        "Hutted",
+        "Fire"
       ]
     },
     "Rajouri": {
-      "mentions": 4,
-      "sentiment": -0.162,
+      "mentions": 3,
+      "sentiment": -0.216,
       "top_terms": [
-        "Body Found",
-        "Police Launch Probe",
-        "Dr Devansh Yadav",
+        "Teen Dies Vehicle",
+        "Plunges Off Road",
         "DC Rajouri",
+        "Revenue Department",
         "Man Found Dead"
       ]
     },
     "Ramban": {
-      "mentions": 1,
-      "sentiment": -0.859,
-      "top_terms": []
+      "mentions": 2,
+      "sentiment": -0.429,
+      "top_terms": [
+        "DC Ramban",
+        "District Plan"
+      ]
     },
     "Reasi": {
       "mentions": 0,
@@ -336,14 +332,10 @@
       ]
     },
     "Udhampur": {
-      "mentions": 4,
-      "sentiment": 0.225,
+      "mentions": 1,
+      "sentiment": 0.421,
       "top_terms": [
-        "Students",
-        "Ananth Dwivedi",
-        "DC Udhampur",
-        "Performance",
-        "Panel Lawyers"
+        "DC Udhampur"
       ]
     }
   },
@@ -353,46 +345,50 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 36
+      "count": 41
     },
     {
       "domain": "Greater Kashmir",
-      "count": 26
+      "count": 19
     },
     {
       "domain": "Daily Excelsior",
-      "count": 25
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 12
+      "count": 15
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 12
+      "count": 14
     },
     {
       "domain": "Jammu Links News",
       "count": 12
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 8
+      "domain": "Kashmir News Observer",
+      "count": 11
     },
     {
-      "domain": "Kashmir News Service",
-      "count": 7
+      "domain": "Kashmir Observer",
+      "count": 9
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 7
-    },
-    {
-      "domain": "Kashmir Indepth",
-      "count": 7
+      "count": 9
     },
     {
       "domain": "thekashmirimages.com",
+      "count": 9
+    },
+    {
+      "domain": "Kashmir News Service",
+      "count": 8
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 8
+    },
+    {
+      "domain": "Kashmir Indepth",
       "count": 6
     },
     {
@@ -400,41 +396,37 @@
       "count": 4
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "Kashmir Convener",
       "count": 4
     },
     {
-      "domain": "Construction World India",
-      "count": 3
+      "domain": "Kashmir Reader",
+      "count": 4
     },
     {
-      "domain": "Free Press Kashmir",
+      "domain": "ETV Bharat",
       "count": 3
     },
     {
       "domain": "News On AIR",
-      "count": 3
+      "count": 2
     },
     {
-      "domain": "Kashmir Reader",
-      "count": 3
+      "domain": "The News Now",
+      "count": 2
     },
     {
-      "domain": "Live Law",
-      "count": 3
+      "domain": "NDTV",
+      "count": 2
     },
     {
-      "domain": "The Times of India",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Dot Com",
-      "count": 3
+      "domain": "ThePrint",
+      "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 256,
-    "raw_articles_before_dedup": 393,
+    "articles_fetched": 247,
+    "raw_articles_before_dedup": 383,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
