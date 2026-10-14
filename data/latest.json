@@ -1,63 +1,53 @@
 {
-  "generated_at": "2026-10-14T09:15:03.359093+00:00",
+  "generated_at": "2026-10-14T16:26:22.704978+00:00",
   "date": "2026-10-14",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.018,
+    "score": -0.0,
     "label": "mixed / neutral",
-    "positive_pct": 32.6,
-    "neutral_pct": 40.6,
-    "negative_pct": 26.8,
-    "sample_size": 261
+    "positive_pct": 31.2,
+    "neutral_pct": 41.3,
+    "negative_pct": 27.5,
+    "sample_size": 247
   },
   "india_tone": null,
   "top_keywords": [
     {
-      "term": "Friday",
+      "term": "Ranji Trophy",
       "mentions": 5,
-      "sentiment": -0.096
-    },
-    {
-      "term": "Fresh Snowfall",
-      "mentions": 4,
-      "sentiment": 0.375
-    },
-    {
-      "term": "Rain",
-      "mentions": 4,
-      "sentiment": 0.159
+      "sentiment": 0.21
     },
     {
       "term": "India",
-      "mentions": 4,
-      "sentiment": 0.487
-    },
-    {
-      "term": "October",
-      "mentions": 4,
-      "sentiment": 0.08
-    },
-    {
-      "term": "Omar Abdullah",
-      "mentions": 4,
-      "sentiment": 0.097
-    },
-    {
-      "term": "Gurez",
-      "mentions": 4,
-      "sentiment": 0.312
-    },
-    {
-      "term": "Police",
-      "mentions": 4,
-      "sentiment": -0.138
+      "mentions": 5,
+      "sentiment": 0.353
     },
     {
       "term": "Jammu Kashmir High Court",
       "mentions": 4,
-      "sentiment": -0.159
+      "sentiment": -0.176
+    },
+    {
+      "term": "Rain",
+      "mentions": 4,
+      "sentiment": 0.05
+    },
+    {
+      "term": "Friday",
+      "mentions": 4,
+      "sentiment": -0.218
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Madhya Pradesh",
+      "mentions": 3,
+      "sentiment": 0.174
     },
     {
       "term": "Waqf Board",
@@ -65,29 +55,24 @@
       "sentiment": -0.406
     },
     {
-      "term": "Snowfall",
+      "term": "Gurez",
       "mentions": 3,
-      "sentiment": 0.132
+      "sentiment": 0.121
     },
     {
-      "term": "Video",
+      "term": "Tamil Nadu",
       "mentions": 3,
-      "sentiment": 0.17
+      "sentiment": 0.082
     },
     {
-      "term": "Three",
-      "mentions": 3,
-      "sentiment": -0.009
+      "term": "Years",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
-      "term": "Terror",
-      "mentions": 3,
-      "sentiment": -0.493
-    },
-    {
-      "term": "Delhi",
-      "mentions": 3,
-      "sentiment": 0.46
+      "term": "October",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
       "term": "Jammu Kashmir Govt Orders",
@@ -95,74 +80,54 @@
       "sentiment": 0.0
     },
     {
-      "term": "Dengue",
+      "term": "Deputy CM Surinder Choudhary",
       "mentions": 2,
-      "sentiment": -0.095
+      "sentiment": 0.216
+    },
+    {
+      "term": "Satish Punia",
+      "mentions": 2,
+      "sentiment": 0.598
     },
     {
       "term": "Govt",
       "mentions": 2,
-      "sentiment": -0.116
+      "sentiment": -0.125
     },
     {
-      "term": "Security",
+      "term": "Fresh",
       "mentions": 2,
-      "sentiment": 0.449
+      "sentiment": 0.34
     },
     {
-      "term": "Jitendra Singh",
+      "term": "Meeting",
       "mentions": 2,
-      "sentiment": 0.065
+      "sentiment": 0.125
+    },
+    {
+      "term": "Karnataka",
+      "mentions": 2,
+      "sentiment": 0.293
+    },
+    {
+      "term": "Himachal Pradesh",
+      "mentions": 2,
+      "sentiment": -0.159
     }
   ],
   "emerging": [
     {
-      "term": "Gurez",
-      "mentions_now": 4,
-      "baseline_avg": 1.25,
-      "zscore": 6.35,
-      "reason": "spike"
-    },
-    {
-      "term": "Terror",
-      "mentions_now": 3,
-      "baseline_avg": 1.17,
-      "zscore": 4.92,
-      "reason": "spike"
-    },
-    {
-      "term": "Three",
-      "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
-      "reason": "spike"
-    },
-    {
-      "term": "Friday",
+      "term": "Ranji Trophy",
       "mentions_now": 5,
-      "baseline_avg": 2.1,
-      "zscore": 3.49,
-      "reason": "spike"
-    },
-    {
-      "term": "Snowfall",
-      "mentions_now": 3,
-      "baseline_avg": 1.57,
-      "zscore": 2.89,
-      "reason": "spike"
-    },
-    {
-      "term": "Rain",
-      "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 2.24,
+      "baseline_avg": 1.93,
+      "zscore": 2.51,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 6,
-      "sentiment": -0.161,
+      "mentions": 2,
+      "sentiment": -0.137,
       "top_terms": [
         "NCST Member Dr. Asha",
         "Lakra Reviews Tribal Welfare",
@@ -173,18 +138,18 @@
     },
     "Bandipora": {
       "mentions": 7,
-      "sentiment": 0.04,
+      "sentiment": -0.033,
       "top_terms": [
+        "Fresh",
+        "Gurez Road",
         "Gurez",
         "Bandipora Road Reopens",
-        "Snowfall",
-        "Razdan Top",
-        "Other Areas"
+        "Snowfall"
       ]
     },
     "Baramulla": {
-      "mentions": 4,
-      "sentiment": -0.357,
+      "mentions": 5,
+      "sentiment": -0.461,
       "top_terms": [
         "Stolen Gold Earrings Recovered",
         "Police",
@@ -194,124 +159,134 @@
       ]
     },
     "Budgam": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 2,
+      "sentiment": 0.286,
+      "top_terms": [
+        "Awareness Campaign",
+        "Fake Pesticide",
+        "Genuine Pesticide",
+        "Caring People",
+        "Welfare Foundation Budgam Extends"
+      ]
     },
     "Ganderbal": {
-      "mentions": 5,
-      "sentiment": -0.304,
+      "mentions": 3,
+      "sentiment": 0.448,
       "top_terms": [
-        "Man Found Dead",
-        "Nine",
-        "Fish",
-        "DC Ganderbal",
-        "Police Arrest Man"
+        "Deputy CM Surinder Choudhary",
+        "Mata Kheer Bhawani Temple",
+        "Police Conducts Extensive Vehicle",
+        "Checking Across Ganderbal",
+        "Strengthen Security Measures"
       ]
     },
     "Kulgam": {
-      "mentions": 4,
-      "sentiment": -0.106,
+      "mentions": 2,
+      "sentiment": -0.481,
       "top_terms": [
-        "Nine",
-        "JKREGP",
-        "JKBRSETI Kulgam",
-        "District Administration Kulgam",
-        "Census"
+        "Security",
+        "Fidayeen"
       ]
     },
     "Kupwara": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 2,
+      "sentiment": 0.328,
+      "top_terms": [
+        "Senior Journalist Shares",
+        "Experiences",
+        "Kupwara College Students",
+        "DC Kupwara Abhishek Sharma",
+        "Media Fraternity"
+      ]
     },
     "Pulwama": {
-      "mentions": 6,
-      "sentiment": 0.078,
+      "mentions": 3,
+      "sentiment": 0.015,
       "top_terms": [
-        "Allied Sectors",
-        "DC Pulwama",
+        "Bear Mauls Man",
         "ARTO Pulwama Intensifies Enforcement",
         "Drives Against Traffic Violations",
-        "DC Pulwama Reviews Agriculture"
+        "DC Pulwama Reviews Agriculture",
+        "Allied Sectors"
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": 0.13,
+      "mentions": 4,
+      "sentiment": 0.16,
       "top_terms": [
+        "DDC Shopian",
+        "Meeting",
         "DC Shopian",
-        "JKBOSE",
-        "Drugs Control Department",
-        "Enforcement Drive"
+        "JKBOSE"
       ]
     },
     "Srinagar": {
-      "mentions": 17,
-      "sentiment": -0.003,
+      "mentions": 13,
+      "sentiment": 0.037,
       "top_terms": [
-        "Srinagar Highway",
-        "Traffic Police Issue Advisory",
-        "Video",
-        "Paras Health Srinagar Highlights",
-        "Free Joint Replacement Under"
+        "Jammu Kashmir High Court",
+        "Upholds Removal",
+        "Private Parties",
+        "Srinagar Land Dispute Suit",
+        "Srinagar Highway"
       ]
     },
     "Doda": {
-      "mentions": 5,
-      "sentiment": -0.246,
+      "mentions": 4,
+      "sentiment": -0.069,
       "top_terms": [
-        "ICMR",
+        "Lumpy Skin Disease Reported",
+        "Among Cattle",
+        "Jammu Kashmir",
         "Minor",
-        "Dengue Cases Cross",
-        "NIV Team Surveys Hotspots",
-        "Identify Virus Strains"
+        "Dengue Cases Surge"
       ]
     },
     "Jammu": {
-      "mentions": 50,
-      "sentiment": 0.038,
+      "mentions": 57,
+      "sentiment": 0.043,
       "top_terms": [
         "Jammu Kashmir High Court",
-        "Jammu Kashmir Govt Orders",
-        "Dengue",
-        "Darbar Move",
-        "Jammu Kashmir"
+        "Jammu Kashmir",
+        "Madhya Pradesh",
+        "Ranji Trophy",
+        "Jammu Kashmir Govt Orders"
       ]
     },
     "Kathua": {
       "mentions": 2,
       "sentiment": -0.229,
       "top_terms": [
-        "DIPR Kathua",
-        "GDCW"
+        "Kathua Administration Demolishes House",
+        "Drug Peddler",
+        "Govt Land"
       ]
     },
     "Kishtwar": {
       "mentions": 3,
-      "sentiment": -0.222,
+      "sentiment": -0.162,
       "top_terms": [
+        "Special",
         "Kishtwar Minor Girl Rape",
         "Death Case",
         "Second Teacher Suspended",
-        "Arrest",
-        "Landmark April Verdict"
+        "Arrest"
       ]
     },
     "Poonch": {
-      "mentions": 11,
-      "sentiment": -0.199,
+      "mentions": 7,
+      "sentiment": -0.385,
       "top_terms": [
-        "DC Poonch",
-        "Security",
+        "Mian Altaf Seeks Fire",
+        "Station",
+        "Loran Blaze",
         "Minor",
-        "Poonch Search Operation",
-        "Grenades Recovered"
+        "PaJK Leaders Vow"
       ]
     },
     "Rajouri": {
-      "mentions": 8,
-      "sentiment": -0.216,
+      "mentions": 6,
+      "sentiment": -0.288,
       "top_terms": [
         "SDRF",
         "CD Warrior",
@@ -321,12 +296,10 @@
       ]
     },
     "Ramban": {
-      "mentions": 2,
-      "sentiment": -0.43,
+      "mentions": 1,
+      "sentiment": -0.859,
       "top_terms": [
-        "Minor",
-        "DC Ramban",
-        "District Plan"
+        "Minor"
       ]
     },
     "Reasi": {
@@ -341,8 +314,8 @@
       ]
     },
     "Samba": {
-      "mentions": 1,
-      "sentiment": 0.477,
+      "mentions": 3,
+      "sentiment": 0.159,
       "top_terms": [
         "Tennis Ball Cricket",
         "Badminton",
@@ -353,9 +326,11 @@
     },
     "Udhampur": {
       "mentions": 1,
-      "sentiment": 0.421,
+      "sentiment": 0.0,
       "top_terms": [
-        "DC Udhampur"
+        "KVK Udhampur Holds Training",
+        "Organic Farming Practices Under",
+        "HADP"
       ]
     }
   },
@@ -365,50 +340,50 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 34
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 32
+      "count": 33
     },
     {
       "domain": "Greater Kashmir",
-      "count": 23
+      "count": 22
     },
     {
-      "domain": "Jammu Links News",
-      "count": 18
+      "domain": "Daily Excelsior",
+      "count": 21
+    },
+    {
+      "domain": "Kashmir News Service",
+      "count": 15
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 16
-    },
-    {
-      "domain": "Kashmir Observer",
       "count": 14
     },
     {
       "domain": "Rising Kashmir",
-      "count": 13
+      "count": 12
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 8
-    },
-    {
-      "domain": "Kashmir News Service",
-      "count": 8
+      "domain": "Kashmir Observer",
+      "count": 10
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 8
+      "count": 6
+    },
+    {
+      "domain": "ThePrint",
+      "count": 6
+    },
+    {
+      "domain": "ETV Bharat",
+      "count": 4
     },
     {
       "domain": "Kashmir Indepth",
-      "count": 5
+      "count": 4
     },
     {
-      "domain": "Moneycontrol.com",
+      "domain": "Brighter Kashmir",
       "count": 4
     },
     {
@@ -416,23 +391,19 @@
       "count": 3
     },
     {
-      "domain": "NDTV",
+      "domain": "scanx.trade",
       "count": 3
     },
     {
-      "domain": "Kashmir Vision",
+      "domain": "Rediff",
       "count": 3
     },
     {
-      "domain": "Kashmir Independent Media Service",
+      "domain": "Cricbuzz",
       "count": 3
     },
     {
-      "domain": "ETV Bharat",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Dot Com",
+      "domain": "The Earth News",
       "count": 3
     },
     {
@@ -440,13 +411,17 @@
       "count": 2
     },
     {
-      "domain": "scanx.trade",
+      "domain": "Free Press Kashmir",
+      "count": 2
+    },
+    {
+      "domain": "https://www.indiagazette.com/",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 261,
-    "raw_articles_before_dedup": 366,
+    "articles_fetched": 247,
+    "raw_articles_before_dedup": 344,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
