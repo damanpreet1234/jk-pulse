@@ -1,33 +1,43 @@
 {
-  "generated_at": "2026-10-16T15:59:54.158887+00:00",
+  "generated_at": "2026-10-16T19:30:21.111845+00:00",
   "date": "2026-10-16",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.003,
+    "score": 0.002,
     "label": "mixed / neutral",
-    "positive_pct": 29.8,
-    "neutral_pct": 42.9,
-    "negative_pct": 27.3,
-    "sample_size": 245
+    "positive_pct": 29.1,
+    "neutral_pct": 44.3,
+    "negative_pct": 26.6,
+    "sample_size": 237
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Jammu Kashmir",
-      "mentions": 4,
-      "sentiment": -0.329
+      "mentions": 6,
+      "sentiment": -0.295
     },
     {
-      "term": "Officer",
+      "term": "Crore",
       "mentions": 4,
-      "sentiment": -0.228
+      "sentiment": 0.192
     },
     {
-      "term": "Omar Abdullah",
+      "term": "Year",
+      "mentions": 4,
+      "sentiment": -0.509
+    },
+    {
+      "term": "Officers",
       "mentions": 3,
-      "sentiment": -0.045
+      "sentiment": 0.099
+    },
+    {
+      "term": "CM Omar",
+      "mentions": 3,
+      "sentiment": -0.137
     },
     {
       "term": "Kashmir High Court",
@@ -37,50 +47,25 @@
     {
       "term": "Ladakh",
       "mentions": 3,
-      "sentiment": 0.258
+      "sentiment": 0.255
     },
     {
-      "term": "Year",
+      "term": "IAS Officer",
       "mentions": 3,
-      "sentiment": -0.738
+      "sentiment": -0.297
     },
     {
       "term": "October",
       "mentions": 3,
-      "sentiment": -0.153
-    },
-    {
-      "term": "Rain",
-      "mentions": 3,
-      "sentiment": 0.108
-    },
-    {
-      "term": "LG Sinha",
-      "mentions": 3,
       "sentiment": 0.0
     },
     {
-      "term": "National Award",
-      "mentions": 3,
-      "sentiment": 0.743
-    },
-    {
-      "term": "Officers",
-      "mentions": 2,
-      "sentiment": 0.148
-    },
-    {
-      "term": "Crore",
+      "term": "Transfer",
       "mentions": 2,
       "sentiment": 0.0
     },
     {
-      "term": "Govt",
-      "mentions": 2,
-      "sentiment": 0.104
-    },
-    {
-      "term": "Jammu Kashmir Govt Orders",
+      "term": "Posting",
       "mentions": 2,
       "sentiment": 0.0
     },
@@ -95,84 +80,99 @@
       "sentiment": 0.261
     },
     {
-      "term": "SETU",
+      "term": "Officer",
       "mentions": 2,
-      "sentiment": 0.416
+      "sentiment": -0.472
     },
     {
-      "term": "CM Omar",
+      "term": "Omar Abdullah",
       "mentions": 2,
-      "sentiment": 0.159
+      "sentiment": 0.036
     },
     {
-      "term": "Dal Lake",
+      "term": "Gurez",
       "mentions": 2,
-      "sentiment": -0.074
+      "sentiment": -0.199
     },
     {
-      "term": "Farooq Abdullah",
+      "term": "JKAS",
       "mentions": 2,
-      "sentiment": -0.306
+      "sentiment": -0.637
+    },
+    {
+      "term": "Rain",
+      "mentions": 2,
+      "sentiment": 0.206
+    },
+    {
+      "term": "CM Omar Abdullah",
+      "mentions": 2,
+      "sentiment": 0.168
+    },
+    {
+      "term": "Farmers",
+      "mentions": 2,
+      "sentiment": 0.238
     }
   ],
   "emerging": [
     {
-      "term": "National Award",
+      "term": "Crore",
+      "mentions_now": 4,
+      "baseline_avg": 1.8,
+      "zscore": 5.5,
+      "reason": "spike"
+    },
+    {
+      "term": "IAS Officer",
       "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
+      "baseline_avg": 1,
+      "zscore": 4.0,
       "reason": "spike"
     },
     {
       "term": "Year",
-      "mentions_now": 3,
-      "baseline_avg": 1.3,
-      "zscore": 3.71,
+      "mentions_now": 4,
+      "baseline_avg": 1.45,
+      "zscore": 3.88,
       "reason": "spike"
     },
     {
-      "term": "LG Sinha",
+      "term": "CM Omar",
       "mentions_now": 3,
-      "baseline_avg": 1.83,
-      "zscore": 3.13,
+      "baseline_avg": 1.67,
+      "zscore": 2.14,
       "reason": "spike"
     },
     {
       "term": "Kashmir High Court",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 2.5,
-      "reason": "spike"
-    },
-    {
-      "term": "Officer",
-      "mentions_now": 4,
-      "baseline_avg": 1.67,
-      "zscore": 2.47,
+      "baseline_avg": 1.5,
+      "zscore": 1.86,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
       "mentions": 5,
-      "sentiment": -0.012,
+      "sentiment": -0.024,
       "top_terms": [
-        "Police",
+        "Construction",
+        "Trout",
         "Black Bear Captured Alive",
         "Nowgam Shangus Anantnag",
-        "DC Anantnag",
-        "Construction"
+        "DC Anantnag"
       ]
     },
     "Bandipora": {
       "mentions": 8,
-      "sentiment": -0.207,
+      "sentiment": -0.094,
       "top_terms": [
-        "DC Bandipora",
+        "SSP Bandipora Calls",
+        "Corruption",
         "Cancer",
         "Stricken Teacher",
-        "Transfer Plea Rejected Six",
-        "Times"
+        "Transfer Plea Rejected Six"
       ]
     },
     "Baramulla": {
@@ -187,11 +187,9 @@
       ]
     },
     "Budgam": {
-      "mentions": 2,
-      "sentiment": -0.229,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "Power",
-        "October",
         "KVK Budgam Highlights Women",
         "Role",
         "Agricultural Entrepreneurship"
@@ -199,67 +197,66 @@
     },
     "Ganderbal": {
       "mentions": 6,
-      "sentiment": 0.197,
+      "sentiment": 0.066,
       "top_terms": [
-        "CIPMC Srinagar",
-        "Farmers Field Day Programme",
-        "JKEJAC",
-        "JKTF Ganderbal",
-        "CM Omar Abdullah"
+        "Lumpy Skin Disease",
+        "Ganderbal Admin Issues Advisory",
+        "Urges Early Reporting",
+        "Suspected Cases",
+        "CIPMC Srinagar"
       ]
     },
     "Kulgam": {
       "mentions": 2,
-      "sentiment": 0.181,
+      "sentiment": 0.18,
       "top_terms": [
         "DC Kulgam",
-        "Farmer IDs",
         "Digital Information Board",
         "Mini",
-        "Secretariat"
+        "Secretariat",
+        "Farmer IDs"
       ]
     },
     "Kupwara": {
-      "mentions": 4,
-      "sentiment": -0.106,
+      "mentions": 5,
+      "sentiment": -0.085,
       "top_terms": [
-        "Member",
-        "Parliament Er. Ghulam Ali",
-        "Khatana Chairs Public Darbar",
-        "Town Hall Kupwara",
-        "MP Ghulam Ali Khatana"
+        "Villages",
+        "Lolab Tehsil",
+        "Kupwara District",
+        "Jammu Kashmir",
+        "Member"
       ]
     },
     "Pulwama": {
-      "mentions": 2,
-      "sentiment": -0.125,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
         "DC Pulwama",
         "District NCORD Meeting",
-        "Calls",
-        "Six Pulwama"
+        "Calls"
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": 0.191,
+      "mentions": 4,
+      "sentiment": 0.092,
       "top_terms": [
         "CEO Shopian",
-        "Mahila Kisan Diwas",
-        "Bohrihallan Shopian",
-        "DDC Shopian",
-        "Jal Shakti"
+        "DC Shopian",
+        "Public Interaction Meeting",
+        "Time",
+        "Bound Grievance"
       ]
     },
     "Srinagar": {
-      "mentions": 26,
-      "sentiment": 0.112,
+      "mentions": 30,
+      "sentiment": 0.091,
       "top_terms": [
+        "Crore",
         "AYUSH",
-        "Rouble Nagi Art Foundation",
-        "Downtown Srinagar",
         "World Anatomy Day",
-        "Lakh"
+        "Lakh",
+        "Challans Issued"
       ]
     },
     "Doda": {
@@ -274,14 +271,14 @@
       ]
     },
     "Jammu": {
-      "mentions": 57,
-      "sentiment": -0.074,
+      "mentions": 58,
+      "sentiment": -0.06,
       "top_terms": [
         "Jammu Kashmir",
+        "Crore",
         "Kashmir High Court",
-        "Jammu Kashmir Govt Orders",
-        "SETU",
-        "Jammu Kashmir Govt Revises"
+        "Transfer",
+        "Posting"
       ]
     },
     "Kathua": {
@@ -291,29 +288,35 @@
     },
     "Kishtwar": {
       "mentions": 5,
-      "sentiment": -0.351,
+      "sentiment": -0.269,
       "top_terms": [
         "Missing SPO",
+        "Body",
         "Missing",
         "Special Police Officer Found",
-        "Dead Near His Home",
-        "SPO Goes Missing"
+        "Dead Near His Home"
       ]
     },
     "Poonch": {
-      "mentions": 2,
-      "sentiment": 0.345,
+      "mentions": 4,
+      "sentiment": 0.16,
       "top_terms": [
         "Security",
-        "Four"
+        "Four",
+        "Indian Army",
+        "Nayi Manzil",
+        "High Alert"
       ]
     },
     "Rajouri": {
-      "mentions": 3,
-      "sentiment": -0.107,
+      "mentions": 5,
+      "sentiment": 0.004,
       "top_terms": [
-        "Large",
-        "Seri"
+        "IED Found",
+        "Neutralised During Search Operation",
+        "Operation Sheruwali",
+        "Saturday",
+        "Gambhir Mughlan"
       ]
     },
     "Ramban": {
@@ -330,19 +333,16 @@
       "top_terms": []
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.275,
+      "mentions": 2,
+      "sentiment": -0.654,
       "top_terms": [
         "Year",
-        "Old Man Found Dead",
-        "SAMBA",
-        "AIIMS JAMMU MAY GET",
-        "CISF SECURITY COVER DUE"
+        "Old Man Found Dead"
       ]
     },
     "Udhampur": {
-      "mentions": 4,
-      "sentiment": -0.229,
+      "mentions": 3,
+      "sentiment": -0.153,
       "top_terms": [
         "ACB Conducts Raids",
         "Five Locations",
@@ -358,58 +358,50 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 34
+      "count": 39
     },
     {
       "domain": "Daily Excelsior",
-      "count": 17
-    },
-    {
-      "domain": "Greater Kashmir",
       "count": 16
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 14
-    },
-    {
       "domain": "Kashmir News Service",
-      "count": 12
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 12
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 11
+      "count": 15
     },
     {
       "domain": "Rising Kashmir",
-      "count": 11
+      "count": 14
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 13
+    },
+    {
+      "domain": "Greater Kashmir",
+      "count": 12
     },
     {
       "domain": "JK MONITOR",
-      "count": 8
+      "count": 10
     },
     {
-      "domain": "Kashmir Indepth",
-      "count": 7
+      "domain": "Kashmir Convener",
+      "count": 8
     },
     {
       "domain": "Kashmir Observer",
       "count": 6
     },
     {
-      "domain": "The Indian Express",
-      "count": 5
-    },
-    {
       "domain": "News On AIR",
       "count": 5
     },
     {
-      "domain": "Kashmir Convener",
+      "domain": "Kashmir Indepth",
+      "count": 5
+    },
+    {
+      "domain": "Kashmir News Observer",
       "count": 5
     },
     {
@@ -417,11 +409,11 @@
       "count": 4
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "Good Morning Kashmir",
       "count": 4
     },
     {
-      "domain": "Kashmir Vision",
+      "domain": "The Global Kashmir",
       "count": 4
     },
     {
@@ -429,17 +421,25 @@
       "count": 3
     },
     {
+      "domain": "The Indian Express",
+      "count": 3
+    },
+    {
       "domain": "Live Law",
       "count": 3
     },
     {
-      "domain": "Deccan Herald",
+      "domain": "Deccan Chronicle",
+      "count": 3
+    },
+    {
+      "domain": "The Tribune",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 245,
-    "raw_articles_before_dedup": 370,
+    "articles_fetched": 237,
+    "raw_articles_before_dedup": 367,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
