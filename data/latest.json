@@ -1,28 +1,28 @@
 {
-  "generated_at": "2026-10-15T22:52:11.329523+00:00",
-  "date": "2026-10-15",
+  "generated_at": "2026-10-16T02:57:50.584136+00:00",
+  "date": "2026-10-16",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.018,
+    "score": 0.002,
     "label": "mixed / neutral",
-    "positive_pct": 32.0,
-    "neutral_pct": 39.0,
-    "negative_pct": 29.0,
-    "sample_size": 231
+    "positive_pct": 33.2,
+    "neutral_pct": 39.3,
+    "negative_pct": 27.5,
+    "sample_size": 244
   },
   "india_tone": null,
   "top_keywords": [
     {
-      "term": "Police",
+      "term": "CM Omar Abdullah",
       "mentions": 6,
-      "sentiment": -0.287
+      "sentiment": 0.172
     },
     {
       "term": "October",
-      "mentions": 6,
-      "sentiment": 0.055
+      "mentions": 5,
+      "sentiment": 0.128
     },
     {
       "term": "Friday",
@@ -32,12 +32,12 @@
     {
       "term": "Rain",
       "mentions": 4,
-      "sentiment": 0.181
+      "sentiment": 0.162
     },
     {
-      "term": "Jashn",
+      "term": "TSG Hoffenheim",
       "mentions": 4,
-      "sentiment": 0.322
+      "sentiment": 0.511
     },
     {
       "term": "India",
@@ -45,9 +45,24 @@
       "sentiment": -0.278
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "Gurez",
+      "mentions": 4,
+      "sentiment": 0.095
+    },
+    {
+      "term": "Drug",
       "mentions": 3,
-      "sentiment": 0.143
+      "sentiment": 0.269
+    },
+    {
+      "term": "Sports",
+      "mentions": 3,
+      "sentiment": 0.228
+    },
+    {
+      "term": "Punjabi",
+      "mentions": 3,
+      "sentiment": 0.09
     },
     {
       "term": "JKAS Officers",
@@ -55,14 +70,14 @@
       "sentiment": 0.0
     },
     {
-      "term": "Ladakh",
+      "term": "Jashn",
       "mentions": 3,
-      "sentiment": -0.086
+      "sentiment": 0.527
     },
     {
-      "term": "Snow",
+      "term": "Ladakh",
       "mentions": 3,
-      "sentiment": 0.065
+      "sentiment": -0.026
     },
     {
       "term": "Season",
@@ -70,71 +85,56 @@
       "sentiment": 0.029
     },
     {
-      "term": "Gurez",
-      "mentions": 3,
-      "sentiment": 0.059
-    },
-    {
       "term": "DC Bandipora",
       "mentions": 3,
       "sentiment": -0.094
     },
     {
-      "term": "Katra",
-      "mentions": 3,
-      "sentiment": 0.489
+      "term": "Kashmir High Court",
+      "mentions": 2,
+      "sentiment": 0.011
     },
     {
-      "term": "Punjabi",
+      "term": "Free Society",
       "mentions": 2,
-      "sentiment": -0.013
+      "sentiment": 0.551
     },
     {
-      "term": "Mughal Road Closed",
+      "term": "Ease",
       "mentions": 2,
-      "sentiment": 0.181
+      "sentiment": 0.637
     },
     {
-      "term": "Drug",
+      "term": "NC Govt",
       "mentions": 2,
-      "sentiment": 0.202
+      "sentiment": -0.057
     },
     {
-      "term": "High Court",
+      "term": "JKAS",
       "mentions": 2,
-      "sentiment": 0.09
-    },
-    {
-      "term": "CM Omar Abdullah",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Waqf Board",
-      "mentions": 2,
-      "sentiment": 0.128
+      "sentiment": -0.522
     }
   ],
   "emerging": [
     {
-      "term": "Snow",
-      "mentions_now": 3,
-      "baseline_avg": 1.38,
-      "zscore": 3.36,
-      "reason": "spike"
-    },
-    {
-      "term": "October",
+      "term": "CM Omar Abdullah",
       "mentions_now": 6,
-      "baseline_avg": 3.07,
-      "zscore": 2.29,
+      "baseline_avg": 1.75,
+      "zscore": 5.13,
       "reason": "spike"
     },
     {
-      "term": "Jashn",
-      "mentions_now": 4,
-      "baseline_avg": 1.83,
-      "zscore": 2.03,
+      "term": "Sports",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Drug",
+      "mentions_now": 3,
+      "baseline_avg": 1.29,
+      "zscore": 3.79,
       "reason": "spike"
     }
   ],
@@ -144,15 +144,15 @@
       "sentiment": 0.191,
       "top_terms": [
         "DC Anantnag",
-        "Bottlenecks",
-        "Industrial Development",
         "SKUAST",
-        "Mahila Kisan Diwas"
+        "Mahila Kisan Diwas",
+        "Women Farmers",
+        "Agriculture"
       ]
     },
     "Bandipora": {
-      "mentions": 6,
-      "sentiment": -0.093,
+      "mentions": 4,
+      "sentiment": 0.044,
       "top_terms": [
         "DC Bandipora",
         "Mughal",
@@ -162,8 +162,8 @@
       ]
     },
     "Baramulla": {
-      "mentions": 6,
-      "sentiment": -0.143,
+      "mentions": 4,
+      "sentiment": -0.151,
       "top_terms": [
         "Landslides",
         "Section",
@@ -173,41 +173,41 @@
       ]
     },
     "Budgam": {
-      "mentions": 2,
-      "sentiment": -0.335,
+      "mentions": 1,
+      "sentiment": -0.67,
       "top_terms": [
-        "Awareness Campaign",
-        "Fake Pesticide",
-        "Genuine Pesticide",
         "Thana Diwas",
-        "Sitharan"
+        "Sitharan",
+        "SSP Budgam Hariprasad K.K",
+        "Listens",
+        "Public Grievances"
       ]
     },
     "Ganderbal": {
       "mentions": 5,
-      "sentiment": 0.378,
+      "sentiment": 0.265,
       "top_terms": [
         "CM Omar Abdullah",
+        "JKEJAC",
+        "JKTF Ganderbal",
         "Chinar Trees Hindering Ganderbal",
-        "Road Widening",
-        "CM Omar",
-        "Visit Ganderbal Today"
+        "Road Widening"
       ]
     },
     "Kulgam": {
-      "mentions": 3,
-      "sentiment": -0.197,
+      "mentions": 2,
+      "sentiment": -0.312,
       "top_terms": [
         "SDRF",
         "VHG Unit Kulgam",
         "Disaster Management",
-        "Security",
-        "Fidayeen"
+        "Property",
+        "SVAMITVA"
       ]
     },
     "Kupwara": {
-      "mentions": 4,
-      "sentiment": -0.122,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
         "MY Bharat",
         "Yuva Samvaad Programme",
@@ -217,19 +217,18 @@
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": -0.182,
+      "mentions": 2,
+      "sentiment": -0.125,
       "top_terms": [
         "Six Pulwama",
         "DDC Pulwama",
         "SWM Rules",
-        "District",
-        "Poppy Straw Recovered"
+        "District"
       ]
     },
     "Shopian": {
-      "mentions": 6,
-      "sentiment": 0.002,
+      "mentions": 4,
+      "sentiment": 0.143,
       "top_terms": [
         "ACB JK",
         "CEO Shopian",
@@ -239,36 +238,36 @@
       ]
     },
     "Srinagar": {
-      "mentions": 24,
-      "sentiment": 0.072,
+      "mentions": 19,
+      "sentiment": 0.023,
       "top_terms": [
+        "Tourism Beyond Srinagar Remains",
+        "Real Test",
+        "Homestay Boom",
         "Kashmir High Court",
-        "Jashn",
-        "Srinagar Diary",
-        "Cabinet",
-        "DPS Srinagar Shuttlers Win"
+        "Jashn"
       ]
     },
     "Doda": {
-      "mentions": 2,
-      "sentiment": 0.159,
+      "mentions": 3,
+      "sentiment": 0.106,
       "top_terms": [
+        "Gurez",
+        "Pir Ki Gali",
         "Video",
         "Turns White",
-        "Season",
-        "First Snowfall Blankets Doda",
-        "Bhaderwah"
+        "Season"
       ]
     },
     "Jammu": {
-      "mentions": 43,
-      "sentiment": 0.015,
+      "mentions": 38,
+      "sentiment": -0.011,
       "top_terms": [
+        "Kashmir High Court",
         "Jammu Kashmir",
         "JKAS Officers",
-        "Daily JAMMU",
-        "KASHMIR Current Affairs",
-        "JKAS Exam"
+        "Jammu Kashmir Police Warns",
+        "Against Online Task Scams"
       ]
     },
     "Kathua": {
@@ -283,23 +282,23 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 4,
-      "sentiment": 0.112,
+      "mentions": 5,
+      "sentiment": 0.158,
       "top_terms": [
+        "IGP Jammu",
         "IGP Jammu Reviews Security",
         "Counter",
         "Terrorism Preparedness",
-        "Year",
-        "Old SPO Goes Missing"
+        "Year"
       ]
     },
     "Poonch": {
       "mentions": 4,
-      "sentiment": -0.329,
+      "sentiment": -0.106,
       "top_terms": [
         "Four",
-        "Navratri",
-        "MP Mian Altaf"
+        "Security",
+        "Navratri"
       ]
     },
     "Rajouri": {
@@ -314,14 +313,11 @@
       ]
     },
     "Ramban": {
-      "mentions": 2,
-      "sentiment": 0.329,
+      "mentions": 1,
+      "sentiment": 0.296,
       "top_terms": [
         "Ram Niwas Sharma",
-        "GDC Ramban",
-        "DC Ramban",
-        "Bank Branch",
-        "Panchal"
+        "GDC Ramban"
       ]
     },
     "Reasi": {
@@ -330,25 +326,23 @@
       "top_terms": []
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.193,
+      "mentions": 2,
+      "sentiment": -0.531,
       "top_terms": [
         "Jammu Kashmir Courts Reject",
         "Bail Applications",
-        "Seven Days",
-        "SAMBA",
-        "AIIMS JAMMU MAY GET"
+        "Seven Days"
       ]
     },
     "Udhampur": {
       "mentions": 4,
-      "sentiment": -0.126,
+      "sentiment": -0.24,
       "top_terms": [
+        "Several Injured",
+        "Mini",
+        "Bus Skids Off Road",
         "DC Udhampur",
-        "Public Grievances",
-        "Panjar",
-        "Tech",
-        "SKPA Udhampur"
+        "Public Grievances"
       ]
     }
   },
@@ -357,89 +351,89 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 32
+      "domain": "Daily Excelsior",
+      "count": 31
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 17
+      "domain": "Kashmir Life",
+      "count": 27
     },
     {
       "domain": "Greater Kashmir",
-      "count": 17
+      "count": 21
     },
     {
-      "domain": "The Kashmir Horizon",
+      "domain": "Rising Kashmir",
       "count": 14
     },
     {
       "domain": "Kashmir News Service",
-      "count": 14
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 10
+      "count": 11
     },
     {
       "domain": "Kashmir Observer",
+      "count": 9
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 9
+    },
+    {
+      "domain": "The Kashmir Horizon",
       "count": 8
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 8
-    },
-    {
-      "domain": "Brighter Kashmir",
       "count": 7
     },
     {
-      "domain": "NDTV",
+      "domain": "News On AIR",
       "count": 6
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 6
-    },
-    {
-      "domain": "Kashmir Reader",
-      "count": 6
-    },
-    {
-      "domain": "The Hindu",
-      "count": 5
     },
     {
       "domain": "Kashmir Indepth",
-      "count": 5
+      "count": 6
     },
     {
       "domain": "The Global Kashmir",
       "count": 5
     },
     {
-      "domain": "News On AIR",
+      "domain": "Universidad de Córdoba (UCO)",
+      "count": 4
+    },
+    {
+      "domain": "The Hindu",
+      "count": 4
+    },
+    {
+      "domain": "NDTV",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 4
+    },
+    {
+      "domain": "thekashmirimages.com",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Reader",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Vision",
       "count": 3
     },
     {
       "domain": "ETV Bharat",
       "count": 3
-    },
-    {
-      "domain": "India Today",
-      "count": 3
-    },
-    {
-      "domain": "The Tribune",
-      "count": 3
-    },
-    {
-      "domain": "The Earth News",
-      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 231,
-    "raw_articles_before_dedup": 363,
+    "articles_fetched": 244,
+    "raw_articles_before_dedup": 371,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
