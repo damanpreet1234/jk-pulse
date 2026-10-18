@@ -1,58 +1,58 @@
 {
-  "generated_at": "2026-10-18T15:18:47.140490+00:00",
+  "generated_at": "2026-10-18T18:26:07.916380+00:00",
   "date": "2026-10-18",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.024,
+    "score": -0.07,
     "label": "mixed / neutral",
-    "positive_pct": 28.8,
-    "neutral_pct": 42.9,
-    "negative_pct": 28.3,
-    "sample_size": 226
+    "positive_pct": 25.8,
+    "neutral_pct": 40.4,
+    "negative_pct": 33.8,
+    "sample_size": 213
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Haryana",
-      "mentions": 10,
-      "sentiment": -0.549
+      "mentions": 9,
+      "sentiment": -0.563
     },
     {
-      "term": "Jammu Kashmir",
-      "mentions": 5,
-      "sentiment": 0.116
-    },
-    {
-      "term": "Police",
-      "mentions": 4,
-      "sentiment": -0.094
-    },
-    {
-      "term": "Vidarbha",
-      "mentions": 4,
-      "sentiment": -0.244
+      "term": "Katra",
+      "mentions": 6,
+      "sentiment": 0.198
     },
     {
       "term": "India",
-      "mentions": 4,
-      "sentiment": 0.105
-    },
-    {
-      "term": "PM Modi",
-      "mentions": 4,
-      "sentiment": 0.657
+      "mentions": 5,
+      "sentiment": 0.039
     },
     {
       "term": "Delhi",
+      "mentions": 5,
+      "sentiment": -0.674
+    },
+    {
+      "term": "Jammu Kashmir",
       "mentions": 4,
-      "sentiment": -0.637
+      "sentiment": 0.065
     },
     {
       "term": "Army Officer",
+      "mentions": 4,
+      "sentiment": 0.054
+    },
+    {
+      "term": "Omar Abdullah",
+      "mentions": 4,
+      "sentiment": -0.017
+    },
+    {
+      "term": "Vidarbha",
       "mentions": 3,
-      "sentiment": 0.029
+      "sentiment": -0.173
     },
     {
       "term": "Ladakh",
@@ -60,29 +60,29 @@
       "sentiment": 0.0
     },
     {
-      "term": "Bound Bus",
-      "mentions": 3,
-      "sentiment": -0.596
-    },
-    {
-      "term": "Omar Abdullah",
-      "mentions": 3,
-      "sentiment": 0.166
-    },
-    {
       "term": "Stone",
       "mentions": 3,
       "sentiment": -0.176
     },
     {
-      "term": "Ranji Trophy",
+      "term": "Pakistan",
       "mentions": 3,
-      "sentiment": -0.326
+      "sentiment": -0.253
     },
     {
-      "term": "Katra",
+      "term": "Police",
       "mentions": 3,
-      "sentiment": 0.223
+      "sentiment": -0.099
+    },
+    {
+      "term": "Keran",
+      "mentions": 3,
+      "sentiment": -0.357
+    },
+    {
+      "term": "Indian",
+      "mentions": 3,
+      "sentiment": -0.032
     },
     {
       "term": "Rail",
@@ -95,60 +95,88 @@
       "sentiment": -0.535
     },
     {
+      "term": "Kashmir Cricket Team Records",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Stats",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
       "term": "Ladakh Bench",
       "mentions": 2,
-      "sentiment": 0.2
+      "sentiment": 0.208
     },
     {
-      "term": "Kashmir Division",
+      "term": "SETU",
       "mentions": 2,
-      "sentiment": 0.039
-    },
-    {
-      "term": "Seven",
-      "mentions": 2,
-      "sentiment": 0.039
-    },
-    {
-      "term": "Govt",
-      "mentions": 2,
-      "sentiment": 0.257
+      "sentiment": 0.45
     }
   ],
   "emerging": [
     {
+      "term": "Indian",
+      "mentions_now": 3,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
+      "term": "Keran",
+      "mentions_now": 3,
+      "baseline_avg": 1.2,
+      "zscore": 4.5,
+      "reason": "spike"
+    },
+    {
       "term": "Delhi",
-      "mentions_now": 4,
-      "baseline_avg": 1,
-      "zscore": 6.0,
+      "mentions_now": 5,
+      "baseline_avg": 1.27,
+      "zscore": 4.32,
       "reason": "spike"
     },
     {
-      "term": "Haryana",
-      "mentions_now": 10,
-      "baseline_avg": 1.55,
-      "zscore": 5.88,
-      "reason": "spike"
-    },
-    {
-      "term": "Army Officer",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Ranji Trophy",
-      "mentions_now": 3,
-      "baseline_avg": 1.3,
+      "term": "Katra",
+      "mentions_now": 6,
+      "baseline_avg": 2.36,
       "zscore": 3.71,
       "reason": "spike"
     },
     {
-      "term": "Vidarbha",
+      "term": "Pakistan",
+      "mentions_now": 3,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
+      "reason": "spike"
+    },
+    {
+      "term": "Army Officer",
       "mentions_now": 4,
       "baseline_avg": 1.5,
-      "zscore": 3.27,
+      "zscore": 2.89,
+      "reason": "spike"
+    },
+    {
+      "term": "Omar Abdullah",
+      "mentions_now": 4,
+      "baseline_avg": 2.09,
+      "zscore": 2.41,
+      "reason": "spike"
+    },
+    {
+      "term": "Haryana",
+      "mentions_now": 9,
+      "baseline_avg": 2.36,
+      "zscore": 2.37,
+      "reason": "spike"
+    },
+    {
+      "term": "India",
+      "mentions_now": 5,
+      "baseline_avg": 2.4,
+      "zscore": 2.03,
       "reason": "spike"
     }
   ],
@@ -165,12 +193,12 @@
       ]
     },
     "Bandipora": {
-      "mentions": 6,
-      "sentiment": 0.09,
+      "mentions": 5,
+      "sentiment": 0.108,
       "top_terms": [
+        "Bandipora Police",
         "Prominent",
         "JKAP",
-        "Bandipora Police",
         "KVK Bandipora",
         "Technology Demo"
       ]
@@ -192,35 +220,35 @@
     },
     "Ganderbal": {
       "mentions": 5,
-      "sentiment": -0.111,
+      "sentiment": -0.264,
       "top_terms": [
         "Seven",
         "Wushu Players Storm",
         "National School Games",
         "CRPF",
-        "Drug Peddler Arrested"
+        "Ganderbal Police"
       ]
     },
     "Kulgam": {
-      "mentions": 3,
-      "sentiment": 0.132,
+      "mentions": 4,
+      "sentiment": 0.222,
       "top_terms": [
         "ADC Kulgam",
         "Divisional",
         "Level Kho Kho Championships",
-        "Youth Tournaments Under Civic",
-        "Action Prog Conclude"
+        "Teen",
+        "Irfan Pathan"
       ]
     },
     "Kupwara": {
       "mentions": 5,
-      "sentiment": 0.043,
+      "sentiment": -0.097,
       "top_terms": [
         "DC Kupwara",
         "LoC Infiltration Bid Foiled",
         "Keran",
         "Security Forces Launch Operation",
-        "Winter Preparedness"
+        "Pakistan"
       ]
     },
     "Pulwama": {
@@ -237,74 +265,72 @@
       ]
     },
     "Srinagar": {
-      "mentions": 21,
-      "sentiment": -0.274,
+      "mentions": 20,
+      "sentiment": -0.325,
       "top_terms": [
         "Haryana",
         "Delhi",
         "Stone",
-        "Bound Bus",
-        "Kurukshetra"
+        "Man Dies Falling",
+        "Stands"
       ]
     },
     "Doda": {
-      "mentions": 4,
-      "sentiment": -0.013,
+      "mentions": 3,
+      "sentiment": -0.422,
       "top_terms": [
         "Dengue",
-        "District Committee",
-        "Telecom",
-        "Army Medical",
-        "Basantgarh"
+        "Woman",
+        "Chenab"
       ]
     },
     "Jammu": {
-      "mentions": 36,
-      "sentiment": -0.06,
+      "mentions": 33,
+      "sentiment": -0.033,
       "top_terms": [
         "Jammu Kashmir",
         "Army Officer",
-        "Ladakh Bench",
-        "India",
-        "Kashmir Cricket Team Records"
+        "Kashmir Cricket Team Records",
+        "Stats",
+        "Ladakh Bench"
       ]
     },
     "Kathua": {
       "mentions": 3,
-      "sentiment": 0.025,
+      "sentiment": -0.115,
       "top_terms": [
-        "MLA Kathua",
-        "Chandigarh",
         "DC Kathua",
-        "HADP",
-        "JKCIP"
+        "Mata Bala Sundri Shrine",
+        "Billawar",
+        "MLA Kathua",
+        "Chandigarh"
       ]
     },
     "Kishtwar": {
-      "mentions": 5,
-      "sentiment": -0.154,
+      "mentions": 4,
+      "sentiment": -0.395,
       "top_terms": [
-        "Kishtwar Bypass Project",
-        "NHIDCL Terminates Rs",
-        "Crore Contract",
         "Crime Branch",
-        "Crime Branch Files Chargesheet"
+        "Police",
+        "Enforcement",
+        "Kishtwar Town",
+        "Kishtwar Bypass Project"
       ]
     },
     "Poonch": {
-      "mentions": 9,
-      "sentiment": 0.111,
+      "mentions": 5,
+      "sentiment": -0.05,
       "top_terms": [
-        "Indian Army Shoots Down",
-        "Pakistan Drone LoC",
-        "Breach",
-        "IGP Traffic",
-        "Healthcare"
+        "Healthcare",
+        "Kya Khoya",
+        "Kya Paya",
+        "Four",
+        "Rana"
       ]
     },
     "Rajouri": {
-      "mentions": 5,
-      "sentiment": 0.339,
+      "mentions": 3,
+      "sentiment": 0.402,
       "top_terms": [
         "IGP Traffic",
         "DPL Rajouri",
@@ -315,23 +341,28 @@
     },
     "Ramban": {
       "mentions": 3,
-      "sentiment": -0.682,
+      "sentiment": -0.783,
       "top_terms": [
         "Labourer Killed",
         "Two Trucks Collide",
-        "Worker Killed",
-        "Truck Conductor Injured",
-        "Accident"
+        "Woman",
+        "Chenab",
+        "Worker Killed"
       ]
     },
     "Reasi": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.0,
+      "top_terms": [
+        "Reasi Police Recover",
+        "Pregabalin Capsules",
+        "Katra",
+        "One Held"
+      ]
     },
     "Samba": {
-      "mentions": 4,
-      "sentiment": 0.004,
+      "mentions": 2,
+      "sentiment": 0.027,
       "top_terms": [
         "Govt",
         "Plug",
@@ -342,65 +373,59 @@
     },
     "Udhampur": {
       "mentions": 3,
-      "sentiment": 0.0,
+      "sentiment": 0.04,
       "top_terms": [
-        "Handicrafts Department",
-        "DC Udhampur",
-        "Town"
+        "Jitendra Singh",
+        "Handicrafts Department"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "Greater Kashmir",
-      "count": 25
+      "count": 27
     },
     {
-      "domain": "Daily Excelsior",
-      "count": 19
+      "domain": "Kashmir Life",
+      "count": 21
     },
     {
       "domain": "Rising Kashmir",
       "count": 18
     },
     {
-      "domain": "Kashmir Life",
-      "count": 17
-    },
-    {
-      "domain": "Jammu Links News",
-      "count": 17
+      "domain": "Daily Excelsior",
+      "count": 13
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 11
+      "count": 12
     },
     {
       "domain": "Kashmir News Service",
-      "count": 11
+      "count": 12
+    },
+    {
+      "domain": "JK MONITOR",
+      "count": 9
     },
     {
       "domain": "thekashmirimages.com",
-      "count": 9
+      "count": 8
     },
     {
       "domain": "Kashmir Observer",
       "count": 7
     },
     {
-      "domain": "Kashmir News Observer",
+      "domain": "Kashmir Indepth",
       "count": 6
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 6
-    },
-    {
-      "domain": "The Hindu",
       "count": 5
     },
     {
@@ -408,24 +433,24 @@
       "count": 4
     },
     {
-      "domain": "ETV Bharat",
-      "count": 3
-    },
-    {
       "domain": "scanx.trade",
+      "count": 4
+    },
+    {
+      "domain": "The Hindu",
+      "count": 4
+    },
+    {
+      "domain": "Jammu Links News",
+      "count": 4
+    },
+    {
+      "domain": "ThePrint",
       "count": 3
     },
     {
-      "domain": "Kashmir Indepth",
-      "count": 3
-    },
-    {
-      "domain": "News18",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 3
+      "domain": "ETV Bharat",
+      "count": 2
     },
     {
       "domain": "NDTV",
@@ -434,11 +459,15 @@
     {
       "domain": "The Hitavada",
       "count": 2
+    },
+    {
+      "domain": "Cricinfo",
+      "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 226,
-    "raw_articles_before_dedup": 364,
+    "articles_fetched": 213,
+    "raw_articles_before_dedup": 369,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
