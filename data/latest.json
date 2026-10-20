@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-10-19T23:16:49.622410+00:00",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-20T03:13:20.892343+00:00",
+  "date": "2026-10-20",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.085,
+    "score": -0.075,
     "label": "mixed / neutral",
-    "positive_pct": 25.6,
-    "neutral_pct": 36.1,
-    "negative_pct": 38.4,
-    "sample_size": 219
+    "positive_pct": 25.0,
+    "neutral_pct": 39.6,
+    "negative_pct": 35.4,
+    "sample_size": 260
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 12,
-      "sentiment": -0.238
+      "mentions": 17,
+      "sentiment": -0.206
     },
     {
-      "term": "Pakistan",
-      "mentions": 6,
-      "sentiment": -0.444
+      "term": "Ladakh",
+      "mentions": 9,
+      "sentiment": 0.069
     },
     {
-      "term": "Police",
-      "mentions": 6,
-      "sentiment": -0.475
+      "term": "Class",
+      "mentions": 8,
+      "sentiment": 0.093
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 5,
-      "sentiment": -0.196
+      "sentiment": -0.206
     },
     {
-      "term": "Class",
+      "term": "Pakistan",
       "mentions": 5,
-      "sentiment": 0.159
+      "sentiment": -0.442
     },
     {
-      "term": "Ladakh",
+      "term": "Police",
       "mentions": 5,
-      "sentiment": -0.234
+      "sentiment": -0.456
+    },
+    {
+      "term": "October",
+      "mentions": 4,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Haryana",
+      "mentions": 4,
+      "sentiment": -0.429
     },
     {
       "term": "Dussehra",
       "mentions": 4,
-      "sentiment": 0.184
-    },
-    {
-      "term": "October",
-      "mentions": 3,
-      "sentiment": -0.023
-    },
-    {
-      "term": "Haryana",
-      "mentions": 3,
-      "sentiment": -0.348
+      "sentiment": 0.305
     },
     {
       "term": "Year",
@@ -70,9 +70,24 @@
       "sentiment": -0.608
     },
     {
+      "term": "Indian Army",
+      "mentions": 3,
+      "sentiment": 0.179
+    },
+    {
+      "term": "DC Ganderbal",
+      "mentions": 3,
+      "sentiment": 0.229
+    },
+    {
+      "term": "Daily Excelsior",
+      "mentions": 3,
+      "sentiment": 0.289
+    },
+    {
       "term": "Kashmir Ladakh High",
       "mentions": 2,
-      "sentiment": 0.134
+      "sentiment": 0.143
     },
     {
       "term": "Rail",
@@ -80,54 +95,67 @@
       "sentiment": 0.19
     },
     {
+      "term": "Article",
+      "mentions": 2,
+      "sentiment": -0.079
+    },
+    {
       "term": "Court",
       "mentions": 2,
-      "sentiment": -0.272
+      "sentiment": -0.263
     },
     {
       "term": "Jammu Railway Division",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.077
     },
     {
       "term": "Anti",
       "mentions": 2,
       "sentiment": -0.557
-    },
-    {
-      "term": "Tagore Hall",
-      "mentions": 2,
-      "sentiment": 0.012
-    },
-    {
-      "term": "Dr Farooq",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Amit Shah",
-      "mentions": 2,
-      "sentiment": 0.17
-    },
-    {
-      "term": "Opinion",
-      "mentions": 2,
-      "sentiment": 0.312
     }
   ],
   "emerging": [
     {
+      "term": "Ladakh",
+      "mentions_now": 9,
+      "baseline_avg": 3.93,
+      "zscore": 4.91,
+      "reason": "spike"
+    },
+    {
+      "term": "DC Ganderbal",
+      "mentions_now": 3,
+      "baseline_avg": 1.27,
+      "zscore": 3.88,
+      "reason": "spike"
+    },
+    {
       "term": "India",
-      "mentions_now": 12,
-      "baseline_avg": 3.45,
-      "zscore": 2.94,
+      "mentions_now": 17,
+      "baseline_avg": 4.17,
+      "zscore": 3.52,
+      "reason": "spike"
+    },
+    {
+      "term": "Indian Army",
+      "mentions_now": 3,
+      "baseline_avg": 1.5,
+      "zscore": 3.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Class",
+      "mentions_now": 8,
+      "baseline_avg": 4,
+      "zscore": 2.53,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": -0.195,
+      "mentions": 4,
+      "sentiment": -0.108,
       "top_terms": [
         "CEO Anantnag",
         "Class",
@@ -163,81 +191,81 @@
       "sentiment": 0.211,
       "top_terms": [
         "DC Budgam",
-        "Facilities",
-        "Railway Station Budgam",
         "Revenue Services",
-        "AgriStack Progress"
+        "AgriStack Progress",
+        "Facilities",
+        "Railway Station Budgam"
       ]
     },
     "Ganderbal": {
-      "mentions": 4,
-      "sentiment": 0.016,
+      "mentions": 5,
+      "sentiment": -0.068,
       "top_terms": [
         "DC Ganderbal",
+        "Class",
+        "Examination Centres",
         "Cases",
-        "Mission YUVA",
-        "JKBOSE Shifts Class",
-        "Examination Centre"
+        "Mission YUVA"
       ]
     },
     "Kulgam": {
-      "mentions": 4,
-      "sentiment": 0.186,
+      "mentions": 3,
+      "sentiment": 0.128,
       "top_terms": [
         "DC Kulgam",
         "BharatNet",
-        "ADC Kulgam",
-        "Divisional",
-        "Level Kho Kho"
+        "Janjatiya Gaurav Diwas Celebrations",
+        "DAJGUA",
+        "Er Aaqib Shafi"
       ]
     },
     "Kupwara": {
-      "mentions": 5,
-      "sentiment": -0.306,
+      "mentions": 4,
+      "sentiment": -0.308,
       "top_terms": [
         "Pedestrian",
         "North Kashmir",
+        "Lolab",
         "Pedestrian Killed",
-        "Kupwara Road Accident",
-        "Lolab"
+        "Kupwara Road Accident"
       ]
     },
     "Pulwama": {
       "mentions": 9,
-      "sentiment": -0.19,
+      "sentiment": -0.173,
       "top_terms": [
         "DC Pulwama",
         "Police",
         "SDRF",
         "Fire Services",
-        "Census"
+        "Soch Kral"
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": -0.134,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
         "Police Martyrs",
-        "Animal",
         "DC Shopian",
         "Pir Ki Gali",
-        "Preparedness"
+        "Preparedness",
+        "Tourist Facilities"
       ]
     },
     "Srinagar": {
-      "mentions": 17,
-      "sentiment": -0.137,
+      "mentions": 27,
+      "sentiment": -0.116,
       "top_terms": [
         "Tagore Hall",
+        "Lakh",
         "October",
         "Crime Branch",
-        "Organises UT",
-        "Level Conference"
+        "Organises UT"
       ]
     },
     "Doda": {
-      "mentions": 2,
-      "sentiment": -0.218,
+      "mentions": 1,
+      "sentiment": 0.361,
       "top_terms": [
         "KVK Doda",
         "Capacity",
@@ -247,8 +275,8 @@
       ]
     },
     "Jammu": {
-      "mentions": 45,
-      "sentiment": -0.023,
+      "mentions": 43,
+      "sentiment": -0.048,
       "top_terms": [
         "Jammu Kashmir",
         "Kashmir Ladakh High",
@@ -259,18 +287,18 @@
     },
     "Kathua": {
       "mentions": 3,
-      "sentiment": -0.34,
+      "sentiment": -0.423,
       "top_terms": [
-        "Power",
-        "Kaluchack",
         "Drug",
         "NDPS",
-        "Police Detain Suspected Drug"
+        "Police Detain Suspected Drug",
+        "Peddler Kathua",
+        "Blaze"
       ]
     },
     "Kishtwar": {
       "mentions": 2,
-      "sentiment": -0.642,
+      "sentiment": -0.612,
       "top_terms": [
         "Weak",
         "Padam",
@@ -280,45 +308,45 @@
       ]
     },
     "Poonch": {
-      "mentions": 2,
-      "sentiment": -0.23,
+      "mentions": 4,
+      "sentiment": -0.525,
       "top_terms": [
-        "Labourer Killed",
-        "Four Injured",
-        "Landslide During Road Work",
+        "Labourer",
+        "Lethal Landslide",
+        "Poonch Construction Site Kills",
+        "Injures Four",
         "CEO Poonch"
       ]
     },
     "Rajouri": {
-      "mentions": 10,
-      "sentiment": 0.01,
+      "mentions": 11,
+      "sentiment": -0.05,
       "top_terms": [
         "Indian Army",
         "Terror Hideout Busted",
         "Grenades Recovered Forest",
         "Cave",
-        "Nine UBGL Grenades Among"
+        "Terrorist"
       ]
     },
     "Ramban": {
-      "mentions": 1,
-      "sentiment": -0.796,
+      "mentions": 0,
+      "sentiment": null,
       "top_terms": []
     },
     "Reasi": {
-      "mentions": 4,
-      "sentiment": 0.143,
+      "mentions": 3,
+      "sentiment": 0.0,
       "top_terms": [
         "Mother",
         "DDC Reasi",
         "District",
-        "DC Reasi",
-        "Women Farmers"
+        "DC Reasi"
       ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": 0.131,
+      "mentions": 2,
+      "sentiment": 0.561,
       "top_terms": [
         "DC Samba",
         "National Highway",
@@ -326,71 +354,66 @@
       ]
     },
     "Udhampur": {
-      "mentions": 1,
-      "sentiment": 0.178,
-      "top_terms": [
-        "Dr Jitendra Singh Holds",
-        "Public Durbar Basantgarh",
-        "District Udhampur",
-        "Several Issues Resolved",
-        "Spot"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 28
-    },
-    {
-      "domain": "JK MONITOR",
-      "count": 19
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 14
+      "count": 26
     },
     {
       "domain": "Greater Kashmir",
-      "count": 13
+      "count": 24
     },
     {
       "domain": "Daily Excelsior",
-      "count": 11
+      "count": 20
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 15
     },
     {
       "domain": "Jammu Links News",
+      "count": 13
+    },
+    {
+      "domain": "JK MONITOR",
       "count": 11
     },
     {
-      "domain": "Kashmir News Service",
-      "count": 10
+      "domain": "Kashmir Observer",
+      "count": 9
     },
     {
-      "domain": "The Global Kashmir",
-      "count": 7
+      "domain": "The Kashmir Horizon",
+      "count": 9
+    },
+    {
+      "domain": "Kashmir News Service",
+      "count": 9
+    },
+    {
+      "domain": "dailyexcelsior.com",
+      "count": 8
+    },
+    {
+      "domain": "kashmirreader.com",
+      "count": 6
     },
     {
       "domain": "ETV Bharat",
       "count": 5
     },
     {
-      "domain": "Kashmir News Observer",
-      "count": 5
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 5
-    },
-    {
-      "domain": "The Tribune",
-      "count": 5
-    },
-    {
-      "domain": "The Kashmir Horizon",
+      "domain": "The Global Kashmir",
       "count": 5
     },
     {
@@ -402,29 +425,29 @@
       "count": 4
     },
     {
-      "domain": "Brighter Kashmir",
-      "count": 3
-    },
-    {
-      "domain": "JK News Today",
-      "count": 3
-    },
-    {
-      "domain": "thekashmirimages.com",
-      "count": 3
+      "domain": "Kashmir News Observer",
+      "count": 4
     },
     {
       "domain": "News On AIR",
+      "count": 4
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 4
+    },
+    {
+      "domain": "The Tribune",
       "count": 3
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "The Economic Times",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 219,
-    "raw_articles_before_dedup": 361,
+    "articles_fetched": 260,
+    "raw_articles_before_dedup": 389,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
