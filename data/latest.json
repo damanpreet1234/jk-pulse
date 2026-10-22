@@ -1,63 +1,53 @@
 {
-  "generated_at": "2026-10-22T16:33:31.617465+00:00",
+  "generated_at": "2026-10-22T22:56:28.928509+00:00",
   "date": "2026-10-22",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.003,
+    "score": -0.008,
     "label": "mixed / neutral",
-    "positive_pct": 30.4,
-    "neutral_pct": 40.4,
-    "negative_pct": 29.2,
-    "sample_size": 260
+    "positive_pct": 32.0,
+    "neutral_pct": 37.9,
+    "negative_pct": 30.0,
+    "sample_size": 253
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Kashmir Marathon",
       "mentions": 7,
-      "sentiment": 0.06
+      "sentiment": 0.044
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 4,
-      "sentiment": -0.195
+      "sentiment": -0.336
     },
     {
-      "term": "October",
+      "term": "Govt",
       "mentions": 4,
-      "sentiment": -0.08
+      "sentiment": 0.17
     },
     {
-      "term": "Police",
+      "term": "IEDs",
       "mentions": 4,
-      "sentiment": -0.163
+      "sentiment": -0.494
     },
     {
-      "term": "Jammu Kashmir High Court",
+      "term": "India",
       "mentions": 3,
-      "sentiment": -0.019
+      "sentiment": 0.0
+    },
+    {
+      "term": "Handwara",
+      "mentions": 3,
+      "sentiment": -0.39
     },
     {
       "term": "Progress",
       "mentions": 3,
       "sentiment": 0.459
-    },
-    {
-      "term": "Govt",
-      "mentions": 3,
-      "sentiment": 0.03
-    },
-    {
-      "term": "North Kashmir",
-      "mentions": 3,
-      "sentiment": -0.341
-    },
-    {
-      "term": "IEDs",
-      "mentions": 3,
-      "sentiment": -0.476
     },
     {
       "term": "CM Omar",
@@ -67,20 +57,15 @@
     {
       "term": "Div Com Kashmir",
       "mentions": 3,
-      "sentiment": 0.248
+      "sentiment": 0.124
     },
     {
-      "term": "Police Commemoration Day",
+      "term": "District",
       "mentions": 3,
-      "sentiment": 0.0
+      "sentiment": 0.408
     },
     {
       "term": "UK MPs",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "India",
       "mentions": 2,
       "sentiment": 0.0
     },
@@ -90,19 +75,24 @@
       "sentiment": 0.555
     },
     {
+      "term": "Jammu Kashmir High Court",
+      "mentions": 2,
+      "sentiment": -0.379
+    },
+    {
+      "term": "October",
+      "mentions": 2,
+      "sentiment": -0.159
+    },
+    {
       "term": "Jammu Kashmir Bank",
       "mentions": 2,
       "sentiment": 0.404
     },
     {
-      "term": "MBBS",
+      "term": "Women",
       "mentions": 2,
-      "sentiment": -0.025
-    },
-    {
-      "term": "Opinion",
-      "mentions": 2,
-      "sentiment": 0.476
+      "sentiment": -0.359
     },
     {
       "term": "Ablaze",
@@ -110,38 +100,55 @@
       "sentiment": -0.169
     },
     {
-      "term": "CM Omar Abdullah",
+      "term": "Opinion",
       "mentions": 2,
-      "sentiment": 0.43
+      "sentiment": 0.476
+    },
+    {
+      "term": "North Kashmir",
+      "mentions": 2,
+      "sentiment": -0.363
+    },
+    {
+      "term": "Kashmir High Court",
+      "mentions": 2,
+      "sentiment": -0.212
     }
   ],
   "emerging": [
     {
-      "term": "Kashmir Marathon",
-      "mentions_now": 7,
-      "baseline_avg": 1,
-      "zscore": 12.0,
+      "term": "District",
+      "mentions_now": 3,
+      "baseline_avg": 1.08,
+      "zscore": 6.93,
       "reason": "spike"
     },
     {
-      "term": "CM Omar",
+      "term": "Handwara",
       "mentions_now": 3,
       "baseline_avg": 1.12,
       "zscore": 5.67,
       "reason": "spike"
     },
     {
-      "term": "Progress",
+      "term": "Kashmir Marathon",
+      "mentions_now": 7,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
+      "reason": "spike"
+    },
+    {
+      "term": "CM Omar",
       "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
+      "baseline_avg": 1.38,
+      "zscore": 2.33,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 8,
-      "sentiment": 0.05,
+      "mentions": 7,
+      "sentiment": 0.057,
       "top_terms": [
         "CM Omar",
         "Visit Anantnag Today",
@@ -151,8 +158,8 @@
       ]
     },
     "Bandipora": {
-      "mentions": 6,
-      "sentiment": 0.025,
+      "mentions": 4,
+      "sentiment": -0.013,
       "top_terms": [
         "Bandipora Midnight Eviction Leaves",
         "Patients",
@@ -162,19 +169,19 @@
       ]
     },
     "Baramulla": {
-      "mentions": 9,
-      "sentiment": -0.217,
+      "mentions": 10,
+      "sentiment": -0.28,
       "top_terms": [
         "IEDs",
+        "Pistol",
         "Overground Workers Arrested",
         "Arms Seized",
-        "Any Laxity Will",
-        "Viewed Seriously"
+        "OGWs"
       ]
     },
     "Budgam": {
       "mentions": 7,
-      "sentiment": 0.067,
+      "sentiment": 0.175,
       "top_terms": [
         "DC Budgam",
         "Ministry",
@@ -184,14 +191,12 @@
       ]
     },
     "Ganderbal": {
-      "mentions": 3,
-      "sentiment": 0.38,
+      "mentions": 2,
+      "sentiment": 0.211,
       "top_terms": [
         "DC Ganderbal",
         "Road Safety Measures",
-        "NCORD Meeting Calls",
-        "Intensified Action",
-        "Drug Trafficking"
+        "NCORD Meeting"
       ]
     },
     "Kulgam": {
@@ -217,14 +222,14 @@
       ]
     },
     "Pulwama": {
-      "mentions": 6,
-      "sentiment": 0.1,
+      "mentions": 5,
+      "sentiment": -0.014,
       "top_terms": [
         "Official",
         "What",
         "DDC Pulwama",
-        "ICDS",
-        "Social Welfare"
+        "Public Outreach",
+        "Grievance Redressal Camp"
       ]
     },
     "Shopian": {
@@ -239,14 +244,14 @@
       ]
     },
     "Srinagar": {
-      "mentions": 28,
-      "sentiment": 0.059,
+      "mentions": 25,
+      "sentiment": 0.026,
       "top_terms": [
         "Kashmir Marathon",
-        "Doon School Srinagar",
-        "Man Found Dead",
-        "High Court Questions Srinagar",
-        "Person"
+        "Women",
+        "India",
+        "Saras Mela",
+        "Man Found Dead"
       ]
     },
     "Doda": {
@@ -261,14 +266,14 @@
       ]
     },
     "Jammu": {
-      "mentions": 53,
-      "sentiment": 0.07,
+      "mentions": 49,
+      "sentiment": 0.084,
       "top_terms": [
         "Jammu Kashmir",
-        "Jammu Kashmir High Court",
         "Kashmir Bank",
+        "Jammu Kashmir High Court",
         "Jammu Kashmir Bank",
-        "MBBS"
+        "Kashmir High Court"
       ]
     },
     "Kathua": {
@@ -280,8 +285,8 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 3,
-      "sentiment": -0.323,
+      "mentions": 2,
+      "sentiment": -0.485,
       "top_terms": [
         "Violence",
         "Asiya",
@@ -291,25 +296,25 @@
       ]
     },
     "Poonch": {
-      "mentions": 3,
-      "sentiment": 0.115,
+      "mentions": 5,
+      "sentiment": 0.069,
       "top_terms": [
+        "ADDC",
+        "Boys Higher Secondary School",
         "Poonch Police",
         "Police Commemoration Day",
-        "Dussehra",
-        "Ravana",
-        "Kumbhkaran"
+        "Dussehra"
       ]
     },
     "Rajouri": {
-      "mentions": 3,
-      "sentiment": -0.183,
+      "mentions": 5,
+      "sentiment": -0.148,
       "top_terms": [
-        "DC Rajouri",
-        "Janjatiya Gaurav Diwas",
-        "Rajouri Deputy Commissioner",
-        "Block Diwas",
-        "Bhawani"
+        "District",
+        "Level Committee",
+        "HADP Progress",
+        "Rajouri District",
+        "Grenade Found Near Rajouri"
       ]
     },
     "Ramban": {
@@ -324,26 +329,28 @@
       ]
     },
     "Reasi": {
-      "mentions": 2,
-      "sentiment": -0.33,
+      "mentions": 3,
+      "sentiment": -0.567,
       "top_terms": [
-        "Five"
+        "DDC Reasi",
+        "Shadol",
+        "Gulabgarh",
+        "Five",
+        "Reasi Police Arrest Man"
       ]
     },
     "Samba": {
-      "mentions": 6,
-      "sentiment": -0.442,
+      "mentions": 2,
+      "sentiment": -0.648,
       "top_terms": [
-        "Two Men Killed",
-        "Motorcycle Hits Barricade",
         "Five",
-        "Two Killed",
-        "Kite String Entangles Motorcycle"
+        "Two Men Killed",
+        "Motorcycle Hits Barricade"
       ]
     },
     "Udhampur": {
-      "mentions": 11,
-      "sentiment": -0.287,
+      "mentions": 9,
+      "sentiment": -0.267,
       "top_terms": [
         "DC Udhampur",
         "Four Women Injured",
@@ -360,34 +367,30 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 31
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 21
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 19
+      "count": 28
     },
     {
       "domain": "Jammu Links News",
-      "count": 13
+      "count": 24
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 17
+    },
+    {
+      "domain": "Greater Kashmir",
+      "count": 14
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 11
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 11
+      "count": 10
     },
     {
       "domain": "The Kashmir Horizon",
-      "count": 11
+      "count": 10
     },
     {
-      "domain": "thekashmirimages.com",
+      "domain": "Daily Excelsior",
       "count": 8
     },
     {
@@ -395,27 +398,31 @@
       "count": 7
     },
     {
-      "domain": "5 Dariya News",
+      "domain": "Brighter Kashmir",
       "count": 6
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 5
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 5
-    },
-    {
-      "domain": "Roshan Kashmir",
-      "count": 5
+      "domain": "5 Dariya News",
+      "count": 6
     },
     {
       "domain": "ETV Bharat",
       "count": 4
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "NDTV",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 4
+    },
+    {
+      "domain": "Only Kashmir",
       "count": 4
     },
     {
@@ -423,25 +430,25 @@
       "count": 3
     },
     {
-      "domain": "The Hindu",
+      "domain": "thekashmirimages.com",
       "count": 3
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "The Tribune",
       "count": 3
     },
     {
-      "domain": "The Times of India",
+      "domain": "Free Press Kashmir",
       "count": 3
     },
     {
-      "domain": "The Indian Express",
+      "domain": "Bhaskar English",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 260,
-    "raw_articles_before_dedup": 407,
+    "articles_fetched": 253,
+    "raw_articles_before_dedup": 406,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
