@@ -1,85 +1,65 @@
 {
-  "generated_at": "2026-10-23T09:04:26.439573+00:00",
+  "generated_at": "2026-10-23T16:24:05.750257+00:00",
   "date": "2026-10-23",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.04,
+    "score": -0.012,
     "label": "mixed / neutral",
-    "positive_pct": 30.9,
-    "neutral_pct": 37.9,
-    "negative_pct": 31.2,
-    "sample_size": 311
+    "positive_pct": 32.8,
+    "neutral_pct": 36.4,
+    "negative_pct": 30.7,
+    "sample_size": 335
   },
   "india_tone": {
-    "score": -0.183,
-    "label": "negative",
-    "positive_pct": 25.0,
-    "neutral_pct": 12.5,
-    "negative_pct": 62.5,
-    "sample_size": 8
+    "score": -0.062,
+    "label": "mixed / neutral",
+    "positive_pct": 30.0,
+    "neutral_pct": 20.0,
+    "negative_pct": 50.0,
+    "sample_size": 10
   },
   "top_keywords": [
     {
-      "term": "Karachi",
-      "mentions": 6,
-      "sentiment": 0.03
-    },
-    {
-      "term": "October",
+      "term": "India",
       "mentions": 5,
-      "sentiment": 0.0
+      "sentiment": -0.115
     },
     {
       "term": "Saudi Arabia",
       "mentions": 4,
-      "sentiment": 0.048
+      "sentiment": 0.018
     },
     {
-      "term": "Government",
+      "term": "Pakistani",
       "mentions": 4,
-      "sentiment": -0.206
+      "sentiment": -0.283
     },
     {
-      "term": "India",
+      "term": "Dawn",
+      "mentions": 4,
+      "sentiment": -0.139
+    },
+    {
+      "term": "Karak",
+      "mentions": 4,
+      "sentiment": -0.159
+    },
+    {
+      "term": "Gold",
       "mentions": 3,
-      "sentiment": -0.24
+      "sentiment": -0.053
     },
     {
-      "term": "Friday",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Maldives",
-      "mentions": 3,
-      "sentiment": 0.003
-    },
-    {
-      "term": "European",
+      "term": "Istanbul",
       "mentions": 3,
       "sentiment": 0.099
     },
     {
-      "term": "Pakistani",
-      "mentions": 3,
-      "sentiment": -0.057
-    },
-    {
-      "term": "Lahore",
-      "mentions": 3,
-      "sentiment": 0.205
-    },
-    {
       "term": "Iran",
       "mentions": 3,
-      "sentiment": -0.129
-    },
-    {
-      "term": "President",
-      "mentions": 3,
-      "sentiment": 0.059
+      "sentiment": -0.168
     },
     {
       "term": "Govt",
@@ -87,152 +67,195 @@
       "sentiment": 0.097
     },
     {
-      "term": "Mir Raza",
-      "mentions": 3,
-      "sentiment": -0.029
-    },
-    {
       "term": "Mir Raza Case",
       "mentions": 3,
       "sentiment": -0.212
     },
     {
-      "term": "Landslide",
+      "term": "Emergency",
       "mentions": 3,
-      "sentiment": -0.482
+      "sentiment": -0.455
     },
     {
-      "term": "Saudi",
+      "term": "Insight",
       "mentions": 3,
-      "sentiment": 0.254
+      "sentiment": -0.044
     },
     {
-      "term": "Kashmir",
+      "term": "Gohar",
       "mentions": 3,
-      "sentiment": -0.091
+      "sentiment": 0.0
+    },
+    {
+      "term": "Operation Almas",
+      "mentions": 3,
+      "sentiment": -0.579
+    },
+    {
+      "term": "Gilgit",
+      "mentions": 3,
+      "sentiment": 0.181
+    },
+    {
+      "term": "Scheme",
+      "mentions": 3,
+      "sentiment": 0.159
+    },
+    {
+      "term": "Ambassador",
+      "mentions": 3,
+      "sentiment": 0.342
+    },
+    {
+      "term": "Government",
+      "mentions": 3,
+      "sentiment": 0.051
+    },
+    {
+      "term": "Gwadar",
+      "mentions": 2,
+      "sentiment": 0.125
     },
     {
       "term": "January",
       "mentions": 2,
       "sentiment": 0.0
-    },
-    {
-      "term": "Four",
-      "mentions": 2,
-      "sentiment": -0.334
     }
   ],
   "emerging": [
     {
-      "term": "Landslide",
+      "term": "Gold",
+      "mentions_now": 3,
+      "baseline_avg": 1.1,
+      "zscore": 6.33,
+      "reason": "spike"
+    },
+    {
+      "term": "Gohar",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Insight",
+      "mentions_now": 3,
+      "baseline_avg": 1.27,
+      "zscore": 3.88,
+      "reason": "spike"
+    },
+    {
+      "term": "Emergency",
+      "mentions_now": 3,
+      "baseline_avg": 1.3,
+      "zscore": 3.71,
+      "reason": "spike"
+    },
+    {
+      "term": "Operation Almas",
       "mentions_now": 3,
       "baseline_avg": 1.33,
       "zscore": 3.54,
       "reason": "spike"
     },
     {
-      "term": "President",
+      "term": "Istanbul",
+      "mentions_now": 3,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
+      "reason": "spike"
+    },
+    {
+      "term": "Ambassador",
       "mentions_now": 3,
       "baseline_avg": 1.5,
       "zscore": 3.0,
       "reason": "spike"
     },
     {
-      "term": "Lahore",
-      "mentions_now": 3,
-      "baseline_avg": 1.31,
-      "zscore": 2.79,
-      "reason": "spike"
-    },
-    {
       "term": "Mir Raza Case",
       "mentions_now": 3,
-      "baseline_avg": 1.46,
-      "zscore": 2.43,
-      "reason": "spike"
-    },
-    {
-      "term": "Karachi",
-      "mentions_now": 6,
-      "baseline_avg": 2.71,
-      "zscore": 1.97,
+      "baseline_avg": 1.62,
+      "zscore": 1.88,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 32,
-      "sentiment": -0.047,
+      "mentions": 33,
+      "sentiment": 0.063,
       "top_terms": [
         "Lahore High Court",
         "PM Imran",
-        "Cotton",
         "Russian",
-        "PDMA Punjab"
+        "PDMA Punjab",
+        "Cotton"
       ]
     },
     "Sindh": {
-      "mentions": 35,
-      "sentiment": -0.029,
+      "mentions": 27,
+      "sentiment": -0.06,
       "top_terms": [
         "UNIDO",
-        "Cotton",
-        "Sindh Vision Conference",
-        "Ghost School",
-        "Mir Raza Case"
+        "Mir Raza Case",
+        "Condensate Production",
+        "Bitrism East",
+        "Well"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 4,
-      "sentiment": -0.225,
+      "mentions": 6,
+      "sentiment": 0.007,
       "top_terms": [
-        "Govt",
-        "PM Shehbaz",
-        "Case Intervention",
-        "Militancy",
-        "Failed Talks Emergency"
+        "Emergency Urgency",
+        "Hard Truth",
+        "Turning Point",
+        "PTI Under Pressure",
+        "Emergency"
       ]
     },
     "Balochistan": {
-      "mentions": 23,
-      "sentiment": 0.036,
+      "mentions": 30,
+      "sentiment": -0.074,
       "top_terms": [
-        "Balochistan PA",
-        "Sardari",
-        "BSDI Development Projects Completed",
-        "Barkhan",
-        "Magnitude Earthquake Hits Dalbandin"
+        "Operation Almas",
+        "Pakistani",
+        "Pakistan Army",
+        "Balochistan Glass",
+        "Uthal"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": 0.181,
       "top_terms": [
-        "Orchards Online",
-        "Work",
-        "Women",
-        "Pursuit Economic Independence",
-        "Gilgit"
+        "Gilgit",
+        "Baltistan",
+        "Chief Minister",
+        "Baltistan Advocate Amjad Hussain",
+        "Azar"
       ]
     },
     "Azad Kashmir": {
-      "mentions": 1,
-      "sentiment": 0.421,
+      "mentions": 3,
+      "sentiment": 0.281,
       "top_terms": [
-        "Indian Landmines",
-        "Azad Kashmir Safety Awareness",
-        "Seminar"
+        "PCB Launches First Phase",
+        "School Talent Hunt Program",
+        "Aaj Digital",
+        "Darbar Khari Sharif Mirpur",
+        "Azad Kashmir Pe Sufi"
       ]
     },
     "Islamabad": {
-      "mentions": 27,
-      "sentiment": 0.01,
+      "mentions": 21,
+      "sentiment": -0.068,
       "top_terms": [
-        "October",
+        "Manhattan",
         "India",
-        "Delhi",
-        "Proposed",
-        "Dawn"
+        "Kargil",
+        "Saudi",
+        "U.S. Embassy Celebrates Decades"
       ]
     }
   },
@@ -241,67 +264,71 @@
   ],
   "source_breakdown": [
     {
-      "domain": "UrduPoint",
-      "count": 23
+      "domain": "Investify",
+      "count": 21
     },
     {
-      "domain": "Dawn",
-      "count": 20
+      "domain": "UrduPoint",
+      "count": 21
     },
     {
       "domain": "Arab News PK",
-      "count": 17
-    },
-    {
-      "domain": "The Express Tribune",
-      "count": 17
-    },
-    {
-      "domain": "Investify",
-      "count": 15
+      "count": 16
     },
     {
       "domain": "Daily Independent",
+      "count": 16
+    },
+    {
+      "domain": "Dawn",
+      "count": 15
+    },
+    {
+      "domain": "The Express Tribune",
       "count": 15
     },
     {
       "domain": "Business Recorder",
-      "count": 12
-    },
-    {
-      "domain": "Aaj English TV",
       "count": 11
     },
     {
       "domain": "The News Pakistan",
-      "count": 9
-    },
-    {
-      "domain": "Pakistan Observer",
-      "count": 8
-    },
-    {
-      "domain": "Daily Ausaf",
-      "count": 8
-    },
-    {
-      "domain": "Pakistan Connect",
-      "count": 8
+      "count": 11
     },
     {
       "domain": "The Nation (Pakistan )",
-      "count": 7
+      "count": 10
+    },
+    {
+      "domain": "Pakistan Observer",
+      "count": 10
+    },
+    {
+      "domain": "Aaj English TV",
+      "count": 9
+    },
+    {
+      "domain": "Daily Times",
+      "count": 8
     },
     {
       "domain": "Islamabad Post",
-      "count": 7
+      "count": 8
     },
     {
-      "domain": "Aaj News",
-      "count": 7
+      "domain": "Pakistan Today",
+      "count": 8
     },
     {
       "domain": "ProPakistani",
+      "count": 7
+    },
+    {
+      "domain": "Dunya News",
+      "count": 6
+    },
+    {
+      "domain": "Daily Ausaf",
       "count": 6
     },
     {
@@ -309,21 +336,17 @@
       "count": 6
     },
     {
-      "domain": "Daily Times",
+      "domain": "Balochistan Pulse",
       "count": 6
     },
     {
-      "domain": "Balochistan Pulse",
-      "count": 5
-    },
-    {
-      "domain": "TechJuice",
+      "domain": "| Associated Press Of Pakistan",
       "count": 5
     }
   ],
   "run_stats": {
-    "articles_fetched": 311,
-    "raw_articles_before_dedup": 426,
+    "articles_fetched": 335,
+    "raw_articles_before_dedup": 450,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
