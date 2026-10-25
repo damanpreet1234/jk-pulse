@@ -1,48 +1,53 @@
 {
-  "generated_at": "2026-10-25T08:55:12.225032+00:00",
+  "generated_at": "2026-10-25T15:28:58.499881+00:00",
   "date": "2026-10-25",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.02,
+    "score": 0.02,
     "label": "mixed / neutral",
-    "positive_pct": 27.3,
-    "neutral_pct": 39.1,
-    "negative_pct": 33.6,
-    "sample_size": 253
+    "positive_pct": 32.5,
+    "neutral_pct": 38.8,
+    "negative_pct": 28.7,
+    "sample_size": 237
   },
   "india_tone": null,
   "top_keywords": [
     {
-      "term": "Pakistan",
-      "mentions": 10,
-      "sentiment": -0.186
+      "term": "Farooq Abdullah",
+      "mentions": 8,
+      "sentiment": 0.007
     },
     {
-      "term": "Farooq Abdullah",
+      "term": "Police",
+      "mentions": 8,
+      "sentiment": -0.341
+    },
+    {
+      "term": "Pakistan",
       "mentions": 7,
-      "sentiment": -0.15
+      "sentiment": 0.019
     },
     {
       "term": "Kashmir Marathon",
       "mentions": 6,
-      "sentiment": -0.008
-    },
-    {
-      "term": "India",
-      "mentions": 5,
-      "sentiment": 0.006
-    },
-    {
-      "term": "Police",
-      "mentions": 5,
-      "sentiment": -0.347
+      "sentiment": 0.076
     },
     {
       "term": "LG Sinha",
       "mentions": 5,
-      "sentiment": 0.416
+      "sentiment": 0.43
+    },
+    {
+      "term": "Karan Nagar",
+      "mentions": 5,
+      "sentiment": -0.033
+    },
+    {
+      "term": "Ladakh",
+      "mentions": 4,
+      "sentiment": -0.083
     },
     {
       "term": "Opinion",
@@ -50,130 +55,139 @@
       "sentiment": 0.124
     },
     {
+      "term": "Bank",
+      "mentions": 4,
+      "sentiment": 0.381
+    },
+    {
+      "term": "Srinagar Police",
+      "mentions": 4,
+      "sentiment": 0.439
+    },
+    {
+      "term": "India",
+      "mentions": 3,
+      "sentiment": 0.2
+    },
+    {
+      "term": "Women",
+      "mentions": 3,
+      "sentiment": -0.116
+    },
+    {
       "term": "Omar Abdullah",
       "mentions": 3,
       "sentiment": -0.043
     },
     {
-      "term": "WhatsApp",
-      "mentions": 3,
-      "sentiment": 0.035
-    },
-    {
-      "term": "Ladakh",
-      "mentions": 3,
-      "sentiment": -0.216
-    },
-    {
-      "term": "South Kashmir",
-      "mentions": 3,
-      "sentiment": -0.385
-    },
-    {
       "term": "IGP Kashmir",
       "mentions": 3,
-      "sentiment": -0.066
+      "sentiment": 0.173
     },
     {
-      "term": "Marathon",
+      "term": "Ghulam Nabi Azad",
       "mentions": 3,
-      "sentiment": -0.268
+      "sentiment": -0.191
     },
     {
-      "term": "October",
+      "term": "Tuesday",
       "mentions": 3,
-      "sentiment": 0.0
+      "sentiment": 0.106
     },
     {
-      "term": "DC Kathua",
+      "term": "Kashmir International Marathon",
       "mentions": 3,
-      "sentiment": -0.012
-    },
-    {
-      "term": "Srinagar Police",
-      "mentions": 3,
-      "sentiment": 0.528
-    },
-    {
-      "term": "Cabinet",
-      "mentions": 2,
-      "sentiment": -0.064
-    },
-    {
-      "term": "Jammu Kashmir",
-      "mentions": 2,
-      "sentiment": -0.34
+      "sentiment": 0.106
     },
     {
       "term": "Sajjan Singh Yadav",
       "mentions": 2,
-      "sentiment": 0.057
+      "sentiment": 0.083
     },
     {
       "term": "Farooq",
       "mentions": 2,
-      "sentiment": -0.063
+      "sentiment": 0.059
+    },
+    {
+      "term": "Navratri",
+      "mentions": 2,
+      "sentiment": 0.0
     }
   ],
   "emerging": [
     {
-      "term": "Opinion",
-      "mentions_now": 4,
-      "baseline_avg": 1.7,
-      "zscore": 5.02,
+      "term": "Karan Nagar",
+      "mentions_now": 5,
+      "baseline_avg": 1.33,
+      "zscore": 7.78,
       "reason": "spike"
     },
     {
-      "term": "IGP Kashmir",
+      "term": "Police",
+      "mentions_now": 8,
+      "baseline_avg": 2.79,
+      "zscore": 3.43,
+      "reason": "spike"
+    },
+    {
+      "term": "Women",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.56,
+      "zscore": 2.91,
       "reason": "spike"
     },
     {
       "term": "Farooq Abdullah",
-      "mentions_now": 7,
-      "baseline_avg": 2.33,
-      "zscore": 3.3,
+      "mentions_now": 8,
+      "baseline_avg": 2.8,
+      "zscore": 2.68,
       "reason": "spike"
     },
     {
-      "term": "WhatsApp",
-      "mentions_now": 3,
-      "baseline_avg": 1.43,
-      "zscore": 3.18,
+      "term": "Bank",
+      "mentions_now": 4,
+      "baseline_avg": 2,
+      "zscore": 2.58,
       "reason": "spike"
     },
     {
       "term": "LG Sinha",
       "mentions_now": 5,
-      "baseline_avg": 1.85,
-      "zscore": 3.07,
+      "baseline_avg": 1.92,
+      "zscore": 2.55,
       "reason": "spike"
     },
     {
-      "term": "Pakistan",
-      "mentions_now": 10,
-      "baseline_avg": 3.6,
-      "zscore": 2.69,
+      "term": "Opinion",
+      "mentions_now": 4,
+      "baseline_avg": 1.9,
+      "zscore": 2.53,
+      "reason": "spike"
+    },
+    {
+      "term": "Ladakh",
+      "mentions_now": 4,
+      "baseline_avg": 1.92,
+      "zscore": 2.01,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": -0.267,
+      "mentions": 6,
+      "sentiment": -0.21,
       "top_terms": [
         "Police",
         "Year",
-        "Old Man Dies",
-        "Falling Bike",
-        "Six Drug Peddlers Arrested"
+        "Bear Mauls",
+        "Old Youth",
+        "Old Man Dies"
       ]
     },
     "Bandipora": {
-      "mentions": 7,
-      "sentiment": -0.169,
+      "mentions": 10,
+      "sentiment": -0.209,
       "top_terms": [
         "Police",
         "Port",
@@ -183,43 +197,46 @@
       ]
     },
     "Baramulla": {
-      "mentions": 4,
-      "sentiment": -0.312,
+      "mentions": 6,
+      "sentiment": -0.36,
       "top_terms": [
-        "Scooter",
-        "Sheeri",
-        "Have Courage Fight",
-        "Perish",
-        "Dr Farooq Tells Workers"
+        "Police Arrest Driver",
+        "Seize Vehicle Within Three",
+        "Hours",
+        "Fatal Accident",
+        "Yasin Malik"
       ]
     },
     "Budgam": {
-      "mentions": 4,
-      "sentiment": -0.19,
+      "mentions": 3,
+      "sentiment": -0.211,
       "top_terms": [
-        "DAO Budgam Krishi Udyami",
-        "Recruitment",
-        "Apply Offline",
         "SKUAST",
-        "Accused Posing"
+        "Accused Posing",
+        "Amazon Investor",
+        "Budgam Man Chargesheeted",
+        "Alleged Rs"
       ]
     },
     "Ganderbal": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.421,
+      "top_terms": [
+        "JKAP Commandant Felicitates Awardee",
+        "Personnel"
+      ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": -0.325,
+      "mentions": 1,
+      "sentiment": -0.296,
       "top_terms": [
-        "Police",
-        "Six Drug Peddlers Arrested"
+        "Six Drug Peddlers Arrested",
+        "Police"
       ]
     },
     "Kupwara": {
-      "mentions": 2,
-      "sentiment": 0.312,
+      "mentions": 3,
+      "sentiment": 0.208,
       "top_terms": [
         "Wings Plus",
         "Opinion",
@@ -229,79 +246,67 @@
       ]
     },
     "Pulwama": {
-      "mentions": 5,
-      "sentiment": -0.096,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
-        "Video",
-        "RSS Kashmir",
-        "First Public Office Opens",
-        "Barsoo",
-        "Police Register FIR Against"
+        "CHO Pulwama",
+        "Machinery Mela",
+        "October"
       ]
     },
     "Shopian": {
-      "mentions": 4,
-      "sentiment": -0.074,
+      "mentions": 5,
+      "sentiment": 0.021,
       "top_terms": [
         "DC Shopian",
         "Key Developmental Sectors",
-        "Media Persons",
+        "Police Martyrs",
         "Contraband Seized During Residential",
         "Raid Shopian"
       ]
     },
     "Srinagar": {
-      "mentions": 31,
-      "sentiment": 0.017,
+      "mentions": 26,
+      "sentiment": 0.089,
       "top_terms": [
-        "Kashmir Marathon",
         "Srinagar Police",
         "Karan Nagar",
+        "Kashmir Marathon",
         "RPO Srinagar",
         "Deploy Mobile Passport Van"
       ]
     },
     "Doda": {
-      "mentions": 3,
-      "sentiment": 0.147,
-      "top_terms": [
-        "GDC Doda Holds Lecture",
-        "Goal Setting",
-        "Career Planning",
-        "Sufi Volleyball Club Dhadhki",
-        "Doda District Volleyball Championship"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Jammu": {
-      "mentions": 40,
-      "sentiment": -0.048,
+      "mentions": 33,
+      "sentiment": 0.046,
       "top_terms": [
         "India",
-        "Pakistan",
-        "Omar Abdullah",
-        "Cabinet",
-        "Jammu Kashmir"
+        "Suspicious",
+        "IGP Jammu",
+        "Searches",
+        "Tuesday"
       ]
     },
     "Kathua": {
-      "mentions": 5,
-      "sentiment": 0.047,
+      "mentions": 3,
+      "sentiment": 0.14,
       "top_terms": [
         "DC Kathua",
-        "Lal Singh",
-        "Lolabi Attend Launch",
-        "Congress Grassroots Outreach",
-        "Reform Utsav"
+        "Reform Utsav",
+        "Gram Sabhas",
+        "Panchayats",
+        "EDAR"
       ]
     },
     "Kishtwar": {
-      "mentions": 3,
-      "sentiment": 0.134,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "DC Kishtwar",
-        "Janjatiya Gaurav Diwas",
-        "Children",
-        "Special Needs",
         "SHD Kishtwar"
       ]
     },
@@ -317,12 +322,9 @@
       ]
     },
     "Rajouri": {
-      "mentions": 2,
-      "sentiment": 0.043,
+      "mentions": 1,
+      "sentiment": -0.44,
       "top_terms": [
-        "DC Rajouri",
-        "RDD Sector",
-        "Directs",
         "ARTO Rajouri"
       ]
     },
@@ -335,7 +337,7 @@
     },
     "Reasi": {
       "mentions": 3,
-      "sentiment": -0.563,
+      "sentiment": -0.548,
       "top_terms": [
         "Passengers Injured",
         "Reasi Road Accident",
@@ -343,14 +345,10 @@
       ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": -0.216,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
-        "Searches",
-        "Man Found Dead",
-        "Pigeon Plastic Ring",
-        "Found Near Pakistan Border",
-        "Authorities Begin Investigation"
+        "Searches"
       ]
     },
     "Udhampur": {
@@ -364,72 +362,67 @@
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 28
-    },
-    {
       "domain": "The Kashmir Horizon",
-      "count": 25
+      "count": 21
     },
     {
-      "domain": "Greater Kashmir",
-      "count": 22
+      "domain": "Kashmir Life",
+      "count": 18
     },
     {
       "domain": "Daily Excelsior",
-      "count": 20
+      "count": 16
     },
     {
-      "domain": "Jammu Links News",
+      "domain": "Greater Kashmir",
       "count": 15
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 10
+      "domain": "Jammu Links News",
+      "count": 12
     },
     {
       "domain": "Kashmir News Observer",
       "count": 9
     },
     {
+      "domain": "Brighter Kashmir",
+      "count": 9
+    },
+    {
       "domain": "Kashmir News Service",
-      "count": 7
+      "count": 8
     },
     {
       "domain": "Kashmir Observer",
-      "count": 6
+      "count": 7
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 7
+    },
+    {
+      "domain": "Rising Kashmir",
+      "count": 7
     },
     {
       "domain": "thekashmirimages.com",
       "count": 6
     },
     {
-      "domain": "Brighter Kashmir",
+      "domain": "JK MONITOR",
       "count": 6
-    },
-    {
-      "domain": "News On AIR",
-      "count": 5
-    },
-    {
-      "domain": "The News Mill",
-      "count": 4
     },
     {
       "domain": "The Times of India",
       "count": 4
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 4
-    },
-    {
-      "domain": "Kashmir Age",
+      "domain": "ANI News",
       "count": 4
     },
     {
@@ -437,7 +430,11 @@
       "count": 4
     },
     {
-      "domain": "ANI News",
+      "domain": "5 Dariya News",
+      "count": 4
+    },
+    {
+      "domain": "News On AIR",
       "count": 3
     },
     {
@@ -445,13 +442,13 @@
       "count": 3
     },
     {
-      "domain": "India Today",
+      "domain": "Livemint",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 253,
-    "raw_articles_before_dedup": 409,
+    "articles_fetched": 237,
+    "raw_articles_before_dedup": 362,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
