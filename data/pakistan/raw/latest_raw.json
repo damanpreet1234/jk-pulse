@@ -5,39 +5,61 @@
     "domain": "Cricinfo",
     "seendate": "Sun, 25 Oct 2026 13:18:08 GMT",
     "source": "google_news",
-    "sentiment": -0.3612,
+    "sentiment": -0.181,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
       "Nepal Premier League"
     ],
     "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
+    "source_count": 2,
+    "also_reported_by": [
+      "Yahoo Sports"
+    ]
   },
   {
-    "title": "Pakistan reopens Iran border crossing after week-long suspension— businessmen, customs agent",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDhaTEdTOFd0azllTFBuaGNzMll4RHhmM2pqeE5TcTljVlBXQm41UmF5cHlZeU9xX00xUkFGSEppM0Jnb0ZaR3RTeHNSbzVMbk1qaktoMmtXcm15T2dGSXlUTkJ1dmN1ZExJbTFhNFJwc3ByWjdFdE5NU1JvdU5PVW1qbWhKbk1HUVF0MVN2ZXU4a0VqT3ptcTg3TnAxTHI2RnZrWFY3RUdmd3pDU25lYlU3R0tfVWJxNXRDRDltTF9YekZwWkpkc2Ridw?oc=5",
+    "title": "Pakistan achieves second place at military drone competition in Ankara",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT2JCZFFyRndqSHllRUxUa19USmdmX1pFMENiVDRKZkJRM3J2WjZrcE9yWXRHOGtpMGZPVFlSLVI1WUZsSjRoSEdWTmNEblFjVHpRYjVpNnVfQUtENmlIdmF0RlZaSlowWGJ2TmlYYThMLUNWTXJVVzF1UkRTT3Rvd3dWMnZHbjUyM0RiWDFnTTkxcVNRTnpMSVdab1hpcU1XdTktZXp4X2o4czRQWGdYTQ?oc=5",
     "domain": "Arab News PK",
-    "seendate": "Sun, 25 Oct 2026 12:34:25 GMT",
+    "seendate": "Sun, 25 Oct 2026 18:35:24 GMT",
     "source": "google_news",
-    "sentiment": 0.123,
+    "sentiment": 0.159,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Iran"
+      "Ankara"
     ],
     "india_related": false,
-    "source_count": 16,
+    "source_count": 2,
     "also_reported_by": [
+      "The Nation (Pakistan )"
+    ]
+  },
+  {
+    "title": "Pakistan vs England: Shadab Khan condemns Harry Brook's side to another improbable loss",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yXzM0ang3dVBlTC1Mb0hJZlVnZUdxV05vOGkyOXhNRUdxcndYY1p1QjFFcGF5OWNCeF8yTWZFZ2hYc2Vxekc2T3BtZGpyaE5oUV9IVV9ibFhXUGlHWGFwZ1JCX0I5aE0?oc=5",
+    "domain": "BBC",
+    "seendate": "Sun, 25 Oct 2026 16:17:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.15,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "England",
+      "Shadab Khan",
+      "Harry Brook"
+    ],
+    "india_related": false,
+    "source_count": 24,
+    "also_reported_by": [
+      "Bozeman Daily Chronicle",
       "Business Recorder",
+      "Cricbuzz",
       "Dawn",
-      "Investify",
-      "Islamabad Post",
-      "Mashriq TV",
-      "Mehr News Agency",
-      "Pakistan Connect",
-      "Pars Today"
+      "India Today",
+      "New Age BD",
+      "RFI",
+      "Sky Sports"
     ]
   },
   {
@@ -61,103 +83,39 @@
     ]
   },
   {
-    "title": "Pakistan eye third successive win as they take on England in Lahore ODI",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUJJTFRIUjdqZ3FFaUx5WDFiWU5tSEx3Umkxb0JQUi1yTmpJdEhodDNvRC1zUnpwMFQ0YXdta3FMeHJhMTBjdEVxT3l3MGFaTy1ia2I4Y0ROQTA0bndFZ0lfWThWLTVITU8tdFpLR201UlVyYVdZRUtZeW5lMGtlenY2aE5lTWFGaDZyOVRyejJMQjU2aDBXeVF3M3piczAyd1J1TVJLdDBLajNHaEhCR2ZMcV9lVjZiUXRUdA?oc=5",
-    "domain": "Pakistan Cricket Board (PCB)",
-    "seendate": "Sun, 25 Oct 2026 07:55:19 GMT",
-    "source": "google_news",
-    "sentiment": -0.064,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "England",
-      "Lahore ODI"
-    ],
-    "india_related": false,
-    "source_count": 16,
-    "also_reported_by": [
-      "Business Recorder",
-      "Dawn",
-      "RFI",
-      "Sky Sports",
-      "The Express Tribune",
-      "UA.NEWS",
-      "Yahoo Sports"
-    ]
-  },
-  {
-    "title": "Why are Pakistan wearing a pink jersey today?",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IVGI1VlpicWxMQVNiMkVDdjh5SGpmb1V6VVNqakpOakdGSkhDbHBRTEtaOUxrUGQ4VjF1VV91bEFVWjZBQVN3aQ?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 09:59:05 GMT",
+    "title": "Pakistan vs England ODI highlights: Shadab Khan's unbeaten 113 seals dramatic one-wicket victory",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNjkyTjV2bnpGU0FweTU5UEE1R0Uyc3hMNy0yWC1DQWpKS2tKa24wNmliOHhQMk9OTHAzUkx4S2xGc0VUZVVpZEFmUHNhSGR4aFpkRnBwOTlNV3FhV0VWdmdFRGVVck9qR25rMFc2TkQzX2U3cDk3Vk1XX2gwNFdnbDV5dWQzUHFqbXRwWmEyekxpY1NwMV9KLW9LODZXUHQ5SU1VY0dnVkhwOEhFckEwb3FRczNXNWRpTGJWVThmLVNWbHB4RzFKOEtDX2tKYUdSa1gzNjZrampRZw?oc=5",
+    "domain": "Sky Sports",
+    "seendate": "Sun, 25 Oct 2026 16:27:25 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
-    "keywords": [],
+    "keywords": [
+      "England ODI",
+      "Shadab Khan"
+    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Pakistan seeks early signing of GCC free trade agreement, Qatari investment",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVWRBWmYteHpMV0NQQ1BBdTc1cEU0dlhwdlhmV3pUdjlXRzk2MXNzYkktWVQ1aXhjREc5S09xblQ5NnZTazlYY0lhaEdFbENzNXoxZloxSHFBUWw5Z1hIOGU4cmViZGVoU1FyTUhiTTFTNzdoejFDSzF1RjBQS1UxeS1BbzNnZWwwOHNNSTlnWklZX3E0REx0RUxmclU0WFl5RXBaNmpFYzRTc29ORlpvckRjblB5OUZt?oc=5",
-    "domain": "Investify",
-    "seendate": "Sun, 25 Oct 2026 14:16:50 GMT",
+    "title": "Pakistan invites Qatari investments in agriculture, EV, IT and maritime sectors",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPX3h5UXZmcGxZdlpvdFItNjZuTWlKR21GeEhjZUhkYmNnaW82Y0tiQ1V6bHR3Y1dnQlpOdkxxZHRBc01BeWJnek5WLWowOGdhR2hWSHR2TW9sNzl0ZUl3SlM4WEY2WWpUVXpCdXFqN0VveldBeXp3Ul94VnhjMGl2TE9abkdsdmxKdnhxMVAyaTUzU3VqSVdONkpBV1B6WDd5c1BmT09XTnJkMzlDS3puZm1TR2hrNENNYXc?oc=5",
+    "domain": "Arab News PK",
+    "seendate": "Sun, 25 Oct 2026 15:29:13 GMT",
     "source": "google_news",
-    "sentiment": 0.589,
+    "sentiment": 0.533,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
       "Qatari"
     ],
     "india_related": false,
-    "source_count": 4,
+    "source_count": 3,
     "also_reported_by": [
-      "Arab News PK",
-      "Business Recorder"
-    ]
-  },
-  {
-    "title": "Pakistan drops Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWWNXclQzY1dRRENTNVUtN1c1ZVF6M1FYMzJNalZReEM1MVBhWlpMNFVpTGp1WmRzUVZlRDVpWnRJbWd0bEZpN1NHdW53aU1oZHpPOGY0ZUJrVGp2UVNrS1F4NmJydkRBVHBYOVBTbWlPSXJCQW5vQTJpTW5JbGpsYUMwTEc5OXQxSXc2QVViYTNId2sxOEp5TG9WX3lLdmR1QkV5bXE5UFRkc1Mtb2xhdjZZMXo1NkHSAbwBQVVfeXFMT1VDNndQdVprOTRXdEo5Um1LRXowa2NseFJjYXdlRmdxeHZXTWtTbEpncDRGeDR1V3lDOEd1V2pyRGJsNmpLR2hzTURNQV9QU0xBTnRvZmE5NHozVW4wODFFa3lZUFIxY2twLVdCTWo3Zmw5NUxfZ1VFNlpHRExSRmZVMk9oOFNKT3gza2ItZHc1SkFEYlRfZzNUWnpKNnJtM1lvS3VfcjVURkRrbFFBZEJfNWduXzRuWGdtLVY?oc=5",
-    "domain": "Al Jazeera",
-    "seendate": "Sun, 25 Oct 2026 10:38:01 GMT",
-    "source": "google_news",
-    "sentiment": -0.211,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Shan Masood",
-      "Sri Lanka Test",
-      "Agha",
-      "Rizwan"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Daily Sun"
-    ]
-  },
-  {
-    "title": "Playing XI - PAK vs ENG 4th Match | Pakistan ODI Tri-Series Squad",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0ozWnpROV9IRVZvbzBvY2tpY2FpSFNaVUhuTzl4RzY1Z1V5MWpjMjk1UnI3LTJGRGNtdVM4V3AxQklrcWRmLTZ6S1p2enpjaWh5TlBjQUlHUWZOQktZQTZlbDFIX1M5QkJza2d1T2Nma0Y0eVlRNFM4OGgwTWV3Ump2STI0bVd0Q2Fsb2lVSjBTME5tQ3Y1WFBrc0ozcTdvMVVZSHlnelV0aHM2dlZuXzZXcTEydGZicjYxOHhHTzBWVXFx?oc=5",
-    "domain": "Cricinfo",
-    "seendate": "Sun, 25 Oct 2026 07:46:39 GMT",
-    "source": "google_news",
-    "sentiment": 0.101,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Playing XI",
-      "Match",
-      "Pakistan ODI Tri",
-      "Series Squad"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "ESPN India"
+      "Business Recorder",
+      "Investify"
     ]
   },
   {
@@ -177,41 +135,43 @@
     "also_reported_by": []
   },
   {
+    "title": "Playing XI - PAK vs ENG 4th Match | Pakistan ODI Tri-Series Squad",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb0ozWnpROV9IRVZvbzBvY2tpY2FpSFNaVUhuTzl4RzY1Z1V5MWpjMjk1UnI3LTJGRGNtdVM4V3AxQklrcWRmLTZ6S1p2enpjaWh5TlBjQUlHUWZOQktZQTZlbDFIX1M5QkJza2d1T2Nma0Y0eVlRNFM4OGgwTWV3Ump2STI0bVd0Q2Fsb2lVSjBTME5tQ3Y1WFBrc0ozcTdvMVVZSHlnelV0aHM2dlZuXzZXcTEydGZicjYxOHhHTzBWVXFx?oc=5",
+    "domain": "Cricinfo",
+    "seendate": "Sun, 25 Oct 2026 07:46:39 GMT",
+    "source": "google_news",
+    "sentiment": 0.2023,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Playing XI",
+      "Match",
+      "Pakistan ODI Tri",
+      "Series Squad"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Pakistan vows to distribute 500,000 Chromebooks to students on merit within two years",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS2xnN0FZbUtPN1FwVWhydlMtTUlmSVNmMmdfMVBtV1labGo4TWUzZ0x4cGxlVEZZaWo5WHh4RExtVVRYbjY0dU56ZXFtVk8taENaVkNhSGxPZERpSTF2dnRCS0R1ak5mQlkzQkFfdGx5Q3p2cGdCSHRPUWQzSjZfbl9tbTZjSEtqX0hLVGJhc0VuVkFhRWc5cEF0dnlnM2ZpeEVtYjFvbnl4dEpKZFpkajF0MHlHX0dUTEZqU19fQ0lCTlk?oc=5",
     "domain": "Arab News PK",
     "seendate": "Sun, 25 Oct 2026 14:48:39 GMT",
     "source": "google_news",
-    "sentiment": 0.105,
+    "sentiment": 0.125,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
       "Chromebooks"
     ],
     "india_related": false,
-    "source_count": 4,
+    "source_count": 5,
     "also_reported_by": [
+      "Aaj English TV",
       "Gulf News",
       "Islamabad Post",
       "The Express Tribune"
-    ]
-  },
-  {
-    "title": "Pakistan Railways hits panic button after repeated accidents",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZjVILXYxeDgxMXNYZXVhSWQ3YTVJWXVtX243cWNQd3hfeFRuME9FX2xzRmlUaEZjMlM1b0dTR1B4U3AzSkxmMw?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:19:37 GMT",
-    "source": "google_news",
-    "sentiment": -0.531,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Pakistan Railways"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "The Nation (Pakistan )"
     ]
   },
   {
@@ -233,6 +193,31 @@
     "also_reported_by": []
   },
   {
+    "title": "Pakistan reopens Iran border crossing after week-long suspension— businessmen, customs agent",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWDhaTEdTOFd0azllTFBuaGNzMll4RHhmM2pqeE5TcTljVlBXQm41UmF5cHlZeU9xX00xUkFGSEppM0Jnb0ZaR3RTeHNSbzVMbk1qaktoMmtXcm15T2dGSXlUTkJ1dmN1ZExJbTFhNFJwc3ByWjdFdE5NU1JvdU5PVW1qbWhKbk1HUVF0MVN2ZXU4a0VqT3ptcTg3TnAxTHI2RnZrWFY3RUdmd3pDU25lYlU3R0tfVWJxNXRDRDltTF9YekZwWkpkc2Ridw?oc=5",
+    "domain": "Arab News PK",
+    "seendate": "Sun, 25 Oct 2026 12:34:25 GMT",
+    "source": "google_news",
+    "sentiment": 0.039,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Iran"
+    ],
+    "india_related": false,
+    "source_count": 14,
+    "also_reported_by": [
+      "Business Recorder",
+      "Dawn",
+      "Investify",
+      "Islamabad Post",
+      "Mehr News Agency",
+      "Pars Today",
+      "The Hindu",
+      "The New Indian Express"
+    ]
+  },
+  {
     "title": "Pakistan busts child pornography ring, arrests suspected mastermind — official",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWm96ZmZWYmtjM1RLZ2JwbTljalZvR2gxcTdFVzRSNlhabDhpdk41YmlIb2FqTFJuU0I4eGx2NWxITnk4RmVJZnVRQkp4VUs2OWh1QUR2eUViUzFQRmU0NnNOdHFRdWNESTlWekIxUW1iX2pwdFN6clpVZ3lzVTNORmw1RHhyT3NnRF9XTXpRWElQNTNZMjVFS2llS3lLSm5KcTRfRi13Z05fUHlndUVtQTdnbVZFaTA?oc=5",
     "domain": "Arab News PK",
@@ -242,6 +227,160 @@
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Afridi four-for hobbles England despite Duckett hundred",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNERwQzJTZ2pVdUtPMi01eU40UEttLTdlZ2c5Wm9kbDVjbTBkQ003WHNqTkE3QWxYQ2IxM05pdmJHSTJzcWl5c3I4WWROY0UzNkR3S2dyMXZhN1RSZnNjY2U5aUxmbWx1U0JqSnpOY1ZtODVqd09IQjByWHpOUjEwc3RTRlpuR2hhbjlWRWpCWnFnYnp5am0zUURkblozbE52YzlRb1ZNbHd6c2M2aHFqQ2UzbGlNZGV4cWxseWg0Zw?oc=5",
+    "domain": "Cricinfo",
+    "seendate": "Sun, 25 Oct 2026 12:02:06 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Afridi",
+      "England",
+      "Duckett"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan eye third successive win as they take on England in Lahore ODI",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRUJJTFRIUjdqZ3FFaUx5WDFiWU5tSEx3Umkxb0JQUi1yTmpJdEhodDNvRC1zUnpwMFQ0YXdta3FMeHJhMTBjdEVxT3l3MGFaTy1ia2I4Y0ROQTA0bndFZ0lfWThWLTVITU8tdFpLR201UlVyYVdZRUtZeW5lMGtlenY2aE5lTWFGaDZyOVRyejJMQjU2aDBXeVF3M3piczAyd1J1TVJLdDBLajNHaEhCR2ZMcV9lVjZiUXRUdA?oc=5",
+    "domain": "Pakistan Cricket Board (PCB)",
+    "seendate": "Sun, 25 Oct 2026 07:55:19 GMT",
+    "source": "google_news",
+    "sentiment": 0.7096,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "England",
+      "Lahore ODI"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Why are Pakistan wearing a pink jersey today?",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1IVGI1VlpicWxMQVNiMkVDdjh5SGpmb1V6VVNqakpOakdGSkhDbHBRTEtaOUxrUGQ4VjF1VV91bEFVWjZBQVN3aQ?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 09:59:05 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan Railways hits panic button after repeated accidents",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KZjVILXYxeDgxMXNYZXVhSWQ3YTVJWXVtX243cWNQd3hfeFRuME9FX2xzRmlUaEZjMlM1b0dTR1B4U3AzSkxmMw?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:19:37 GMT",
+    "source": "google_news",
+    "sentiment": -0.531,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Pakistan Railways"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "The Nation (Pakistan )"
+    ]
+  },
+  {
+    "title": "Pakistan targets $5.5bn IT exports, $44bn remittances in FY27: Aurangzeb",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWXNlQ1VGS2hpQ2s0dkJWd3laeE9pMURjMFItdWtDLVoyMlBSMm8wT2wzSzEyUkNkZU1EV2lKTTRJNGt0b3VvTlY4SWNoaWE5MnQzUUtTME84ZGVZVm1VOGV1cGhDS25ocDVEWHRiYTlyMWVjYkItblozZ1JVRWVVWUhvTVVWZExnRG5ZRWtvbVdXTThGRjVHVUhEQzI3bHQ3eUpUOFBSNmZ6NnpnVUVxaw?oc=5",
+    "domain": "Investify",
+    "seendate": "Sun, 25 Oct 2026 14:37:43 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Aurangzeb"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "China, Pakistan call for dialogue for sustainable peace in region",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3ZEa2hSaG9WRHk2RnZOUHhrc2dGdDUxN0haMnp6YVBIMFdQZ29kc0RxYmdPazk0NGdudjJOWkhhNTFvV1dFTFVQd2pxZ1JIVzhDNEk5amdwZlRwSWEyM1ItN3JDSjQ5RE5SRU1uTnFiZ2NZQ18zdkViSmltLUZUZkpLMnF1V0tncjFCcmJxbm9kQThqVmw2bjVuZ0NDX0g4MU9sNTBPUmY?oc=5",
+    "domain": "Arab News PK",
+    "seendate": "Sun, 25 Oct 2026 06:33:06 GMT",
+    "source": "google_news",
+    "sentiment": 0.402,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "China"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Islamabad Post"
+    ]
+  },
+  {
+    "title": "Pakistan vs England: Haris Rauf hits winning four to seal dramatic one-wicket ODI victory",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0E5QzFaSkhMd1hiUWk5cWxHdFd0YlFjZXoxZ18xRUc0TlRrbjVfc0NucURqMGRiS2xJc2JpaDVQZmc4Sm1yTG1ESUFRQzNMMm5SeENOVk5CSGJEVlZseXRCOGM1VnNZZmZwRTdXVG5RcG1YZGFocjYzOWdzWkNOaVdJaVRmVzdQTW5tenZRUnZnWWQ2TER6ZUpHVzJCM2FmbmE0VmhiZk11Rjl4ektVNmwwbXdYY3RwXzFyTS1DN09fVFdKdlMzamdsdG1DS01nSVE?oc=5",
+    "domain": "Sky Sports",
+    "seendate": "Sun, 25 Oct 2026 16:22:57 GMT",
+    "source": "google_news",
+    "sentiment": 0.5267,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "England",
+      "Haris Rauf"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Five things to know about Imtiaz Ahmed, Lotte Chemical Pakistan’s chairman",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5zeVBqQ0pIemxWZ3ZZVmNGbDRsZmdiUFVLS2dZSE9ObktSd2EzZ2NUS0dGclFXQVdYMk5vTE04VUVuZU43XzlzbVR4LVM1SDlO0gFWQVVfeXFMT213QURvOTYtblRjdXV2UllScjBsZnM5eURhemVhOEtwZmo5bXVELXZFQ0dON2hGMm9rQkdBSzN6ZGVwRkxVZ2pvTC1hNVR1YkRSY2lNMWc?oc=5",
+    "domain": "Business Recorder",
+    "seendate": "Sun, 25 Oct 2026 13:26:56 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Five",
+      "Imtiaz Ahmed",
+      "Lotte Chemical Pakistan"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Investify"
+    ]
+  },
+  {
+    "title": "Pakistan receives 4,000-tonne LPG shipment from Bahrain amid supply shortages",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYXdnTmVGTjZFY0ZCTlplYS1WXzRiXzVGMi0tSVVJWGZoVGdKdTRUbXFSYzhab0J6TllROVdNaWVzcFBheGJ3T2ZCem1OM3ZreXZ2UkhrT01abU1zZTJ4QU85a05ISXgtaDhudUR3c2FMamZKSmllTnBlTGVjZDlneU03QnBZVzc4SW51Z1Rqa29oNjctRUw3czFoV1FpYkEwQTBxZDQ1Y2N5YVhFTWVXakQtenZ1LWZ5SDB4aQ?oc=5",
+    "domain": "Investify",
+    "seendate": "Sun, 25 Oct 2026 13:58:10 GMT",
+    "source": "google_news",
+    "sentiment": -0.1531,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Bahrain"
+    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
@@ -264,33 +403,55 @@
     "also_reported_by": []
   },
   {
-    "title": "Five things to know about Imtiaz Ahmed, Lotte Chemical Pakistan’s chairman",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeGUxOEozcm5jY3lGLXNvVzF6NWVvcE9KWnRwQlVzd3hJM01DYmdlekxNdFpld1BJMWl0LW5GaDVkNWM5QUxrUHBzODRLMzZPMHBfV0ZjdU5VcXhFZl9JUV84cV80MUx6LVNSLUNqWTd3YVlicmp2TTBEZFdTd1plYUswMkd3c2x1VXJnQ3NCSkpIWklWNUhoYkgwdFk3dXVqSXhDRGJfa0lBaWhDS3hkai1nOW5jQ28?oc=5",
-    "domain": "Investify",
-    "seendate": "Sun, 25 Oct 2026 13:26:56 GMT",
+    "title": "PAK vs ENG Powerplay: Pakistan Struggles at 52/3",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSGZnNWh3ZjRYT1NBT1h6WW9XckgxbWlYbXpBSFZTMzJDMFZ6dVJFM09DZ25lalBaLWF1dGtwTlI3R1JqdFpyaHJUY3k5bTdVX2pray0wS3pMVUY3M2lwOVQxX0hZbW9zTHJiWXRWOEo4R3RfXzlONWNzSVZNbHppNVg4UURtQm40UzZN?oc=5",
+    "domain": "Tapmad",
+    "seendate": "Sun, 25 Oct 2026 15:26:30 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": -0.3612,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Five",
-      "Imtiaz Ahmed",
-      "Lotte Chemical Pakistan"
+      "ENG Powerplay",
+      "Pakistan Struggles"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Pakistan for equitable civil nuclear cooperation",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbVlZUGNHSnc5Z3pLdnU2VFhLVjF5Q1JpdVV4RUR0b1dhYWdfLUNRdmtkV2dNX0JCVGZmY0tyT3hCNjNSazI2cjFxOG8yMHRnaE5mUWJXZFVDQkd0UzVUMjNZOHpmQmNzZ3pIR1dJWm91MTlydnBGV202MVl6ZmxYNDF2OUpOSUtZbk9Fdlln0gGWAUFVX3lxTE1temxxOWdlc3QybFRYdUpsd2lMcmdESVRvMlI3LXJVVlctZUJ2NVNwd2NuNHZLYzBOdnpqYlRoVEJvT3d3dUM3ZFJZUWF2UzAtaW9SUFNYQUV6U1ktdnljQThOTndEX1JidlY4b1F4ZmU0czltbUhaUjdDQlNJTThuSVhGeVR2VVotRzVkeXhEUGZwMmhMQQ?oc=5",
-    "domain": "The Express Tribune",
-    "seendate": "Sun, 25 Oct 2026 10:00:24 GMT",
+    "title": "Attock Cement Pakistan Limited Estimates – PSX:ACPL",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAwMGhVVlB3Zk9hX3J4SGh1Z1kxNDVMTTlCdjdfU2V2M3VsV1BOZ3BTblE4YzZsaUlVZkx2QWVUOS04aUk1Z3l4ZUJPUGFMVUwydWtWZmQ2c2RMVXdPU3BXYU0wUXdqZjNDVlBJb0YwNVdkSkh6?oc=5",
+    "domain": "TradingView",
+    "seendate": "Sun, 25 Oct 2026 16:57:51 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": -0.2263,
     "date": "2026-10-25",
     "provinces": [],
-    "keywords": [],
+    "keywords": [
+      "Attock Cement Pakistan Limited",
+      "Estimates",
+      "ACPL"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan axe Shan Masood from Sri Lanka Test squad as Agha, Rizwan return",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUM2d1B1Wms5NFd0SjlSbUtFejBrY2x4UmNhd2VGZ3F4dldNa1NsSmdwNEZ4NHVXeUM4R3VXanJEYmw2aktHaHNNRE1BX1BTTEFOdG9mYTk0ejNVbjA4MUVreVlQUjFja3AtV0JNajdmbDk1TF9nVUU2WkdETFJGZlUyT2g4U0pPeDNrYi1kdzVKQURiVF9nM1Raeko2cm0zWW9LdV9yNVRGRGtsUUFkQl81Z25fNG5YZ20tVtIBvAFBVV95cUxPVUM2d1B1Wms5NFd0SjlSbUtFejBrY2x4UmNhd2VGZ3F4dldNa1NsSmdwNEZ4NHVXeUM4R3VXanJEYmw2aktHaHNNRE1BX1BTTEFOdG9mYTk0ejNVbjA4MUVreVlQUjFja3AtV0JNajdmbDk1TF9nVUU2WkdETFJGZlUyT2g4U0pPeDNrYi1kdzVKQURiVF9nM1Raeko2cm0zWW9LdV9yNVRGRGtsUUFkQl81Z25fNG5YZ20tVg?oc=5",
+    "domain": "Al Jazeera",
+    "seendate": "Sun, 25 Oct 2026 10:28:04 GMT",
+    "source": "google_news",
+    "sentiment": -0.1027,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Shan Masood",
+      "Sri Lanka Test",
+      "Agha",
+      "Rizwan"
+    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
@@ -313,17 +474,17 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan Secures Second Position in International Military Drone Competition in Türkiye",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOajhqRlhmVU1GVV9rODR0SzJKc3lpa2VZNVY0RFlyaGlfOVE3OWFwMkcwM29QMFkwbGozRGVTR1FKTTZ3T2p0UkVYd1R5Z2Jtc0Jpam9xVU45UGFJUVpIdmhxVFdpUzRyUUpiVTNkYm80R2g0U2hRUmRDaEdlS3h3WE1XcHFUZWNUb25XYjJUWUM1VkpZQXZwblY4UHdDQ2oxaUpQLXJwM3RqSE14bFpoTlJlVkVpdnZERXQ0?oc=5",
-    "domain": "The Nation (Pakistan )",
-    "seendate": "Sun, 25 Oct 2026 10:57:38 GMT",
+    "title": "Bestway launches Geely Auto in Pakistan",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcVhlb0dYT3NvYno2SEdDWUNPWjB3elhkN1V4YVdoaW1SeVZJQjRtenVxSHhVREwwWlRZcXVmR1NjYWlGdmVpOA?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:19:57 GMT",
     "source": "google_news",
-    "sentiment": 0.3182,
+    "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Pakistan Secures Second Position",
-      "International Military Drone Competition"
+      "Bestway",
+      "Geely Auto"
     ],
     "india_related": false,
     "source_count": 1,
@@ -347,24 +508,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan, Qatar Agree to Expand Trade and Investment Cooperation",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0FEb01hUlRwT0VsZGE1d3JkcXhFVXFZMVQzZV91UTlZbUk3LXNzNzR6X0I2Y3FIZ1hyd0E0OU9WWEQ4NGhVS2FiZVhFRG95NFlZVDRhWGJOSDBoLW51Wmp0bnExWHFIV0hEdzMxRUxsakU1LWlocXJGOW5qeUFKYjlJb2JFQ3pUc0taZnJnSGpNTHdCb05MMG5B?oc=5",
-    "domain": "The Nation (Pakistan )",
-    "seendate": "Sun, 25 Oct 2026 10:25:35 GMT",
-    "source": "google_news",
-    "sentiment": 0.743,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Qatar Agree",
-      "Expand Trade",
-      "Investment Cooperation"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "PAK vs ENG: Why Pakistan are wearing pink jerseys against England in ODI Tri-series",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQamNVMjZseThOeUV0Y2JWU2V6M05sQ1E0ckk0RXJGa0dxNG54UThPTnh4QkJidVRiWXNnZ3o5VG5hZTAyTGNsOVdLV1ZyaExlYmlWeDdXSi1pVnF2ZHRDNzNOWXcxYXZMUUI5MGhTNFBnYWRXUzdDWnhac2JGYk9kYkE0RkJPOTBrSnU1bTVuZWJSR2JlYjVlQWljejFyVXJTZlNKVV8tTmpiVXVYMGJfQ0dBa0w2NjFaUGYzazZMZUxNVDV0eGZXSkNUZ1VRUXdfa18xRWZJLVZhckFpZGpBOV9sZE5zalRf0gHuAUFVX3lxTE1fQXljSE83OXcxQmxVeUhialR4VDFwVnV2QWJwZEdsSWIxYlJwbnhzdkp0UHplU2lBYk42enBDdVhyWWVPUnRNcWc2ajJNX2ZtR0tUeXBjNXNDaTU5QTVhSDhSNEt6aUFqTmtLM1RhVUVZQzB5S0FLNkMzNmRiT283ZzRyVGp5UmVva3ZNd1RCY0xGWlRTVEZpeXlwdGxjalVsWmgtUnJNeVV6M1FqUnpHd2gtX0FUQjhUOGxJM1hDS0xoV0NqajVCZkNXNUhjZ1k2WnN4S0tWMERSc19vdS1TcGFFNUY1NjVkVmRfbWc?oc=5",
     "domain": "The Times of India",
@@ -377,6 +520,24 @@
       "Why Pakistan",
       "England",
       "ODI Tri"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan, Qatar Agree to Expand Trade and Investment Cooperation",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY0FEb01hUlRwT0VsZGE1d3JkcXhFVXFZMVQzZV91UTlZbUk3LXNzNzR6X0I2Y3FIZ1hyd0E0OU9WWEQ4NGhVS2FiZVhFRG95NFlZVDRhWGJOSDBoLW51Wmp0bnExWHFIV0hEdzMxRUxsakU1LWlocXJGOW5qeUFKYjlJb2JFQ3pUc0taZnJnSGpNTHdCb05MMG5B?oc=5",
+    "domain": "The Nation (Pakistan )",
+    "seendate": "Sun, 25 Oct 2026 10:25:35 GMT",
+    "source": "google_news",
+    "sentiment": 0.743,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Qatar Agree",
+      "Expand Trade",
+      "Investment Cooperation"
     ],
     "india_related": false,
     "source_count": 1,
@@ -399,39 +560,63 @@
     "also_reported_by": []
   },
   {
-    "title": "Bestway launches Geely Auto in Pakistan",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CcVhlb0dYT3NvYno2SEdDWUNPWjB3elhkN1V4YVdoaW1SeVZJQjRtenVxSHhVREwwWlRZcXVmR1NjYWlGdmVpOA?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:19:57 GMT",
+    "title": "Shaheen Becomes 2nd-Fastest Pakistani Bowler to 150 ODI Wickets",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRFBhNkZ3cXFuT3B4aVk0VTV5OFpaWEhvdFNmLWVfQ2J2VlE5dkxRYVFQcW0yaGh5bWo1NnYyZmVSNDh4bmQydGlXS09QSFJaT3R4SDJZRWs5UEo2WGpTZ3FTeXZWaFRtdmthZU5UVVJxa29TUzY2WmxSMG4xRGlXSWlRMkVCcmFmYWFWZTMyQm5MM1FNc045ajNqYzQ3NUc1ZWc?oc=5",
+    "domain": "Tapmad",
+    "seendate": "Sun, 25 Oct 2026 15:01:50 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Bestway",
-      "Geely Auto"
+      "Shaheen Becomes",
+      "Fastest Pakistani Bowler",
+      "ODI Wickets"
     ],
     "india_related": false,
     "source_count": 2,
     "also_reported_by": [
-      "Investify"
+      "The Nation (Pakistan )"
     ]
   },
   {
-    "title": "Central Asian railway plans open new trade opportunities for Pakistan’s ports",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVZXZ3hEd19xNGl3X2NyekpaYXBmUUZrNzhWTUNTV2t4X1BWX3RaRmpQT253NnZYRmV6amtzZllGVEI2cHJuQzNReUdJZFhleWlUbGt6Z1ZJT1FLZ1gxbUhvVXJ4M21NQ2p0ZGVVVDllZDFYM3VfRWtBSkhrSjBfYUtLQUV5ZmVZelJrazl1THdhdDNlUmFvbXc5Z0xvR3RQR3lXV3RrRDhQQ3NkTXl3dQ?oc=5",
-    "domain": "The Nation (Pakistan )",
-    "seendate": "Sun, 25 Oct 2026 09:55:00 GMT",
+    "title": "Is Pakistan’s Youth Losing Hope in the Future? - Awaz",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE54NnVPQWtxVzVXMkhiU2k4VVAxam5ONDNKMG1CbjRBTFlmVWRLU0ZPMEZjZ3djZHZlSk1Ca2NodHhUVmNPNUhDd0x5cGY?oc=5",
+    "domain": "Aaj News",
+    "seendate": "Sun, 25 Oct 2026 15:05:09 GMT",
     "source": "google_news",
-    "sentiment": 0.3818,
+    "sentiment": 0.0772,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Central Asian"
+      "Youth Losing Hope",
+      "Future",
+      "Awaz"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
+  },
+  {
+    "title": "PAK vs ENG, 4th Match, Pakistan ODI Tri-Series, 2026 - Live Stream",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNG9KVDFuWWpkRUowdmhhX2dOTFJoc3ZtMy13Y1pENkdKRFlkckhuUmhvZkNzTmxXbFNNa2dxaFkwVGxiUjgzd3FxdzB1aHN0YjVaSVAyUEpIdTNTZ0trM0hEclJZendRUi1kQ2xsVC1neUxUNHJmYkZFZVc4TWk3cVBXcFN6NzlGZmVfd1JCZUlhcTZTSnprUWFtRkFDMGVVbnpJ?oc=5",
+    "domain": "Cricbuzz",
+    "seendate": "Sun, 25 Oct 2026 07:17:06 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Match",
+      "Pakistan ODI Tri",
+      "Series",
+      "Live Stream"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "ESPN India"
+    ]
   },
   {
     "title": "Maximalist US and Iran positions fuelling conflict, former Pakistani PM says",
@@ -452,21 +637,16 @@
     "also_reported_by": []
   },
   {
-    "title": "Recent Match Report - Pakistan vs England, Pakistan ODI Tri-Series 2026, 4th Match | ESPN.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMjBPX2MtOE1FS0hFbmdZc2FQWFZTMkkwSm93U2ZQY1hBR3RNQnJBdWdpckpTZDlwLUNzMFNxbzZGOWNyellpYTloTzJZLVBBamZPcXFCMWtZcnV4amoyOU5nQlctZnNTVm1iN3NST1p2ZFVhVW5TRmRPVDhOX2ZkMDhNNHJDUTFSaEVMUXdFUkZRd09LejdDc0MtdHI2V3FvRHktSktYNW9jNDFHTFpuaG92OGc0ZjhTZHJLSg?oc=5",
-    "domain": "ESPN",
-    "seendate": "Sun, 25 Oct 2026 12:57:00 GMT",
+    "title": "Central Asian railway plans open new trade opportunities for Pakistan’s ports",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVZXZ3hEd19xNGl3X2NyekpaYXBmUUZrNzhWTUNTV2t4X1BWX3RaRmpQT253NnZYRmV6amtzZllGVEI2cHJuQzNReUdJZFhleWlUbGt6Z1ZJT1FLZ1gxbUhvVXJ4M21NQ2p0ZGVVVDllZDFYM3VfRWtBSkhrSjBfYUtLQUV5ZmVZelJrazl1THdhdDNlUmFvbXc5Z0xvR3RQR3lXV3RrRDhQQ3NkTXl3dQ?oc=5",
+    "domain": "The Nation (Pakistan )",
+    "seendate": "Sun, 25 Oct 2026 09:55:00 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": 0.3818,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Recent Match Report",
-      "England",
-      "Pakistan ODI Tri",
-      "Series",
-      "Match",
-      "ESPN.com"
+      "Central Asian"
     ],
     "india_related": false,
     "source_count": 1,
@@ -491,26 +671,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Students across country to get 500,000 Chromebooks over 2 years, announces PM Shehbaz",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIamtXRlNwcUVCSzlWMHhWMkNzNFpMbkh5Y2dEQXV5S0pOVmpXTmYwUWlyeFJlNDZWMi1lN3c5ZERkYnJLbTd3eg?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 10:04:16 GMT",
-    "source": "google_news",
-    "sentiment": 0.255,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Students",
-      "Chromebooks",
-      "PM Shehbaz"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Bloom Pakistan"
-    ]
-  },
-  {
     "title": "Pakistan-Iran Border Reopening Monday: Taftan Resumes Trade, LPG Trucks Await Clearance",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHpUQ0J2TzBZdEtIS1lUajlQRm1FeDFXTzdiSG1heTUzN1c4UXdjZVhiTTY0X1lxRHVzdHg0X3NSZXl1d3pncmJGbllnWVdpQU9kdm5GVm9NeGo3ay1fX2FpNW0yNGtkRkZQS0NFdFFsOWpXUXNjTVd6UXR6bm53X01YQ0zSAYQBQVVfeXFMTWR6VENCdk8wWXRLSEtZVGo5UEZtRXgxV083YkhtYXk1MzdXOFF3Y2VYYk02NF9ZcUR1c3R4NF9zUmV5dXd6Z3JiRm5ZZ1lXaUFPZHZuRlZvTXhqN2stX19haTVtMjRrZEZGUEtDRXRRbDlqV1FzY01XelF0em5ud19NWENM?oc=5",
     "domain": "Balochistan Pulse",
@@ -527,25 +687,6 @@
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
-  },
-  {
-    "title": "Pakistan and China Review CPEC Progress and Regional Issues",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTndETS0wdmx2WExLczVWQ2FYSFN2eGVhcjcxTi1nMnZZWFVSQWFmTnFoVzB1Sy1wSHJLZ2F5QktFNHpjenZLT0VadUhoVkJQVEpJUzUyUldxRnM1cTVabjhOOENTTzJnZEJKXzBDbEI2dURmak9hZnRLdW5tUWRDLWVxbDlmRXFmWkFYN3RB?oc=5",
-    "domain": "The Daily CPEC",
-    "seendate": "Sun, 25 Oct 2026 12:45:00 GMT",
-    "source": "google_news",
-    "sentiment": 0.421,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "China Review CPEC Progress",
-      "Regional Issues"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Islamabad Post"
-    ]
   },
   {
     "title": "Breaking bad: Pakistan’s house is on fire, Munir wants to rearrange the furniture",
@@ -565,12 +706,49 @@
     "also_reported_by": []
   },
   {
+    "title": "Pakistan and China Review CPEC Progress and Regional Issues",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTndETS0wdmx2WExLczVWQ2FYSFN2eGVhcjcxTi1nMnZZWFVSQWFmTnFoVzB1Sy1wSHJLZ2F5QktFNHpjenZLT0VadUhoVkJQVEpJUzUyUldxRnM1cTVabjhOOENTTzJnZEJKXzBDbEI2dURmak9hZnRLdW5tUWRDLWVxbDlmRXFmWkFYN3RB?oc=5",
+    "domain": "The Daily CPEC",
+    "seendate": "Sun, 25 Oct 2026 12:52:30 GMT",
+    "source": "google_news",
+    "sentiment": 0.4215,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "China Review CPEC Progress",
+      "Regional Issues"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan: Karachi power crisis deepens as K-Electric extends loadshedding",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1A3VWhjaWw1Nlh0aXdPakdra1lmdDNNWm1vQ2Q2WmJXQ2ZycEh2cmo1enBUWGJwZFEzOTZPdFFRMlZFbmxwQVkzZWw0VDJsVkxNdHNPdURBN3F3dHpjYjdtaUo3NndqcDRYOU1jR1MtQl95MEp4SUU0NGtWNlJiQVA0U0RkYTBYUGpORjhvQ0FJLXZVQXdGWUlTX25KN2tLYm9ZYnM3VkVhSVhfLWNGUHFUZUlwdExDSmxLRTBzMmk5WnM?oc=5",
+    "domain": "ANI News",
+    "seendate": "Sun, 25 Oct 2026 11:54:00 GMT",
+    "source": "google_news",
+    "sentiment": -0.503,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Karachi",
+      "Electric"
+    ],
+    "india_related": false,
+    "source_count": 4,
+    "also_reported_by": [
+      "Arab News PK",
+      "UA.NEWS"
+    ]
+  },
+  {
     "title": "New film highlights Pakistani women's stellar anti-polio role",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbFZqTG9SeTJTNGNCaVk4bkJXbzQ1Sl9DTEhCcjRJLXh2VGs1dHFDcGF1aUlZX0cyd2VwOUdKbTYzMVBybEN0a1V6M09uVjNQLWdKeVJGR2tqaHRKaGdwYUdVSHZfdlhTV0tLNjg0OEt4S05FcXdnckFQa3QwR1FlbHlKek1IcEdZaGlfd19IaDZFLWw3UzYxeDY1TTlOZ9IBpgFBVV95cUxQNDhWS01QUXZDOTJVaDMwZ09rV0tIYVpQa3lrNGpzOEtMR1pSdFhDUFFFZDhyV0NWdFJaZnFTVS1UeXFHNkUxUC0wb2ZVN3F3UDY3TkgzaWdTOXNNX2hDRzdLd0ZJSXJuQVZ3c0ktZlh3M2gxdVd1b0NOQzlObk9LaFlXNTE3S1JsVnB3czlOWlBiQVpEeEFHdVdiMkFkdm9TeHVxNmtn?oc=5",
     "domain": "The Express Tribune",
     "seendate": "Sun, 25 Oct 2026 09:27:44 GMT",
     "source": "google_news",
-    "sentiment": 0.057,
+    "sentiment": 0.109,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
@@ -579,57 +757,10 @@
     "india_related": false,
     "source_count": 5,
     "also_reported_by": [
-      "ETV Bharat",
+      "Bloom Pakistan",
+      "IANS LIVE",
       "Moneycontrol.com",
-      "Pakistan Connect",
-      "The News Pakistan"
-    ]
-  },
-  {
-    "title": "Pakistan: Karachi power crisis deepens as K-Electric extends loadshedding",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ1A3VWhjaWw1Nlh0aXdPakdra1lmdDNNWm1vQ2Q2WmJXQ2ZycEh2cmo1enBUWGJwZFEzOTZPdFFRMlZFbmxwQVkzZWw0VDJsVkxNdHNPdURBN3F3dHpjYjdtaUo3NndqcDRYOU1jR1MtQl95MEp4SUU0NGtWNlJiQVA0U0RkYTBYUGpORjhvQ0FJLXZVQXdGWUlTX25KN2tLYm9ZYnM3VkVhSVhfLWNGUHFUZUlwdExDSmxLRTBzMmk5WnM?oc=5",
-    "domain": "ANI News",
-    "seendate": "Sun, 25 Oct 2026 11:54:00 GMT",
-    "source": "google_news",
-    "sentiment": -0.624,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Karachi",
-      "Electric"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Arab News PK"
-    ]
-  },
-  {
-    "title": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tU3djc2luczMzS0xvWFFQWTgzVVJ5M0NNaERFUTBLMjFzQ3BKQnAzTnltY0Vnbm1zUEJLa0pQN3c0Yl9lVkdNVA?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 08:36:23 GMT",
-    "source": "google_news",
-    "sentiment": 0.224,
-    "date": "2026-10-25",
-    "provinces": [
-      "Balochistan"
-    ],
-    "keywords": [
-      "Terrorist",
-      "Qila Saifullah"
-    ],
-    "india_related": false,
-    "source_count": 13,
-    "also_reported_by": [
-      "24NewsHD",
-      "Bol News",
-      "Daily Times",
-      "Dunya News",
-      "Geo News",
-      "Hum News English",
-      "Islamabad Post",
-      "Minute Mirror"
+      "Pakistan Connect"
     ]
   },
   {
@@ -647,16 +778,67 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan release Sufyan Moqim",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLRGpldDFMYk5BNG5yd0FWbkdFXzcxWW1oVWZDc1ZrTllhMzNYQnlWc1Y2LVdSVWZsR25lRUtSYk94Xy1MNlZ0OFlFcDVOQUZVOUpKQjhxa1d5YlJNSTk3WF8zZHdzUUxhS18tejVzV05MeTlG0gGEAUFVX3lxTE1fZDIxVDB6UTdsNjdCeEhZdk05YWVDOG1LaDA4RmE5Z1JVVXJhM1pQc0tncWVncm5oRFk5b0tQTHpzV2xrbUpNVG5qOEg2Qjd0UTNuUGJ6Y3FvT2duaWktdFhDbXJlejl1dzlVMnhMRFVTeTRmN0lndmF5QkNTbWVJdnZ0ZA?oc=5",
-    "domain": "The Express Tribune",
-    "seendate": "Sun, 25 Oct 2026 08:27:27 GMT",
+    "title": "Terrorist commander killed during IBO in Balochistan's Qila Saifullah: state media",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tU3djc2luczMzS0xvWFFQWTgzVVJ5M0NNaERFUTBLMjFzQ3BKQnAzTnltY0Vnbm1zUEJLa0pQN3c0Yl9lVkdNVA?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 08:36:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.102,
+    "date": "2026-10-25",
+    "provinces": [
+      "Balochistan"
+    ],
+    "keywords": [
+      "Terrorist",
+      "Qila Saifullah"
+    ],
+    "india_related": false,
+    "source_count": 18,
+    "also_reported_by": [
+      "24NewsHD",
+      "Aaj English TV",
+      "Bol News",
+      "Daily Independent",
+      "Daily Times",
+      "Dunya News",
+      "Geo News",
+      "Hum News English"
+    ]
+  },
+  {
+    "title": "VYU Launches in Pakistan with Six-Hour Celebrity-Led Livestream Featuring Bushra Ansari and Ron & Coco",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc1ZBMlpVSXZYdjhJV2J2X3FfcE5ZalFVMFJNU3VQZ3Q1YjJHRHJ0bUE0Ui0xS05GR2VuU0wxQVZrcjNNR2V6XzBnZkUzV2pCdEFQMXJqS1ItUWpPUTk4NFFlN1lBazlSRmlNUTZtWExQR0pjY0JyUGRSSDlXVFQwbTJIOGRsOGlYS0VhY0Zxb0ZLRE1uWHQ0TnItQXlzZ3p2TDE2Yl93dGkyeDFoek9UTEdjSWVkQzVkWnItNWs3cDNodDlFcXZlMGRXb3pxVzZVdGdsTQ?oc=5",
+    "domain": "Biz Today",
+    "seendate": "Sun, 25 Oct 2026 15:29:56 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Sufyan Moqim"
+      "VYU Launches",
+      "Hour Celebrity",
+      "Led Livestream Featuring Bushra",
+      "Ansari",
+      "Coco"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Mao Ning to Visit Pakistan for 75 Years of Friendship",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzhYb1VmTk14TUxabWZKV2J0Ny1CbnVBUmZObkE2cTVMaFB1X2VzX3BBbzRRVVlibmdwODNrU1oyWnI4aDdpaDRUcHRUaVYxcU1CNHQyc2FRaVp3c3poN0YwWkl2dTEzNkxmUjI5QXpxU01VMV9WM2xYSVQ1TFRncFJSNDh1QQ?oc=5",
+    "domain": "The Daily CPEC",
+    "seendate": "Sun, 25 Oct 2026 12:52:45 GMT",
+    "source": "google_news",
+    "sentiment": 0.4404,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Mao Ning",
+      "Visit Pakistan",
+      "Years",
+      "Friendship"
     ],
     "india_related": false,
     "source_count": 1,
@@ -697,94 +879,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Shaheen Shah Afridi breaks Pakistan record with 150 ODI wickets",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamNVajBCbWtySVlkcnhiVnRpN0Q0Q1MwaVhHeFFvQUo2WVg4R2lkOVg4YzBuVkNIWjZKOVFVM1BONFVYdEJXQXU0Z2twUXhSRVJ0akpmamh6LWFMUXotNy1lX1hqQ0xCcjd1aDJIUVVQc0lTT0pIa2FkZElEZlVUdDUxNHExUEZGdlRiYWs1dHJZVGhYZVlVUDItTEFURkdUcEFqVWZ4TVBRQTRmcXJB0gHCAUFVX3lxTE01UUdKb2o5QTdaRXplOEFtRWMydkpCRDkxOGREWWduVEx6WXdFMzQwMXZEMkNOSHJpVTYta1UyN25obWFxWUFpaVdzWWVRSEZrRk80UWZJMjV3WFNsbzRnZmZTQ2o2REw5SWFPSFhnLUVDMzBrejE1SUxDZ3BiVHlmUTRyRWZHUldNN0hJbEdsVUI4aTVLYmsxbHA2UWdiblpMMktxeTRwY1lDNV83UENkVzltOXRER3UwVGtGLXNpeGRn?oc=5",
-    "domain": "Gulf News",
-    "seendate": "Sun, 25 Oct 2026 14:02:53 GMT",
-    "source": "google_news",
-    "sentiment": 0.153,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Shaheen Shah Afridi"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Islamabad 51"
-    ]
-  },
-  {
-    "title": "Pakistan’s ‘Form 47 government’: Why India uses the term as criticism",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWpFbjhjb3podTNJQVdsTlp2OExxODUyTUdRTU5JTmZhbTJiZ0xvVWpGVEctWGpJbUtoUm1saF9vME13VWZDeW13LVZjcWVBMUNKX3pXd0FCTVE4OFJUeG5FeDRaQ1JsaGozRV9BWTd0UUtaZFBRMUxQMFRRaHBocFVmdVBCZzBiSlVDMEcxUFl2LTcySUhHeFpYUm51cEJQWlJWeGh0cnZCRGpDM3FjRG530gG4AUFVX3lxTE5wVTA4MXdSTVFIWEcyQUN4RzkyQmVuYWYxQndFNkdFR21SNXN0MXd5Nk5BRy02bUFuR1hyd3FkYkVIZmh1dThFWkZ1YXRQN1hxMEVGanM5MEYweVowdGFCNWE5em56SHgxdk9DeDhHc09ObUotQkx3WkR6bkxKbl9VX1EtdTdCeFkzN0xtUk5kNlhCbkplSWpFVk5iY3gtZDFoeUVGNUQycUFxbVRrTEkzRkpHYUllcjk?oc=5",
-    "domain": "The Indian Express",
-    "seendate": "Sun, 25 Oct 2026 08:42:00 GMT",
-    "source": "google_news",
-    "sentiment": -0.4404,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Form",
-      "Why India"
-    ],
-    "india_related": true,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Mao Ning to Visit Pakistan for 75 Years of Friendship",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNzhYb1VmTk14TUxabWZKV2J0Ny1CbnVBUmZObkE2cTVMaFB1X2VzX3BBbzRRVVlibmdwODNrU1oyWnI4aDdpaDRUcHRUaVYxcU1CNHQyc2FRaVp3c3poN0YwWkl2dTEzNkxmUjI5QXpxU01VMV9WM2xYSVQ1TFRncFJSNDh1QQ?oc=5",
-    "domain": "The Daily CPEC",
-    "seendate": "Sun, 25 Oct 2026 12:52:45 GMT",
-    "source": "google_news",
-    "sentiment": 0.4404,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Mao Ning",
-      "Visit Pakistan",
-      "Years",
-      "Friendship"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pakistan, Canada advance BIT talks",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRW5JRzlKeTBGdE4tRXFveXJMTzdic2hIR1FFZXNxNHlGTUVkZDNZNWFHdWQ4d3lMX3FRemRLM2lIbUUwMUpVaWpkQWlpZXI5QldpcEpDWklwM3pNZzE5d2VtV2piYS1MZE1ZWmNIazFvdjZqRmJBZHF4ejVBYjI0OXdn0gGCAUFVX3lxTFBFbklHOUp5MEZ0Ti1FcW95ckxPN2JzaEhHUUVlc3E0eUZNRWRkM1k1YUd1ZDh3eUxfcVF6ZEszaUhtRTAxSlVpamRBaWllcjlCV2lwSkNaSXAzek1nMTl3ZW1XamJhLUxkTVlaY0hrMW92NmpGYkFkcXh6NUFiMjQ5d2c?oc=5",
-    "domain": "The Express Tribune",
-    "seendate": "Sun, 25 Oct 2026 11:09:51 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Canada"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": []
-  },
-  {
-    "title": "India slams Pakistan at UN, says military remains country’s ‘real rulers’",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXpLY0FiQ21vTTE1ZldFUTA3d2N4OTNNV1NfVjZxTVN2UXNhY0Y5SF9UR2VRemVUaG1LaVFYamc0eDMwajNBR3FLMzg3SnlFdVNKTUlQS0dkRTF6LU9wVXZCTjdSYmo2VEdkS3pWS09GZEF1SV9QbU00ZlR6eWoxeUYzV0huR2M1QlZfeXhSd2FXcFN1NmlRajZMd1pMZ2JHeXJXbzg4dFgxWUY5cWtGU18tZ3hzM3RDaEZTZkJNd29mU2xHaXJr0gHOAUFVX3lxTE94Y21OTmNJTEx0Njk5cmJsdVRmdmdjVmdQWUcyQlZqcjJIU2FyTXZKVDRSc2p5bGNZZHVhRE1XdnhjT2FsaWxvUmxncVloUFQ1MmY1ZkpzQnZqc3hTWEpDbTFOQjh3VjZrcnZnVWhSTmtZVkZGYzMxUUw4OXFLckNsMnNhVktSZUZ5ZTlZZGdiUnVrOTllVzFPbGFRYkF1TmFIbGNsclV4RHJBRFI5ZzZ5U2JMNTNyT0lyUC00cWV4WjRyUXFtQ0RsWXFsaW5R?oc=5",
-    "domain": "The Hindu",
-    "seendate": "Sun, 25 Oct 2026 06:20:47 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "India"
-    ],
-    "india_related": true,
-    "source_count": 2,
-    "also_reported_by": [
-      "Daily Excelsior"
-    ]
-  },
-  {
     "title": "India Accuses Pakistan of Propaganda at UN, Questions Military’s Political Influence",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX3hvclpaeVZKUVp1MVJpZENBaTVxbUFDYkxzakxrLVpzc2FORmxCdmpqMzNwSDV3TUpNVDNnNmNhSktzbU52bHJhcUFEbVlPc1N6YnpuUzRBSi1OeU5wQjlmU1MtMlBVR2YxQUV5V0JzMWZ0S0hQNVNTbGdHMktCVHJ6cXBoU3NRSlhNX2FqSmlHTXJPb3JBcUxKcnNLSzQ?oc=5",
     "domain": "www.nationpathindia.com",
@@ -804,52 +898,19 @@
     "also_reported_by": []
   },
   {
-    "title": "Police defuse 20-kilogram improvised explosive device in Pakistan — Dawn",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXdXbkw4VGl0Y0RyUlc5eURYc2VhRUNhRTczbmdGdVpXek9hNWlGRVo4WG8zQUdHdkxDaHFhQXdBRTh1WW1YVVdmWkMtdzhTbFZqc1J1QTh5V1l4RTdOaHl5RXhaV3RlallzSXVVWlhBeXlyMWstQllCZFdRX01wR0t5SzVTZUpBdXZndXVmVVdoTnpuLUoyOTFoeTRzdEE4c2M3Y0F3a1AxV0dGYVJpSmxHcXRvaVlSVFE?oc=5",
-    "domain": "UA.NEWS",
-    "seendate": "Sun, 25 Oct 2026 08:58:07 GMT",
+    "title": "Will Jacks: England in 'mini World Cup' scenario as they enter must-win territory in tri-series with Pakistan and Sri Lanka",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbjN0cHBJMzBmaXhwS0FRMzN0eFFJMUhDT01Ba20yR2JTbHEwdkR4Q1VUeEl0a2xxWnd3VGNGdng5QVcxdGhjMTk1a2dJQ21aaS1oUGRfTUJVWHlyVkcyLTEza1J0UmlHV3NZLW5aVU5ocnc2MVhzY2RHUUZNdno2cWtfQlBWVWlCc2h3QWMtRzkxM0NybkdwWnQzQkZCYjNLdGZwaGJ4M0JiY2xfdnZJLXIxN29ybzd5encwQVFUY3V0cmhZMXZLWnNsNjg0VllILVRfOU1jbWQ2ZWVkblVVZXZrMnVtbnh6TXJOM0hBVU16ek1qaV9RSl9rY0k?oc=5",
+    "domain": "Sky Sports",
+    "seendate": "Sun, 25 Oct 2026 17:15:38 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Police",
-      "Dawn"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "‘First-of-its-kind’ in Pakistan: Father held for making and selling sexual abuse videos of his own children",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWpOcUJkdnJwY1NUWHVFeS02ZkFLSnFJdkhobVMyUTdFWG9OaEljU0NhU2FkYXFmcXpGY2JHMWdHdDFKNUFPRXVqSjNta3ZlU2QyRC1pMDBUcEM1YTVTVFQyRGxNUVhYc0NrUXpTclBkY2xhZUh6X3VkUDZvaVJSLVRZSWZtdUx2WEZ3U3c1UFNHR0ltTVl5dFlFTk5WZnhFWEFINXgtOFA5M1Q1ZFBBcTJKZ0pZQTFyZUxpQ1pUV0ZlN1FacTFEeHRGdE5LS3pfX3RsZzFzLVdBZUZhREcwWm9teTlHZWNFYXpKZGVn0gGDAkFVX3lxTE5NWWxYWlNiZV9Tc0ZFMnMta2JkU2Jtdm96bENhdDhETnhhZC1sMXFzeTRRSWMzbDVyeWp5TEx5VHBqRzN4TjVqakNRay1oTkpIa0ctWHNMd1l6V0lLZV8tdHNEY0dTdHUzYXpSX194OEVPenI2Z1dfaHRILWlvaVctVWxBdHIydXhsbW94RktPN2U5QUNaeEFiZmI5ZGxPbzM4SktQZW5nWWpYZ0hQLUZoV2NzYldtZHIxOEVFd2RudGFSTWhoT215NkFMMG1SQ3JXYWlFbTV0VFlhbGpLLXVIbjBoVE80NW1Md3RPajdUNnRVU2hJUUg1aHhIT0dJVGRlVU0?oc=5",
-    "domain": "Gulf News",
-    "seendate": "Sun, 25 Oct 2026 12:41:02 GMT",
-    "source": "google_news",
-    "sentiment": -0.6369,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "First",
-      "Father"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pakistan’s 5G Reaches 24 Cities But Gaps Remain Vast",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZjVsY3I2M25VS0Z3eVF2U08tSlpiWXFhSTRELVJ3cUFiMHZjMkZrd2phNTNQLWotQ0drRUc2QzFpMFdhcHV0WXRtZS1RS3llTS10TUlBb3hLT25CQ0poel84ZmxLYWJPTDlEekd2elZRUnR0Z3ZLVUxUSER3RkowU3BwZXRKZw?oc=5",
-    "domain": "Digital Pakistan",
-    "seendate": "Sun, 25 Oct 2026 14:00:03 GMT",
-    "source": "google_news",
-    "sentiment": 0.0258,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Reaches",
-      "Cities Gaps Remain",
-      "Vast"
+      "Will Jacks",
+      "England",
+      "World Cup",
+      "Sri Lanka"
     ],
     "india_related": false,
     "source_count": 1,
@@ -874,40 +935,75 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan vs England: Shaheen Afridi claims 150th ODI wicket with Tom Banton dismissal",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOanlRZS1kNlBmc2laOXNqbExCOHh4NGJzWmM4c1F5SDNXejNmazlhdXFkcHoxTjBpR0FwQ19UY0xjSmRVd1NSa1hJTTFsU3Y1dk5QRDdYV0FZTTQ3X2NheWREamJWXzZJWFdNaE84WFB6YVh5VWVtcmEwdzVmT3FrVDg4Q1IzSlZ1cFJndTBNQUJwbS1Jenc5Q2RjY0VfbEN4cUpqTmhvX0swb2Fxc09RUEVlTlJFU2g0dWh4R2lwRDNBLW9HOVhEOUFmczI?oc=5",
-    "domain": "Sky Sports",
-    "seendate": "Sun, 25 Oct 2026 08:23:19 GMT",
+    "title": "‘First-of-its-kind’ in Pakistan: Father held for making and selling sexual abuse videos of his own children",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQbWpOcUJkdnJwY1NUWHVFeS02ZkFLSnFJdkhobVMyUTdFWG9OaEljU0NhU2FkYXFmcXpGY2JHMWdHdDFKNUFPRXVqSjNta3ZlU2QyRC1pMDBUcEM1YTVTVFQyRGxNUVhYc0NrUXpTclBkY2xhZUh6X3VkUDZvaVJSLVRZSWZtdUx2WEZ3U3c1UFNHR0ltTVl5dFlFTk5WZnhFWEFINXgtOFA5M1Q1ZFBBcTJKZ0pZQTFyZUxpQ1pUV0ZlN1FacTFEeHRGdE5LS3pfX3RsZzFzLVdBZUZhREcwWm9teTlHZWNFYXpKZGVn0gGDAkFVX3lxTE5NWWxYWlNiZV9Tc0ZFMnMta2JkU2Jtdm96bENhdDhETnhhZC1sMXFzeTRRSWMzbDVyeWp5TEx5VHBqRzN4TjVqakNRay1oTkpIa0ctWHNMd1l6V0lLZV8tdHNEY0dTdHUzYXpSX194OEVPenI2Z1dfaHRILWlvaVctVWxBdHIydXhsbW94RktPN2U5QUNaeEFiZmI5ZGxPbzM4SktQZW5nWWpYZ0hQLUZoV2NzYldtZHIxOEVFd2RudGFSTWhoT215NkFMMG1SQ3JXYWlFbTV0VFlhbGpLLXVIbjBoVE80NW1Md3RPajdUNnRVU2hJUUg1aHhIT0dJVGRlVU0?oc=5",
+    "domain": "Gulf News",
+    "seendate": "Sun, 25 Oct 2026 12:41:02 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": -0.6369,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "England",
-      "Shaheen Afridi",
-      "Tom Banton"
+      "First",
+      "Father"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Pakistan seeks Blue Economy synergy at Hainan seafood Chain Conference Breaking",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMkVmYjlBTGplRkJwZ3JWZjFjSERnMEVlLTZtcklJZVV5dm93UkpBR1BIVGJNbC1ZazhkM1JWU0hJNnBkd3Q1Q2RrLTZ5WGFfbHV1UndMR1NtXzg1REtUaFZsRDJoRnQxMDI1anltMlRIYWJjNy1sMzlsUThicVEwRGRzM2txR0pLTU8xX1hkZkpuNlBUdmhQVjJ0bTdWVEFUZnBFZW5uZ19jc3c3S1FDSE9femlnQQ?oc=5",
-    "domain": "Independent News Pakistan",
-    "seendate": "Sun, 25 Oct 2026 11:52:39 GMT",
+    "title": "Shaheen Shah Afridi breaks Pakistan record with 150 ODI wickets",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPamNVajBCbWtySVlkcnhiVnRpN0Q0Q1MwaVhHeFFvQUo2WVg4R2lkOVg4YzBuVkNIWjZKOVFVM1BONFVYdEJXQXU0Z2twUXhSRVJ0akpmamh6LWFMUXotNy1lX1hqQ0xCcjd1aDJIUVVQc0lTT0pIa2FkZElEZlVUdDUxNHExUEZGdlRiYWs1dHJZVGhYZVlVUDItTEFURkdUcEFqVWZ4TVBRQTRmcXJB0gHCAUFVX3lxTE01UUdKb2o5QTdaRXplOEFtRWMydkpCRDkxOGREWWduVEx6WXdFMzQwMXZEMkNOSHJpVTYta1UyN25obWFxWUFpaVdzWWVRSEZrRk80UWZJMjV3WFNsbzRnZmZTQ2o2REw5SWFPSFhnLUVDMzBrejE1SUxDZ3BiVHlmUTRyRWZHUldNN0hJbEdsVUI4aTVLYmsxbHA2UWdiblpMMktxeTRwY1lDNV83UENkVzltOXRER3UwVGtGLXNpeGRn?oc=5",
+    "domain": "Gulf News",
+    "seendate": "Sun, 25 Oct 2026 14:02:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.153,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Shaheen Shah Afridi"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Islamabad 51"
+    ]
+  },
+  {
+    "title": "Pakistan Cricket Board releases Moqim from tri-series squad — Dawn",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYlppQVlHSS12bzNFTzNaYmZ2UWtEOWJVc2Z1eTJYUjZQcHROM3JLVlprMzh5UUhtR2UwOEVFaTljNHhoSW5mMDNxbC02c1ZWNmJuYW1qbEIycDQ3M0tDYTNLVUIwWGRoWDkxbF9QSU9tQUw3X3R5WG1yb1ZrX1A1TXBXSVZ5NGNjWDBsQXpWVVExRkZHZTBPSjV3?oc=5",
+    "domain": "UA.NEWS",
+    "seendate": "Sun, 25 Oct 2026 14:33:33 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Blue Economy",
-      "Hainan",
-      "Chain Conference Breaking"
+      "Pakistan Cricket Board",
+      "Moqim",
+      "Dawn"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
+  },
+  {
+    "title": "India slams Pakistan at UN, says military remains country’s ‘real rulers’",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRXpLY0FiQ21vTTE1ZldFUTA3d2N4OTNNV1NfVjZxTVN2UXNhY0Y5SF9UR2VRemVUaG1LaVFYamc0eDMwajNBR3FLMzg3SnlFdVNKTUlQS0dkRTF6LU9wVXZCTjdSYmo2VEdkS3pWS09GZEF1SV9QbU00ZlR6eWoxeUYzV0huR2M1QlZfeXhSd2FXcFN1NmlRajZMd1pMZ2JHeXJXbzg4dFgxWUY5cWtGU18tZ3hzM3RDaEZTZkJNd29mU2xHaXJr0gHOAUFVX3lxTE94Y21OTmNJTEx0Njk5cmJsdVRmdmdjVmdQWUcyQlZqcjJIU2FyTXZKVDRSc2p5bGNZZHVhRE1XdnhjT2FsaWxvUmxncVloUFQ1MmY1ZkpzQnZqc3hTWEpDbTFOQjh3VjZrcnZnVWhSTmtZVkZGYzMxUUw4OXFLckNsMnNhVktSZUZ5ZTlZZGdiUnVrOTllVzFPbGFRYkF1TmFIbGNsclV4RHJBRFI5ZzZ5U2JMNTNyT0lyUC00cWV4WjRyUXFtQ0RsWXFsaW5R?oc=5",
+    "domain": "The Hindu",
+    "seendate": "Sun, 25 Oct 2026 06:20:47 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "India"
+    ],
+    "india_related": true,
+    "source_count": 2,
+    "also_reported_by": [
+      "Daily Excelsior"
+    ]
   },
   {
     "title": "Ghulam Nabi Azad, Altaf Thakur flay Farooq Abdullah’s remarks on Pakistan as ‘Kashmir’s saviour’",
@@ -929,178 +1025,90 @@
     "also_reported_by": []
   },
   {
-    "title": "Shaheen Afridi Becomes Pakistan’s Fastest Fast Bowler to 150 ODI Wickets, Surpasses Waqar Younis and Shoaib Akhtar",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYUZ0RkRCaFcyemxheFZfQkphRmo2MUduWXJhUVRGVlI5UkVmV1JZeG1ibVl0Y181M0pOV1BlYS1aNG5UUnhiUnVaWmU2MzIzOGlOVjNNQUQ4bnJJczVXU0ZYUHA4eVBqMGVTcHRVWk5fNDhXU3c5ZnVVeDdWNTd3R2xjNXN0bUVKUkx6bWU5NDJvZ0NZM0ZjX0l2MmVTTFI0aUFqYlZzOVpYVmRQRXRHQy1XR293Zw?oc=5",
-    "domain": "Pakistan Matters",
-    "seendate": "Sun, 25 Oct 2026 12:03:06 GMT",
+    "title": "Pakistan, Canada advance BIT talks",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRW5JRzlKeTBGdE4tRXFveXJMTzdic2hIR1FFZXNxNHlGTUVkZDNZNWFHdWQ4d3lMX3FRemRLM2lIbUUwMUpVaWpkQWlpZXI5QldpcEpDWklwM3pNZzE5d2VtV2piYS1MZE1ZWmNIazFvdjZqRmJBZHF4ejVBYjI0OXdn0gGCAUFVX3lxTFBFbklHOUp5MEZ0Ti1FcW95ckxPN2JzaEhHUUVlc3E0eUZNRWRkM1k1YUd1ZDh3eUxfcVF6ZEszaUhtRTAxSlVpamRBaWllcjlCV2lwSkNaSXAzek1nMTl3ZW1XamJhLUxkTVlaY0hrMW92NmpGYkFkcXh6NUFiMjQ5d2c?oc=5",
+    "domain": "The Express Tribune",
+    "seendate": "Sun, 25 Oct 2026 11:09:51 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Shaheen Afridi Becomes Pakistan",
-      "Fastest Fast Bowler",
-      "ODI Wickets",
-      "Surpasses Waqar Younis",
-      "Shoaib Akhtar"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Get It Right Yourself: India’s Counter-Terrorism Doctrine Meets Washington’s Pakistan Calculus",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnJnU3RlbXhBX0JzSW9FbGJkcmVJdFE2cjlubndlWkltVWh0eUt5OFBJS2ltZklxRExMUjhLRi1KRXktNnVBaUQ1aVN3TmdHWFNoc215U1pVQmQ5LUpvZS1oLTlaVHNycnNSdTVYNVFfZExRRVdtajFhdUlnYXZ3RUU4WFd6WDAwRndkQnFXQmwwYi05NEdLZkF5bGtWMFhSV1RhNDhlaVZhWDk2WVJudTBYMkpSRTZYa05mNw?oc=5",
-    "domain": "Raksha Anirveda",
-    "seendate": "Sun, 25 Oct 2026 13:25:20 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Get Right Yourself",
-      "India",
-      "Counter",
-      "Terrorism Doctrine Meets Washington",
-      "Pakistan Calculus"
-    ],
-    "india_related": true,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pak-US reset?",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VMm1Od0M4RlBXbmVOMk5UQmFxRHlYT3NsU0RtM2d1OGVPTU9sdDdyQ0g3c0dJOUFaMW41cTBTb2x3MzA4U2dNRg?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:20:35 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "[WATCHLIVE]ＴＯＤＡＹ!] Pakistan vs England 4th Tri-Series ODI match Live Updates! 25 october 2026",
-    "url": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxPVE45OE1yLURWMU1nb1liUXN0RFVTaXRhR21scEhHUGpJLV9PdVdadHV6Zld4Z2s2STF0RzlOby1QLVhhTGsyeVFWcHgySmJLMGNWcU1BNWV6cjRrbFY2ZmlvLVo5UnM5NzZKdGs4RnZ4cDQ5bUtkbmtxYTB4SnR5TjM4NHM2NExnUE44MjRLc1ZsbV9icl9HQjhHbEZlSUpvejFpa1Q1VU5fNkxYMGxvbEF6eHRkdkpnWEZySWFmNUZjZ0Q2aV9hRldNVTRWNkNTYTJWemtRczBxTjA4TG94WU9DdkdPTmcxMHU0MmpTUWhneTBOVGgyM090clRvd0JycHVnVWlPVGpoLWpMeVRlYWJTamN0cklOeUswaHhrczdrUkhORUJDUkxSRi1HVWNFZFhka1ZlR1R2cW5vZ0RZYUxGMlROTFBLUUx4MUQ2S2VhLXdFMEl1azFrVDdsWFBzYkUtaU13YjVSSzYwazVF?oc=5",
-    "domain": "FC東京オフィシャルホームページ",
-    "seendate": "Sun, 25 Oct 2026 08:33:11 GMT",
-    "source": "google_news",
-    "sentiment": 0.331,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "WATCHLIVE",
-      "England",
-      "Series ODI",
-      "Live Updates"
-    ],
-    "india_related": false,
-    "source_count": 7,
-    "also_reported_by": []
-  },
-  {
-    "title": "Alibaba Cloud AI Hackathon brings together young innovators across Pakistan Breaking",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSzY3TlczVHJOVTUtOHBDci1lUXJBbkw5VFF6T2NCRnNZTGQzSFVfd3JpaWxZNVUyN3UzczhFQVRwRHBWbmpwRXFSLV9WczdxTlZTLVRvTHkyQU1pMWlKdVh6Vi1TUXpfakM4aVdWZFQ4R0VMWDRWVk1Kekh1V1NfZURZT3ZQeDFPeVpsYks3X25IUzVNYTh1X3ZMRnNsX0twblQ2MmlncFRXeXRSdzFnc1dIaVZiVkVKOW1uNg?oc=5",
-    "domain": "Independent News Pakistan",
-    "seendate": "Sun, 25 Oct 2026 11:53:16 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Alibaba Cloud AI Hackathon",
-      "Pakistan Breaking"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Decoding defence deals",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xeWNVUkJGS05ZQjlQMGZBSmcwVVU0TVEwZjJneEJtLUlVVWpQZVNBbkkyVmlGaUdoN0l2b1dMUU5GSXMwcDhqbA?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:20:35 GMT",
-    "source": "google_news",
-    "sentiment": 0.1027,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Decoding"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "~(LiVe) England vs Pakistan Live Broadcast",
-    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQeTlMSk9wc0xJaHBmMlMwc3BqZUdVN3hUeVdFNVE1RW84S0pyU0l4djUtSmN1Qk9fX2VzV0ZsMDV1ZkNUaTlUWGFzLWl0WHdFMk9qOGJLOVlaeWdqZkMwSlFTNG9LYlNaTnV4a0NFLS1nM0pWdHZwTXNYeVN4QlpXVGZCdDZkVEh0TGNfWkdVb24xS3lRMVhuX1pLWkxtY01hYmlERWRmVGxiSG5XU3FBMUpMU3ppREd0aEZLZWFmSl9nNEdWcVZDVTlzb1YwbUxSMFVTUmdEaDhhbEdRYzZxeWttc0pIaUUyMHhLdGRmZmpzSGRGRnV2aG5WNExsLWNYLUVtUlJQVm9faWpjUzJSYXpIVVlibXJMb2hVcFl6bGpHQTlTUkVaNzhKdGpaY1JubmtR?oc=5",
-    "domain": "FC東京オフィシャルホームページ",
-    "seendate": "Sun, 25 Oct 2026 08:26:18 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "LiVe",
-      "England",
-      "Pakistan Live Broadcast"
+      "Canada"
     ],
     "india_related": false,
     "source_count": 2,
     "also_reported_by": []
   },
   {
-    "title": "Jailed leaders urge PTI leadership to forge consensus",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE44ZGpOODVTWFBOYkVHelY5bmpUR0FnbVRRcm1FSGZYWFZia3FUclYzWlRDN1JxM3BUYmE3S3ZiSU9RYlk1eTBYQQ?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:20:19 GMT",
+    "title": "Pakistan vs England 4th Tri-Series ODI Live Streaming: When And Where To Watch Live Telecast",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPb0hiTHVlRXlrSE90V3dXQ1FzNWdOQk91RmxGaWwwbTBMQWJPVTBrc3U5S2VfVWhsUkkyaU1WQ2VRM01jZnlGdXF5TkRkQVl5Uk4waTN2am5aNGhHSWZSQlRRcXU2a3ZnUDhscllqSDJiYXNfTUduSWt4UmxxWWk1WmN6eW01X0JLWkd0OEdiMzZJWWhmeGZEY3djdHh4NjNpOFhGYTAycU50TVlxVS1hSjNzejlONzBDV0staEcwc1hMUkk0RjVWYUIwOGY?oc=5",
+    "domain": "NDTV Sports",
+    "seendate": "Sun, 25 Oct 2026 06:11:24 GMT",
     "source": "google_news",
-    "sentiment": -0.4939,
+    "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Jailed"
+      "England",
+      "Series ODI Live Streaming",
+      "When Where",
+      "Watch Live Telecast"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Iran Considers Measures to Ease Export Barriers to Afghanistan, Pakistan and Iraq",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jT01LOWZTTGRzZ0pfMlYwWVFiM1dYN1l4Vko0V2VXM0p1UjBzLUlaMmc0c2syOGMwaDQ4c1pVempsaW4yVFIzbjJxYzdIR00?oc=5",
-    "domain": "thekabultribune.com",
-    "seendate": "Sun, 25 Oct 2026 08:13:23 GMT",
+    "title": "Pakistan’s ‘Form 47 government’: Why India uses the term as criticism",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbWpFbjhjb3podTNJQVdsTlp2OExxODUyTUdRTU5JTmZhbTJiZ0xvVWpGVEctWGpJbUtoUm1saF9vME13VWZDeW13LVZjcWVBMUNKX3pXd0FCTVE4OFJUeG5FeDRaQ1JsaGozRV9BWTd0UUtaZFBRMUxQMFRRaHBocFVmdVBCZzBiSlVDMEcxUFl2LTcySUhHeFpYUm51cEJQWlJWeGh0cnZCRGpDM3FjRG530gG4AUFVX3lxTE5wVTA4MXdSTVFIWEcyQUN4RzkyQmVuYWYxQndFNkdFR21SNXN0MXd5Nk5BRy02bUFuR1hyd3FkYkVIZmh1dThFWkZ1YXRQN1hxMEVGanM5MEYweVowdGFCNWE5em56SHgxdk9DeDhHc09ObUotQkx3WkR6bkxKbl9VX1EtdTdCeFkzN0xtUk5kNlhCbkplSWpFVk5iY3gtZDFoeUVGNUQycUFxbVRrTEkzRkpHYUllcjk?oc=5",
+    "domain": "The Indian Express",
+    "seendate": "Sun, 25 Oct 2026 08:42:00 GMT",
     "source": "google_news",
-    "sentiment": 0.3612,
+    "sentiment": -0.4404,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Iran Considers Measures",
-      "Ease Export Barriers",
-      "Afghanistan",
-      "Iraq"
+      "Form",
+      "Why India"
+    ],
+    "india_related": true,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Police defuse 20-kilogram improvised explosive device in Pakistan — Dawn",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbXdXbkw4VGl0Y0RyUlc5eURYc2VhRUNhRTczbmdGdVpXek9hNWlGRVo4WG8zQUdHdkxDaHFhQXdBRTh1WW1YVVdmWkMtdzhTbFZqc1J1QTh5V1l4RTdOaHl5RXhaV3RlallzSXVVWlhBeXlyMWstQllCZFdRX01wR0t5SzVTZUpBdXZndXVmVVdoTnpuLUoyOTFoeTRzdEE4c2M3Y0F3a1AxV0dGYVJpSmxHcXRvaVlSVFE?oc=5",
+    "domain": "UA.NEWS",
+    "seendate": "Sun, 25 Oct 2026 08:58:07 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Police",
+      "Dawn"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Indian Punjab CM wants to attend Lahore moot",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Mb2RnREg2SzBXWnJ6UzdGNzlULXV1MVJhWk0zTXIwNHR6WldnUklJNFhVdVJvNENPR1JDdTdrb0I0SGNSeThrWg?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:19:45 GMT",
+    "title": "Indian Punjab CM Bhagwant Mann Expresses Desire to Visit Lahore for World Punjabi Conference",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT19ZOWhoc3IyTHloUWFOWENYVURad2RtLTZzUDViVlBnTWFIVFk5cktqTVY1bU9kT0xKQjVWREJnRS0yOFQ4dTRCbnVDU1lqU1VZclFLdDZqd2FkcEowcXdOTW9EVXZPRkIzU0NfdzlvOXJIYUZSdXFwcWF4ZDhGSzFEYjJjdHFMSGRTQ3dPc0pFenpELXBXdGs0emI3Zk1WS0pVLTUzdllXWVNuLXFhQlNGVjVOdw?oc=5",
+    "domain": "Pakistan Matters",
+    "seendate": "Sun, 25 Oct 2026 13:09:39 GMT",
     "source": "google_news",
-    "sentiment": 0.201,
+    "sentiment": 0.268,
     "date": "2026-10-25",
     "provinces": [
       "Punjab"
     ],
     "keywords": [
-      "Indian Punjab CM",
-      "Lahore"
+      "Indian Punjab CM Bhagwant",
+      "Mann Expresses Desire",
+      "Visit Lahore",
+      "World Punjabi Conference"
     ],
     "india_related": true,
     "source_count": 6,
@@ -1113,21 +1121,19 @@
     ]
   },
   {
-    "title": "Indian Punjab CM Bhagwant Mann Expresses Desire to Visit Lahore for World Punjabi Conference",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT19ZOWhoc3IyTHloUWFOWENYVURad2RtLTZzUDViVlBnTWFIVFk5cktqTVY1bU9kT0xKQjVWREJnRS0yOFQ4dTRCbnVDU1lqU1VZclFLdDZqd2FkcEowcXdOTW9EVXZPRkIzU0NfdzlvOXJIYUZSdXFwcWF4ZDhGSzFEYjJjdHFMSGRTQ3dPc0pFenpELXBXdGs0emI3Zk1WS0pVLTUzdllXWVNuLXFhQlNGVjVOdw?oc=5",
-    "domain": "Pakistan Matters",
-    "seendate": "Sun, 25 Oct 2026 13:09:39 GMT",
+    "title": "Indian Punjab CM wants to attend Lahore moot",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5Mb2RnREg2SzBXWnJ6UzdGNzlULXV1MVJhWk0zTXIwNHR6WldnUklJNFhVdVJvNENPR1JDdTdrb0I0SGNSeThrWg?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:19:45 GMT",
     "source": "google_news",
-    "sentiment": 0.4019,
+    "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [
       "Punjab"
     ],
     "keywords": [
-      "Indian Punjab CM Bhagwant",
-      "Mann Expresses Desire",
-      "Visit Lahore",
-      "World Punjabi Conference"
+      "Indian Punjab CM",
+      "Lahore"
     ],
     "india_related": true,
     "source_count": 1,
@@ -1153,6 +1159,33 @@
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
+  },
+  {
+    "title": "Punjab Film City | Modern Film Studios | Pakistan Film Industry | 03 PM HEADLINES",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBlM1l0eUd4YXozZGZaRVM3ZFRXWkhFakZlejdRaFNrLWxzVjloRDhlTllqX21FNlpJcHo5NjRhQzh6bW51NzFidXhaSkg?oc=5",
+    "domain": "Aaj News",
+    "seendate": "Sun, 25 Oct 2026 10:55:08 GMT",
+    "source": "google_news",
+    "sentiment": 0.144,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab Film City",
+      "Modern Film Studios",
+      "Pakistan Film Industry",
+      "PM HEADLINES"
+    ],
+    "india_related": false,
+    "source_count": 7,
+    "also_reported_by": [
+      "ARYnews.tv",
+      "Aaj English TV",
+      "Pakistan Connect",
+      "ProPakistani",
+      "UrduPoint"
+    ]
   },
   {
     "title": "CBD Punjab, Ruda showcase landmark projects to Saudi investors at SPREX 2026",
@@ -1195,6 +1228,63 @@
     "also_reported_by": []
   },
   {
+    "title": "Old flavour of rivalry gone, we’ve consistently beaten Pakistan: Sardar Singh on arch-rivals’ withdrawal from Asian Champions Trophy",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPVlpZZWVNbVJLRUhEWU0ybHVWM0JFaHhyRmJEVm5mZDhqOVdDenFoNFdIVEhLYldOUzQ5SzFVczVHQU1VZXBHbEFRLVlGWHNUai1Uc2g4VnZhaU5zOVpfdlRJN3I2alNjR0Z5UTFoRTVkX1lVdG54RGhZQno3d21zMVZaeHdoR3drQlFWZ2hpNUUtLXdWZGVKMnl6b19qbUZXeF9LaUNHUzA0RnVaZ2RQQTEzZXg4QWV5UXdpblBpY0ZsSVpnZjkyenBqbC14V2tUWkJPZWw5akluTXQ4NUhKUXlsckhUYW1ER3ZaNHFnOF83SXVUTkdSMDRfMTJaZE5WM2RR0gGDAkFVX3lxTE9WWlllZU1tUktFSERZTTJsdVYzQkVoeHJGYkRWbmZkOGo5V0N6cWg0V0hUSEtiV05TNDlLMVVzNUdBTVVlcEdsQVEtWUZYc1RqLVRzaDhWdmFpTnM5Wl92VEk3cjZqU2NHRnlRMWhFNWRfWVV0bnhEaFlCejd3bXMxVlp4d2hHd2tCUVZnaGk1RS0td1ZkZUoyeXpvX2ptRld4X0tpQ0dTMDRGdVpnZFBBMTNleDhBZXlRd2luUGljRmxJWmdmOTJ6cGpsLXhXa1RaQk9lbDlqSW5NdDg1SEpReWxySFRhbURHdlo0cWc4XzdJdVROR1IwNF8xMlpkTlYzZFE?oc=5",
+    "domain": "The Tribune",
+    "seendate": "Sun, 25 Oct 2026 16:37:21 GMT",
+    "source": "google_news",
+    "sentiment": 0.49,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Sardar Singh",
+      "Asian Champions Trophy"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "The News Mill"
+    ]
+  },
+  {
+    "title": "Governor rejects ex-health CEO’s plea in Jhang embezzlement case",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5PMG42UEs1QVIyd3FqcjU1UC1oTE1BdERrYW9GT1BQTDRkR0d0b3RVcGdMUlg1bFhMRkYyOFIwcHZCTlBZcUJxXw?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 04:49:55 GMT",
+    "source": "google_news",
+    "sentiment": -0.329,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Governor",
+      "Jhang"
+    ],
+    "india_related": false,
+    "source_count": 3,
+    "also_reported_by": [
+      "Daily Lead Pakistan",
+      "www.thehawk.in"
+    ]
+  },
+  {
+    "title": "Punjab establishes dedicated tree orchards in Faisalabad, re",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRVNnSzQzd1E5Z3U3RUt1Yjd4VlpBcmc4SEhtNHhTRGkwQ2x2OXAyTU8xMXp4UUVpdDBWV0hxVzJFZ0NpZ2tjR0NqaTI3UEc3Zk1fMFNTazg5dWFIZExqZ3Y4cFlFSnhPVzJZV1dOdUhBMElBUkRpLUY0N1Y0XzBTMU5mWHJPSkg2ZDJUYXEyUXc5YkFxSGstN0E5MWJpdnh5VDlYVDJrTWNMRkF2XzcxT2ZfMy1HRmpxdUV6Tm1WYk9GOXhOZ1Ew?oc=5",
+    "domain": "Pakistan Today",
+    "seendate": "Sun, 25 Oct 2026 16:41:22 GMT",
+    "source": "google_news",
+    "sentiment": 0.4588,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Faisalabad"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Monis Elahi Alleges Punjab’s Biggest-Ever Wheat Robbery",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcEJtVW9YTk45TVZ1U1pQMFJJTWpXdmJyVFhMRkdBM0RwU2cweE9LQldqY0Qzb2RUcmVZN1pReE1Pc2d1T3M2SjlLYjBrRndQOXFMeVN6WnM5WFFLZEMwZ2xWVmlCZ3FYNXZjdGNPWHpPc1NMM050b3c5cW9fdDhXdkF0aXR5NmZycDE3SjFja2wzSlFkcGhMUEZ1WEVqd0tQYldISGJn?oc=5",
     "domain": "UrduPoint",
@@ -1209,67 +1299,6 @@
       "Monis Elahi Alleges Punjab",
       "Biggest",
       "Ever Wheat Robbery"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Punjab Holds First PGET for Postgraduate Medical Admissions",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamdHYm9hR1MwMDc3TVJYUVBJWlRpeENpT28yanFMRE93TEZyYXJGQ2ptZlV3SmtOcDR2WjBRYzNPZF9oMTh5cTdPclNwRWt6UXBOcHlLdC1hbEpCdG1HSnJUU0hDSmY4MDJyOE1Fc1lpM1ZJbElrdGJxa2w1SEhYeWFHdzE1VFdsbzBuQg?oc=5",
-    "domain": "Pakistan Observer",
-    "seendate": "Sun, 25 Oct 2026 10:02:52 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [
-      "Punjab"
-    ],
-    "keywords": [
-      "Punjab Holds First PGET",
-      "Postgraduate Medical Admissions"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Punjab Film City | Modern Film Studios | Pakistan Film Industry | 03 PM HEADLINES",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqczh2eFlwbEwxalFwV2xxOVo1MElmV0Q0dVNvS1YwUVFUTnNQZjZfS3pudTZjUXM5cGhWaFBlOUs5RkJKOFZ2dXpwRDlfX3pnVDhR?oc=5",
-    "domain": "Aaj English TV",
-    "seendate": "Sun, 25 Oct 2026 10:50:09 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [
-      "Punjab"
-    ],
-    "keywords": [
-      "Punjab Film City",
-      "Modern Film Studios",
-      "Pakistan Film Industry",
-      "PM HEADLINES"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Pakistan Connect"
-    ]
-  },
-  {
-    "title": "Met Office forecasts powerful rain spell in Punjab from October 28",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG9pUkllRG9EUEdtQ296aktkU0JvbFNJOEkyX3o0b1V0SkQwc0dWUjJNelNQdEZzU01XSHg2dmI4cl93M3ZKb1BBc0tGNWNYZy1Mb3lzUzREU0o1TTBabGVBYzEzVW9RaFVLczdoTnF0V0hPLU9yaW5tSHk5d0hyOHFETGwzT2ttYU5md0kwblBtLWI5SnQ4WnZKYTQ1dGI2UmZ0cms1UG9YVHFRSWNj?oc=5",
-    "domain": "Daily Pakistan",
-    "seendate": "Sun, 25 Oct 2026 12:30:26 GMT",
-    "source": "google_news",
-    "sentiment": 0.4215,
-    "date": "2026-10-25",
-    "provinces": [
-      "Punjab"
-    ],
-    "keywords": [
-      "Met Office",
-      "October"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1296,6 +1325,25 @@
     "also_reported_by": []
   },
   {
+    "title": "Punjab Holds First PGET for Postgraduate Medical Admissions",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQamdHYm9hR1MwMDc3TVJYUVBJWlRpeENpT28yanFMRE93TEZyYXJGQ2ptZlV3SmtOcDR2WjBRYzNPZF9oMTh5cTdPclNwRWt6UXBOcHlLdC1hbEpCdG1HSnJUU0hDSmY4MDJyOE1Fc1lpM1ZJbElrdGJxa2w1SEhYeWFHdzE1VFdsbzBuQg?oc=5",
+    "domain": "Pakistan Observer",
+    "seendate": "Sun, 25 Oct 2026 12:03:14 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab Holds First PGET",
+      "Postgraduate Medical Admissions"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Video Allegedly Showing Protocol For Saqib Chadhar Goes Viral, Maryam Nawaz Removes Jhang DC",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb1hwcXRNVVlOM3dMRTIxaWpJVnVoX3g4ZEU0NjBsaVZsMWpJNnZmZ2pGMmFqclFWRzFHN2tqVkU0YmF3bGFMcXpydkxyVE1jS05hMUt6czRiU3BqT0RRSzh3OG1JQ05Hc2NTUi1tMzJRbEd2NGxLZEk5eURhSlZ6d0Zqd09nNVoxQklGTjdVSlM3OTIwTGZaSDBGQ19wT3NYNlRwZlRB?oc=5",
     "domain": "UrduPoint",
@@ -1309,24 +1357,6 @@
       "Saqib Chadhar Goes",
       "Viral",
       "Maryam Nawaz Removes Jhang"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "PTA Urges Cable Operators To Join Licensing Framework For Better Broadband Quality",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVktjVVJEZlJFTUdLckxITmlxMGV1azlkc0VVV050bHpNendrZHBWOFY0b2kyWjJFZXo0WjhIUDhndDlXbXB5UzFqZ2phb1M4TmVQWEhSNDUycE95NmZfV0MtOWVxNmpOeV9KWmRrZEgtX0prc2ZxdVIyd2lsbHRyTVFpS2J4elp1Q2RoWjM1QnVrTjU2YWtKQmRn?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sun, 25 Oct 2026 11:55:22 GMT",
-    "source": "google_news",
-    "sentiment": 0.6249,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "PTA Urges Cable Operators",
-      "Join Licensing Framework",
-      "Better Broadband Quality"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1351,6 +1381,27 @@
     "also_reported_by": []
   },
   {
+    "title": "Met Office forecasts powerful rain spell in Punjab from October 28",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVG9pUkllRG9EUEdtQ296aktkU0JvbFNJOEkyX3o0b1V0SkQwc0dWUjJNelNQdEZzU01XSHg2dmI4cl93M3ZKb1BBc0tGNWNYZy1Mb3lzUzREU0o1TTBabGVBYzEzVW9RaFVLczdoTnF0V0hPLU9yaW5tSHk5d0hyOHFETGwzT2ttYU5md0kwblBtLWI5SnQ4WnZKYTQ1dGI2UmZ0cms1UG9YVHFRSWNj?oc=5",
+    "domain": "Daily Pakistan",
+    "seendate": "Sun, 25 Oct 2026 12:30:26 GMT",
+    "source": "google_news",
+    "sentiment": 0.37,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Met Office",
+      "October"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Pakistan Connect"
+    ]
+  },
+  {
     "title": "Navi Mumbai Police Bust Drug Racket With Alleged Pakistan Links, Arrest 75 In 10 Cases Over Past Year",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRXFaUE5HZi1UVU9hRG5aODR4RXZCZUJybElYY2JJeVlZN1Q5TXRmYS1TVFdNWXNnbklsZVJiOTNLSkMyOHh3YVh1bVBVWVQ5NU5XRDFTeDI3SE5EQm5tWUVfcFhpVVBZYXVFTk95cmFpdUlFTFdHUDl5QTBoMWhGT2RtSFREdFZKcVJrSWp0NjVXUE1ha3VIWHlrU1dVNmZjVnppVkRXYTE0WFNNYTJpQk55bVdXWGpmTTMxN2wzOHowSXhBVWhZNHFoWkQ0U1JwSFk0TEl30gHbAUFVX3lxTFA2N3AxZkFZVnA0ZTlYM2NMVFUtYXZlSFlKZmNfSjlHYllOQmxuRmYxYXROTWxRdVpwel8wSE85TmY2NkppeWk0V2FwSXJaaXVTN3hQcEVJNzk3ajBlZ2xNeWNtYVQ4ZnBkeGxBYmVKaVBUbU9PM2dSR3NkYnBaX2ZJTkVhMHFVWVJDVmNtWjB0LW9ZYWJGcExwV3pQb2hMMnE3eFo5bWQyMkxvdXN6NVlUT1MxUmVNT0M0NDRhN2RwRmUzX21jQnJLWWpZNlUtbVh6NC13SE5Na3ZVYw?oc=5",
     "domain": "Free Press Journal",
@@ -1365,6 +1416,237 @@
       "Pakistan Links",
       "Arrest",
       "Cases Past Year"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "14 Killed, 1,617 Injured in 1,415 Road Accidents Across Punjab",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOENGbHo2cEIyWmk5YUdTTnpuYjkzRGptaUthUXdBLTdscFd3TUFfWDZvc2wwVlNoWGJLV0RfOTlNWTVGZi1vSEg5akpDVjJYa2M0bVNEY1VUYlBrMzcybGx6ZU92RDZ5LUpnWlVVQWZ4TGw0d2pBbG1aM1NNSGd1SFhkd2hMS0lONVB0RmxsVzRCcDhJRzhsc2VJYUJCLW1OLWRSY2JldmpOcXM?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 18:23:40 GMT",
+    "source": "google_news",
+    "sentiment": -0.8591,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Killed",
+      "Injured",
+      "Road Accidents Across Punjab"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Auqaf Punjab Chief Reviews Data Darbar Development Project, Stresses Visitor Facilities",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOc0JNTlpwVGFKUHloR0JDQXViX2xWZUxaQjRNYzM2M29SVlA5YWtPY1dpREtzSEFfcmVUbEtnTHNVQ0NqYU01UWhmT19xNFVwNUpIcExYU29QTTdQa3d0S1E0TFhOZjdYcEY5bFRqR0JFbm83YW5tQzlhRTRidmNwTjFhb2NqXzN6ck4xUGJpSENzWERlRVc2ZVhZdTM?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 11:30:15 GMT",
+    "source": "google_news",
+    "sentiment": -0.2023,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Auqaf Punjab Chief Reviews",
+      "Data Darbar Development Project",
+      "Stresses Visitor Facilities"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "PTA Urges Cable Operators To Join Licensing Framework For Better Broadband Quality",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVktjVVJEZlJFTUdLckxITmlxMGV1azlkc0VVV050bHpNendrZHBWOFY0b2kyWjJFZXo0WjhIUDhndDlXbXB5UzFqZ2phb1M4TmVQWEhSNDUycE95NmZfV0MtOWVxNmpOeV9KWmRrZEgtX0prc2ZxdVIyd2lsbHRyTVFpS2J4elp1Q2RoWjM1QnVrTjU2YWtKQmRn?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 11:55:22 GMT",
+    "source": "google_news",
+    "sentiment": 0.6249,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "PTA Urges Cable Operators",
+      "Join Licensing Framework",
+      "Better Broadband Quality"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab Establishes First Dedicated Orchards For Trees Relocated During Development Projects",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMEdUbURteFcwbG9PR1NDamg3cUxyMHdEUG5jUTVlUTRjblZlTF9OTDlFLTBEdDhLNUJ4N19LMGVUeXZabWZQUGRhRFpXNUJJQTZXcXlwTlVWbVdaOU5UeTFhd3UydnFIQnRkY0h6VTh4bVRfNzdRbUJwNGM1MDNSV1U2NzV1OFE1WGVLTDFTOVh5Mkc4MHZyUA?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 12:35:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.6369,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab Establishes First Dedicated",
+      "Orchards Trees Relocated",
+      "During Development Projects"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan Polio Campaign To Vaccinate 23.9 Million Children In 97 Districts",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV21EeHNucUxNM2YyZkpVamstV1BVQ3I2YTZNelluaVc5VTN2SENjMXR0YUFpTTBydDY3dHFJNHpyTWhWVUJJUFNoRnFIakpwTXNFclZTazFrMW54emRoQWs0OXZWNTQ4d09GVTZBblFjd1FWaV9EMmwyX0YxZk80V1dLVXZlaFZoOFZGcWppaExpSWs3SkZFNENkWQ?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 12:35:39 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Pakistan Polio Campaign",
+      "Vaccinate",
+      "Million Children",
+      "Districts"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Two Rawalpindi Division Special Education Students Win Punjab Art Competition Events",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVmdLaUM3c3lDNnlvZEFrcmhBUE01RDd6OFRXNXZ0Mm1yMXBpUnRRNUQ4eUtVal9uMkUzQmtlbW5LVmY3R2JqYlBiOGotUkQweUd3T2xvNjcwLVEyenR0c0paOGw2LTZ1WkV3ZWlvUG9OeDlDVF94TlNhRDZybVlVc2ZNNmVjWloyUnVUdngyTnhwZjlFYXM0?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 15:50:31 GMT",
+    "source": "google_news",
+    "sentiment": 0.7579,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Two Rawalpindi Division Special",
+      "Education Students Win Punjab",
+      "Art Competition Events"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Can Punjab’s Film City bring Lahore back to the global cinema map?",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMEFObWVma1N4YkJCSmpwZGh2Zl9CUTFuYWZuMHRUWlplSGFjTG5jdjQtR3E0ekJrZUh3SEgwVnowR1VxeGVobWMtS05pNnZJOER0RmJQblhlb2c5alpIX3RxNEg2Xzhaend0eG5rbWF3cnNVT29tVkN0TXVOSW5iNlJnYTVva2F0amdrSUozNHJQS0lTZi02WjJHN0E3eWUwVkE?oc=5",
+    "domain": "Minute Mirror",
+    "seendate": "Sun, 25 Oct 2026 15:50:21 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Can Punjab",
+      "Film City",
+      "Lahore"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab Health Minister Orders Action Over Insulin, Drug Shortages At Multan Hospital",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNnB2Wi1QamluMWJjSHZqb1poQlJGMHlXR3JDTmprYTBGV0lPamxULU1nZ2RfVU1xRUxaT05jdXJKVjZMUG1ZRHdpT2o2VkNxSTJwYW5GTGQzMFBubDM5YmpCMlN0VEZETGNxellYUWY1X0x4N1FpalZNYk1NY0xwRzR3TkxoNWp4TjBVTGcwQk8zRjlaZUJFdWM4cw?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 12:55:55 GMT",
+    "source": "google_news",
+    "sentiment": -0.1531,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab Health Minister Orders",
+      "Action Insulin",
+      "Drug Shortages Multan",
+      "Hospital"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab CM Sets June 2027 Deadline To Complete 5,734 Water Filtration Plants",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNY3p3Y2JPU25EVkJzTEJxS241V2I3c2RzWFV6ZF9udi1zeWpNeHY0YXlCdzNGVWhXVlVSSEFYRU1VWmdyaXBNcmhRaUxGU2sxZ2ZabHpXZUJET1pvcnZuajBsOTJ4MEJLd2tTdU44UlFuR3N3Q1BWRENwOEsyRnFQaTZmLUtjdXpfMVVPQXNOLWhLaUk2RE55eGp6aw?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 06:35:04 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab CM Sets June",
+      "Deadline Complete",
+      "Water Filtration Plants"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "UCP, HEC and PCB team up for nationwide cricket talent hunt",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDFTcjBwaFptNlVJQnRiX21lYk9Kbl9HVW4yQ1k4akdGcDlCUGs1X0VFSUNhVnF3MFNKcjNXZm1vVXdUb0V3OVRZNXVSU1UzYWJUZ2ZlaElhanNOVVExRzVFWWNyaU9BS3RMVGYyQUxweV9RREoxUHhYOHpqZ3lxZmRpR256S053OU81ZHNLbzFSbFoxT0VROGZNN0xMYU5s0gFWQVVfeXFMTUNZRGNDNXpiUFRMY3VDVFhkeUVkNkliNXNfV09vZ2R4ZXNUaUFJUENDSVJ1OXZsVTZvQWQzUUZoSjltY3dTYWZuZFV0dHdmeDRyRG5PcHc?oc=5",
+    "domain": "Dunya News",
+    "seendate": "Sun, 25 Oct 2026 07:31:24 GMT",
+    "source": "google_news",
+    "sentiment": 0.4215,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Citizens alert: Traffic fines increased, motorists face higher penalties",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc2FpejVGWUJJZUZXYzV2LUktVG9aN2RnTXlycHd0NzhHOW1RdzdYSjZkSjM1YjNRenBqZVRJc1prdzBBWXZkTFJmNGg3dXVyWE9fUVBVci00WGpRWG5LdG9yRld0R3dVN082YlR6bWY2YUY0QmV5aldaWXhnbmV5Zlp5Zlk3VklpRHN1dm1kcGNFMlRXSTZCY2wtNE4ycFhzNzV2Ng?oc=5",
+    "domain": "Pakistan Connect",
+    "seendate": "Sun, 25 Oct 2026 17:26:19 GMT",
+    "source": "google_news",
+    "sentiment": 0.5106,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Citizens",
+      "Traffic"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab CM Mann Congratulates Jagsher Singh On BWF Junior Worlds Bronze | Today Sports Match in English",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVZTTzl3dGI2UTZyOThZQW52RXhBTl96T20zMHZwT2xNTDBBdVo4ODlYWEE5SkRPSnJzVExVSGQ3R2xPRlBNMWx2NEQ0T2cwc3pFZGNRSXdEU2N3WDRfamRCenNrbVZzZTg1Ni13eFQ1bEwyYWZLaTB4WjFKb01yMFkxa0ZUZXgtZFptajQxdF80cm5BaDFBaXpHTGRmeHV5M00yZlYtOGpPbFBoa2Zyak5MQzB6RzIy0gG-AUFVX3lxTE9KQUlKdkM5OFQ3QW1zT1BUdmVVblZVbC14SFJaUlFOb2U2WXIxMXpSYzFmeExvNTNKWGJNOER6ZU9ObVpIcS01X0lSMUNRc2pvdkwzVjE3ZnhwRm9qRmhaOTVzV3lSWDg5ejR5OEt2T3RvYURhakZ1Nm40bzFzR3Z6Y0x5STBBUDZ6QnV0N0c5ZV91VkhsdXVPSlAzaVFMcGthTjF6TlRxSzlnZTV5ZktfWlAwTmVjdU1LVngtTXc?oc=5",
+    "domain": "Cricketnmore",
+    "seendate": "Sun, 25 Oct 2026 10:20:04 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab CM Mann Congratulates",
+      "Jagsher Singh BWF",
+      "Junior Worlds Bronze",
+      "Today Sports Match",
+      "English"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1509,6 +1791,24 @@
     "also_reported_by": []
   },
   {
+    "title": "Sindh revises SPSC recruitment rules, lowers passing marks to 33%",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWklYaWNQb2pnZXJ6T0ROSWVSZUtaTEpqME9nUFd4V0lWWVVMM2NuOHVudGpxRXh1VTJabzJCQjdlSGYwS0VXdWpjdzZsMS1GSDFkcHlkM1JBOE1zNGM2TTU3OV9jcWtLWkJGekJnRFdIcnNVdFNpb1ZqbzJoTFJ5U1JDbVBPd1Q2Si1ESmhOR2tILURZSUJRaWJDZXZhZDRvdElkdWlDbw?oc=5",
+    "domain": "24NewsHD",
+    "seendate": "Sun, 25 Oct 2026 10:44:00 GMT",
+    "source": "google_news",
+    "sentiment": -0.128,
+    "date": "2026-10-25",
+    "provinces": [
+      "Sindh"
+    ],
+    "keywords": [
+      "SPSC"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Sindh Mobile Health Units Treated Over 5 Million Patients Since 2016: Official",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbWNmVkFOSnNraEx6RTc5dDhYNVYzdGpoaGJJakE4RlRQQ3B3TEp4Wm8tcDQxdlZKNGVJYWZacXJBc3JUVGw4Qm5jU0NRbktmUG5VdEFSUnpoWmRJUWVHWk5ZNTBrbTFFSHBOOFJjVzZtYnJxVW44RmZ3TnRuYlVUN19hTnlDUnV1SmZPNklrTnl4ZVFSU2NoUTJ2QQ?oc=5",
     "domain": "UrduPoint",
@@ -1524,24 +1824,6 @@
       "Treated",
       "Million Patients Since",
       "Official"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Sindh revises SPSC recruitment rules, lowers passing marks to 33%",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWklYaWNQb2pnZXJ6T0ROSWVSZUtaTEpqME9nUFd4V0lWWVVMM2NuOHVudGpxRXh1VTJabzJCQjdlSGYwS0VXdWpjdzZsMS1GSDFkcHlkM1JBOE1zNGM2TTU3OV9jcWtLWkJGekJnRFdIcnNVdFNpb1ZqbzJoTFJ5U1JDbVBPd1Q2Si1ESmhOR2tILURZSUJRaWJDZXZhZDRvdElkdWlDbw?oc=5",
-    "domain": "24NewsHD",
-    "seendate": "Sun, 25 Oct 2026 10:44:00 GMT",
-    "source": "google_news",
-    "sentiment": -0.128,
-    "date": "2026-10-25",
-    "provinces": [
-      "Sindh"
-    ],
-    "keywords": [
-      "SPSC"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1564,10 +1846,8 @@
       "Hours"
     ],
     "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Unisba Media"
-    ]
+    "source_count": 1,
+    "also_reported_by": []
   },
   {
     "title": "Seven batches of six medicines declared fake in Sindh",
@@ -1665,6 +1945,26 @@
     "also_reported_by": []
   },
   {
+    "title": "Fixtures, Schedule | Cool & Cool Presents Haier Pentangular Cup One Day",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWkR6QTd0U1E5OWJFQ1FPTzhEX1R0dDZyYjVLOFpnQU5MM3NYNVBCMmhZaEhmQzRDZ2N5NmxZbGVKd2oxbUY4SnBPaXljZzd2YTVMQkZBY0tWakNMakNLYUNLa0JJRDZPTU5ZZjRrVVp6R0dMd0pZclU5bWVNdmpvX1lR?oc=5",
+    "domain": "Cricinfo",
+    "seendate": "Sun, 25 Oct 2026 14:09:16 GMT",
+    "source": "google_news",
+    "sentiment": 0.5574,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Fixtures",
+      "Schedule",
+      "Cool",
+      "Cool Presents Haier Pentangular",
+      "Cup One Day"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Khyber Pakhtunkhwa’s Mineral Wealth and the Test of Governance",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOGxUTzFBN2cySHlhWlM3bVlQTzM4OW9PZGRXVk5pOU1wT0NTVjN1Q1NMYTE1MzFud1pEcnNobVo0bTk1S2ZEQlJRNGhBbTc2M0lCTlVseVNIeFVxQkcwQlh5NFl2dzN0V0tKN1BqZldjSGQzVVl4NzB5ZUJqU3VZcW5pRVNnLW5FMURXVUQ4WXo?oc=5",
     "domain": "Capital FM Africa",
@@ -1738,8 +2038,26 @@
     "india_related": false,
     "source_count": 2,
     "also_reported_by": [
-      "Daily Times"
+      "Pakistan Observer"
     ]
+  },
+  {
+    "title": "KP Economic Zones Audit Reveals Rs18.46bn Losses",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLWtCbEt2bUxPN0dBWXE1MEx5dDBDUU5MUlgzZFZQSWRZZDVUSkFlUVpzaWNJOTg3bzdlRlRMU2dXMVEwbjFUMU1aV1pNWHJ0S1B5ajNIandWU0pmd01IME9RNjFlTExCcjVXUm5IVGlXb2VuV0xJV1ZPQlFKUEo2UUtjVkVpckpiSTJuQnVR?oc=5",
+    "domain": "Chitral Today",
+    "seendate": "Sun, 25 Oct 2026 13:33:14 GMT",
+    "source": "google_news",
+    "sentiment": -0.4019,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "KP Economic Zones Audit",
+      "Reveals",
+      "Losses"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
   },
   {
     "title": "Limited checks",
@@ -1770,24 +2088,43 @@
       "Four Mpox"
     ],
     "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "UA.NEWS"
+    ]
+  },
+  {
+    "title": "For peace in our times",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtUmtmNDlENmFyTHpoVkJtWDdkMnRKTXVxVU05VkJMWV9KLUJBOEl4VW9rSEh3czVEbW1GbDhDY3lpTmlIQUNzY2lYbWVWOW9NS3RnUWh0RjZXR01uaktkdzFpdU5UOVZubDZjUnRrcklmZw?oc=5",
+    "domain": "The News Pakistan",
+    "seendate": "Sun, 25 Oct 2026 07:58:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.3818,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [],
+    "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "JUI-F KP directs leaders to quit ARDC",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBzcmdXOTk1Y1poMW5RVXViMVlYRWhxanpETTVEQXJPOXhKMUlPeWRvZkR3QU1tcUF3T1RrQkZzSFduODNuUVJDSA?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:19:51 GMT",
+    "title": "JUI-F in Pakistan orders members to quit new ARDC council — Dawn",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDBfa0hxNnlxaWNackk5dUlWMi1YZHc1STJ1ckpUcU1HRG1ESERoWTN6OVJabVREcXRZQVUtQS1HSk55Z2dkRnRNT2RMUWg1QnVVX2pGZTlROHBEZHRTZGQzTHR5QUd3UW16U3pzVFhTUVpaLUlEQUNqbVczN3ktbGRnSG9UeG9LUnRubXphbmhSWlpYTVFNVk1ZQXM1QQ?oc=5",
+    "domain": "UA.NEWS",
+    "seendate": "Sun, 25 Oct 2026 04:04:43 GMT",
     "source": "google_news",
     "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "ARDC"
+      "ARDC",
+      "Dawn"
     ],
     "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
+    "source_count": 2,
+    "also_reported_by": [
+      "Dawn"
+    ]
   },
   {
     "title": "'Sports can help curb extremist mindset'",
@@ -1806,6 +2143,22 @@
     "also_reported_by": []
   },
   {
+    "title": "Registration doesn’t hold up a roof",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMy1rU2l6ODR5VFZoS3d3cU9GNHdWT3pvdE56NllPZGxZdFlOdUY3bmlaMlRNSFJzMlo4VlYtOTY0b0tHVGhPdVdxS0RlTUpvSGZvRVcyWmNHODFtVnhtUDBDTWRBX1RvS0x2c0diOFB5MmdPLWNHWXFpQ0loNnRTR1Z3?oc=5",
+    "domain": "The News Pakistan",
+    "seendate": "Sun, 25 Oct 2026 01:46:06 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Registration"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "NAB scrutinises PTI-era uplift projects",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYlpteDRPNU9HT2gxaW03aTJMbXEzUHR6TEdYNnpkLW5VYnllWjQwQWczeUxjOUc0TGRTSzltaUpuOU1LRmRZdVY0TktpM1czM1REcVVqZFBpUmhWRGwtYWdHaWhVSnQ0NTZUZGEwaTJleGN3cFlRU2syNWZXY0c0UmY4LWxCeTc5dUHSAYoBQVVfeXFMTmJabXg0TzVPR09oMWltN2kyTG1xM1B0ekxHWDZ6ZC1uVWJ5ZVo0MEFnM3lMYzlHNExkU0s5bWlKbjlNS0ZkWXVWNE5LaTNXMzNURHFVamRQaVJoVkRsLWFnR2loVUp0NDU2VGRhMGkyZXhjd3BZUVNrMjVmV2NHNFJmOC1sQnk3OXVB?oc=5",
     "domain": "The Express Tribune",
@@ -1818,6 +2171,62 @@
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
+  },
+  {
+    "title": "31,000 consumers denied petrol subsidy",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ0lCTzVTUnR3dTZKRDV6S1FiYldVQU56TjBzSEl5Wk5fell0bWRRYi1DeU9ZUDBWWmcxVjBkcmRuVWw3TWtMeFdhUElIb0tSZDFoNXRlY1Jubm5leDNvalpSald1UkNyTDZ3X0xPUDNKT2V3cFRLRXE1cFJubHh0SlFsV1Z6SEXSAYcBQVVfeXFMT2dJQk81U1J0d3U2SkQ1ektRYmJXVUFOek4wc0hJeVpOX3pZdG1kUWItQ3lPWVAwVlpnMVYwZHJkblVsN01rTHhXYVBJSG9LUmQxaDV0ZWNSbm5uZXgzb2paUmpXdVJDckw2d19MT1AzSk9ld3BUS0VxNXBSbmx4dEpRbFdWekhF?oc=5",
+    "domain": "The Express Tribune",
+    "seendate": "Sun, 25 Oct 2026 08:42:52 GMT",
+    "source": "google_news",
+    "sentiment": -0.44,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "5.1-Magnitude earthquake shakes several areas of Khyber Pakhtunkhwa",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR1hTQ1hfMUxEaThMcjVKMzluZUZ0WEtWWkNIRXMtWVlBLXNzbTRKWTgxRmk2dUJud0M2c3N2eG0zb3V0dXU1MDVhV0pZX0JHZmpmcFNESUFkQnY2SVJwVTVYY1N6LTBsWWZSZjg4SFRzaUF1MWpweXZhTVZjRzhKQnZpcGFrZkotWjRKb2tWVVQzakU3U25lZzNYdXFlRzlpS1E?oc=5",
+    "domain": "24NewsHD",
+    "seendate": "Sun, 25 Oct 2026 18:09:58 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [
+      "Khyber Pakhtunkhwa"
+    ],
+    "keywords": [
+      "Magnitude"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan: Rights Group Demands End to Governor's Rule in Khyber Pakhtunkhwa, Release of Leaders",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZk5waWRXYlhCekVqSXg4NGw0YUFBWG5aN19SSFlHckxDNVhqYUN0QTQ1Rk81LURiaUc1aXNyaVBXMVFRMXktS0tmMjZvalRXSDVlcFE0TGpNbDR1V01fcnNJNGlpSTZyQjZjeTVIWW90THNhMGFVOURRdm9UdnNZVWVsNk53em5SZThqU0lzWlJqeFoxRUNxb0VPX01OenVmbktTRkZIQVhYV1VaLXRUUFRLNjZVbnV3VzVROXdLVXlnX2FrVFppMXgyVVYxcDM0eW5XRDdYTnhUZGww0gHiAUFVX3lxTE9FUEptTXhUaFE5dGhHb1JiN0pVMndCZ0NuZ3Y0c0lUVFZNU3MwQ1NJUS1uVFFpRDdXaTV2QjFsa0prU3dNbzNjMTh6NWU2cV8xbm9JMXYwLVhhYWFhTC1WVjF4YTFhQkFUOC1ZM0hsNFk4c1pJNV90OERMbnN0NDg1VFJsX21oUHBzMzZDODFOaV95ODItOTRWOFNPREpSc3dIWnFUT3o0YjNFcm9XNlhqYXRBTEFGVl9UVEhRX1FJb1RfbXpZUjlqUVV4TTZFLUJxRDJUd2lLaVVobnFvVkpnY3c?oc=5",
+    "domain": "Lokmat Times",
+    "seendate": "Sun, 25 Oct 2026 16:24:21 GMT",
+    "source": "google_news",
+    "sentiment": -0.148,
+    "date": "2026-10-25",
+    "provinces": [
+      "Khyber Pakhtunkhwa"
+    ],
+    "keywords": [
+      "Rights Group Demands End",
+      "Governor",
+      "Rule",
+      "Release",
+      "Leaders"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "IANS LIVE"
+    ]
   },
   {
     "title": "PM Announces Rs160bn Development Package For Khyber Pakhtunkhwa",
@@ -1840,22 +2249,44 @@
     "also_reported_by": []
   },
   {
-    "title": "'Governor’s rule in Pakistan's Khyber Pakhtunkhwa risks deepening political alienation'",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbEpWbFU5TUJpQTNtVUgzejNoczFPQmZwYVpuR3plTllmcjR1eVJBY0ItWm9VUzgydE5qU09FTlhZR1VLV3NpSWtxSU8xQi1Qd1RNTmxsREFFdXVxWWFWNU5HOFZ0N1V0RDhURG9uV0RUNWpmeGVzYlNtN1lFRGlXcHVWWHpuMEpiMHpiQWJhdTBiTTF5TFlfMTVQQnVfelEteVBUbTdIbkUwbU1DM3dVaUp2c2ZXNlJVYnoyN2p6QkowSkFh?oc=5",
-    "domain": "IANS LIVE",
-    "seendate": "Sun, 25 Oct 2026 14:49:00 GMT",
+    "title": "KP Governor pledges to work with Islamabad for development",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaDd2WGZZS0NxZldORFE4Tmh0SXczdTgzdWFNS1dmTkQxTE9GSzZFeUZKdlJoSjJSR0xpZnlpT0RSWlozZzEtVnZBdWZQeW9UaTQ1c3NRdnl3UDFVc1k1NHFlNk1RVUJHczRqWnBlWmhtUXFock5ENkZGRnJ4YW0tei14R2FBUy1aY1E?oc=5",
+    "domain": "24NewsHD",
+    "seendate": "Sun, 25 Oct 2026 18:34:37 GMT",
     "source": "google_news",
-    "sentiment": -0.4939,
+    "sentiment": 0.296,
     "date": "2026-10-25",
     "provinces": [
-      "Khyber Pakhtunkhwa"
+      "Islamabad"
     ],
     "keywords": [
-      "Governor"
+      "KP Governor"
     ],
     "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
+    "source_count": 2,
+    "also_reported_by": [
+      "samaa tv"
+    ]
+  },
+  {
+    "title": "Kundi Seeks Federal Cooperation, Says Rs160bn Development Package Is Separate from KP’s NFC Dues",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUVAxRmpsYzZBTUhVNVNQay00VnV0WS1qSFd2NnBSWl9NMzBUS2hFUW5sXzZCbmJoRDdOM0pNVHU1RHV4RjNYc0gxX2RtbXo0VU9ZM1ZlMUpBMGpaNTNUcEVJNGpuRE16Mk0ydTNSdUZVX3M0RFdxd0NELUNUcEhVakZGdWQ0TjRsbWZybVdDeWp6WG1HRHlMbTRPaVAydGN2M1FpdjJkWVZhZ2dTeXRVSk5wUGNvWWdzMllORnhwWFh6bTZ5b0I2VDRUYXhia0JKNWZQVHh5VFJoUQ?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 18:03:37 GMT",
+    "source": "google_news",
+    "sentiment": -0.499,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Kundi Seeks Federal Cooperation",
+      "Development Package Separate",
+      "NFC Dues"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "UrduPoint"
+    ]
   },
   {
     "title": "Restoring Peace in KPK",
@@ -1868,6 +2299,45 @@
     "provinces": [],
     "keywords": [
       "Restoring Peace"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "PTI Itself Responsible For Provincial Government’s Downfall: Pervez Khattak",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbGF2czhOcng3RlZSdnF6S0s0dGMxRTZFbGY0ZFh6ay04OHA3Q0stWVJYTF8yWVdaaTBoX0RWQ0FvY3hzamRLZjRLTDdTZ2lhdWU2T1I5VEVNVzJXLUQzWkxQaU5ycldVanJKSFFPUFJEN3Z5YnQzcmhobGlFQ3d6LUNtb2J1T2wtTVpEOUwyYkNrQmx4eXE5Sm1oSUp0MkFMbWZvQlBR?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 14:54:20 GMT",
+    "source": "google_news",
+    "sentiment": 0.3182,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "PTI Itself Responsible",
+      "Provincial Government",
+      "Downfall",
+      "Pervez Khattak"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Faisal Karim Kundi | KP Federal Relations | Khyber Pakhtunkhwa Development",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qSFdvc01STXY2bk5SVWxHU05aSlV3UUZ0VWZ6WTZ5NTVKRm5DU0VjNHB4cWM2bDlEcEtuVmlFX3RkUFRwTjVQeEdwWjFxaWs5bjZR?oc=5",
+    "domain": "Aaj English TV",
+    "seendate": "Sun, 25 Oct 2026 11:30:12 GMT",
+    "source": "google_news",
+    "sentiment": 0.296,
+    "date": "2026-10-25",
+    "provinces": [
+      "Khyber Pakhtunkhwa"
+    ],
+    "keywords": [
+      "Faisal Karim Kundi",
+      "KP Federal Relations",
+      "Khyber Pakhtunkhwa Development"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1887,6 +2357,24 @@
       "Wah Flour Mills Inspected",
       "Alleged Hoarding",
       "Smuggling KP"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Faisal Kundi Calls for Federal Cooperation, Joint Action Against Terrorism",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdXNINmdta1NIaU1nVkVCZlctdERGMDltanBfUklXc1RkZ1p0M3diUmxqNElSbFp0Q3BONUd3d3d2eWl6Q1p0cW1pNXY2dUV3THdQQS1aU3JPM1RJX2lUUFQzc0lQckRSYlNPVkVNR2pMcVJnUWNpNndvWmhMNFJsRUpFanh2NGY2a2lLbm91QTNLN2NBS1hFNXh2TlJicnJDdnY5WnhyM0UtZWRIR0xhRVVRclFyOXJLd3kySFJB?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 16:57:22 GMT",
+    "source": "google_news",
+    "sentiment": -0.6808,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Faisal Kundi Calls",
+      "Federal Cooperation",
+      "Joint Action Against Terrorism"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1930,6 +2418,24 @@
     "also_reported_by": []
   },
   {
+    "title": "KP Orders Daily Digital Tracking And Approval For Public Fund Releases",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUWJET3dMQ0VSUWl5X2YtWWF5alhLRks0Q1RxWXRCRlhWRzRHMi1tYmRqZl9vMHlTLUlMX0h2ZnpJSHppUmhLbXR0bFBERnZnRDliYkVCRXp2aWNQa3pIbHZ2cHpPaHdIajYyQVNBbzJZMGdveGxFbktNajMxRE9SNUlYUHdTajZ6MTBQUUtHcU5IcDVMaDEwV3JXWkY?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 12:15:29 GMT",
+    "source": "google_news",
+    "sentiment": 0.4767,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "KP Orders Daily Digital",
+      "Tracking Approval",
+      "Public Fund Releases"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "KP Governor Calls For Joint Efforts With Federation To Tackle Security And Governance Challenges",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSWxtRS1lWkRWdjNlVHFiSGdldDZTME9BOW1BendwWWhrNWg3R2oyQU9NRElFSmZvbGdLakMzVmphelo2QnlOTHVvY2cyN0xIT3FGTTI0YTdiMHp5UTA4TzR4T0hiaG5nUlpndjVQTlhBUTV1Y0NaVUxiLVRtelZTVzZ2SDhubGphc3FxUWRBOTdsMFV4YlpZODhLUGM?oc=5",
     "domain": "UrduPoint",
@@ -1943,6 +2449,22 @@
       "Joint Efforts Federation",
       "Tackle Security",
       "Governance Challenges"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Faisal Karim Kundi says K-P needs federal government’s cooperation to resolve key issues",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWE5CbDg1VHU5emVXbTVlSXJTU1VLSy1paWNBTkpmRDZySjlzZHlrS0lWWWs0ek1rMVZENTI5cFJBSmN2bXdfbi0tLTJjaE9pbFFnTERNR0lGOVFrOUdFa2tiS1NTZDVIS2d4dWczZm1XSEdkSUpObWJsdVNRVVNTdy1mQTF5X0VqSlRzV212TXdmT1hidzdQbDhpelRUb0lZSm16UVlLNmYzc2t5LW5iN2Y3UHI4S1Z6bUtJaWx4alU?oc=5",
+    "domain": "Minute Mirror",
+    "seendate": "Sun, 25 Oct 2026 17:03:29 GMT",
+    "source": "google_news",
+    "sentiment": 0.3818,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Faisal Karim Kundi"
     ],
     "india_related": false,
     "source_count": 1,
@@ -1963,22 +2485,6 @@
     "also_reported_by": []
   },
   {
-    "title": "KP Govt decides to curb financial irregularities in province",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNT1hXeElXVm1CeHJ6eEkzbXpfWnU0YVhyemlkRXVnWjlSemdvNE92UWxkM2otUVlzWWVjSEUzSzNmalVybGxHOEg2UGVFUGoxWVNTTW9ncGl1ZEVCVzdrZ2pkRzhhRHplT1VPYUZXSU9sVUdzcXdMOE0wb1BpNU0wbFJvVl9FaHo3LTdDUUEtbDFMTFM4?oc=5",
-    "domain": "Islamabad Post",
-    "seendate": "Sun, 25 Oct 2026 12:54:15 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "KP Govt"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "KP Excise orders recovery of vehicles after 15 years",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkc2T2g5akFpc3FNdVdzOVlEWWh2aEFRcFh2RWJOUURBV0hqVF9SVFpCU0tIbm5oTmYwX0lXX0J0cHZ0TTdYUmM2S3puRmpjaUxSQzF5cy10OHZ4T3F0V2xmZEJJUWZval82Y1pVcTdRc2FaczJaTGp5d1dWTUhNQ1MzSmpvZl9CY3llVHM1ZHROQQ?oc=5",
     "domain": "Minute Mirror",
@@ -1989,6 +2495,42 @@
     "provinces": [],
     "keywords": [
       "KP Excise"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Amir Muqam Claims PTI Rule Ended In KP, Vows Accountability For Alleged Looting",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbzVCYkV0M0c5SmREUzlma3lxRTROdHJKU1pSMGhVWjdPcVVYeGJ4REJzUVU5MkdPOFc1Szd5N0QyQS1HbHE1UnpTWlFmYkU2QnNfZEdhQlVJWDh5a2twSHYybUF6NnhNUDRoR0R1R3hNLVRtRFRfanhmemxfVGZXRU1fODc1VmlBOEM4MC1fS1RCTnY1YmRFeA?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 15:20:07 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Amir Muqam Claims PTI",
+      "Rule Ended KP",
+      "Vows Accountability Alleged",
+      "Looting"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Rana Sikandar criticises Fazlur Rehman over remarks about martyrs",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPb3l4MTVvSkNPbExoelVWRFRmU1NDN2EwQkw4X3JzanlDWkRXemFfYUR6ZXNjc2F4NnFzXzZlUHVXZFMyRkswQzk5NDVMbEgzaFoxSnNhZDlXX2dYa0dKYmtvcVVrTHpKRHlZWFloQm9GQU5TQmoyblhuMTNTbzJrX2RoOTV6eElvMWdPcXhUNDVYekVzck1rZ2pxdkU1M2EtZzJSSGQyM2_SAVZBVV95cUxQZ3RvNWd2Sktqbjk5LVJ5ODRRaG5FdDAyZW9hNkRIR1lxUDBlZ1ZRdHRLS01pUldjSlFRYTN2LUJGWFp4blBObTBmRm1XNWZWR2VyUWI1Zw?oc=5",
+    "domain": "Dunya News",
+    "seendate": "Sun, 25 Oct 2026 13:57:48 GMT",
+    "source": "google_news",
+    "sentiment": -0.3182,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Rana Sikandar",
+      "Fazlur Rehman"
     ],
     "india_related": false,
     "source_count": 1,
@@ -2013,15 +2555,35 @@
     "also_reported_by": []
   },
   {
-    "title": "KP governor vows to work with centre for provincial development",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTmJaTkk4S2VZUmZuM2JhU01Oa1BsOHRLcmlEeXdpUHlYbjBsUDRKZ3g2ZmRKOURWeVB5bld3cEh2U0RsWWRMNmttSTdhSU5KVXZITlhZWjVzRVI2NGQ3aVVmdmhJRjRMR0Nsd0tPY1MxS0JkSWZwbUE5dmVheVctT1dydG9aNnZMREZINU5qR2Eyd2NvenJBRjZaNA?oc=5",
+    "title": "5.3-magnitude earthquake hits parts of KP",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdEpBLVJJbThXbG5aVExvV0M4RUgyTE0zWG96dnl2RnVNWUhmLW1jZHAyd2JnYVZzaml3RmdudUM5OFo0Tzdxb1dqNHBfNzJUZlNremV2UUNpbFN4QzJkZzR2eG9yNy04QnVOLWx3M1BDeTAwbmt4ZUYyc2J5Sm9lcVE4VVJCa3hsMlpfalpVLS0?oc=5",
     "domain": "samaa tv",
-    "seendate": "Sun, 25 Oct 2026 14:12:11 GMT",
+    "seendate": "Sun, 25 Oct 2026 18:30:49 GMT",
     "source": "google_news",
-    "sentiment": 0.296,
+    "sentiment": 0.0,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Amir Muqam Addresses PML-N Rally in Shangla, Calls for Accountability",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0hEUFRpQWpEOEZsWUtDaHR5aUZRX011LTA2RzVIakRQVjY3OHFvUm5IMjFXUUpOME10YkNoZHJQcERzRzNxYXJVblJuUUZsU0dzNlgzcUgyZTMyY3NiTnlZT2NLNVJrbk5xVmRlc3F1U3BLcEEwMUc4cHlxeEU3dlNEOFFsQlRqVXVkYnhQcXFFbUQtLU5FVXBaZ0ZMUVF0NHZXNGRKc3BuRHhkRUNXSVp5TzNSR3c?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 17:04:42 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Amir Muqam Addresses PML",
+      "Rally",
+      "Shangla",
+      "Calls",
+      "Accountability"
+    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
@@ -2065,6 +2627,23 @@
     "also_reported_by": []
   },
   {
+    "title": "KP full contact Karate association delegation meets commissioner peshawer &, Deputy Commissioner",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdDJPM0k4aWZ2RjAzRklpUnNld29EUVJ2TlhmQUdBUEtTYklzOXkyMnUxNkhFZzJrUHhXQ29iMUJaRHpybkVXV3pmaFlNQ0ZCdkIxOEtNUVdiSHBrT3k1cmFoUVVpZF9fdmRHNGFWaTY0Tm9iQXVwU3hKMm9UWmt0c3RjVHRLWURwc0o3NFhQd1pkZUE1QWh3S1F3V1I2WkhOMDllWnVTNldFVDdnYlQ2VWlhdEdUMmNPX3MtTDU4eFljOFI2eWc?oc=5",
+    "domain": "Daily Lead Pakistan",
+    "seendate": "Sun, 25 Oct 2026 00:54:22 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Karate",
+      "Deputy Commissioner"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "KP EPA launches ‘DEAMS’ app to automate environmental approvals, monitoring",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZTB0RnlOMnROcU5GS2lPeUdZNzd1WjViMTFUbmpEVW1kS05iSmQ5ZC1ORkxDMEo3ekZKOWRaN21TbDFMZGpXRFVZcm5fcERQZGQzNzJuMlpPbm5jR0laWDNyaEZzUk50UjAwZDNsUHJ4YXhCS1M5OWJxeWZpSVp6S3JXY2xhckZaanpsVWs1U0p5ZVBOSHZUUThvOWp0aFVlUzFVUjRCZldIdw?oc=5",
     "domain": "Daily Lead Pakistan",
@@ -2087,7 +2666,7 @@
     "domain": "Business Recorder",
     "seendate": "Sun, 25 Oct 2026 10:15:56 GMT",
     "source": "google_news",
-    "sentiment": -0.219,
+    "sentiment": 0.006,
     "date": "2026-10-25",
     "provinces": [
       "Balochistan"
@@ -2097,13 +2676,11 @@
       "Qila Saifullah"
     ],
     "india_related": false,
-    "source_count": 8,
+    "source_count": 5,
     "also_reported_by": [
-      "Aaj English TV",
       "Daily Ausaf",
+      "Daily Independent",
       "The Nation (Pakistan )",
-      "UrduPoint",
-      "samaa tv",
       "thekabultribune.com"
     ]
   },
@@ -2232,6 +2809,78 @@
     "also_reported_by": []
   },
   {
+    "title": "Uthal crash death toll rises to 15",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1HMTd2d3JQb1VKU2w1ajZWN3JvdE9qOHFoNmdrcGk5MzJBUlBya2F2empCTXdoSXZFT19aMDAtdnotbmEzUUt1YQ?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:19:51 GMT",
+    "source": "google_news",
+    "sentiment": -0.765,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Uthal"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan: Six Civilians Forcibly Disappeared in Balochistan, Four Bodies Recovered",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObmNtOWdmb2Q0bnRMM09vVU1MbllNQk81V2FGTC1NTWRyQVJKVFczOWk0ZDNYelFwYXJQOVZmT3hmZEdZZGtxb0E4aGljOHpfMk11dlRPNS1rMlo0MmVsa3FqejkxTF9xU0ZMdDdZZzRhS1JCWTNVMUJrbGJlY0MxRkVNVGprMElfY2FQRE9fTWNQVlV5UmhmUG9NdGYyRjVqZ2JWZExKaEg5OU1PSzBsQ2pZdVUteV9aam5NWlVwWnM0TWxrWWhubmx3OFLSAdIBQVVfeXFMUEQyS3FfcS1Bd2xfQXduTFcxam5uNGIzc2Jsbm5QVVQzZVgzeHdtUFJZcFk0STBEbl9zMVB5NUlyZHpuNkUzTEg3VEF1OEh3MUx1dVM0dkl2cE5CQW5MaEg1QzA3alc0UUJZcnYtbHpEWVZCMWxsam93NDBBR2JiMFZueXRXZTBpbVQzTnBCMmptaWZBSHd4SDQ3V1k4aXZ1SGZMc2hnQ2d6QTRKM1ZyZEtjcV9vTzlOekRUWm9FMDFQQlh0ZG1RejdkWmdFV0VRNmRn?oc=5",
+    "domain": "Lokmat Times",
+    "seendate": "Sun, 25 Oct 2026 16:18:53 GMT",
+    "source": "google_news",
+    "sentiment": -0.2263,
+    "date": "2026-10-25",
+    "provinces": [
+      "Balochistan"
+    ],
+    "keywords": [
+      "Six Civilians Forcibly Disappeared",
+      "Four Bodies Recovered"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Operation Shaban-II: 33 Militants Killed in Shaban and Adjoining Areas",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSHh0bGsxNnBFUnZFUS1GYlBLNnpXNE5iZ1VxYjl6RTZHbGVqdzJVWFFsWTg5c2s5Xy1tY18tYW1rWTMwRDlqU1BIaEtHQjUzb3Rtb3g4QU1ndWFyVTNTWWhiU1ktVGpBUWtRU2pnOWs3WURGMGM2Y1JnT01kTW43RUdoSXlHOF9oa0V3X2wwLWlzMm51a3VVNndGQlpaY3YyZVZaSTNQblZmNW5yeWtYVmdsNHBjN1Z1?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 17:53:42 GMT",
+    "source": "google_news",
+    "sentiment": 0.35,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Operation Shaban",
+      "Militants Killed",
+      "Shaban",
+      "Adjoining Areas"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Sarfaraz Bugti Hails Pakistan’s Thrilling One-Wicket Victory Over England",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQblpEWEQzeWlTeElrWkJiQ2xBN2xxeWd6MGNEQlY5Y201MWhfTnhRSlZVaGpwN3lUUWRfTzRGXzZ6YzFMRmJBZUZZN25oWlRnWThLNm1EZGZBNEtQUFI3bGxrWGI1dmg5bzRKNUtEcFhlQW9COXI2cjlBYURBV3Y3bDJOS1Z1NmIzQlJVdC1QeHhlUTh0WDJ5ejkxV25FaUdrckF5cUU2T19sUm5tNlJQQ3BQOFRRX1E1cmRlWg?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 18:25:34 GMT",
+    "source": "google_news",
+    "sentiment": 0.4767,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Sarfaraz Bugti Hails Pakistan",
+      "Thrilling One",
+      "Wicket Victory England"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "‘No no-go areas’ in Balochistan, people back state and security forces, says CM",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWDhBQ0d5QVo2NFVpNWF5VV9pdm5ONmxCZUYzV0xSaElYbkQwY3RXeVVidkp0d3QxazdpdWdQcnV3bVViLTdPN3VUS2c3OXlYVWQ2azVtQ1FVSkJsOTRsSHAzcERmNFdYUUE0OGtHYkswMDQycnlBWXVvYTJ6dXhQU3kzQjhob0Ixa18wSHJITVBLangxT2R3WkJReUtMdVZwNEI4S1UydWxaYUc3MUp3?oc=5",
     "domain": "Daily Times",
@@ -2243,6 +2892,26 @@
       "Balochistan"
     ],
     "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "60-Year-Old Man Axed, Shot Dead Near Football Ground in Sibi",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ0lZQ3FKdWVSSnlPbkZBanpZakdSZGJuV0pVcmpVUF9DWGFVZXpQZ2RRczFHSk1jQmJ1R0lWSVJnYTBObkJmcXJqQi1TNl9McG95VXkwNl9jWnFxMFNSa2lyNUJiMFRDSHpkMC0wTGxHdGE5SGpwUHI4RkZoVzlhY3BiNzl4QmY4MXRmR3RwMUhxQUlOcGNVZmE5TDVrWDExWEx0SzFLN3ROQ00?oc=5",
+    "domain": "www.dailyindependent.com.pk",
+    "seendate": "Sun, 25 Oct 2026 18:08:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.765,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Year",
+      "Old Man Axed",
+      "Shot Dead Near Football",
+      "Ground",
+      "Sibi"
+    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
@@ -2266,6 +2935,26 @@
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
+  },
+  {
+    "title": "Amjad Hussain | Gilgit Baltistan Interim Province | Kashmir Policy",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5nOHVoSWhiVGkyd2NEcUJYU2p2NURxcndUbVFVZ1A0T1h2ZzdEeDRPN2RCUDQ0LTRicjczMU85WlV3NnY2VURWdGNxSmM?oc=5",
+    "domain": "Aaj News",
+    "seendate": "Sun, 25 Oct 2026 11:35:08 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Amjad Hussain",
+      "Gilgit Baltistan Interim Province",
+      "Kashmir Policy"
+    ],
+    "india_related": true,
+    "source_count": 3,
+    "also_reported_by": [
+      "Aaj English TV"
+    ]
   },
   {
     "title": "Mines, minerals provincial subjects, says G-B CM",
@@ -2324,10 +3013,30 @@
     "also_reported_by": []
   },
   {
+    "title": "New leave policy for Islamabad Police ensures weekly off for all personnel",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRjZhTUYtX3Zlcm8yNFpseHRvWFRreFYwZGI5ZVJLMG9iVW93bHNpTG00WjRLYzBQV2VXQnJRVVMtNFRGYTRteFBEN09TS3hMTzI5ckdMR0FNNEN1VjNIQjFaYzNNaDA3NVRqVTZyWkZ4WmZhUlFoQVhnNi13Z0daUnFFWXd5anJyaldtTDFlV0NkOTVYc1duS0hEVlI0SDFBV0t3cXlPc2hFYmd2?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 16:01:39 GMT",
+    "source": "google_news",
+    "sentiment": -0.052,
+    "date": "2026-10-25",
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "Islamabad Police"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Pakistan Connect"
+    ]
+  },
+  {
     "title": "NCCIA Traces Network Allegedly Trading Child Abuse Videos Through Telegram",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmdzSVNXZFZDZXBaRnVZNjRjam5EUzRzRVg1aUdYSTd3cmkyR19MTGVWRm5XZHQxdThBWENTUkRaaFFjaGtZWFRKamJnTmVnQkw1UWd0by0zZDEyaVRTbWxSVVFmVkRTTjVkbXNmMGxMUWhuQ3VhT3Jjd1hfZTZ0c2NFSmp2SmJDbHNMWlBzTnp0SGM4TkR0WGJ0c3JrQThNSEVPcllxRQ?oc=5",
     "domain": "The Nation (Pakistan )",
-    "seendate": "Sun, 25 Oct 2026 13:02:30 GMT",
+    "seendate": "Sun, 25 Oct 2026 13:02:00 GMT",
     "source": "google_news",
     "sentiment": -0.637,
     "date": "2026-10-25",
@@ -2340,7 +3049,7 @@
     "india_related": false,
     "source_count": 2,
     "also_reported_by": [
-      "UrduPoint"
+      "Islamabad Post"
     ]
   },
   {
@@ -2360,35 +3069,20 @@
     "also_reported_by": []
   },
   {
-    "title": "31,000 consumers denied petrol subsidy",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtbW1qOTVIUUNEMjZfN05JdXVKdlYyNmVISzhFendiaEhsdm52WkVhVkY2ZzN0dGx6c2ZiUE8xY2xPc0VESGFNZjVkbHo3OXZfVVpxcjZ4d2M4RU9zOXM2alRPQkFTOFlQem1WdUhEeEdrbjduZ21BVWhlY2liOWfSAYcBQVVfeXFMT2dJQk81U1J0d3U2SkQ1ektRYmJXVUFOek4wc0hJeVpOX3pZdG1kUWItQ3lPWVAwVlpnMVYwZHJkblVsN01rTHhXYVBJSG9LUmQxaDV0ZWNSbm5uZXgzb2paUmpXdVJDckw2d19MT1AzSk9ld3BUS0VxNXBSbmx4dEpRbFdWekhF?oc=5",
-    "domain": "The Express Tribune",
-    "seendate": "Sun, 25 Oct 2026 08:28:38 GMT",
+    "title": "Gilgit Roads Being Restored as Sewerage Project Advances",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNV9GdnlSNnF3d2loMkdmdUp6UWxYSS1rUjMyQV9pcTAzOHNKT09iall4OG9Fdnl3M19yYnBQS1NJNlV6U2Rlei0zbldrLXZWMXdkVTVIbXBMaTF2bFFDY3Q5YmtIRTFZRjRfNjRjUmF6UFNxam5mLVFzYTltY2dqdWxjY2pLM2Y0aW5BdWVSZldLM2VrY3ZyZ2xfNXU1bndIb1YydlNxUQ?oc=5",
+    "domain": "www.dailyindependent.com.pk",
+    "seendate": "Sun, 25 Oct 2026 18:15:41 GMT",
     "source": "google_news",
-    "sentiment": -0.4404,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Amjad Hussain | Gilgit Baltistan Interim Province | Kashmir Policy - Aaj News",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHdKbGl4UG9qdGltekFtRkRFTkVQRnJGNEJ0eGxFekhBLUtlZEYwUHRqZ1NzQVpPTWRGVTZ6LTRJMWtZZDZvNF9RRjRiQ3ZZNzZva0ZGWTdsN2ZBa0NuZWpGSVBJbzlqbEN2TU9WdkRNVUxCQWIzU3Fac2tDVHJYaXo2UlVUUkJCb0VCWlpaMTdhbUNHcWdUcWhGX01nNHluclI3OTQ0Tk0xZ1hHMUE?oc=5",
-    "domain": "Aaj English TV",
-    "seendate": "Sun, 25 Oct 2026 11:30:12 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": 0.25,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Amjad Hussain",
-      "Gilgit Baltistan Interim Province",
-      "Kashmir Policy"
+      "Gilgit Roads Being Restored",
+      "Sewerage Project Advances"
     ],
-    "india_related": true,
-    "source_count": 2,
+    "india_related": false,
+    "source_count": 1,
     "also_reported_by": []
   },
   {
@@ -2447,7 +3141,7 @@
   },
   {
     "title": "Students Can Now Get 500,000 Chromebooks for Free",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEZSNXFZNjNuUFpFRlQzb2VCckVaMS1QeGFkckFVMU1RaS00MW5DQjdOSDk1c2ZOWTk0UndBQkhGdUh6UjNGSTEzemRTVWE5TTM3QVFaXzhrQkVoMENncDVaT2ZRYUNxZVQ1ZWFzTUpLQTc1SDlXaE1fWWgyZU5PTVM1cFVKemZ0N1Znc9IBnANBVV95cUxOU3JaUEVMSFBmQmFvWDNpbV92aURlb2FKOG1ZY0ozQU10VDFFY1p2MTBIWjhwcHd4eGlFZlJ0QXpBYU5oU1haYUNoVkdjVVc5RldwcWRla1pmR09ZZ2xfVXEwUXMya3NzVms4TGxYejU3RUpnb2NZcldtYTJqSFpVWWk5RF9lTG4zWjNLSnVVbFQySTNvQzF0MW9kTDBNbkhJYldENmVVdXZjajBvaV9RRktfX1ZhN2EtVWh1eEVmTmxoUm5nWUtRMUJ0LUZMUlUtWDNFQ0tvemUySEE1ajEyazlUZVdFSkhSMjQ5TzdoVXU4MkpxenZrNTlvZWltckZDTDlJdVllX2tyUnVBd0g2aGpZemI4QmhGYXlNczdtVG9rZEYtN0ItWVVCMVVrSEYwX0JPRXRlT25tSWdzd3VCdTN1dzNXZzdGYlRMTWpsblg2Tm5jdFc4RTVHZnFnT2tzSXdMdG1wLXUxWmtKZktCUlljUm9ZN3k3b2xTSWgwTlJfM0thQUstZ3QwMF9wR1FPaGRkdTVNbzFWbFFJ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONEZSNXFZNjNuUFpFRlQzb2VCckVaMS1QeGFkckFVMU1RaS00MW5DQjdOSDk1c2ZOWTk0UndBQkhGdUh6UjNGSTEzemRTVWE5TTM3QVFaXzhrQkVoMENncDVaT2ZRYUNxZVQ1ZWFzTUpLQTc1SDlXaE1fWWgyZU5PTVM1cFVKemZ0N1Znc9IB7gJBVV95cUxPMDJZeWUtZFpHaW9DaWlpNWNzdnlVRjFRQ0QtcDA0WHRJaDZjS2VVVFgweFhpb29aU3E4ZjJLRmJISjNjc3lGY29oUGU3TDV1ODVvZ3hGZWFiVlhwYk1YcE5CeHNvM3pzSThLSm5PZ245bUx1RFRDT250aEgzZEdDQkcxNTB3eVBLcm5USXF6NktpM2RIanVZenBKTHJUcTRXWVQyMVJydGhqNGxvYWlEbGhEVmJ1cUtHbjQyMm9tZEw4bjJfTDZhYnNRUnNVVUcyZVRWSE53c29taG9EY3ZuYUdRMDItelhmRVpMb2xOZ1RTS19NbGdEMlJPY1hkN2ZCZGpkUmJ1RXFrMWRMY3hhZjdoQnRMY2pvMEtuZVhVcDRJeWJtd1QtdUQ0ZVY2b0FKYVkzSF9hY05US1pSMG0yT1RscWVDWUZOQ0pVb2g2d2pXN1UtNW9WZmxOWFd0ZUE3Qy1wRVlOT1VkREZIZWc?oc=5",
     "domain": "ProPakistani",
     "seendate": "Sun, 25 Oct 2026 10:35:17 GMT",
     "source": "google_news",
@@ -2458,25 +3152,6 @@
       "Students Can Now Get",
       "Chromebooks",
       "Free"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pakistan Polio Campaign To Vaccinate 23.9 Million Children In 97 Districts",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV21EeHNucUxNM2YyZkpVamstV1BVQ3I2YTZNelluaVc5VTN2SENjMXR0YUFpTTBydDY3dHFJNHpyTWhWVUJJUFNoRnFIakpwTXNFclZTazFrMW54emRoQWs0OXZWNTQ4d09GVTZBblFjd1FWaV9EMmwyX0YxZk80V1dLVXZlaFZoOFZGcWppaExpSWs3SkZFNENkWQ?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sun, 25 Oct 2026 12:35:39 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Pakistan Polio Campaign",
-      "Vaccinate",
-      "Million Children",
-      "Districts"
     ],
     "india_related": false,
     "source_count": 1,
@@ -2517,21 +3192,22 @@
     "also_reported_by": []
   },
   {
-    "title": "Votes cast freely in Jammu and Kashmir, loyalty tested in PoJK: Two kinds of citizenship",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRGplS0w4dzRxRkRJZ24wYTN1SkNmdU93UTRYZEZuTGNXYUNQNjMwSXdxNm5kZXhiNFdPVDdaTkRvS1VzcjRQZEJFNmI2TkNxNVlHR0tlLWFWYmFyNmY5emZyYWlMZGp4ZjNCNXltWnFfc1l5U2tFa0d4SzVnUVB4TDZZYUlubUJ5QzQyV2hfSUd6T2ZUbDNCYlhpcEFfUm9RdGVKMW8yRmhWbGc5bmxqZGhSMF9IRXpZX3BEZl9Vd0hCLXplR2Z1M3F30gHKAUFVX3lxTE1EamVLTDh3NHFGRElnbjBhM3VKQ2Z1T3dRNFhkRm5MY1dhQ1A2MzBJd3E2bmRleGI0V09UN1pORG9LVXNyNFBkQkU2YjZOQ3E1WUdHS2UtYVZiYXI2Zjl6ZnJhaUxkanhmM0I1eW1acV9zWXlTa0VrR3hLNWdRUHhMNllhSW5tQnlDNDJXaF9JR3pPZlRsM0JiWGlwQV9Sb1F0ZUoxbzJGaFZsZzlubGpkaFIwX0hFellfcERmX1V3SEItemVHZnUzcXc?oc=5",
-    "domain": "News9live",
-    "seendate": "Sun, 25 Oct 2026 06:24:31 GMT",
+    "title": "Six Times the Investment: Why J&K’s Budget Builds and PoJK’s Doesn’t",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT1lrbXNmSk1JS1c4V3BCM0R5T0lhWVY2dWhGZ3pnMHFzbFJQRWNmWnpkVlE1UlJLMDFtLVpnS0tXQ2wwQXM0MXZFUEgzZzlXVXhDaW9FV1VvUHJuNXdZZXp4b0lQdTZJTkZjaWhET1RRSndQMTVqc0ZHSTZCNFJKRFM3RXZqV1Y4WWhuTkhGLU8zZGZMdDRjemszdGhrRmtJRXJkREVCYmRfU3RScDJVUmZFLUZkMXZRZnQw0gHAAUFVX3lxTE5FSkVucm1EbkdyUnU2eXo5WkNwQnp1QVh4cGhtVkYzODRlOUJyS2JUQXlWYUxub3lpN3p0TXhha2lPb2s4dWUzcWRZRDhNTDdqMXI4T0hJSWpDRnllQXpxalBLZC1UMG4tVU9tRTBBMF9rYXBYWXl0TlZ3aUNqLWg5UjRPenhpUWxwTUhhbVNOaTVoTnlDV3EySVNNMzREMEdtRGFVM2QxV0VER2lVaHN4OEpUNUNWZ3dJOGNiRV9fdA?oc=5",
+    "domain": "Republic World",
+    "seendate": "Sun, 25 Oct 2026 14:16:39 GMT",
     "source": "google_news",
-    "sentiment": 0.7506,
+    "sentiment": 0.3612,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Votes",
-      "Jammu",
-      "Kashmir",
-      "PoJK"
+      "Six Times",
+      "Investment",
+      "Budget Builds",
+      "PoJK",
+      "Doesn"
     ],
-    "india_related": true,
+    "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
@@ -2556,19 +3232,23 @@
     "also_reported_by": []
   },
   {
-    "title": "PCB releases Sufiyan Moqim from tri-series squad, adds Maaz Sadaqat as cover",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnBfN0Z2Sm9ZSVBZWTZFV2phQVpxajM4UW95cFI3TGFYQzlzeVRDOEt1WXJ6VkNDTlUxZHpNcXBCVUthOTBNMzFhOFg2Vjd1aUFvZFRIT2xVeVFRVEc0Y0twSmMxUHlJVHVZT2QtdVBvTkRMNlRVbDJJb0YtQVMzMm8zNTFvSkdwU3VLWDQzWnE5R3RzTkhodllpLWlvZDJlSGdVVnk2SlBLM0VNaGc?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 12:58:09 GMT",
+    "title": "Four Azad Kashmir Players Selected For Pakistan’s Blind Cricket Asia Cup Squad",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDN1b2l5ZVQyWTRYRnFtTVdIbjd6WVRPekRWem52cGM5LTV6MW9Vb2ltZklTcVpiSWlSTnVKa09DSWpoc2xYTVNvbDJCRGlZU3NXMGtzZENvQWU2SkduLXRja1hLQlRydjN1dy1LWVZqdnIyb2NlWWFnbVVHUEl0ZE80X1dUTHJlZkpZNDFETWpDN1p3amVUQW1wYlQ?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 17:40:11 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": -0.4019,
     "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Sufiyan Moqim",
-      "Maaz Sadaqat"
+    "provinces": [
+      "Azad Kashmir"
     ],
-    "india_related": false,
+    "keywords": [
+      "Four Azad Kashmir Players",
+      "Selected Pakistan",
+      "Blind Cricket Asia Cup",
+      "Squad"
+    ],
+    "india_related": true,
     "source_count": 1,
     "also_reported_by": []
   },
@@ -2608,52 +3288,55 @@
     "also_reported_by": []
   },
   {
-    "title": "Kashmiris to observe October 27 as Black Day",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSmJtamE2UDBydWppaENpZGVXNGxReU1Uc01Rcll5aUo5NVkwc2hsWW9CVF94ZURDcGtfdGo4UlN0QTRSSUhnUFJNaWV3MXNkY2h5MTAxcXE0eUNkMkt3blZyT3dIdUZjcW5qM2lZZlp2bVAyRzJPbkptSWxOdE5GSkhQVDhGQzRWNHFmekRDVQ?oc=5",
-    "domain": "Kashmir Media Service",
-    "seendate": "Sun, 25 Oct 2026 05:24:28 GMT",
+    "title": "Islamabad’s COVID-Era Isolation Hospital to Reopen Under New Name",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQldjUzNGeG02TmphallpVllTN2tlWDlveE9qel91SFpKUVQ2aUFmajJVLUk5bEFETG44SFdNZE9qclNScW5HWHBab1VMNnU0MFVUanFNMGYwOXd1dk4wZ1g4QkZWNEM0MVdSYnh1Uk9FYmVScHAxOHJGcm1oSUk5YlhFV043Y2pGU093THFhdktBelI4a3BDa1M0dUZrSTVaUmfSAacBQVVfeXFMUFR4MXRiWWhsQTAtWUVuaV8zRWlxWlFVS2FUZGVoT0RiT0lRYnUwakJaZDI3SHlmaWEyQlNxRzFtWVI5NTVHWUZrSUFiLWdqLTBicUhJOGVzanVia2s2TnVGWFhWLVN3NlhZSFdYMmpGZ25YaXlJeElpTXJfY2JGZUh5cWpnZFFUUDNadzltSVNoOUpmYVR3SXVMQW5EOGh0VlBmQTlpVU0?oc=5",
+    "domain": "ProPakistani",
+    "seendate": "Sun, 25 Oct 2026 16:27:53 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Kashmiris",
-      "October",
-      "Black Day"
-    ],
-    "india_related": true,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Islamabad’s popular F-9 Park is getting a major upgrade",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5scFlQeXg0aHdVZG9RUTl3cFpkODZUTFVpajE5d0MzVGIxVUZBLWNiY25kOFZyUTVDNGZoN0FMd1hweFIzdGZiLUNjdWo5X0FaWThSSVdSNkE4U2tFVlNz?oc=5",
-    "domain": "Pakistan Connect",
-    "seendate": "Sun, 25 Oct 2026 13:21:05 GMT",
-    "source": "google_news",
-    "sentiment": 0.4215,
+    "sentiment": -0.4019,
     "date": "2026-10-25",
     "provinces": [
       "Islamabad"
     ],
     "keywords": [
-      "Park"
+      "COVID",
+      "Era Isolation Hospital",
+      "Reopen Under Name"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Pedestrians face Dh400 fine for crossing roads at unmarked locations",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOczRTLTUwT0VvMkl2MWFJbGhQWWZBY3hSdDN5VGxSbXkwRjJhRVBQUTh1RnZmd0xvRm4yMTFzR0d1T0VqOVdIZGliRWVjVDJEX0xZcnkwM2M3YmJmMTE3RS1sRVQ0ZXhxRVRKQS1ZaG1aeHk0cUV2aHg2azljMjI2Y3Vnd2o?oc=5",
-    "domain": "Pakistan Connect",
-    "seendate": "Sun, 25 Oct 2026 13:56:02 GMT",
+    "title": "October 27, ‘Black Day’: Struggle against Indian military occupation to continue",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWp4a29wMXpfT0o2dFpkOVM0bFpWZFdnSXhIeXZkVk9mSkl5bGF4anVrbVI5T180RkdpdDM0S3ZiRW5DQUtEUjhKajlGV3RjbTVxbWJscFZpUEJBcEZwZmdrX2VrZEFUcDhsY1BCY0E2clV3dGZvSWp1Y3o3MGpzd2RvaEkxbEtwTjF5Z1JTaHdtaGxkQ1hqMVJDTDVDdjJ6aWMybkZ5RHpON09wSnI4Wlo1aXBoRHc?oc=5",
+    "domain": "Kashmir Media Service",
+    "seendate": "Sun, 25 Oct 2026 16:40:59 GMT",
     "source": "google_news",
-    "sentiment": 0.2023,
+    "sentiment": -0.159,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Pedestrians"
+      "October",
+      "Black Day",
+      "Struggle",
+      "Indian"
+    ],
+    "india_related": true,
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "Distributing Chromebooks and laptops is not a solution to the education crisis , JUI says",
+    "url": "https://dailythepatriot.com/distributing-chromebooks-and-laptops-is-not-a-solution-to-the-education-crisis-jui-says/",
+    "domain": "dailythepatriot.com",
+    "seendate": "20261025T180000Z",
+    "source": "gdelt",
+    "sentiment": -0.7237,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Distributing Chromebooks"
     ],
     "india_related": false,
     "source_count": 1,
@@ -2661,7 +3344,7 @@
   },
   {
     "title": "Non-prescription Antibiotic Dispensing in Community Pharmacies of Islamabad Capital Territory, Pakistan: A Simulated Client Study",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONzdpSUxfeGs3RHFlVXdkaXV3LXhtOE8wQVZsUllVM1FCYWEtOUlWV0t3TlVMM05lMDBDQzhzZnA2SHF6ZU9uUmJnU0JjNE9oWkdmNnlzRmdEWUFVVXA0cTd2NzhMUXhSdnlCaUMxOXJnN0ZmM2tDaGh4aDlnSVN2eS1xdkdhMElOVzF0ZFFsRVR5UTd5UV9HekVlaURSV3pJNUVjbFlSS0VUbDZMdVNmQV9FX1VKWGRPd1R2RXBKVkxpT0ZKemlUS0JBUWdmeEhCd2xUZFZ2Z0V4cnRfOGVzZTZsSHM0ZjZNZFBkSlB1Vko0cHlRZGsyeVdB?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQZnlxZFVNczBfM2lqQnNyTDAxcVZMSzVXeUoxU2hMYTk1d1RzT1JfYkQxdEtEQndqMkNocHFfUW1wbTlXQXp4eFBjUFNYX1FUbkZKbzZkRzhXajZCVHo4VlRBSERpVkpRUEZZVDIwR24wLWoycjhGeDhtQUJFTVNXbldZVkZmdG9rUnNFcTRIWVVXMC12alliVnIyaEN2bV80djQxdkhXMEpSNTB2V2R0Y1k5NmtENC1hcUF5NTNtbENEMVJIVnd2Yy1SYVdPOVNJMUdOV0lOQkw5U2kzWXRtMFNLT05hUlJnajFhRG5YNnFhZEZLWFNkMmhUaGNXSXFTLTk5RVNfSWE0ZnlUV2FqV0ZBVQ?oc=5",
     "domain": "Cureus",
     "seendate": "Sun, 25 Oct 2026 14:33:11 GMT",
     "source": "google_news",
@@ -2676,22 +3359,6 @@
       "Islamabad Capital Territory",
       "Simulated Client Study"
     ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "'Not a single tree' will be cut down to upgrade Islamabad's F-9 park, interior minister assures residents",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMWtSZkpWQ1A4aGVSYWhvX1REV1VmSDY3am95VWRCWGViNHI2TWltRXR6TXlkZmI3R2czYVVncWhRd0ZET3pqcmZGWXdhbDRBelNoUEkzWlhBcWRHbUVwRDk1U015T1ZTbnVTSDVOSzE4TFZ2cFpia0g4YVVLM0xmUjhybF9ad084SXpLb3VzUmduWjdVM0pxQXMzZjVsUDFwT1JxXzVYS1lxaWJkaXRKMGFCbmdscjl5dTctMTVqWnE2TV82QXZZcERJR3p1QlJs?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 12:49:06 GMT",
-    "source": "google_news",
-    "sentiment": 0.0516,
-    "date": "2026-10-25",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
@@ -2715,33 +3382,61 @@
     "also_reported_by": []
   },
   {
-    "title": "Ex-US envoy's vitriol draws bitter rebuke",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamlxMnBQUnRZN19OaThmTVkySDlkQkNkcEhRNE9TdkdZQW0tcTVkOVBEWGRobTFyYU1TQUdRRTJvaFRkOUFxUlQyRmlSZ21SLWdxaDBDbVd4NzJBdmV3ekNQNVFQcVV3MGdMeE0xUFRCYmFpMGJsUzRFMmJxdzB0QTVRONIBiwFBVV95cUxOR2xpRXdZbElaRmowaDFlZm1xVjE4T0FlSmJSajBOeVA4MkJjZ3RNTUFrbXlrVlRveC1vNEZSeWpqdVB4ODZRLUFDSko3NlF4U2h5dExIdmpfbF9tczRRckU2QTFWREZOSXBiVC1NTks1cGR3clVpUG9oeXhhVlhPeERJTzlUREM2VlhN?oc=5",
-    "domain": "The Express Tribune",
-    "seendate": "Sun, 25 Oct 2026 08:26:16 GMT",
+    "title": "Minister Naqvi promises not to cut down trees in Islamabad park — Dawn",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRGxvMWJyNjVHbmhzUmktbndUbG5qVXFYanVFdllrOVBoYUtKLTdmSkpISXY2RGVmcUk3YkZ6Qjlhc1F6OXlWTl9ZRnNPakVzRXlZNjltNS1NOUhReDFxZ0REUkktLUxlS2hoTEs1YXBFRGYweFpqcDdzeEl1T1oybDJwUGJFUGNVSUhfYWFVbXJjZDF3eHRJbzllRFJkUzg?oc=5",
+    "domain": "UA.NEWS",
+    "seendate": "Sun, 25 Oct 2026 13:26:42 GMT",
     "source": "google_news",
-    "sentiment": -0.4215,
+    "sentiment": 0.529,
     "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [],
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "Minister Naqvi",
+      "Dawn"
+    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Hungary keen to explore new areas of cooperation with Pakistan: envoy",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yVWdlVTNXaVA2UklWYlZjeV9QbG8teThCdHhLRGU4WW5CaHpWOHE1dTFQWEJCbTVnRzB5Tnl1bDFGQVgwOWFnSw?oc=5",
+    "title": "'Not a single tree' will be cut down to upgrade Islamabad's F-9 Park, interior minister assures residents",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE50TXBLNEMxSWw5QkJXM3owQmxxaU12Uk80SUxGbmE4TXN0YXpqVGtDU0hUemcxX1NUWjFOWGRpVGtTMklBRlVmbw?oc=5",
     "domain": "Dawn",
-    "seendate": "Sun, 25 Oct 2026 01:20:24 GMT",
+    "seendate": "Sun, 25 Oct 2026 12:49:06 GMT",
     "source": "google_news",
-    "sentiment": 0.3612,
+    "sentiment": 0.237,
+    "date": "2026-10-25",
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "Park"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Pakistan Connect"
+    ]
+  },
+  {
+    "title": "Cricket match squads | HYDK vs ISU, 21st Match, Pakistan Super League 2026",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOY2dvM0tQSnlYQXBTX0JXRXBIYW5aWmw4b2dWTXpDSk5HenZTQURZUHNPdDBaWDR2YS1ubmZlWEhxdUl5SndMX3hFR0pSMnNMWGdxSEZReUY5aGxWR1EwdjVRVWpzU3hKSldCNjY5WUtjOE5JWDNBS2psV2ltRXdHWGJGU3NRanJ5X3l0RXdYajk5cm1WZmYzYk9PRmZyVmtrd0M2Ng?oc=5",
+    "domain": "Cricbuzz",
+    "seendate": "Sun, 25 Oct 2026 14:34:44 GMT",
+    "source": "google_news",
+    "sentiment": 0.599,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "Hungary"
+      "Cricket",
+      "HYDK",
+      "Match",
+      "Pakistan Super League"
     ],
     "india_related": false,
-    "source_count": 1,
+    "source_count": 2,
     "also_reported_by": []
   },
   {
@@ -2762,16 +3457,60 @@
     "also_reported_by": []
   },
   {
-    "title": "China, Pakistan call for dialogue for sustainable peace in region",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ3ZEa2hSaG9WRHk2RnZOUHhrc2dGdDUxN0haMnp6YVBIMFdQZ29kc0RxYmdPazk0NGdudjJOWkhhNTFvV1dFTFVQd2pxZ1JIVzhDNEk5amdwZlRwSWEyM1ItN3JDSjQ5RE5SRU1uTnFiZ2NZQ18zdkViSmltLUZUZkpLMnF1V0tncjFCcmJxbm9kQThqVmw2bjVuZ0NDX0g4MU9sNTBPUmY?oc=5",
-    "domain": "Arab News PK",
-    "seendate": "Sun, 25 Oct 2026 06:33:06 GMT",
+    "title": "Ex-US envoy's vitriol draws bitter rebuke",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOamlxMnBQUnRZN19OaThmTVkySDlkQkNkcEhRNE9TdkdZQW0tcTVkOVBEWGRobTFyYU1TQUdRRTJvaFRkOUFxUlQyRmlSZ21SLWdxaDBDbVd4NzJBdmV3ekNQNVFQcVV3MGdMeE0xUFRCYmFpMGJsUzRFMmJxdzB0QTVRONIBiwFBVV95cUxOR2xpRXdZbElaRmowaDFlZm1xVjE4T0FlSmJSajBOeVA4MkJjZ3RNTUFrbXlrVlRveC1vNEZSeWpqdVB4ODZRLUFDSko3NlF4U2h5dExIdmpfbF9tczRRckU2QTFWREZOSXBiVC1NTks1cGR3clVpUG9oeXhhVlhPeERJTzlUREM2VlhN?oc=5",
+    "domain": "The Express Tribune",
+    "seendate": "Sun, 25 Oct 2026 08:26:16 GMT",
     "source": "google_news",
-    "sentiment": 0.3818,
+    "sentiment": -0.4215,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pak-US reset?",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VMm1Od0M4RlBXbmVOMk5UQmFxRHlYT3NsU0RtM2d1OGVPTU9sdDdyQ0g3c0dJOUFaMW41cTBTb2x3MzA4U2dNRg?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:20:35 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Decoding defence deals",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xeWNVUkJGS05ZQjlQMGZBSmcwVVU0TVEwZjJneEJtLUlVVWpQZVNBbkkyVmlGaUdoN0l2b1dMUU5GSXMwcDhqbA?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:20:35 GMT",
+    "source": "google_news",
+    "sentiment": 0.1027,
     "date": "2026-10-25",
     "provinces": [],
     "keywords": [
-      "China"
+      "Decoding"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Hungary keen to explore new areas of cooperation with Pakistan: envoy",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1yVWdlVTNXaVA2UklWYlZjeV9QbG8teThCdHhLRGU4WW5CaHpWOHE1dTFQWEJCbTVnRzB5Tnl1bDFGQVgwOWFnSw?oc=5",
+    "domain": "Dawn",
+    "seendate": "Sun, 25 Oct 2026 01:20:24 GMT",
+    "source": "google_news",
+    "sentiment": 0.3612,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Hungary"
     ],
     "india_related": false,
     "source_count": 1,
@@ -2873,6 +3612,23 @@
     "also_reported_by": []
   },
   {
+    "title": "Shadab’s ton powers Pakistan home after crucial last-wicket stand with Rauf",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeXFsZ2pINnpJY0FMcmhuNzZxRXp4MkVxNi1Od3BNb3o1MGF5ZnUyYVR3NDc0SUhrOUJLdjBtMXdGVHJGblZQdWxIbW5hUjZTaVUxMkRCcXRsQkdnS3o0Z0sxVmM5UG5oV3hLYlExNkV6aVlVY2YyZWpZZDc4TTI0M2FqNjc4eEFna20yWUZnUUFibVZjZGJQektQdkpnMjVlUkU3NVRHTQ?oc=5",
+    "domain": "Islamabad Post",
+    "seendate": "Sun, 25 Oct 2026 16:17:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Shadab",
+      "Rauf"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Myanmar and Pakistan share a promising future (P-2)",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWWNJYXk4Nk50OGdFNHJOVEluQTVWazh3TllYUzNuYWEyaHdvODZ2QVdpN2FLTElfTGItdWhOcXpoTjJRNG9xX2RvVUo2SmhBRERJTzVVYVBwTFRXY21BSjZKV3Bkb1FFOGhWY0x6T0F4NVFnMWdRYmZqWHN3NVJ6YkhzVmltQQ?oc=5",
     "domain": "Islamabad Post",
@@ -2883,6 +3639,40 @@
     "provinces": [],
     "keywords": [
       "Myanmar"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Two Pak soldiers embraced Shahadat in intense Dera Ismail Khan firefight",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVllwZy1BdXI1SlRNeUFHU1VEX3QzaUg2VF9uZEE2ZE9EZExKT2RIU1VUd1Z6T3ExVkpTNDZLYm0zTlZER2JOdUlKOUNlc2tsRlJFNmpFcXQ1eWVIWUJIZmk5YVN1M2FCMFY2ZHRtM2kwYmlrelBXMlBFanhSRzFFMGdhUVAtQkJVeWxUWjdZVEFjUFJ4aWRndVk2bGJGYS1VTDYtcw?oc=5",
+    "domain": "Islamabad Post",
+    "seendate": "Sun, 25 Oct 2026 15:46:01 GMT",
+    "source": "google_news",
+    "sentiment": 0.0772,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Two Pak",
+      "Shahadat",
+      "Dera Ismail Khan"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "PSB honours Rizwan Aftab Ahmed for sports development",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd040aGNUamxrWUExYmU0alcxU05ObHAxMENacm9UaWlrdHhpTDZKTTFPTDZLc1RBVy13MUhtNmdQVTRRUzBkWnhaVm5kQkJLbDBiZTgxaXZzU0YtYUJGMHBtSFp2bmJXRGQ5Ukh1SEFnbGFXOS16cVprU2wtMW1GcHZhNFdWVFV1dHQ0?oc=5",
+    "domain": "Islamabad Post",
+    "seendate": "Sun, 25 Oct 2026 11:18:08 GMT",
+    "source": "google_news",
+    "sentiment": 0.6597,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Rizwan Aftab Ahmed"
     ],
     "india_related": false,
     "source_count": 1,
@@ -2925,22 +3715,6 @@
     "also_reported_by": []
   },
   {
-    "title": "PSB honours Rizwan Aftab Ahmed for sports development",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd040aGNUamxrWUExYmU0alcxU05ObHAxMENacm9UaWlrdHhpTDZKTTFPTDZLc1RBVy13MUhtNmdQVTRRUzBkWnhaVm5kQkJLbDBiZTgxaXZzU0YtYUJGMHBtSFp2bmJXRGQ5Ukh1SEFnbGFXOS16cVprU2wtMW1GcHZhNFdWVFV1dHQ0?oc=5",
-    "domain": "Islamabad Post",
-    "seendate": "Sun, 25 Oct 2026 11:18:08 GMT",
-    "source": "google_news",
-    "sentiment": 0.6597,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Rizwan Aftab Ahmed"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Registration, Bank Account Process Begins For Madaris Arabia In Islamabad: Ashrafi",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU2k3a2o1RlQ3Y0tDVHF5elNuX1l6bjZobThBNlFQeVo4UDFqZVRJanNOUVNBZk1UX0FES1hWZXVmanJGa05LaXdVWjdoNklsUXFNYlpuRm1leG9DZzRRY1NidVBtT3hKQkhUNnBjUEFfSWdmdE1GTUNvS2ozZHFrc2pFZkk5MTlJUjRla0ZRSlMxRHBtOW1rM3l3WHQ?oc=5",
     "domain": "UrduPoint",
@@ -2956,6 +3730,47 @@
       "Bank Account Process Begins",
       "Madaris Arabia",
       "Ashrafi"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "IG Islamabad Directs Targeted Crackdown on Criminal Gangs, Stronger Police Patrolling",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYlhHODFvWVMzRkVfWDZGd05nbG9FT1V4REpLbGQyV080TElUTEtBalQ2WlZKMlBtN3NxNk5VN01OMjlIalkzZnNLdksyNmJYZ09mSlRjazhBU21fNXoteUpwNHpMRFRINE1CMFV4ZmE4SmNIQlJNSnNGYl9zYk1sS04yTVBGclFBVW5vaUtQRG5kWXFEWk8yTXVwSTl2OFMzaWw5X25JMHlBNHhhX3ZpdUdqNkNpMUV2RFpxNU5RWmlxblNxWFZPdFh4aHQ?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sun, 25 Oct 2026 16:48:39 GMT",
+    "source": "google_news",
+    "sentiment": -0.6486,
+    "date": "2026-10-25",
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "IG Islamabad Directs Targeted",
+      "Crackdown",
+      "Criminal Gangs",
+      "Stronger Police Patrolling"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Islamabad Water Issues Challans To Eateries Over Grease Trap Violations",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPc0VGbWFPZjE2MmE2VVQ0TXAzRVhzemJsalY1cUlabE5SSV92b29YOHF0UzVqV0dQTldlV0lzYnZiWFRWeXdKeS1LX0hfNnZVT05pNW13OTVHekhRQXpVa2NRZ214ckN3MU9sQnVyVnRoQ25ZWnRqUUNwNURlam9CV09YWnBRRW52QVc5ZW1rV1lMaDJLeHhJcmdkdw?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 14:00:11 GMT",
+    "source": "google_news",
+    "sentiment": -0.6908,
+    "date": "2026-10-25",
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "Islamabad Water Issues Challans",
+      "Eateries Grease",
+      "Trap Violations"
     ],
     "india_related": false,
     "source_count": 1,
@@ -3000,27 +3815,6 @@
     "also_reported_by": []
   },
   {
-    "title": "IESCO Announces Scheduled Power Outages Across Islamabad, Rawalpindi And Nearby Districts On Monday",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanBKU1hFX1MwRkMyRnpycVQwTG42aVl4YmI5Y2JkRTA5TDc1MFBYZUp5WV9OZ0FlVmluenNobkZ1cEVHOVBtS2VxVl9QaWltMWpxUFZnYTdOZ3g0ZlZtYnZSdGx4dlZlOFNFN0oyWTB6Z0pPdEt0NHJST1pFZGN4TDRhUkpGaldSTzBVYzN4V1RJZWxwNGNr?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sun, 25 Oct 2026 09:45:07 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [
-      "IESCO Announces Scheduled Power",
-      "Outages Across Islamabad",
-      "Rawalpindi Nearby Districts",
-      "Monday"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Islamabad DHO To Host ‘Pedal For Pink’ Cycling Event With Free Health Screenings",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeDM4TEdLWXNzVjl0MC1lM0VCVWJVTG9udGh0cE5qRmRadUF0YTVlaGRTWWVZaDlDZkZJOGctWTFPVVdtWnFMZ0NraXBWM1pIN2xSS2RDUWRuV1BnUTBKNHF2aGpVMUlsazNmdkpmOFRJR21xTmhFVUFJaXV5aF9XdkkzQjRLRnlkTFlsb3BvRWN6V0NBd3NaUlJDdTQ?oc=5",
     "domain": "UrduPoint",
@@ -3042,6 +3836,45 @@
     "also_reported_by": []
   },
   {
+    "title": "IESCO Announces Scheduled Power Outages Across Islamabad, Rawalpindi And Nearby Districts On Monday",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNanBKU1hFX1MwRkMyRnpycVQwTG42aVl4YmI5Y2JkRTA5TDc1MFBYZUp5WV9OZ0FlVmluenNobkZ1cEVHOVBtS2VxVl9QaWltMWpxUFZnYTdOZ3g0ZlZtYnZSdGx4dlZlOFNFN0oyWTB6Z0pPdEt0NHJST1pFZGN4TDRhUkpGaldSTzBVYzN4V1RJZWxwNGNr?oc=5",
+    "domain": "UrduPoint",
+    "seendate": "Sun, 25 Oct 2026 09:45:07 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "IESCO Announces Scheduled Power",
+      "Outages Across Islamabad",
+      "Rawalpindi Nearby Districts",
+      "Monday"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan’s Saima Shahzad wins gold at Asian Masters, World Masters Grand Prix",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZTdLTG8yVVZHZUpVckcxX1Q4NFR2UmFMRGljaVd4ZThwQ2w3cElxTFFqT0JKb0FnRnAzSk9GdnJ2cmdTLUhONnhnQl9ETVRWa0l0RU1wQjA4Y21RX2xsU3FCeXVhZjN4MldUUnVPVnloOTlfYzM0MFROQzNCNWF5RmVmcGRhTlhyVmcxdGtUTHJzYlFRVUtBOGFZTFVGbjlVZ1BMUHR1ZWhtLWpwdzZTVWNyRXNUM0xQQUVr?oc=5",
+    "domain": "Daily Pakistan",
+    "seendate": "Sun, 25 Oct 2026 16:45:27 GMT",
+    "source": "google_news",
+    "sentiment": 0.7717,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Saima Shahzad",
+      "Asian Masters",
+      "World Masters Grand Prix"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Islamabad IGP Orders Timely Maintenance Of Police Vehicles",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQzVtNk4zcWhIdzM0N2ZhMThPY1QwU2FhYVN0WkVVV0RqZ0hwWENYamMzdnNYOFA5Y3AwQ0l4bXI1amNqQmNTb3RVMmZ2YWNYeUl1WnNPTEJlTWxHVlV5UlhERlJNalhDbUowaVZlQjNIOW80Ml9rUVhKcXYtYUZidEE3S2VhZi1lamplZDIzelUtVzBhbGpZc2dR?oc=5",
     "domain": "UrduPoint",
@@ -3055,24 +3888,6 @@
     "keywords": [
       "Islamabad IGP Orders Timely",
       "Maintenance Police Vehicles"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "UN–Pakistan Conference To Examine Space Technology For Disaster Early Warnings",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSEpWUVROMDhLUGZNUHBKb0pFLU9kblhBNVZZeTMzYlBuOFd6V3RwVWl0dXZxakE5QW5iVDFVRTU5UUZnUUgxTnprRkJYR29OTGQ4LXR6MEVKQlJRcWRTLW9YWjlZTFVYSzlneEcwTUN1RXB5eHlmZXEtNGhYejlraUliMlJSX0FiUDZZTTBZT29rYUxpQ3pKcQ?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sun, 25 Oct 2026 06:15:04 GMT",
-    "source": "google_news",
-    "sentiment": -0.743,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Pakistan Conference Examine",
-      "Space Technology Disaster",
-      "Early Warnings"
     ],
     "india_related": false,
     "source_count": 1,
@@ -3101,22 +3916,6 @@
     "also_reported_by": []
   },
   {
-    "title": "PIA gets clearance to operate Boeing 787 in Pakistan for first time",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhkck9qd0dPNnhtZUtNdHptc2xJMi0tazRHalZkdDF5YmhqRWRUZ0UzNGNodzZQWVV5VGpUUEF5engyMDRnV3pQYnMxdWRsaS1DZGxvUWdOUG5PLUM2S3RVeHpJTzZfb3ZWR2lnQm1MX3pzX0cybHZVQmVqclUzak1mSloxNmNuN2JoTVd0dw?oc=5",
-    "domain": "ARYnews.tv",
-    "seendate": "Sun, 25 Oct 2026 13:21:44 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-25",
-    "provinces": [],
-    "keywords": [
-      "Boeing"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Islamabad Police Ordered To Target Criminal Gangs, Vehicle Thieves",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVHFoYUViVEpRZXJFN05yUXFOYVZYQ3VJYUljck1uMGI5aTZyeXp1MmtQTVpUZGtTLW90NXhfWGQ0WFM4ZEJfYzJzUGdPazZRSHF2WHFwdWhwNnVLc1ljdUlDclBFX1pEdUZSTnF1bXpScW56YjkyNDB0aHdBc2JuamNIS2J6XzVKc245R1NFLTRBRjNqcTBRd2xzVTk?oc=5",
     "domain": "UrduPoint",
@@ -3137,6 +3936,22 @@
     "also_reported_by": []
   },
   {
+    "title": "PIA gets clearance to operate Boeing 787 in Pakistan for first time",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOazhkck9qd0dPNnhtZUtNdHptc2xJMi0tazRHalZkdDF5YmhqRWRUZ0UzNGNodzZQWVV5VGpUUEF5engyMDRnV3pQYnMxdWRsaS1DZGxvUWdOUG5PLUM2S3RVeHpJTzZfb3ZWR2lnQm1MX3pzX0cybHZVQmVqclUzak1mSloxNmNuN2JoTVd0dw?oc=5",
+    "domain": "ARYnews.tv",
+    "seendate": "Sun, 25 Oct 2026 13:21:44 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-25",
+    "provinces": [],
+    "keywords": [
+      "Boeing"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
     "title": "Video: India slams Pakistan at United Nations",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTGExSEFLUDdFSEhRTTcxWW1BVkh4cEVWRmU5SC1XcXNfcnFMb25DTFV2emZlbGk4T3NWVXUtSTFTQ1ViaWxsYjZadXhpR1FyRS1HbEpIeXdvTnkwTlRXZ0hpaUtLOG0zdnBUZ25lcHBXQjBqOXhXLXlPSlhrR1kzN2xrYTgyVnPSAYcBQVVfeXFMT0xhMUhBS1A3RUhIUU03MVltQVZIeHBFVkZlOUgtV3FzX3JxTG9uQ0xVdnpmZWxpOE9zVlV1LUkxU0NVYmlsbGI2WnV4aUdRckUtR2xKSHl3b055ME5UV2dIaWlLSzhtM3ZwVGduZXBwV0Iwajl4Vy15T0pYa0dZMzdsa2E4MlZz?oc=5",
     "domain": "The Siasat Daily",
@@ -3151,24 +3966,6 @@
       "United Nations"
     ],
     "india_related": true,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Islamabad Police introduce new leave policy for 2026",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xM0N4ejcyX1VqT2E4VDdab2NlUG9xZ2tlN2RjbV9RQmI4elcyQWpsT1RPUnp3RkdQZVQ5Z3dWUF9INllGbmd0N01QS2cxRnJIcVpscDBRaVNUNU11NWxVcmhvSVB0X1F2NUt1S1FWNkpSckZrMlhsWFh3?oc=5",
-    "domain": "Pakistan Connect",
-    "seendate": "Sun, 25 Oct 2026 00:22:54 GMT",
-    "source": "google_news",
-    "sentiment": -0.0516,
-    "date": "2026-10-25",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [
-      "Islamabad Police"
-    ],
-    "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
@@ -3227,23 +4024,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan U17 win One-Day series 4-1 after Yousuf's 105, Azan's 91 power hosts to 27-run win in fifth match",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLUcwU1ZqcWNaRzdtVVNYa1N5cTZ5cXNNa0JyODNOMXIyc2FraUo0eDJyTzEyVkxVd280dnQ0c2ljRUtrT2RnZHh2UnpwczFMSmRWbk9NZmI3SnZnR3Y1b0pGRWRNWVBRaTV2SWRNbEN3MjBZRnRwZm9Cb0otTnFwbl96OGt5M0JOTWxwXzVWNVRPLVY3bHMwdXJfWE45a09hVTYzVzBwNlh0dGthTzdUQ0hRUXpUc3hRaUljaDBfekd3NmIwOTVfLWh4S3hVSGRNc0pvQkhmYw?oc=5",
-    "domain": "Pakistan Cricket Board (PCB)",
-    "seendate": "Sat, 24 Oct 2026 18:11:51 GMT",
-    "source": "google_news",
-    "sentiment": 0.8225,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Yousuf",
-      "Azan"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "CM reaffirms commitment to complete eradication of polio from Punjab",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsSUc4MnNpSGtGNFd0dWpZZjlEcEFQbzA1dXUtYllDWkJyWk9pWHpzWHV1bGVjNm5xb2J5Q3R1Z1diVWxXcTRKNVQwSkM3b0JjWkV0bERn0gFWQVVfeXFMUGxJRzgyc2lIa0Y0V3R1allmOURwQVBvMDV1dS1iWUNaQnJaT2lYenNYdXVsZWM2bnFvYnlDdHVnV2JVbFdxNEo1VDBKQzdvQmNaRXRsRGc?oc=5",
     "domain": "Business Recorder",
@@ -3279,23 +4059,21 @@
     "also_reported_by": []
   },
   {
-    "title": "Why Does Indian Punjab Chief Minister Bhagwant Mann Want to Visit Lahore?",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWc3b0VuMkFTS012YUp0b2RCV09DYno5dVJOVUVOcG82X3Bmc3AxazZ5OEVGQUJia3lPRnZ5azlOcmIwREdnaTRRUUxsRFRxdEI5TElNUFQyREk2bUxnWjRWNTVVYmtQb1NHZEl4c0tJTFFteVNXc1RZZ0xKY3hZRlRwZGZqYnpzaFQxcXoxVi1MZFM5WElnY2pjU0VLZVpEMVpTMU5memJWZ05zakk4VWRUdi0yMG1v?oc=5",
-    "domain": "Pakistan Matters",
-    "seendate": "Sat, 24 Oct 2026 17:18:21 GMT",
+    "title": "Paks Punjab CM accuses judge of taking bribe in Azerbaijani woman gang-rape case",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVmhuXzlwUGFrbE03RFdsUHVvSUJKTi1rWDdUQjNkTFlXcW1aVFl3RWV1NTU4NTRvMUJPdmV5VEVxZVRjWDZVUDJDRUZ0UlByY2VzTjI1eFF5bmR1TlBrV21fSXRLbEFwSmxEeUxnWkFtcEpkSlQzb2hSZTcxZHV3a19uWUwyWHl1QUU1ajgtMklERm1oX0Jaa2Z1MWVOY19ScmtMWnVCNHR3TWp5SFV1bHRwTm9SQdIBtgFBVV95cUxNVmhuXzlwUGFrbE03RFdsUHVvSUJKTi1rWDdUQjNkTFlXcW1aVFl3RWV1NTU4NTRvMUJPdmV5VEVxZVRjWDZVUDJDRUZ0UlByY2VzTjI1eFF5bmR1TlBrV21fSXRLbEFwSmxEeUxnWkFtcEpkSlQzb2hSZTcxZHV3a19uWUwyWHl1QUU1ajgtMklERm1oX0Jaa2Z1MWVOY19ScmtMWnVCNHR3TWp5SFV1bHRwTm9SQQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 24 Oct 2026 22:30:16 GMT",
     "source": "google_news",
-    "sentiment": 0.0772,
+    "sentiment": -0.4939,
     "date": "2026-10-24",
     "provinces": [
       "Punjab"
     ],
     "keywords": [
-      "Why Does Indian Punjab",
-      "Chief Minister Bhagwant Mann",
-      "Want",
-      "Visit Lahore"
+      "Paks Punjab CM",
+      "Azerbaijani"
     ],
-    "india_related": true,
+    "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
@@ -3335,25 +4113,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Punjab MAAS theatre festival opens six-day Lahore programme",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTGhEVk42WEEwZlFPSENZQ0JPLTVDazh2YWx0WmZsRlJ4Q1VZMWZfSm9SWTY2eUVjWFRfeUotMGhSQTJnUVFxNkpJazBfMlY2em9BVWVqSC1uOVdFenJHakZHRzdWOWd3LWFVQmhIdVdJTl9ySDN0LURlajQ2UlFwQk9CRUV0WndDMmww?oc=5",
-    "domain": "PakTribune",
-    "seendate": "Sat, 24 Oct 2026 16:10:54 GMT",
-    "source": "google_news",
-    "sentiment": 0.296,
-    "date": "2026-10-24",
-    "provinces": [
-      "Punjab"
-    ],
-    "keywords": [
-      "Punjab MAAS",
-      "Lahore"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Yadea Plans To Establish Electric Bike Manufacturing Plant in Punjab",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aLV9wbXdpam5DSDMtZnNzMU9JYzZwRXozb1UxcU5mcDRicnBTLVBrMGE1V1cwck5HWU9JQjMwUlZEd183R3MzRGtqdHRBemdqbHk0V2NuZ0tkbnZja0Iza2dTUVZfTGdiY0Q5bXV5dzY1VFU0eXZkYVBmVTZVajA?oc=5",
     "domain": "Auto Power",
@@ -3367,6 +4126,25 @@
     "keywords": [
       "Yadea Plans Establish",
       "Electric Bike Manufacturing Plant"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab Assembly Deputy Speaker, MNA Meet Prime Minister",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUWhXcVQ2ZkhDa1BZRzJhU19HMDFkSk91dW5XVlE0VXdpOWxqYTRSOWhUMl9rOEM5V0NQUG9BOHBGVDVCYVVMLTNjZC1aRlp2aWJlUk9WdWtHUTU3MFRMVkhtRS1LaUN6dEl6TGI2clpjZ21tS1UxVWlnbW5lOGowd0N3RVdiUFlVZ2VnVW1UZXhZYmkwSGo3bmxLTE5ZLWNvd002dg?oc=5",
+    "domain": "Daily Independent",
+    "seendate": "Sat, 24 Oct 2026 19:12:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-24",
+    "provinces": [
+      "Punjab"
+    ],
+    "keywords": [
+      "Punjab Assembly Deputy Speaker",
+      "MNA Meet Prime Minister"
     ],
     "india_related": false,
     "source_count": 1,
@@ -3391,27 +4169,22 @@
     "also_reported_by": []
   },
   {
-    "title": "Mir Raza Case | Sindh Judicial Commission Report | Police Officers Face Action | New JIT Formed",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Wa2NHQVphUzlmdHphRXBWRk1MUjZUZ0h1WDZLa1hrQ2lRdE5USnhqRUc3NDNWMlJPdThZeDRyRzZabmNYLWtrM0NTdWw?oc=5",
-    "domain": "Aaj News",
-    "seendate": "Sat, 24 Oct 2026 17:50:10 GMT",
+    "title": "Foundations of Democracy: Senator Naek emphasizes constitutional supremacy, rule of law, equal justice",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91aU93czNDTm1Ham1iN3NZLWl6aHZITm1EVWM1Vk9NWms5by01MGx0MGMyQWg4Y09Pa2QzcHU2Zlk5WHY0czJtZDFYYVpXV09feWJKWm1n0gFWQVVfeXFMT3VpT3dzM0NObUdqbWI3c1ktaXpodkhObURVYzVWT01aazlvLTUwbHQwYzJBaDhjT09rZDNwdTZmWTlYdjRzMm1kMVhhWldXT195YkpabWc?oc=5",
+    "domain": "Business Recorder",
+    "seendate": "Sat, 24 Oct 2026 21:25:40 GMT",
     "source": "google_news",
-    "sentiment": 0.0,
+    "sentiment": 0.5574,
     "date": "2026-10-24",
-    "provinces": [
-      "Sindh"
-    ],
+    "provinces": [],
     "keywords": [
-      "Mir Raza Case",
-      "Sindh Judicial Commission Report",
-      "Police Officers Face Action",
-      "JIT Formed"
+      "Foundations",
+      "Democracy",
+      "Senator Naek"
     ],
     "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Aaj English TV"
-    ]
+    "source_count": 1,
+    "also_reported_by": []
   },
   {
     "title": "Sindh issues over 680,000 driving licences online in two years",
@@ -3462,24 +4235,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Foundations of Democracy: Senator Naek emphasizes constitutional supremacy, rule of law, equal justice",
-    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91aU93czNDTm1Ham1iN3NZLWl6aHZITm1EVWM1Vk9NWms5by01MGx0MGMyQWg4Y09Pa2QzcHU2Zlk5WHY0czJtZDFYYVpXV09feWJKWm1n0gFWQVVfeXFMT3VpT3dzM0NObUdqbWI3c1ktaXpodkhObURVYzVWT01aazlvLTUwbHQwYzJBaDhjT09rZDNwdTZmWTlYdjRzMm1kMVhhWldXT195YkpabWc?oc=5",
-    "domain": "Business Recorder",
-    "seendate": "Sat, 24 Oct 2026 21:25:40 GMT",
-    "source": "google_news",
-    "sentiment": 0.5574,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Foundations",
-      "Democracy",
-      "Senator Naek"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Lanjar orders review of security for VIPs, political and religious leaders",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc01WMUM0MTVoMlIxS05FUHVTOU1ONnJ0enVSUnZSXzl4aWVJYTlQVHNQdXNqM19UU2ZHdTFqNkEzRTkxME5PWWhCUGJkaXZqeDVuQzZ4bG5NaXZwTy04ck41OFc3bldiOFRqVjh2MkE1XzYtWkNLNDFzLU9NOUVCdk5CWUdJR3l5NlBFU3hUcjhfOUg4eXVZVERPT2JFQUZkTFN3R3l4WnVYVkFnOXRF?oc=5",
     "domain": "The News Pakistan",
@@ -3491,6 +4246,23 @@
     "keywords": [
       "Lanjar",
       "VIPs"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Rahoo suspends Hyderabad board official over alleged result irregularities",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU2FhZTRDWnhIR3hXVDBXbTFCUDhrdU9UZk15WjRjYzlaNVRIM3dabnNEVklEb0NaZUFURlVsRHBkSEpNdTkzNF82QnZrcnozWHN2b0dVOTUxbXN1MzFUS2w4NVZ4S0hsYkZUUlZ5TVdyR2gwUmNrUVRHbTFyTUhSSmRTenF2TDBfUm9JdVBQM2k5Tk45TGtadVFSbTRXcUVsNHNsNU5VUlItVXhxRXV2Sg?oc=5",
+    "domain": "The News Pakistan",
+    "seendate": "Sat, 24 Oct 2026 19:00:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-10-24",
+    "provinces": [],
+    "keywords": [
+      "Rahoo",
+      "Hyderabad"
     ],
     "india_related": false,
     "source_count": 1,
@@ -3511,26 +4283,6 @@
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
-  },
-  {
-    "title": "Sindh forms JIT to probe Mir Raza murder",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbXVHR0J1Zm5ROWJTZDBEZGt0TGFheXJTY3BPVmVKVnhaZ2dsNFozNy1EUGtUbGhRQ0l0MHV4cW0xZFAzNDdIbzF5MncwemNKM1lYUVVOLWZfOWlKMmZaRjRTd3V1LUhWckJrSURnTm5mai1oWElRbl9VekJiVldfNEFKZi1oaExISkJSLQ?oc=5",
-    "domain": "Pakistan Today",
-    "seendate": "Sat, 24 Oct 2026 16:51:25 GMT",
-    "source": "google_news",
-    "sentiment": -0.691,
-    "date": "2026-10-24",
-    "provinces": [
-      "Sindh"
-    ],
-    "keywords": [
-      "Mir Raza"
-    ],
-    "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Bol News"
-    ]
   },
   {
     "title": "Historic Inscription to Be Installed at Masooma-e-Sindh Shrine on October 27",
@@ -3594,46 +4346,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Sindh Home Minister, IGP Inaugurate Upgraded Model Police Station In Nawabshah",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0pyM256NDNhaVVxMlJNcGJQRmkxckZDQ1NGc2tIWnJoVnlmQ1RMcWdyQUxtbmRaRkU5cXh0eHB4TlUtU1dUd1Buc0FWajRNVUtSak52bDNudVFUaFNsMHROMXNyVEZqb3k5RFJHTXdTa3BHS0VGZGtLSGgwYjZVVW1qbk9LbEx6YXZTd0hyVkZmamlSSDZXOGo4TQ?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 16:25:03 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Sindh"
-    ],
-    "keywords": [
-      "Sindh Home Minister",
-      "IGP Inaugurate Upgraded Model",
-      "Police Station Nawabshah"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Sindh University Accountant Remanded For Five Days In Rs71m Pension Funds Case",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd1c0YTV6dGlBUHFEQi00bDQ0N2hITWVNcUozZmZCcXFuM0pEdDlRTGQ2STdyX3V5WDd4YnRDTlphaEpTNE9RaFYyRVhwdGkxZ016cWV1cVd0UU80TVdYWTF1RzVKUnh1ZDk3Slp2a1JhZE5ZV1dpU0kyNHBLNFN3VnRidUNoTlhuR2RXN1VvR3I3c3VCcDlSa0h5VQ?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 17:50:12 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Sindh"
-    ],
-    "keywords": [
-      "Sindh University Accountant Remanded",
-      "Five Days",
-      "Pension Funds Case"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "PTI confirms Akbar as head of Khyber Pakhtunkhwa chapter — Dawn",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS1U4U3BqWTY5bmhrM1pzeHNnQjE2WHVpWXhSUEoySk01UUdHT1FzOUprUXoycTE2N0w2SnFFNWdjYmJjSXZraVh4bEFsb1ZxRS1yaklfNVlXbm9Yd3lBMm9JVllXRzVHX05WUFcybUpCcEZHWDlZb1F0aVMzRHNhR2FkUTVVLXJKQ0VQN3d3WDlxTC1zR3JtVkk1MWpua1NPYUhvWg?oc=5",
     "domain": "UA.NEWS",
@@ -3682,10 +4394,8 @@
       "KPEZDMC"
     ],
     "india_related": false,
-    "source_count": 2,
-    "also_reported_by": [
-      "Minute Mirror"
-    ]
+    "source_count": 1,
+    "also_reported_by": []
   },
   {
     "title": "KP governor meets acting president, briefs him on provincial situation",
@@ -3702,38 +4412,33 @@
     "also_reported_by": []
   },
   {
-    "title": "'Missing' Junaid Akbar remains PTI's KP president; Senator Noorul Haq Qadri to assume duties in his absence",
-    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0xOWQ3SUthdUZ0TU9LekgwWk1kV1RYWGY5TDJWNzZCYjlhWU9zbC1QLTlBTEdxNjVVd1poSXozR2p5elpJa044Qg?oc=5",
-    "domain": "Dawn",
-    "seendate": "Sat, 24 Oct 2026 16:44:00 GMT",
+    "title": "Pakistan, Hungary seek to expand energy, trade cooperation",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMVZ3VlI0ZHdWTUpVaUdJdDVmSW1lSmJJOC1MckUxMWtBUjZqaU9aaWhHbjdxOEkxcGEwakxBWWdXQ2piRWdFOVU1M0tFVWNVRl8tMWNuU2ZQZTdmclQtVHd1SndRTmktdW1GV1k3T2MxRl9DUzBjSk0yYVRmSUNLYU9BeW9DZFkteXRySEVWVTZhMGlfNGJ3Yg?oc=5",
+    "domain": "The News Pakistan",
+    "seendate": "Sat, 24 Oct 2026 19:00:00 GMT",
     "source": "google_news",
-    "sentiment": -0.296,
+    "sentiment": 0.5267,
     "date": "2026-10-24",
     "provinces": [],
     "keywords": [
-      "Missing",
-      "Junaid Akbar",
-      "Senator Noorul Haq Qadri"
+      "Hungary"
     ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
   },
   {
-    "title": "Faisal Karim Kundi | KP Federal Relations | Khyber Pakhtunkhwa Development - Aaj News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUnVXS0RSWXJUVGdCVDdUcTc2MmM0UDJ0alFEc1ZueXVzUmk3TFVGaXpIXzA3UFJMTlF0dHptRHdNVW5yT1Q4elM1WF8zZUNMd2tSc3JUa3N3eFRTS3QwRU5aMFowMVJMSDlkcmhhSDFJZEstSExWdHZqczFNT2tnUmVhaWo1RWVFRFFHc2ZzU2wyV1JwQ2tyb0JvdllzTWF4OW1QdjdTNVRUY0xrb3hmLTFFNzc2UnRN?oc=5",
-    "domain": "Aaj English TV",
-    "seendate": "Sat, 24 Oct 2026 23:30:12 GMT",
+    "title": "Akbar retained as PTI KP president",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RSzlYSk1XbFowQTVGRUFTWEkwSUlSUk90U053cC1QS2NxdERUN1o0ejRDNlRwV0x6cjZWNC11ZE92b0xieHM1czZ6NGszcU1NXzlackxRZDcyNXFVd3ByNXlfemUxOUs0eDJORm1ELXVYOW0yRUszaFB3MnBkdknSAVZBVV95cUxNZ1NqSkxwVnQwQ0ZPeFJpaUtfTFBqZEVsM3o2Q1ExeWZOYTNwVjl1TXkyTGJUSXNqSk9VREJEZ0EzYXYyWVVOVTF1LURwR0dYVW5TZmVBZw?oc=5",
+    "domain": "Business Recorder",
+    "seendate": "Sat, 24 Oct 2026 21:25:41 GMT",
     "source": "google_news",
-    "sentiment": 0.296,
+    "sentiment": 0.0258,
     "date": "2026-10-24",
-    "provinces": [
-      "Khyber Pakhtunkhwa"
-    ],
+    "provinces": [],
     "keywords": [
-      "Faisal Karim Kundi",
-      "KP Federal Relations",
-      "Khyber Pakhtunkhwa Development"
+      "Akbar",
+      "PTI KP"
     ],
     "india_related": false,
     "source_count": 1,
@@ -3777,96 +4482,6 @@
     "also_reported_by": []
   },
   {
-    "title": "PTI Makes Alternative Arrangements To Run KP Organization",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORUNNNFA5T0lVNGowRTJzLVV0X1NWTTZQMXl5d3ppQWJVeHpSbHJWaldReTFCaGMyVXM4VXRWbEVsTXZsMzdHTmh0ZzZjVkMwel9RQ0JSLTJNSVA0aUdYbWVjYXBtNjhQX1N3Z0xHeFp5eE9VWXZMSDQ1b2NsLUFSSHFYeUlIb3dRb2lCRnBHaHZLS3AwMGc0MzdfWWl0QklSNkFyR283TnRsNG1hZzVOMA?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 16:45:19 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "PTI Makes Alternative Arrangements",
-      "Run KP Organization"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "KP Governor Urges PSL Matches In Peshawar, Modern Sports Facilities Across Province",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUnNFSUlnQ2lQb282aFlJNVMxa2p5NU85SE5CTXVLQ3ZiTV9IWWlHRE05YWxWLVJiYnAwdEJkZ010ZlhoVmRFV0FrcTYyVzRTQUZPeVJnZi1haVh4cHpJcHRmdUstcW5HaUZjV0MxdmVUWEJOMWRoamczbjVZMnVmTktUa2czQmxya3ZqZzI2NmdaU3RJTnhpcGdVQQ?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 17:15:20 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "KP Governor Urges PSL",
-      "Matches Peshawar",
-      "Modern Sports Facilities Across",
-      "Province"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Governor’s Rule In KP Leads 68 MPAs To Rebel Against Party",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbU9JbExKZEx2eFdrbHdremZLMHcxX1hTM0pmLUxRODRfNnU0ajllaU8xd05UazJjdjNwRzFDemJfN0pFM1VObElyYjgzYmlZVms2TzZlancxRWUxTll6cjV1YW1qWjhDaTdsaFV0V29zS2VPXy1OczZOOEZTcmhZTlJRcDFyODlHWEdsWGQtSXB5OWFxWXNNTGxlX2lNZDU4NWxwRA?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 17:48:29 GMT",
-    "source": "google_news",
-    "sentiment": 0.2732,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Governor",
-      "Rule KP Leads",
-      "MPAs Rebel Against",
-      "Party"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Federal government clears $200m World Bank reform proposal for KP",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWndQLWxycEREVUlfMTAydDFZZk9xSlNNdWNBX0dsTUpVclZjeE13UW44QVZvdXFkcHQzaE1IWkxtWUNjQUtRbWNzclJLVFlnazA4Z0M3cGQwcWp4Yno4YUIwZTNJVWZmbUJHTDhYNHRNTWxFdFZ0NnpZX3FZVFB0ZGQtY0JHc19wS3VKTTlULUNaMWtKSGlESFU2UnZRemltWGc?oc=5",
-    "domain": "Minute Mirror",
-    "seendate": "Sat, 24 Oct 2026 16:45:41 GMT",
-    "source": "google_news",
-    "sentiment": 0.0772,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Federal",
-      "World Bank"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "PML-N Leaders Allege PTI Governments Failed KP On Development And Security",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNG5pQUlUeGJLZ1dtc250ZTVsbnc3aWcwZkdHTldWSHh0VFBpX19iVDdJVmlxbjhaV013bWozLTFRc3ZNOTlyQVIxUTYtSGQzd3JzTVJwRDFnNXBNRWxfR3F1TWIzM203SWdlT1FJTW9JZlJWcDlOMFc0Vlh4V0NYcGs0Ql9OTXhBNEp5OWdaTEp3TDVBdXlWbzdXT0E?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 17:16:06 GMT",
-    "source": "google_news",
-    "sentiment": 0.0772,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Leaders Allege PTI Governments",
-      "Failed KP Development",
-      "Security"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "NAB Flags Alleged Irregularities in Rs4.93 Billion KP Gold Mining Contracts",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUm5ualIzQzU0RFdGaVI0Vk9uZzVEMnRyWHNwV0VRMTZzUHJpa2VHX2FNT2w5cllxY0YyN1lzbjlNc1JuYzVYa3hDVFNmbjNOMU15NU01VjY2NVhrS21ZY20zQzNFZDRSNDB0a3V6cVZ6VGg2SDZ6T2FLQjhTQV9LeDcydnREUXZmUnhzV0czOFVxcnlrbER3OV9BWjBvelNoMnN1YWtZclh5SjBObGM4eUtWMC15eG9CdlBUbWtJejk?oc=5",
     "domain": "Daily Independent",
@@ -3879,84 +4494,6 @@
       "NAB Flags Alleged Irregularities",
       "Billion KP Gold Mining",
       "Contracts"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Hanif Abbasi Says PTI Lacks Clear Strategy Amid Internal Differences",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFJ1a1hxV2g4QUpPYzBVNGNBc0ZoalNuTl9NSjF5WERZYm9SRDI4S0YxRmlHSHpFZkNwd3ZEUUxNWmViYWdkdmxzVEdlbmV4ZW0tTGM3RXI3WG0wRUcyelFEdFBjaFA3YlBBZUUyNTFxU0NsbTkteUIyVDVFUzZqMW5aSzUzSnRUUHFJR0ZZSUZXdHp3OVF3Vlhoaw?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 18:05:03 GMT",
-    "source": "google_news",
-    "sentiment": 0.3818,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Hanif Abbasi PTI",
-      "Lacks Clear Strategy",
-      "Internal Differences"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Sohail Afridi, Ali Amin Gandapur under NAB scrutiny as KP inquiries expand",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FfWVdiOWZtLXQxcG9hQ18xbFNxQmRROHE1TW9XTVJRR1ppNHNxaGhzUklkRlFuTHpOOE9jWk5oMjEzRDFzN2l3MDNWQkpXSWRDNlhBOGpaWlQ3YXpGM25BNnJYNWFUTnZVQlM5VGY5MlZidS11N3kzaDZpVEhHc0d5UjU0dDMtcXQyU01Ecm5VOVV1bXpXbElzOTZaTU1HSTNKN1NmY2s4SWNqSGc?oc=5",
-    "domain": "Minute Mirror",
-    "seendate": "Sat, 24 Oct 2026 15:56:21 GMT",
-    "source": "google_news",
-    "sentiment": 0.3182,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Sohail Afridi",
-      "Ali Amin Gandapur"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Child Marriage In Balochistan: When Childhood Ends At 12",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTW5MbEhJMkE4TzMwQ1lwV3NNUkpJWlFmWlFoSmlqWmJ0XzVpSWxDX1VZTzVScmRlUGRUV2hGZktJWUtkOFlZR0lmV3JGYWhKbGRSTGo3eGV5bndQRHJra3lDdjlmOThMSWtCLXhtQnhxX0FVbnhxSFBVOG13R3FaWm5CMGRKYWtSZkgxd0ljXzk?oc=5",
-    "domain": "The Friday Times",
-    "seendate": "Sat, 24 Oct 2026 18:43:00 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Balochistan"
-    ],
-    "keywords": [
-      "Child Marriage Balochistan",
-      "When Childhood Ends"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "New Allegations Regarding the Presence of Former Afghan Security Personnel in Pakistan’s Balochistan: From Training in Dalbandin to House Searches and Detentions",
-    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPV0FQWXZoN3Z6YnlfRzFGQjlDUEtVQ0dYejI0clRRdUdFU3JHemo3Q0NnN0UxRFg3cHI3WEdQYUQzaldDMWJpTzZjRGpGbHRjV2xQc00tcU1CMXJhSzBiZ1VIdlN0dWpXMjlXX0J1elBya2RTdDVra3hOMG1NaDNFblRGY1FTSkpjYUl0MHVMVTYySS1IZjYydTE2UGhHWk9LWFZBWjhYNXMxWDFqcC1KMDVFRHlScTNMdE5xaGlhTjIzTDZhZndUWnh5cDF3UUlDTTJ1bWhiTDVvS1VmQTc1NzRibERHUXJ2UnpYbUZjUzJpUDY2LVNpM1pjWWNYU1lVdlJtZWZ3b1p3UUlUbDR0VWEtY0RSVGg1VF9QUnRUYndGdkRtM0E?oc=5",
-    "domain": "خبرگزاری صدای افغان(آوا)",
-    "seendate": "Sat, 24 Oct 2026 18:07:53 GMT",
-    "source": "google_news",
-    "sentiment": 0.34,
-    "date": "2026-10-24",
-    "provinces": [
-      "Balochistan"
-    ],
-    "keywords": [
-      "Allegations Regarding",
-      "Presence",
-      "Former Afghan Security Personnel",
-      "Training",
-      "Dalbandin",
-      "House Searches",
-      "Detentions"
     ],
     "india_related": false,
     "source_count": 1,
@@ -4041,27 +4578,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Balochistan Ombudsman Reviews Pending Cases, Calls for Timely Redressal",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeGtQQWd4Y3RraGE0LWtDa01pOW5iUE9OVTFwMkZwR3FLWUlfcTlyQWJ0TFlSZHlyN0psemxmam5LOFp3SWhwY1hyQmI0NmxIV3VSQlk1ZklHelk4Y2pPb3RRQm53WWlOU1VpMHBFOXA5UnFjVGtHYkZIbXc3RjdvbHl4b1VnN3E0aFdBLU1mTlFPNTd5NlNIRzJVeEgyWGJZdm55V2NlYnJGUTF3cjZFaHJTdVIyRVVDSlE?oc=5",
-    "domain": "Daily Independent",
-    "seendate": "Sat, 24 Oct 2026 17:35:07 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Balochistan"
-    ],
-    "keywords": [
-      "Balochistan Ombudsman Reviews Pending",
-      "Cases",
-      "Calls",
-      "Timely Redressal"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Public Access to Development Information Essential for Transparency: CM Bugti",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMjBiX3BHMVB2NE5NNmNqdXBadk5kUEZBVXBCa2VYYjVQamtUOE9YM0dPZ05Rb3NZRmNxSHlvSEktc2o5ZWUzNkFiMHh6cG1tVFZ3a1k4MjJOMm9wRTZCWVBSX0dnTk1ycjlJc1VCQ2JCMXcyQUJjd1U2SEJqUldjVm9DaU42NEFvZnlWSjdMRWEtTEdVVEx4cjhseUxSWHkwM2RubEFhQ09NRGg2QlkxWFd3ZDJVMGg2TU1zLWRYMDFhUQ?oc=5",
     "domain": "Daily Independent",
@@ -4081,22 +4597,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Balochistan reports zero polio cases for two consecutive years after 27 cases in 2024",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcWg3ZlBsQ21iWjRtR2tHZjh2LTJPMkFQRkk0RTVKbHk2WjBMYzJ5aTJUNXVINk9YcWVtRVEtTV9WOExiNG83X1ZaR2ZWbmtYdWExaUxxWGxFbDdxMmVlUlczZGxrU09aSUM0NXl6bndDaFpFaEtjVTU2Qk5XckpxQ2czZUctWnJyT20wS2ZBR3VaZnJaLUo2azYyelEwQkxzYTAtVjJFZC15eWp3UHBOaVNhblFOWFV3OEQ2TTR3?oc=5",
-    "domain": "Minute Mirror",
-    "seendate": "Sat, 24 Oct 2026 16:42:25 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Balochistan"
-    ],
-    "keywords": [],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Reliable Development Information Key to Public Trust: Shahid Rind",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcHdJWENwbEpBMmo0Y2JzLVBScFN0UjE5SnNKUjVzWjJSVkRPVUtZck9aUllqcTJ6V1llOGxyZFg1c2VMNS16d3JQZU1oQ3pYZEZpUW9TekpFQzVxVEhJS1lZYkt1N3p3VTVVNmpUTm5TUDFKZEVQWTFiRkFUbmNWNEd4MmZlNFhxYXVxeENDeXMyR1hRUjVrS202Rmkwazg5cXdfNEMwMEdBdTVxanJxdm5n?oc=5",
     "domain": "Daily Independent",
@@ -4109,6 +4609,23 @@
       "Reliable Development Information Key",
       "Public Trust",
       "Shahid Rind"
+    ],
+    "india_related": false,
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pakistan faces two-front security crisis as TTP, Baloch rebels target CPEC projects",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRlZCeTNRb3QwcjlzLTF4eVdTYVdtT0hsaHhzZVp0UGdqallBdUlSUm43MmlORFZ5bzlIUmxOODhKRnlCS0ZUdTYzOWI2OVVQUjhMQ01wcmJfdHJxMk1UZW41M2d0eHJXcFNickdaUTNoajhiUGhfcjhkeUg4b3Uyd1hsWHlZMkoySTlGeHBOSFRlMUlhNGE3bVotOFNaaG14dDRlaUR5RDNZallRbW5BenZtTWw1cTZQM0RDWGVn0gG-AUFVX3lxTE9GVkJ5M1FvdDByOXMtMXh5V1NhV21PSGxoeHNlWnRQZ2pqWUF1SVJSbjcyaU5EVnlvOUhSbE44OEpGeUJLRlR1NjM5YjY5VVBSOExDTXByYl90cnEyTVRlbjUzZ3R4cldwU2JyR1pRM2hqOGJQaF9yOGR5SDhvdTJ3WGxYeVkySjJJOUZ4cE5IVGUxSWE0YTdtWi04U1pobXh0NGVpRHlEM1lqWVFtbkF6dm1NbDVxNlAzRENYZWc?oc=5",
+    "domain": "Social News XYZ",
+    "seendate": "Sat, 24 Oct 2026 21:32:31 GMT",
+    "source": "google_news",
+    "sentiment": -0.5423,
+    "date": "2026-10-24",
+    "provinces": [],
+    "keywords": [
+      "Baloch",
+      "CPEC"
     ],
     "india_related": false,
     "source_count": 1,
@@ -4134,18 +4651,18 @@
     "also_reported_by": []
   },
   {
-    "title": "Ziarat Development Project Advances Road Construction and Repair Work",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNclZ2X0RMZEVlWWxFTnpTeGlPZ2tYdkhSYkMxWDQ5OHF2WG1SWXZlai1TOHRfLTgwYVdQMGNMaVRFemo0WHl1V2pMVjN4LVlqLXJQZnZZajNQcnota20wNzd0amZZenZlTmFWVnA3UVI3eGNBQzIxdjhvdE1FSkQ4SmlBa29TQ3hSbkxNaVpYWmZWQzYyeEFMLTdlQ1FCQlRwTlZ5WWp3bW5FWWloczQ5OVAtTS10dHJo?oc=5",
+    "title": "Gandakha Tehsil Office Opens as Jamali Pledges Better Public Services",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUU1ZQXVxc1c1Q3ZEb1RfWkdzbmZIamw5cUlfR251SURxYnJmMzV6OHFPVk1TaWZxT3U3QWVVX3ZJNDRGdDBkem9ENm51dG45bXMxUTVaN003TzR3NEoyWWRKd3hsYzhjN1NhbkE4bDNEOUd4QkE5SFdPdGNTZG1LajhHUGc3T3E0THdTNy1rdzdKa3NFSk5lMzJBZVo3V3N4OGlzaERZbl9lVVphU3RwNHo2bzFjcjRK?oc=5",
     "domain": "Daily Independent",
-    "seendate": "Sat, 24 Oct 2026 17:47:46 GMT",
+    "seendate": "Sat, 24 Oct 2026 19:28:38 GMT",
     "source": "google_news",
-    "sentiment": 0.296,
+    "sentiment": 0.4404,
     "date": "2026-10-24",
     "provinces": [],
     "keywords": [
-      "Ziarat Development Project Advances",
-      "Road Construction",
-      "Repair Work"
+      "Gandakha Tehsil Office Opens",
+      "Jamali Pledges Better Public",
+      "Services"
     ],
     "india_related": false,
     "source_count": 1,
@@ -4222,44 +4739,6 @@
       "Based Recruitment Ordered",
       "Health Posts",
       "Loralai Division"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Operation Almas: BLF Claims Deadly Attacks On Pakistan Army, Seizure Of Security Posts In Balochistan",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYTFmOHk2MmhTWTlCMURvTVFIS2swaHk3QWUtQjBhVUM5UVR5U2RQOGtuX2NWTkhrUVYtWUFmOUtHWVpIWmpKZWRiSGx2RzhILUlQRzc2NEJiY1ROWW9CQ0VDQk5lTlZhcV8tSWZ2dmlpcVdENDlOWjNldDNpTHJQbGpROGhlY3FqSmNIa3B0UVJQeUZLTVlZQWhHbXRvUFpuRkxIR0hUWWduRVFRSUY5VWtpV0lwUW9hMDN4Njg1dlhPZ2YxZmZ0OTgtUHBrelNncHdjSzdoR0RsTjZ2UE93alhOTS3SAesBQVVfeXFMTmZjaGp5eHQ4NFlST1UtOWZqaVNfNndVcDVvdDRDWjZGQkxPTnM0YWxyTGVXbml0TTZ4VEU2N3YtRkJYLVNVc0N1U2w0V3M4Y3ZYQWdCVnlobUNWQ1ZrZjdxMEpaanJZd3RuRXJ0WHhhYTd2Mm5EdjBXOXJYYVVaOTNXcE80Q1M0eS1vb2ZIM3hCUkdnajB3THd3em04N0lIWnVvQ3B0VnBmbzJaWjhrZTNNSTVTT2tZVjEyS2R5aUtBbzF4VWJhclFHTEQtYzRheldCU04wZlB6WkdkOUREcXZ4Q0gxSEFvNmVqOA?oc=5",
-    "domain": "The Daily Jagran",
-    "seendate": "Sat, 24 Oct 2026 16:17:00 GMT",
-    "source": "google_news",
-    "sentiment": -0.128,
-    "date": "2026-10-24",
-    "provinces": [
-      "Balochistan"
-    ],
-    "keywords": [
-      "Operation Almas",
-      "BLF Claims Deadly Attacks",
-      "Pakistan Army",
-      "Seizure Security Posts"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "CM Sarfraz Bugti holds third consecutive open court in Dera Bugti",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZkxLenA5R3pEclQzRmxqSjV0RWsyU3pTS3hkNmkzaS1wdlhmZWdmdXF6ODBaeF80V2tkZElJUm90Vmt2YVpuMld5VGlKdFU0REJ1MFJGLXJaSXpsbzhwNjUybWY4dWJXR29lQ0pPWDVCS3l3UC1qR1J3TEJLdmUxaHZyS2pQUDlIRzRCbS04b1pGZ2RQZDBVanJsRFhabDg?oc=5",
-    "domain": "24 News HD",
-    "seendate": "Sat, 24 Oct 2026 15:46:13 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "CM Sarfraz Bugti",
-      "Dera Bugti"
     ],
     "india_related": false,
     "source_count": 1,
@@ -4370,76 +4849,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Dry conditions to prevail as chill intensifies in Northern Areas",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRFUtOUpDcHFRYXdNT3ZfNmJkZ1dSY1FQYlZnNkFDcmlTUHZfRTJlX09tWmxoWWkyNTZoMXFKUTZQUF9xeU9tQnZqWWx3QWR2Q3FSODVxdUVieFhWWnBodFZRMUhkdmhRLUhIb0hOS1pieV80cHBjSXp6VXZjb0dIbW44emY?oc=5",
-    "domain": "Pakistan Connect",
-    "seendate": "Sat, 24 Oct 2026 18:21:46 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Northern Areas"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "AJK Foundation Day being celebrated with renewed commitment to freedom movement, ideology of accession to Pakistan",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNTFROUS1kVXdJRHl6dlQ2WUFLd212eGRoLVRYOTV5Rm5KNnM1ZlFWdnpRWWdCd2thaHpYZTJ3RlpkaVBNRUVOSFRfMkJwWkRjZ29XcWxCUmdHY09rSFduWHZzaWExMmpWX00xNkRTbXdWTE85T0RKci00eV85VGpPc3RELW8xbFlKcUo4V3BYbzJQUUlSMS1MMm85OElmRGZJaGc3YUE5aGhCMGVoX0F3U1V3T1A4V3cyVHl3X2NHTjBwc2h0NDJPT0tEN09HeDdqX0lMQXVKR08wWklEU2RieWl5Z0pyMXFL?oc=5",
-    "domain": "Kashmir Media Service",
-    "seendate": "Sat, 24 Oct 2026 16:15:13 GMT",
-    "source": "google_news",
-    "sentiment": 0.8885,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "AJK Foundation Day"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pakistan says Afghan Taliban cannot dodge terror concerns by blaming Islamabad",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzVDaGhVWWZUMnlVbmYxbG54REdQMDNDLU5PY3d0bXc2WURvTGlmTlBKTXNDejZiMlBVVFFTOG92UHcxTm1wcnhQUlpXT25EenNNNkFmS0tPTldVaWhrMDZUN2ZBX1FuR080VTdGZWhWWGtabXVsbnNDWjVZcHRJc0plcVFKdG53ZHhjSnBCV2ZhSTdhbWJTZ1lZdFhPNFNCRG4ySFlyU2pHejktMkRlT3VHZFM1QQ?oc=5",
-    "domain": "The News Pakistan",
-    "seendate": "Sat, 24 Oct 2026 19:48:43 GMT",
-    "source": "google_news",
-    "sentiment": -0.467,
-    "date": "2026-10-24",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [
-      "Afghan Taliban"
-    ],
-    "india_related": false,
-    "source_count": 3,
-    "also_reported_by": [
-      "Geo News",
-      "Pakistan Today"
-    ]
-  },
-  {
-    "title": "Iranian diplomat says Tehran remains open to talks with US under Pakistan-brokered deal",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSy14UV9TelFMY2NEck9RYzY4TDlGSTVTRUZFZ016R0ZUNzZCREFPamFjeGlLaXB3NDNHbmFoNXFHQXdjb0JJcnczUUVwT09iY0F4LUNpZDdmNGwwSDdkRkdPd3ZtRUtPS3V3ZDB6QVJUSG95VEhqQldZSmhDcnk4bktrU2Fzc3c0ajhISGJOaWZfUm1ZUTVvempJampETWhZWFVqVVZETm5sbmNjQjV6STdGZ2VQLUpVdmt5TGhmMFp5aEc1V0xn?oc=5",
-    "domain": "Arab News PK",
-    "seendate": "Sat, 24 Oct 2026 18:23:10 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Iranian",
-      "Tehran"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Islamabad witnesses various crimes",
     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBqd3c2YU4yRFFzVlFiV3RjcElqRk5DV29kdjVXV2NRVXRyUVlGQlNHS0xMNlZwZW5QVnZNV0pJeGJFV05HeFBfNF94di1Oa08wTGJReDhn0gFWQVVfeXFMUGp3dzZhTjJEUXNWUWJXdGNwSWpGTkNXb2R2NVdXY1FVdHJRWUZCU0dLTEw2VnBlblBWdk1XSkl4YkVXTkd4UF80X3h2LU5rTzBMYlF4OGc?oc=5",
     "domain": "Business Recorder",
@@ -4456,6 +4865,44 @@
     "also_reported_by": []
   },
   {
+    "title": "Pakistan says Afghan Taliban cannot dodge terror concerns by blaming Islamabad",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdzVDaGhVWWZUMnlVbmYxbG54REdQMDNDLU5PY3d0bXc2WURvTGlmTlBKTXNDejZiMlBVVFFTOG92UHcxTm1wcnhQUlpXT25EenNNNkFmS0tPTldVaWhrMDZUN2ZBX1FuR080VTdGZWhWWGtabXVsbnNDWjVZcHRJc0plcVFKdG53ZHhjSnBCV2ZhSTdhbWJTZ1lZdFhPNFNCRG4ySFlyU2pHejktMkRlT3VHZFM1QQ?oc=5",
+    "domain": "The News Pakistan",
+    "seendate": "Sat, 24 Oct 2026 19:48:43 GMT",
+    "source": "google_news",
+    "sentiment": -0.361,
+    "date": "2026-10-24",
+    "provinces": [
+      "Islamabad"
+    ],
+    "keywords": [
+      "Afghan Taliban"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "Islamabad Post"
+    ]
+  },
+  {
+    "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTUpXRUkwMldIUlpBTTRDSWJtWnI2RWM5cW96WEpWSFZGRV85bmJaNjJvak5NUlE0TFVJWi1YMy1VUXdiaFFiUUhIc19SZm53Y3A3bWRjbFhsR05BZTJZY1ZWTGtQVXRERnc3allzdmxST2VkVjFxcG9wNU5FNkVnX3A3REtwSW1kdEx2RmdYa2d0aEZLNjBnTGtpekhOMF9VcTFlZW16TTI4bUU5anhOSTU5LU5rVTJ2Y182OVJvZmhQSmc?oc=5",
+    "domain": "The Washington Post",
+    "seendate": "Sat, 24 Oct 2026 22:51:21 GMT",
+    "source": "google_news",
+    "sentiment": 0.113,
+    "date": "2026-10-24",
+    "provinces": [],
+    "keywords": [
+      "Iran"
+    ],
+    "india_related": false,
+    "source_count": 2,
+    "also_reported_by": [
+      "The News Pakistan"
+    ]
+  },
+  {
     "title": "Pakistan 2027",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5URDl5UHJXNlUxajVmZEhDT2lQWHNrVXowWkFrbDZKZnYxUTFlVk5SOGg3Wm5xYlE1a3pOdkhVbFZlZ016QkJaemVYakcyMTA1aUNBWC00OEdZRm9nV3R3?oc=5",
     "domain": "The News Pakistan",
@@ -4465,23 +4912,6 @@
     "date": "2026-10-24",
     "provinces": [],
     "keywords": [],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "‘Iran prepared to hold talks with US under Pakistan MoU’",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnVMQkl5ZUJ3Sy04dG9kcVZCOWpNcWZSbzZSN0lTUl9OUVkwY3VTdEFjWU0zNkJaTUY0RTdWYkYydDRVcVhPMTBQWHlYN0FodW1SVTJ2SzFpUEpnWXJlY1h2U1BER2J5bC12ckpOcFl2VlNqOTh0R3I4eUZBd1ZhdGNTSm9mOEd6dDJna0o2X0pKeVhFZHc?oc=5",
-    "domain": "The News Pakistan",
-    "seendate": "Sat, 24 Oct 2026 19:00:00 GMT",
-    "source": "google_news",
-    "sentiment": 0.2263,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Iran",
-      "Pakistan MoU"
-    ],
     "india_related": false,
     "source_count": 1,
     "also_reported_by": []
@@ -4503,21 +4933,17 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan’s Liquefied Gas Crisis: Islamabad Paralyzed on the Threshold of Winter",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOOWdhejVmaUQ0b25tVXJtdXNVZ0I3RnR4YWtzQzdQWHRqcV9zNkVJWU5YYUpEYkN0dVV0UUc2bV9YTVJWbE1USXMtTlNJaGRPMXlqSHh4bHl3Smp6LUlxNDh3b3N5RWxjS2lodDB6d3prZjlLbmNFWmFCTTBpakgwN1dEM3J2Z2FzWnYzc2JxSnE3UEhZZUtTajNqM2JadGVYS09Ea1kwdUxIRUdKNk1scGxhMEZuam90ZzRKTA?oc=5",
-    "domain": "خبرگزاری صدای افغان(آوا)",
-    "seendate": "Sat, 24 Oct 2026 18:07:53 GMT",
+    "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRU45cE1jZlE5eFVidWpsZlpkaWh4M0ZlalplbXF4Z0RGQUNPaFBmMHpOUGRyZDJZeGVsbFZ4bl84MVBWM0dPVS1rTFJNWXRJcFdXdl9LbU9tUC10RU5jeHVjRXdoSFNGazVJN2tjSDZiX3FLcjFSYTVreEY3eHk0MmZoV2ljRUJINl9xVlFOaFZaSnUwREp4cUVOWnFLX2xDWTdYMmptSmpDdVVlMDdFaW9IZXVjWk9LV0JETThoLUxhN3BNWFUtYUZUekpwZlMxaUhyU2NaUklYNk1lZUZJWU9QLUTSAeQBQVVfeXFMUEVOOXBNY2ZROXhVYnVqbGZaZGloeDNGZWpaZW1xeGdERkFDT2hQZjB6TlBkcmQyWXhlbGxWeG5fODFQVjNHT1Uta0xSTVl0SXBXV3ZfS21PbVAtdEVOY3h1Y0V3aEhTRms1STdrY0g2Yl9xS3IxUmE1a3hGN3h5NDJmaFdpY0VCSDZfcVZRTmhWWkp1MERKeHFFTlpxS19sQ1k3WDJqbUpqQ3VVZTA3RWlvSGV1Y1pPS1dCRE04aC1MYTdwTVhVLWFGVHpKcGZTMWlIclNjWlJJWDZNZWVGSVlPUC1E?oc=5",
+    "domain": "The New Indian Express",
+    "seendate": "Sat, 24 Oct 2026 18:47:00 GMT",
     "source": "google_news",
-    "sentiment": -0.6249,
+    "sentiment": -0.7184,
     "date": "2026-10-24",
-    "provinces": [
-      "Islamabad"
-    ],
+    "provinces": [],
     "keywords": [
-      "Liquefied Gas Crisis",
-      "Islamabad Paralyzed",
-      "Threshold",
-      "Winter"
+      "Afghanistan",
+      "Afghan"
     ],
     "india_related": false,
     "source_count": 1,
@@ -4544,28 +4970,12 @@
     "also_reported_by": []
   },
   {
-    "title": "FinMin Aurangzeb urges business reforms, higher productivity to compete globally",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUmo1LUlvb29MU05EeGJCOWU2alBUWVZFN2VCMEtfOEVMX0gxQVNUeENNRnB3ZUJ1VWEtQWFzY2hEX1ByRkEzMnplTG81a3NDTXNLWlZFeEl4YUVaS1J2d09LMXhibTZQQTRnWm84ZDZITFNOMVBpTUFvZXRxY2s1LWNTQmhjbjBVSXZ1eXZTRU1uSjlIdVN5a0YtOEZfRkJnbF9fQ2FwdU5uUE1UbEE?oc=5",
-    "domain": "Islamabad Post",
-    "seendate": "Sat, 24 Oct 2026 16:35:05 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "FinMin Aurangzeb"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "Islamabad rejects Kabul’s allegations, says Afghan soil must not be used for terrorism",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN3VvcDdNSmdfbTFIV3dLbzFBclZBOEdfV3h2MmkxUkRITWd3Rm50dFY4b09KTk00N2h3SlF4Q2NFN05tT3FMZ2lnbTNKYXdaUlMtdkZzM281U256R1Q2bUVWWXR6T2tvV0Z2R0l4VFN6UFdmUjdFLWRZLVBqWFFmOUp0Ym9GRTVQN0piYUl1UEhmVmpDcFBqQkVkMFRFbnYyZjdWdXFVRGRER1ItaEtR?oc=5",
     "domain": "24 News HD",
     "seendate": "Sat, 24 Oct 2026 19:06:27 GMT",
     "source": "google_news",
-    "sentiment": -0.799,
+    "sentiment": -0.832,
     "date": "2026-10-24",
     "provinces": [
       "Islamabad"
@@ -4575,10 +4985,8 @@
       "Afghan"
     ],
     "india_related": false,
-    "source_count": 3,
-    "also_reported_by": [
-      "Minute Mirror"
-    ]
+    "source_count": 2,
+    "also_reported_by": []
   },
   {
     "title": "CDA approves new high towers to boost development in Islamabad",
@@ -4597,40 +5005,6 @@
     "also_reported_by": []
   },
   {
-    "title": "Pakistan condemns deadly attack on church in Jordan",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXB3QzR0TlZscmpZZ05pNm1wVHZlR3hxQ21KaXRTdzZRcngtRE5YY1ZHaHl2eU40d2ZLeGxWSXFDNF9xMTBGUzVnWU0tcDg1MWREelM3R0liRi1CeUc1dzB3cWVfT3VfaXBWTWNBck5Od3k3YU9DeGFEMHRMM2YwUTk5RmFnT09CRVVqNGVxR3VSSnBYWkNEN1JrYw?oc=5",
-    "domain": "Pakistan Today",
-    "seendate": "Sat, 24 Oct 2026 16:23:19 GMT",
-    "source": "google_news",
-    "sentiment": -0.7783,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Jordan"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pakistan rejects Khalilzad's claim of 'arming Afghans against Taliban'",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcWF5ZkhKQk5NZU1oUlB3Wi05em9jUFB4Zkt3LTgzM2psVFFPVk5jSWxHX05XMW1YVWhqRG1rVExTLTd1M3VTZTVBTWtIVTNKaGR0Ums4YnV2ci11d0UyMDVGUk5RMU5xZTR1bWVXSmN1VktSUEdEaGVmRHNTVk1PZ2Z3SWg3X3lReDFydGt0VjlGNzZWZFBKWjVpb0czU3dsNmY5bVFva0ctWE56bVRZcA?oc=5",
-    "domain": "Pakistan Today",
-    "seendate": "Sat, 24 Oct 2026 16:26:01 GMT",
-    "source": "google_news",
-    "sentiment": -0.4939,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Khalilzad",
-      "Afghans",
-      "Taliban"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
     "title": "US embassy opens ‘Shahkaar Fankaar Alumni Artist Showcase’",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNejFmekxVMXhZZjhBQ3dqdklKM3FhYUstSlh0eXZTSFY3aklCVDZKRjFaR1hMTGViUDJqWV8tSEdERjY0NnNHVm1OMUVYakw2dVB0eFEzZnlqZ0hUcmNpb3U2MUYyWk9jQUdMTlNJcFlJMGJlRHJaYk9nbG9NaW1xQ2w3TG1mTmFT?oc=5",
     "domain": "Pakistan Observer",
@@ -4644,106 +5018,6 @@
       "Showcase"
     ],
     "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "NCCIA Arrests 671 Suspects In Islamabad Call Centre Raids, Seizes 13,000 Devices",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzhiZ2dkbWVyUkJERW1tU2NncXNvb05XalU0T1p0WEpSYVZ2WkVYOWpWYW9mMDdCWmtuTVVCTEtmNVpOYWxEdGlXbDc2QVhCdjdHSGJsVlFPamh4SUZpVFlMT3FGZHlDNWwyZGFLYWpKN2ZNZnlfa3hYNHl0djdObGNkSFZBekE2aDdlRExmemVramJ6YnlUaE5qRQ?oc=5",
-    "domain": "UrduPoint",
-    "seendate": "Sat, 24 Oct 2026 15:30:46 GMT",
-    "source": "google_news",
-    "sentiment": -0.6486,
-    "date": "2026-10-24",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [
-      "NCCIA Arrests",
-      "Suspects Islamabad Call",
-      "Centre Raids",
-      "Seizes",
-      "Devices"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "‘India cannot Silence Kashmir Because it Fears Pakistan,’ says ex-CM Farooq Abdullah",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc194Mi13YU9qTHY5b1NtakpnQWpjSXJhRnFWZV9XYmY1ZzJwcmpVeUptcmhvZWRNZUMySm4zT0VXWFctUWxKeHhacHpiN2hNT0NGRVdsTElLWEJqc0VPQS1WVGk3NThNdFFVT01URmtVUUFmdGJ2Mkt5RnloUWl2MWlJWjZzUmQ0UjAyWTQtODBxRTJQcWdCNDRybk5ndzduVEZMWjQ2Uk5jU0dZbWM4dW5KSmNsRWItS1hfdU5qZEZ3Z0E?oc=5",
-    "domain": "Daily Pakistan",
-    "seendate": "Sat, 24 Oct 2026 17:32:03 GMT",
-    "source": "google_news",
-    "sentiment": -0.4215,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "India",
-      "Silence Kashmir Because",
-      "Fears Pakistan",
-      "CM Farooq Abdullah"
-    ],
-    "india_related": true,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Rs50 Million Plaza sold on Encroached Land as CDA seizes 5 Commercial Buildings in Islamabad",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVExYZWRPYzlMbG5KMjMydXktc2hqUzRfNWxUcGt5YnJEWDBOa210WXlqUFFZWkVTbk5IMVRVNFNMWVdqVUZzLXBwYkI5RG5NZm5LM0tldWNiUVFqR1FTcDdkN2pHc0lhOExGNVFJZk9idjRaSDNmb2VlajdSNlhzcnhwSUtJXzJpMFVFa0ZKNXc0VFF5cFhzSWFNWFdfQ056WEdOM2s5bU5pQ2NpOWpBT2hwWklURGpi?oc=5",
-    "domain": "Pakistan Observer",
-    "seendate": "Sat, 24 Oct 2026 16:16:18 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [
-      "Million Plaza",
-      "Encroached Land",
-      "Commercial Buildings"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Pakistan-Russia Ties Gain Momentum, But A Sharif-Putin Summit Remains Elusive",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVGVoYTRSeVhydGpxSlR0SjJYM0xPS1p5T3NPeFdPakFHWnhNQTByRkJYRlZHOVZORDBtWUNiRGpaczY0R0JsanozS19DYzRHRzlpUWhDSjFTSElFWFdYNjR3bTM0OU9NU2hWMzQzYl9YRzlNRFdOWEgxOTg5X0U4cnVRaE84dEtkMHhHRTB6MkZ3TzNyckhCVmhSb2ZZMG16UWhtbzUzUXV3YTRIOWNic0YwM3kzZGVOSkJR0gHIAUFVX3lxTE1sOHRRZm03eEhORk1URVA0T0Jzcy1UUEZ0SDZVRnNHNjl2Tm84d2VLMXl4eVJ2V09FRmpRMC0xUVpkbVE2UjZXcDUtckJXZG9qX2RaRkd5c1V0Y2RYTmhWeTVieFNNRHNzY0JsYVljWjB3MGE3ZVNaTUF3Q2NmWjR2U1ZvRHFFRXZIU0tpUGlFaFVVYy14NzZBdExEVHRHTnY5cm1HYVlHdGJfM1oxM3UydjI0OGdPa181MnhHLUJSM3lNWVVqcnlv?oc=5",
-    "domain": "Outlook India",
-    "seendate": "Sat, 24 Oct 2026 15:40:10 GMT",
-    "source": "google_news",
-    "sentiment": 0.4767,
-    "date": "2026-10-24",
-    "provinces": [],
-    "keywords": [
-      "Russia Ties Gain Momentum",
-      "Sharif",
-      "Putin Summit Remains Elusive"
-    ],
-    "india_related": false,
-    "source_count": 1,
-    "also_reported_by": []
-  },
-  {
-    "title": "Farooq Abdullah Hails Islamabad Over Kashmir, BJP Hits Back With ‘Pro-Pakistan’ Charge",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYkVkVlRqSWx1RUlCTHU5RGpGLVdmRkY0MEpPWXJURnotRklxT1pqaXNZalhpd2EyUFFLQ2pzeExzMldsT0NKd1RwUFlHVmZxcDZ3YjRVRXprQnU5clQycl9SdE42Y29PSnVEQ0tQQ290bmdMcWtCbEI4VmFaalV2VzQwNWtuMUlxUHd1N1Njam5FRWhVXzJaRDNxX1Rqa3F0cTBlVDcwcWI3elRLcFhNOHRoRkNqWkE?oc=5",
-    "domain": "Argus English",
-    "seendate": "Sat, 24 Oct 2026 16:12:20 GMT",
-    "source": "google_news",
-    "sentiment": 0.0,
-    "date": "2026-10-24",
-    "provinces": [
-      "Islamabad"
-    ],
-    "keywords": [
-      "Farooq Abdullah Hails Islamabad",
-      "Kashmir",
-      "BJP Hits Back",
-      "Charge"
-    ],
-    "india_related": true,
     "source_count": 1,
     "also_reported_by": []
   }
