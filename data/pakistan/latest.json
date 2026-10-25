@@ -1,110 +1,115 @@
 {
-  "generated_at": "2026-10-25T18:43:12.229254+00:00",
+  "generated_at": "2026-10-25T22:16:59.806865+00:00",
   "date": "2026-10-25",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.03,
+    "score": -0.032,
     "label": "mixed / neutral",
-    "positive_pct": 31.1,
-    "neutral_pct": 38.1,
-    "negative_pct": 30.8,
-    "sample_size": 273
+    "positive_pct": 33.9,
+    "neutral_pct": 33.1,
+    "negative_pct": 33.1,
+    "sample_size": 248
   },
   "india_tone": {
-    "score": -0.228,
+    "score": -0.194,
     "label": "negative",
-    "positive_pct": 10.5,
-    "neutral_pct": 26.3,
-    "negative_pct": 63.2,
-    "sample_size": 19
+    "positive_pct": 11.8,
+    "neutral_pct": 29.4,
+    "negative_pct": 58.8,
+    "sample_size": 17
   },
   "top_keywords": [
     {
       "term": "England",
-      "mentions": 7,
-      "sentiment": 0.198
-    },
-    {
-      "term": "Dawn",
-      "mentions": 5,
-      "sentiment": 0.106
-    },
-    {
-      "term": "India",
-      "mentions": 5,
-      "sentiment": -0.226
-    },
-    {
-      "term": "Lahore",
-      "mentions": 5,
-      "sentiment": 0.015
-    },
-    {
-      "term": "Kashmir",
-      "mentions": 4,
-      "sentiment": -0.298
+      "mentions": 6,
+      "sentiment": 0.343
     },
     {
       "term": "October",
       "mentions": 4,
-      "sentiment": 0.053
+      "sentiment": 0.022
     },
     {
-      "term": "Match",
+      "term": "Lahore",
+      "mentions": 4,
+      "sentiment": 0.074
+    },
+    {
+      "term": "Chromebooks",
       "mentions": 3,
-      "sentiment": 0.267
+      "sentiment": 0.224
     },
     {
       "term": "Iran",
       "mentions": 3,
-      "sentiment": -0.055
+      "sentiment": -0.097
     },
     {
-      "term": "Farooq Abdullah",
+      "term": "Estimates",
       "mentions": 3,
-      "sentiment": -0.099
+      "sentiment": -0.226
     },
     {
-      "term": "Express Tribune",
+      "term": "Kashmir",
       "mentions": 3,
-      "sentiment": -0.2
+      "sentiment": -0.398
     },
     {
-      "term": "Afghan",
+      "term": "India",
       "mentions": 3,
-      "sentiment": -0.792
+      "sentiment": -0.186
     },
     {
-      "term": "Shadab Khan",
+      "term": "Shadab",
       "mentions": 2,
-      "sentiment": 0.075
+      "sentiment": 0.332
     },
     {
       "term": "Afghanistan",
       "mentions": 2,
-      "sentiment": -0.576
+      "sentiment": -0.076
     },
     {
-      "term": "Pakistan ODI Tri",
+      "term": "Match",
       "mentions": 2,
-      "sentiment": 0.101
+      "sentiment": 0.459
     },
     {
-      "term": "Chromebooks",
+      "term": "ODI Tri",
       "mentions": 2,
-      "sentiment": 0.318
+      "sentiment": 0.312
     },
     {
-      "term": "Estimates",
+      "term": "Series",
       "mentions": 2,
-      "sentiment": -0.226
+      "sentiment": 0.598
     },
     {
-      "term": "Bestway",
+      "term": "Thriller",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.176
+    },
+    {
+      "term": "OpEd",
+      "mentions": 2,
+      "sentiment": 0.312
+    },
+    {
+      "term": "Saudi",
+      "mentions": 2,
+      "sentiment": 0.039
+    },
+    {
+      "term": "Jammu",
+      "mentions": 2,
+      "sentiment": -0.38
+    },
+    {
+      "term": "Qila Saifullah",
+      "mentions": 2,
+      "sentiment": 0.062
     },
     {
       "term": "Munir",
@@ -112,89 +117,63 @@
       "sentiment": -0.618
     },
     {
-      "term": "Qila Saifullah",
+      "term": "Karachi",
       "mentions": 2,
-      "sentiment": 0.054
-    },
-    {
-      "term": "India Accuses Pakistan",
-      "mentions": 2,
-      "sentiment": -0.4
+      "sentiment": -0.312
     }
   ],
   "emerging": [
     {
-      "term": "Match",
+      "term": "Estimates",
       "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Afghan",
-      "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Farooq Abdullah",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 1.96,
-      "reason": "spike"
-    },
-    {
-      "term": "England",
-      "mentions_now": 7,
-      "baseline_avg": 3.6,
-      "zscore": 1.95,
+      "baseline_avg": 1.43,
+      "zscore": 3.18,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
       "mentions": 26,
-      "sentiment": 0.014,
+      "sentiment": 0.003,
       "top_terms": [
         "Lahore",
-        "Indian Punjab CM Bhagwant",
-        "Mann Expresses Desire",
-        "Visit Lahore",
-        "World Punjabi Conference"
+        "Today Sports Match",
+        "English",
+        "Explosion",
+        "Nushki Cuts Power"
       ]
     },
     "Sindh": {
-      "mentions": 17,
-      "sentiment": -0.103,
+      "mentions": 14,
+      "sentiment": -0.073,
       "top_terms": [
         "Explosion",
         "Nushki Cuts Power",
         "Parts",
         "Nasirabad",
-        "Supreme Court"
+        "Mohatta Palace"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 7,
-      "sentiment": 0.134,
+      "mentions": 8,
+      "sentiment": 0.161,
       "top_terms": [
-        "Mineral Wealth",
-        "Test",
-        "Governance",
-        "Magnitude",
-        "Rights Group Demands End"
+        "Pakhtunkhwa",
+        "Faisal Karim Kundi",
+        "KP Federal Relations",
+        "Khyber Pakhtunkhwa Development",
+        "Mineral Wealth"
       ]
     },
     "Balochistan": {
-      "mentions": 12,
-      "sentiment": -0.148,
+      "mentions": 14,
+      "sentiment": -0.23,
       "top_terms": [
         "Qila Saifullah",
+        "Terrorists",
         "Terrorist",
         "Power",
-        "Security",
-        "Expanding Conflict"
+        "Security"
       ]
     },
     "Gilgit-Baltistan": {
@@ -218,56 +197,43 @@
       ]
     },
     "Islamabad": {
-      "mentions": 28,
-      "sentiment": -0.107,
+      "mentions": 24,
+      "sentiment": -0.135,
       "top_terms": [
-        "India",
         "Pakistani Taliban",
+        "Saudi",
         "KP Governor",
-        "First Secretary",
-        "Permanent Mission"
+        "Islamabad Police",
+        "Islamabad Residents Offered Free"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 32
-    },
-    {
-      "domain": "Daily Independent",
-      "count": 21
+      "count": 40
     },
     {
       "domain": "Dawn",
-      "count": 20
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 20
+      "count": 22
     },
     {
       "domain": "The Express Tribune",
       "count": 14
     },
     {
+      "domain": "Daily Independent",
+      "count": 13
+    },
+    {
       "domain": "Arab News PK",
       "count": 10
     },
     {
-      "domain": "UA.NEWS",
-      "count": 8
-    },
-    {
-      "domain": "Minute Mirror",
-      "count": 8
-    },
-    {
-      "domain": "Business Recorder",
+      "domain": "Daily Times",
       "count": 7
     },
     {
@@ -275,11 +241,7 @@
       "count": 7
     },
     {
-      "domain": "Daily Times",
-      "count": 6
-    },
-    {
-      "domain": "Cricinfo",
+      "domain": "TradingView",
       "count": 5
     },
     {
@@ -287,23 +249,35 @@
       "count": 5
     },
     {
-      "domain": "24NewsHD",
+      "domain": "Minute Mirror",
+      "count": 5
+    },
+    {
+      "domain": "Cricinfo",
       "count": 4
     },
     {
-      "domain": "Sky Sports",
-      "count": 3
-    },
-    {
-      "domain": "TradingView",
-      "count": 3
+      "domain": "Tapmad",
+      "count": 4
     },
     {
       "domain": "Aaj News",
-      "count": 3
+      "count": 4
     },
     {
       "domain": "Pakistan Today",
+      "count": 4
+    },
+    {
+      "domain": "Balochistan Pulse",
+      "count": 4
+    },
+    {
+      "domain": "www.dailyindependent.com.pk",
+      "count": 4
+    },
+    {
+      "domain": "UA.NEWS",
       "count": 3
     },
     {
@@ -311,13 +285,17 @@
       "count": 3
     },
     {
-      "domain": "Dunya News",
+      "domain": "Pakistan Connect",
+      "count": 3
+    },
+    {
+      "domain": "Bloom Pakistan",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 273,
-    "raw_articles_before_dedup": 397,
+    "articles_fetched": 248,
+    "raw_articles_before_dedup": 387,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
