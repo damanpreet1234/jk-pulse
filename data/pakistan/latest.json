@@ -1,55 +1,60 @@
 {
-  "generated_at": "2026-10-24T22:14:22.538855+00:00",
-  "date": "2026-10-24",
+  "generated_at": "2026-10-25T03:02:14.391978+00:00",
+  "date": "2026-10-25",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.033,
+    "score": -0.039,
     "label": "mixed / neutral",
-    "positive_pct": 30.1,
-    "neutral_pct": 37.5,
-    "negative_pct": 32.4,
-    "sample_size": 309
+    "positive_pct": 29.4,
+    "neutral_pct": 40.2,
+    "negative_pct": 30.4,
+    "sample_size": 306
   },
   "india_tone": {
-    "score": -0.078,
-    "label": "mixed / neutral",
-    "positive_pct": 21.4,
-    "neutral_pct": 42.9,
-    "negative_pct": 35.7,
-    "sample_size": 14
+    "score": -0.103,
+    "label": "negative",
+    "positive_pct": 13.3,
+    "neutral_pct": 53.3,
+    "negative_pct": 33.3,
+    "sample_size": 15
   },
   "top_keywords": [
     {
-      "term": "Saudi Arabia",
+      "term": "Pashto",
       "mentions": 6,
-      "sentiment": -0.09
+      "sentiment": -0.264
     },
     {
-      "term": "October",
-      "mentions": 5,
-      "sentiment": -0.016
+      "term": "Current Affairs Channel",
+      "mentions": 6,
+      "sentiment": -0.264
     },
     {
       "term": "England",
       "mentions": 5,
-      "sentiment": -0.217
+      "sentiment": -0.241
     },
     {
-      "term": "Sri Lanka",
-      "mentions": 4,
-      "sentiment": -0.043
+      "term": "October",
+      "mentions": 5,
+      "sentiment": -0.021
     },
     {
-      "term": "India",
-      "mentions": 4,
-      "sentiment": -0.02
+      "term": "Iran",
+      "mentions": 5,
+      "sentiment": -0.199
     },
     {
-      "term": "Kashmir",
+      "term": "Saudi Arabia",
       "mentions": 4,
-      "sentiment": -0.201
+      "sentiment": 0.033
+    },
+    {
+      "term": "Afghanistan",
+      "mentions": 4,
+      "sentiment": -0.274
     },
     {
       "term": "Lahore",
@@ -57,34 +62,34 @@
       "sentiment": 0.043
     },
     {
-      "term": "China",
-      "mentions": 4,
-      "sentiment": 0.207
-    },
-    {
-      "term": "Kabul",
+      "term": "Afghans",
       "mentions": 3,
-      "sentiment": -0.243
+      "sentiment": -0.496
     },
     {
-      "term": "Iran",
+      "term": "Kashmir",
       "mentions": 3,
-      "sentiment": -0.275
+      "sentiment": -0.257
     },
     {
-      "term": "Agha",
+      "term": "Express Tribune",
       "mentions": 3,
-      "sentiment": -0.14
+      "sentiment": -0.05
     },
     {
-      "term": "Afghanistan",
+      "term": "Hungary",
+      "mentions": 3,
+      "sentiment": 0.522
+    },
+    {
+      "term": "Services",
+      "mentions": 3,
+      "sentiment": 0.108
+    },
+    {
+      "term": "Sri Lanka",
       "mentions": 2,
-      "sentiment": -0.555
-    },
-    {
-      "term": "Afghan",
-      "mentions": 2,
-      "sentiment": -0.709
+      "sentiment": 0.073
     },
     {
       "term": "Sajid",
@@ -97,90 +102,113 @@
       "sentiment": -0.026
     },
     {
-      "term": "Mecca",
-      "mentions": 2,
-      "sentiment": -0.22
-    },
-    {
-      "term": "Siemens",
-      "mentions": 2,
-      "sentiment": 0.341
-    },
-    {
       "term": "Sri Lanka Tests",
       "mentions": 2,
-      "sentiment": -0.055
+      "sentiment": 0.153
     },
     {
-      "term": "Afghans",
+      "term": "Afghan",
       "mentions": 2,
-      "sentiment": -0.512
+      "sentiment": -0.685
     },
     {
       "term": "Tehran",
       "mentions": 2,
-      "sentiment": 0.146
+      "sentiment": 0.219
+    },
+    {
+      "term": "Siemens",
+      "mentions": 2,
+      "sentiment": 0.734
     }
   ],
   "emerging": [
     {
-      "term": "Sri Lanka",
-      "mentions_now": 4,
-      "baseline_avg": 1.44,
-      "zscore": 3.73,
+      "term": "Pashto",
+      "mentions_now": 6,
+      "baseline_avg": 2.4,
+      "zscore": 7.35,
       "reason": "spike"
     },
     {
-      "term": "England",
-      "mentions_now": 5,
-      "baseline_avg": 2.33,
-      "zscore": 2.14,
+      "term": "Current Affairs Channel",
+      "mentions_now": 6,
+      "baseline_avg": 2.4,
+      "zscore": 7.35,
+      "reason": "spike"
+    },
+    {
+      "term": "Services",
+      "mentions_now": 3,
+      "baseline_avg": 1.29,
+      "zscore": 3.79,
+      "reason": "spike"
+    },
+    {
+      "term": "Afghanistan",
+      "mentions_now": 4,
+      "baseline_avg": 2,
+      "zscore": 3.32,
+      "reason": "spike"
+    },
+    {
+      "term": "Afghans",
+      "mentions_now": 3,
+      "baseline_avg": 1.75,
+      "zscore": 2.89,
+      "reason": "spike"
+    },
+    {
+      "term": "Hungary",
+      "mentions_now": 3,
+      "baseline_avg": 1.75,
+      "zscore": 2.89,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 32,
-      "sentiment": 0.057,
+      "mentions": 19,
+      "sentiment": 0.101,
       "top_terms": [
-        "China",
-        "Punjab Assembly Deputy Speaker",
+        "Azerbaijan",
         "BOP Share Price Today",
         "Bank",
-        "Why Does Indian Punjab"
+        "Why Does Indian Punjab",
+        "Chief Minister Bhagwant Mann"
       ]
     },
     "Sindh": {
-      "mentions": 21,
-      "sentiment": -0.105,
+      "mentions": 22,
+      "sentiment": -0.131,
       "top_terms": [
-        "Karachi",
+        "Mir Raza Case",
+        "JIT Formed",
         "Infant",
-        "Mir Raza",
-        "Sindh Rangers",
+        "Khuhro",
         "Mpox"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 6,
-      "sentiment": -0.021,
+      "mentions": 7,
+      "sentiment": -0.018,
       "top_terms": [
         "NAB Becomes Active",
         "Investigation Closes",
         "Sohail Afridi",
         "Other Key Figures",
-        "Governor"
+        "Akbar"
       ]
     },
     "Balochistan": {
-      "mentions": 26,
-      "sentiment": -0.174,
+      "mentions": 24,
+      "sentiment": -0.123,
       "top_terms": [
-        "Allegations Regarding",
-        "Presence",
-        "Former Afghan Security Personnel",
-        "Training",
-        "Dalbandin"
+        "Sarfraz Bugti Calls",
+        "Provinces",
+        "Divisions",
+        "Districts",
+        "Child Marriage Balochistan"
       ]
     },
     "Gilgit-Baltistan": {
@@ -200,45 +228,44 @@
       ]
     },
     "Islamabad": {
-      "mentions": 32,
-      "sentiment": -0.035,
+      "mentions": 33,
+      "sentiment": -0.024,
       "top_terms": [
-        "Kabul",
         "Afghans",
         "Pakistani",
-        "Liquefied Gas Crisis",
-        "Islamabad Paralyzed"
+        "Governor",
+        "Rule Gambit",
+        "How Pakistan"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 35
+      "count": 32
     },
     {
       "domain": "Daily Independent",
-      "count": 22
+      "count": 28
     },
     {
       "domain": "Dawn",
-      "count": 14
+      "count": 18
+    },
+    {
+      "domain": "The News Pakistan",
+      "count": 15
     },
     {
       "domain": "Arab News PK",
-      "count": 12
+      "count": 11
     },
     {
       "domain": "Pakistan Observer",
-      "count": 12
-    },
-    {
-      "domain": "ProPakistani",
-      "count": 12
+      "count": 11
     },
     {
       "domain": "Business Recorder",
@@ -246,14 +273,14 @@
     },
     {
       "domain": "The Express Tribune",
-      "count": 7
+      "count": 9
     },
     {
-      "domain": "Bloom Pakistan",
-      "count": 7
+      "domain": "ProPakistani",
+      "count": 8
     },
     {
-      "domain": "www.dailyindependent.com.pk",
+      "domain": "Pakistan Connect",
       "count": 7
     },
     {
@@ -261,45 +288,45 @@
       "count": 6
     },
     {
+      "domain": "Khyber News",
+      "count": 6
+    },
+    {
       "domain": "Islamabad Post",
       "count": 6
     },
     {
-      "domain": "The Friday Times",
+      "domain": "TradingView",
       "count": 5
     },
     {
-      "domain": "Mashriq TV",
+      "domain": "The Times of India",
       "count": 5
+    },
+    {
+      "domain": "Bloom Pakistan",
+      "count": 5
+    },
+    {
+      "domain": "UA.NEWS",
+      "count": 4
     },
     {
       "domain": "Daily Times",
-      "count": 5
+      "count": 4
+    },
+    {
+      "domain": "24 News HD",
+      "count": 4
     },
     {
       "domain": "Daily Ausaf",
-      "count": 5
-    },
-    {
-      "domain": "Pakistan Connect",
-      "count": 5
-    },
-    {
-      "domain": "Investify",
-      "count": 4
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
-      "count": 4
-    },
-    {
-      "domain": "ANI News",
       "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 309,
-    "raw_articles_before_dedup": 432,
+    "articles_fetched": 306,
+    "raw_articles_before_dedup": 408,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
