@@ -1,58 +1,68 @@
 {
-  "generated_at": "2026-10-26T03:00:01.604018+00:00",
+  "generated_at": "2026-10-26T09:38:07.719405+00:00",
   "date": "2026-10-26",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.034,
+    "score": -0.009,
     "label": "mixed / neutral",
-    "positive_pct": 32.9,
-    "neutral_pct": 42.0,
-    "negative_pct": 25.1,
-    "sample_size": 219
+    "positive_pct": 27.6,
+    "neutral_pct": 39.9,
+    "negative_pct": 32.5,
+    "sample_size": 228
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Pakistan",
-      "mentions": 10,
-      "sentiment": -0.001
-    },
-    {
-      "term": "Farooq Abdullah",
-      "mentions": 7,
-      "sentiment": 0.054
+      "mentions": 8,
+      "sentiment": -0.068
     },
     {
       "term": "Congress",
-      "mentions": 6,
-      "sentiment": -0.028
+      "mentions": 7,
+      "sentiment": -0.039
     },
     {
       "term": "LG Sinha",
-      "mentions": 6,
-      "sentiment": 0.235
-    },
-    {
-      "term": "Bank",
-      "mentions": 6,
-      "sentiment": 0.424
-    },
-    {
-      "term": "Kashmir Marathon",
-      "mentions": 5,
-      "sentiment": 0.493
+      "mentions": 7,
+      "sentiment": 0.199
     },
     {
       "term": "October",
+      "mentions": 6,
+      "sentiment": 0.194
+    },
+    {
+      "term": "Kashmir Marathon",
+      "mentions": 6,
+      "sentiment": 0.138
+    },
+    {
+      "term": "Farooq Abdullah",
+      "mentions": 5,
+      "sentiment": -0.06
+    },
+    {
+      "term": "Bank",
+      "mentions": 5,
+      "sentiment": 0.35
+    },
+    {
+      "term": "Mehbooba Mufti",
       "mentions": 4,
-      "sentiment": 0.1
+      "sentiment": 0.012
+    },
+    {
+      "term": "Shiv Market",
+      "mentions": 4,
+      "sentiment": -0.436
     },
     {
       "term": "India",
       "mentions": 4,
-      "sentiment": 0.15
+      "sentiment": 0.191
     },
     {
       "term": "Tuesday",
@@ -60,164 +70,137 @@
       "sentiment": 0.08
     },
     {
-      "term": "Omar",
+      "term": "Accession Day",
       "mentions": 3,
-      "sentiment": 0.14
+      "sentiment": 0.197
+    },
+    {
+      "term": "Short",
+      "mentions": 3,
+      "sentiment": -0.165
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 3,
+      "sentiment": -0.076
+    },
+    {
+      "term": "Govt",
+      "mentions": 3,
+      "sentiment": -0.293
     },
     {
       "term": "Farooq",
       "mentions": 3,
-      "sentiment": -0.1
+      "sentiment": 0.048
     },
     {
       "term": "JKSET",
       "mentions": 3,
-      "sentiment": 0.329
+      "sentiment": 0.11
     },
     {
       "term": "LASET",
       "mentions": 3,
-      "sentiment": 0.329
+      "sentiment": 0.11
     },
     {
-      "term": "Kashmiri",
+      "term": "Omar Abdullah",
       "mentions": 3,
-      "sentiment": 0.029
+      "sentiment": 0.0
     },
     {
-      "term": "Marathon",
+      "term": "Cabinet",
       "mentions": 3,
-      "sentiment": -0.34
-    },
-    {
-      "term": "South Kashmir",
-      "mentions": 3,
-      "sentiment": -0.317
-    },
-    {
-      "term": "Karan Nagar",
-      "mentions": 3,
-      "sentiment": 0.201
-    },
-    {
-      "term": "Kashmir Accession Day",
-      "mentions": 2,
-      "sentiment": -0.056
-    },
-    {
-      "term": "Govt",
-      "mentions": 2,
-      "sentiment": -0.238
-    },
-    {
-      "term": "Karra",
-      "mentions": 2,
-      "sentiment": 0.25
+      "sentiment": 0.01
     }
   ],
   "emerging": [
     {
+      "term": "Short",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Accession Day",
+      "mentions_now": 3,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
+      "reason": "spike"
+    },
+    {
+      "term": "October",
+      "mentions_now": 6,
+      "baseline_avg": 3.07,
+      "zscore": 2.66,
+      "reason": "spike"
+    },
+    {
       "term": "Congress",
-      "mentions_now": 6,
-      "baseline_avg": 2.25,
-      "zscore": 4.52,
-      "reason": "spike"
-    },
-    {
-      "term": "Tuesday",
-      "mentions_now": 4,
-      "baseline_avg": 2.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "LASET",
-      "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Bank",
-      "mentions_now": 6,
-      "baseline_avg": 2.58,
-      "zscore": 2.47,
-      "reason": "spike"
-    },
-    {
-      "term": "Farooq",
-      "mentions_now": 3,
-      "baseline_avg": 1.64,
-      "zscore": 2.12,
+      "mentions_now": 7,
+      "baseline_avg": 3,
+      "zscore": 2.39,
       "reason": "spike"
     },
     {
       "term": "LG Sinha",
-      "mentions_now": 6,
-      "baseline_avg": 2.46,
-      "zscore": 2.09,
+      "mentions_now": 7,
+      "baseline_avg": 2.85,
+      "zscore": 2.22,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": 0.063,
+      "mentions": 7,
+      "sentiment": -0.178,
       "top_terms": [
+        "Police",
         "Anantnag Maternity Hospital",
         "Police Attach Double",
         "Storey Shopping Complex Under",
-        "NDPS Act",
-        "Ks Anantnag"
+        "NDPS Act"
       ]
     },
     "Bandipora": {
-      "mentions": 3,
-      "sentiment": -0.113,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "Aasima Jan",
-        "INDIA Bloc Bandipora",
-        "Vote Bachao",
-        "Desh Bachao",
-        "Bandipora Police"
+        "Aasima Jan"
       ]
     },
     "Baramulla": {
-      "mentions": 5,
-      "sentiment": -0.431,
+      "mentions": 6,
+      "sentiment": -0.253,
       "top_terms": [
-        "Panun Kashmir",
-        "JSPM Seek FIR Against",
-        "Farooq Abdullah Baramulla",
-        "Speech",
-        "Yasin Malik"
+        "Baramulla Police",
+        "Came Here Kashmir",
+        "Indian Man",
+        "Baramulla Attends Pakistan Vs",
+        "England Match"
       ]
     },
     "Budgam": {
-      "mentions": 2,
-      "sentiment": -0.483,
-      "top_terms": [
-        "Accused Posing",
-        "Amazon Investor",
-        "Budgam Man Chargesheeted",
-        "Alleged Rs",
-        "Crore Fraud"
-      ]
-    },
-    "Ganderbal": {
-      "mentions": 3,
-      "sentiment": 0.123,
-      "top_terms": [
-        "DC Ganderbal",
-        "National School Games",
-        "JKAP Commandant Felicitates Awardee",
-        "Personnel"
-      ]
-    },
-    "Kulgam": {
       "mentions": 0,
       "sentiment": null,
       "top_terms": []
+    },
+    "Ganderbal": {
+      "mentions": 2,
+      "sentiment": -0.026,
+      "top_terms": [
+        "DC Ganderbal",
+        "National School Games"
+      ]
+    },
+    "Kulgam": {
+      "mentions": 1,
+      "sentiment": -0.34,
+      "top_terms": [
+        "Kulgam Police"
+      ]
     },
     "Kupwara": {
       "mentions": 3,
@@ -229,31 +212,35 @@
       ]
     },
     "Pulwama": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": 0.159,
       "top_terms": [
+        "Pulwama Farmer Builds Mini",
+        "Cold Storage",
+        "Boost Vegetable Preservation",
         "Pulwama Cycle Polo Ch"
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": 0.134,
+      "mentions": 6,
+      "sentiment": 0.056,
       "top_terms": [
-        "Newborn",
-        "Dubjan Bridge",
-        "Maroof Wani",
-        "Police Martyrs"
+        "Shopian Coldest",
+        "MeT Forecasts Mostly Dry",
+        "Weather",
+        "Kashmir Shivers",
+        "Shopian Records Sub"
       ]
     },
     "Srinagar": {
       "mentions": 16,
-      "sentiment": 0.047,
+      "sentiment": 0.063,
       "top_terms": [
-        "Karan Nagar",
-        "Traffic Police Issues Advisory",
-        "Srinagar Highway",
-        "Srinagar Premier Division Almuqeet",
-        "SWFC Kashmir"
+        "Gallery",
+        "Kashmir Marathon",
+        "Mehbooba Mufti Marks",
+        "Accession Day Srinagar",
+        "Hails Union"
       ]
     },
     "Doda": {
@@ -262,14 +249,14 @@
       "top_terms": []
     },
     "Jammu": {
-      "mentions": 37,
-      "sentiment": 0.022,
+      "mentions": 42,
+      "sentiment": -0.104,
       "top_terms": [
-        "Kashmir Accession Day",
+        "Shiv Market",
         "October",
         "Jammu Kashmir",
-        "Tuesday",
-        "Traffic Police Issues Advisory"
+        "JKSET",
+        "LASET"
       ]
     },
     "Kathua": {
@@ -294,25 +281,22 @@
       "top_terms": []
     },
     "Rajouri": {
+      "mentions": 1,
+      "sentiment": -0.638,
+      "top_terms": [
+        "Dozen Passengers Injured",
+        "Rajouri Road Accident"
+      ]
+    },
+    "Ramban": {
       "mentions": 0,
       "sentiment": null,
       "top_terms": []
     },
-    "Ramban": {
-      "mentions": 1,
-      "sentiment": 0.0,
-      "top_terms": [
-        "Div Com Jammu"
-      ]
-    },
     "Reasi": {
-      "mentions": 3,
-      "sentiment": -0.548,
-      "top_terms": [
-        "Passengers Injured",
-        "Reasi Road Accident",
-        "Jyotipuram"
-      ]
+      "mentions": 1,
+      "sentiment": -0.459,
+      "top_terms": []
     },
     "Samba": {
       "mentions": 0,
@@ -326,93 +310,94 @@
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "Greater Kashmir",
-      "count": 31
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 27
-    },
-    {
-      "domain": "Kashmir Life",
-      "count": 18
+      "count": 35
     },
     {
       "domain": "Rising Kashmir",
-      "count": 15
+      "count": 21
+    },
+    {
+      "domain": "Kashmir Life",
+      "count": 21
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 21
     },
     {
       "domain": "Brighter Kashmir",
-      "count": 10
+      "count": 8
     },
     {
       "domain": "thekashmirimages.com",
-      "count": 7
+      "count": 8
     },
     {
-      "domain": "5 Dariya News",
-      "count": 6
-    },
-    {
-      "domain": "The Tribune",
+      "domain": "Kashmir Observer",
       "count": 5
     },
     {
-      "domain": "Organiser",
-      "count": 4
+      "domain": "Kashmir News Service",
+      "count": 5
     },
     {
       "domain": "News On AIR",
       "count": 4
     },
     {
-      "domain": "The Hindu",
+      "domain": "Free Press Kashmir",
       "count": 4
+    },
+    {
+      "domain": "Organiser",
+      "count": 3
+    },
+    {
+      "domain": "The Tribune",
+      "count": 3
     },
     {
       "domain": "Kashmir Indepth",
-      "count": 4
-    },
-    {
-      "domain": "Kashmir News Service",
-      "count": 4
-    },
-    {
-      "domain": "Live Law",
       "count": 3
     },
     {
-      "domain": "India Today",
+      "domain": "The Hindu",
       "count": 3
     },
     {
-      "domain": "Rediff",
-      "count": 3
+      "domain": "ETV Bharat",
+      "count": 2
+    },
+    {
+      "domain": "The New Indian Express",
+      "count": 2
+    },
+    {
+      "domain": "Deccan Chronicle",
+      "count": 2
+    },
+    {
+      "domain": "Business Today",
+      "count": 2
+    },
+    {
+      "domain": "The Kashmir Monitor",
+      "count": 2
     },
     {
       "domain": "ANI News",
-      "count": 3
-    },
-    {
-      "domain": "scanx.trade",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Age",
-      "count": 3
-    },
-    {
-      "domain": "The Indian Express",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 219,
-    "raw_articles_before_dedup": 335,
+    "articles_fetched": 228,
+    "raw_articles_before_dedup": 329,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
