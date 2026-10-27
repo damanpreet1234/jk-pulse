@@ -1,78 +1,58 @@
 {
-  "generated_at": "2026-10-27T17:23:28.571484+00:00",
+  "generated_at": "2026-10-27T23:26:26.312336+00:00",
   "date": "2026-10-27",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.006,
+    "score": 0.011,
     "label": "mixed / neutral",
-    "positive_pct": 28.4,
-    "neutral_pct": 42.4,
-    "negative_pct": 29.2,
-    "sample_size": 236
+    "positive_pct": 34.2,
+    "neutral_pct": 38.8,
+    "negative_pct": 27.0,
+    "sample_size": 237
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Cabinet",
-      "mentions": 10,
-      "sentiment": 0.154
+      "mentions": 8,
+      "sentiment": 0.272
     },
     {
       "term": "Omar Abdullah",
-      "mentions": 5,
-      "sentiment": 0.009
-    },
-    {
-      "term": "Farooq Abdullah",
       "mentions": 4,
-      "sentiment": -0.028
-    },
-    {
-      "term": "Ministers",
-      "mentions": 4,
-      "sentiment": -0.09
-    },
-    {
-      "term": "October",
-      "mentions": 4,
-      "sentiment": -0.089
-    },
-    {
-      "term": "India",
-      "mentions": 4,
-      "sentiment": 0.049
-    },
-    {
-      "term": "Ranji Trophy",
-      "mentions": 3,
-      "sentiment": 0.018
+      "sentiment": 0.019
     },
     {
       "term": "Cabinet Reshuffle",
       "mentions": 3,
-      "sentiment": 0.128
+      "sentiment": 0.17
     },
     {
-      "term": "Cabinet Expansion",
+      "term": "October",
       "mentions": 3,
-      "sentiment": -0.34
+      "sentiment": -0.168
     },
     {
-      "term": "Mir Saifullah",
+      "term": "Farooq Abdullah",
       "mentions": 3,
-      "sentiment": 0.139
+      "sentiment": 0.254
     },
     {
-      "term": "HADP",
+      "term": "India",
+      "mentions": 3,
+      "sentiment": 0.159
+    },
+    {
+      "term": "First",
       "mentions": 3,
       "sentiment": 0.0
     },
     {
-      "term": "Kashmiri Pandit",
+      "term": "Women",
       "mentions": 3,
-      "sentiment": -0.718
+      "sentiment": -0.174
     },
     {
       "term": "Terror",
@@ -85,14 +65,19 @@
       "sentiment": -0.542
     },
     {
-      "term": "National Conference",
-      "mentions": 2,
-      "sentiment": -0.073
+      "term": "Ladakh",
+      "mentions": 3,
+      "sentiment": -0.075
     },
     {
-      "term": "Short",
+      "term": "Darbar Move",
       "mentions": 2,
-      "sentiment": 0.319
+      "sentiment": 0.127
+    },
+    {
+      "term": "Govt",
+      "mentions": 2,
+      "sentiment": 0.196
     },
     {
       "term": "Jammu Kashmir High Court",
@@ -100,9 +85,14 @@
       "sentiment": 0.159
     },
     {
-      "term": "Darbar Move",
+      "term": "Ministers",
       "mentions": 2,
-      "sentiment": 0.211
+      "sentiment": -0.181
+    },
+    {
+      "term": "Short",
+      "mentions": 2,
+      "sentiment": 0.319
     },
     {
       "term": "Cabinet Exclusion",
@@ -110,181 +100,150 @@
       "sentiment": -0.472
     },
     {
-      "term": "Women",
+      "term": "Mubarak Gul",
       "mentions": 2,
-      "sentiment": -0.148
+      "sentiment": -0.318
+    },
+    {
+      "term": "Cases",
+      "mentions": 2,
+      "sentiment": 0.201
+    },
+    {
+      "term": "Lakh",
+      "mentions": 2,
+      "sentiment": -0.776
     }
   ],
   "emerging": [
     {
-      "term": "HADP",
+      "term": "First",
       "mentions_now": 3,
-      "baseline_avg": 1.08,
-      "zscore": 6.93,
-      "reason": "spike"
-    },
-    {
-      "term": "Ministers",
-      "mentions_now": 4,
-      "baseline_avg": 1.29,
-      "zscore": 6.01,
-      "reason": "spike"
-    },
-    {
-      "term": "Ranji Trophy",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Cabinet Reshuffle",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Mir Saifullah",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.2,
+      "zscore": 4.5,
       "reason": "spike"
     },
     {
       "term": "Terror",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.29,
+      "zscore": 2.45,
+      "reason": "spike"
+    },
+    {
+      "term": "Women",
+      "mentions_now": 3,
+      "baseline_avg": 1.54,
+      "zscore": 2.3,
       "reason": "spike"
     },
     {
       "term": "Cabinet",
-      "mentions_now": 10,
-      "baseline_avg": 2.5,
-      "zscore": 3.91,
-      "reason": "spike"
-    },
-    {
-      "term": "Omar Abdullah",
-      "mentions_now": 5,
-      "baseline_avg": 2.17,
-      "zscore": 3.16,
-      "reason": "spike"
-    },
-    {
-      "term": "Kashmiri Pandit",
-      "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 2.24,
+      "mentions_now": 8,
+      "baseline_avg": 3.14,
+      "zscore": 1.82,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 3,
-      "sentiment": -0.087,
+      "mentions": 2,
+      "sentiment": -0.299,
       "top_terms": [
-        "Six Suspected Drug Peddlers",
-        "Held",
-        "Contraband Seized",
-        "Crumbled Foundation",
-        "Why Anantnag Urgently Needs"
+        "Police",
+        "Anantnag Jail"
       ]
     },
     "Bandipora": {
-      "mentions": 3,
-      "sentiment": 0.034,
+      "mentions": 4,
+      "sentiment": -0.036,
       "top_terms": [
+        "Gurez",
+        "District Hospital",
         "Vigilance Awareness Week",
         "Poshan Projects",
-        "Centre",
-        "DC Bandipora",
-        "Winter Preparedness"
+        "DC Bandipora"
       ]
     },
     "Baramulla": {
-      "mentions": 1,
-      "sentiment": 0.0,
-      "top_terms": [
-        "LG Manoj Sinha",
-        "GD Goenka Baramulla",
-        "Lok Bhavan"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Budgam": {
       "mentions": 2,
       "sentiment": -0.318,
       "top_terms": [
+        "Heavy",
+        "Beerwah",
+        "Khag",
         "Manoj Sinha Heads Padyatra",
-        "Raise Awareness Against Drug",
-        "Abuse"
+        "Raise Awareness Against Drug"
       ]
     },
     "Ganderbal": {
-      "mentions": 2,
-      "sentiment": 0.039,
+      "mentions": 6,
+      "sentiment": 0.108,
       "top_terms": [
+        "DC Ganderbal",
         "Gurez",
         "Lavender Park",
         "HADP",
-        "Ganderbal Gram Sabha Clears",
-        "Forest Claims"
+        "Ganderbal Judoka Baiza Tariq"
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": -0.401,
+      "mentions": 3,
+      "sentiment": -0.267,
       "top_terms": [
-        "DC Kulgam",
-        "NCORD",
-        "Kulgam Police Recover Rs",
+        "ADC Kulgam",
+        "COTPA",
+        "Kulgam Police",
         "Lakh",
-        "ATM Fraud Case"
+        "DC Kulgam"
       ]
     },
     "Kupwara": {
       "mentions": 6,
-      "sentiment": -0.041,
+      "sentiment": 0.108,
       "top_terms": [
         "DC Kupwara",
-        "Joint Workshop",
-        "Pension Adalat Held",
-        "Resolve Pensioners",
-        "Grievances"
+        "District Waiting",
+        "Promise",
+        "Fulfilled",
+        "Unsafe"
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": 0.018,
+      "mentions": 2,
+      "sentiment": 0.265,
       "top_terms": [
-        "Police",
-        "Heavy Vehicles",
         "DC Pulwama",
         "Hydraulics Sector",
-        "Timely Irrigation Helps Balhama"
+        "Timely Irrigation Helps Balhama",
+        "Farmer Double Saffron Production"
       ]
     },
     "Shopian": {
       "mentions": 6,
-      "sentiment": 0.138,
+      "sentiment": 0.12,
       "top_terms": [
         "Youth Parliament",
         "Awareness Session",
         "GDC Shopian",
-        "Cold Wave Intensifies",
-        "Temp Shopian Dips"
+        "DC Shopian",
+        "Aglar Fruit Mandi"
       ]
     },
     "Srinagar": {
-      "mentions": 14,
-      "sentiment": 0.006,
+      "mentions": 17,
+      "sentiment": -0.018,
       "top_terms": [
         "Jammu Kashmir Govt Announces",
         "November Roster",
         "Administrative Secretaries",
         "Srinagar Secretariat",
-        "Women"
+        "Kashmir Cabinet Expansion"
       ]
     },
     "Doda": {
@@ -297,24 +256,23 @@
       ]
     },
     "Jammu": {
-      "mentions": 41,
-      "sentiment": 0.022,
+      "mentions": 40,
+      "sentiment": -0.007,
       "top_terms": [
-        "National Conference",
-        "Omar Abdullah",
+        "Cabinet",
+        "October",
         "Jammu Kashmir High Court",
-        "IIM Jammu",
-        "Hons"
+        "Hons",
+        "Programme"
       ]
     },
     "Kathua": {
-      "mentions": 3,
-      "sentiment": 0.011,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
+        "Census",
         "DLSA Kathua",
-        "Quarterly Undertrial Review Committee",
-        "Search",
-        "ABVP State Working Committee"
+        "Quarterly Undertrial Review Committee"
       ]
     },
     "Kishtwar": {
@@ -340,35 +298,41 @@
       ]
     },
     "Rajouri": {
-      "mentions": 4,
-      "sentiment": -0.217,
+      "mentions": 3,
+      "sentiment": -0.395,
       "top_terms": [
-        "DC Rajouri",
         "Rajouri Gets Rs",
         "Crore",
         "Flood Protection Works",
-        "District"
+        "DC Rajouri",
+        "Bella Bus Stand"
       ]
     },
     "Ramban": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.382,
+      "top_terms": [
+        "Govt",
+        "Integrity Pledge",
+        "District Ramban"
+      ]
     },
     "Reasi": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.44,
+      "top_terms": [
+        "DC Reasi"
+      ]
     },
     "Samba": {
-      "mentions": 3,
-      "sentiment": 0.068,
+      "mentions": 4,
+      "sentiment": 0.156,
       "top_terms": [
+        "Union Minister",
+        "Divyangjan",
         "DC Samba",
         "Security Forces Conduct Long",
-        "Route Patrols Along Border",
-        "Gallery",
-        "Indian BSF"
+        "Route Patrols Along Border"
       ]
     },
     "Udhampur": {
@@ -376,9 +340,9 @@
       "sentiment": 0.0,
       "top_terms": [
         "DC Udhampur",
+        "Banihal",
         "NCORD",
         "Telecom",
-        "Banihal",
         "Historic Spiritual Milestone"
       ]
     }
@@ -389,88 +353,88 @@
   "source_breakdown": [
     {
       "domain": "Kashmir Life",
-      "count": 32
+      "count": 34
     },
     {
       "domain": "Greater Kashmir",
-      "count": 25
+      "count": 26
     },
     {
       "domain": "Jammu Links News",
-      "count": 20
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 15
+      "count": 24
     },
     {
       "domain": "Daily Excelsior",
-      "count": 14
+      "count": 21
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 11
+      "domain": "Rising Kashmir",
+      "count": 16
     },
     {
-      "domain": "Kashmir News Service",
+      "domain": "Brighter Kashmir",
       "count": 10
     },
     {
-      "domain": "Kashmir News Observer",
+      "domain": "The Hindu",
       "count": 7
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 6
-    },
-    {
       "domain": "The Kashmir Horizon",
+      "count": 7
+    },
+    {
+      "domain": "Kashmir News Observer",
       "count": 6
     },
     {
-      "domain": "The Hindu",
+      "domain": "Kashmir News Service",
       "count": 5
     },
     {
-      "domain": "JK MONITOR",
+      "domain": "Only Kashmir",
       "count": 5
+    },
+    {
+      "domain": "Kashmir Media Service",
+      "count": 4
     },
     {
       "domain": "ETV Bharat",
       "count": 3
     },
     {
+      "domain": "The Indian Express",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Observer",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 3
+    },
+    {
+      "domain": "DD News",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Indepth",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Dot Com",
+      "count": 3
+    },
+    {
       "domain": "The Tribune",
-      "count": 3
-    },
-    {
-      "domain": "Only Kashmir",
-      "count": 3
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 3
-    },
-    {
-      "domain": "India Today",
-      "count": 3
-    },
-    {
-      "domain": "jknewstoday.com",
-      "count": 3
-    },
-    {
-      "domain": "ThePrint",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Vision",
-      "count": 3
+      "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 236,
-    "raw_articles_before_dedup": 365,
+    "articles_fetched": 237,
+    "raw_articles_before_dedup": 374,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
