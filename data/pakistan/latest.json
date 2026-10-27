@@ -1,110 +1,90 @@
 {
-  "generated_at": "2026-10-26T23:33:19.434602+00:00",
-  "date": "2026-10-26",
+  "generated_at": "2026-10-27T03:33:30.683752+00:00",
+  "date": "2026-10-27",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.013,
+    "score": -0.009,
     "label": "mixed / neutral",
-    "positive_pct": 31.3,
-    "neutral_pct": 41.9,
-    "negative_pct": 26.8,
-    "sample_size": 313
+    "positive_pct": 30.6,
+    "neutral_pct": 42.9,
+    "negative_pct": 26.6,
+    "sample_size": 301
   },
   "india_tone": {
-    "score": -0.042,
+    "score": -0.028,
     "label": "mixed / neutral",
-    "positive_pct": 30.4,
-    "neutral_pct": 43.5,
-    "negative_pct": 26.1,
-    "sample_size": 23
+    "positive_pct": 25.0,
+    "neutral_pct": 54.2,
+    "negative_pct": 20.8,
+    "sample_size": 24
   },
   "top_keywords": [
     {
+      "term": "Iran",
+      "mentions": 8,
+      "sentiment": -0.136
+    },
+    {
       "term": "October",
       "mentions": 7,
-      "sentiment": -0.204
+      "sentiment": -0.104
     },
     {
-      "term": "Iran",
-      "mentions": 4,
-      "sentiment": -0.017
+      "term": "Kashmir",
+      "mentions": 6,
+      "sentiment": 0.007
     },
     {
-      "term": "Shadab Khan",
+      "term": "Sri Lanka",
       "mentions": 4,
-      "sentiment": 0.242
+      "sentiment": 0.017
     },
     {
-      "term": "Saudi",
+      "term": "Tehran",
       "mentions": 4,
-      "sentiment": -0.182
+      "sentiment": -0.06
     },
     {
       "term": "China",
       "mentions": 4,
-      "sentiment": 0.203
+      "sentiment": 0.093
     },
     {
       "term": "Pakistani",
       "mentions": 4,
-      "sentiment": 0.014
+      "sentiment": 0.065
     },
     {
-      "term": "India",
-      "mentions": 3,
-      "sentiment": 0.026
-    },
-    {
-      "term": "Pakistan ODI",
-      "mentions": 3,
-      "sentiment": 0.221
+      "term": "Kashmir Black Day",
+      "mentions": 4,
+      "sentiment": 0.074
     },
     {
       "term": "Afghanistan",
       "mentions": 3,
-      "sentiment": -0.177
+      "sentiment": -0.221
     },
     {
-      "term": "Sri Lanka",
+      "term": "Makkah",
       "mentions": 3,
-      "sentiment": 0.026
+      "sentiment": -0.221
     },
     {
-      "term": "England",
+      "term": "Saudi",
       "mentions": 3,
-      "sentiment": 0.195
+      "sentiment": -0.242
     },
     {
-      "term": "Kashmir",
+      "term": "Lahore",
       "mentions": 3,
-      "sentiment": 0.039
-    },
-    {
-      "term": "Sindh Government",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Kashmir Black Day",
-      "mentions": 3,
-      "sentiment": 0.0
+      "sentiment": 0.059
     },
     {
       "term": "Baltistan",
       "mentions": 3,
-      "sentiment": 0.035
-    },
-    {
-      "term": "Terrorists",
-      "mentions": 3,
-      "sentiment": -0.056
-    },
-    {
-      "term": "Kashmiris",
-      "mentions": 3,
-      "sentiment": 0.106
+      "sentiment": 0.053
     },
     {
       "term": "Quetta",
@@ -112,121 +92,169 @@
       "sentiment": 0.23
     },
     {
-      "term": "Saim Ayub",
+      "term": "Balochistan Assembly",
+      "mentions": 3,
+      "sentiment": -0.323
+    },
+    {
+      "term": "Black Day",
+      "mentions": 3,
+      "sentiment": 0.099
+    },
+    {
+      "term": "Kashmiris",
+      "mentions": 3,
+      "sentiment": 0.071
+    },
+    {
+      "term": "Afghan",
+      "mentions": 3,
+      "sentiment": -0.524
+    },
+    {
+      "term": "India",
       "mentions": 2,
       "sentiment": 0.0
     },
     {
-      "term": "Saudi Arabia",
+      "term": "Saim Ayub",
       "mentions": 2,
-      "sentiment": -0.142
+      "sentiment": 0.0
     }
   ],
   "emerging": [
     {
+      "term": "Black Day",
+      "mentions_now": 3,
+      "baseline_avg": 1.12,
+      "zscore": 5.67,
+      "reason": "spike"
+    },
+    {
+      "term": "Makkah",
+      "mentions_now": 3,
+      "baseline_avg": 1.17,
+      "zscore": 4.92,
+      "reason": "spike"
+    },
+    {
       "term": "Quetta",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.22,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Saudi",
-      "mentions_now": 4,
-      "baseline_avg": 1.8,
-      "zscore": 3.67,
-      "reason": "spike"
-    },
-    {
-      "term": "Sindh Government",
+      "term": "Balochistan Assembly",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
       "reason": "spike"
     },
     {
-      "term": "Shadab Khan",
+      "term": "Tehran",
       "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 3.16,
+      "baseline_avg": 1.9,
+      "zscore": 2.23,
       "reason": "spike"
     },
     {
-      "term": "Baltistan",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
+      "term": "Kashmir",
+      "mentions_now": 6,
+      "baseline_avg": 3.21,
+      "zscore": 2.2,
       "reason": "spike"
     },
     {
       "term": "October",
       "mentions_now": 7,
-      "baseline_avg": 4.29,
-      "zscore": 2.83,
+      "baseline_avg": 4.57,
+      "zscore": 2.18,
       "reason": "spike"
     },
     {
-      "term": "Kashmiris",
+      "term": "Afghan",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 2.24,
+      "baseline_avg": 1.6,
+      "zscore": 2.11,
+      "reason": "spike"
+    },
+    {
+      "term": "Iran",
+      "mentions_now": 8,
+      "baseline_avg": 4.29,
+      "zscore": 1.99,
+      "reason": "spike"
+    },
+    {
+      "term": "Baltistan",
+      "mentions_now": 3,
+      "baseline_avg": 1.62,
+      "zscore": 1.98,
+      "reason": "spike"
+    },
+    {
+      "term": "Sri Lanka",
+      "mentions_now": 4,
+      "baseline_avg": 2.25,
+      "zscore": 1.81,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 34,
-      "sentiment": -0.118,
+      "mentions": 25,
+      "sentiment": -0.079,
       "top_terms": [
+        "Rains",
         "Imran Khan",
-        "Bhagwant Mann",
         "Broken",
         "East Punjab",
         "Palestine"
       ]
     },
     "Sindh": {
-      "mentions": 25,
-      "sentiment": 0.02,
+      "mentions": 28,
+      "sentiment": 0.068,
       "top_terms": [
+        "Kashmir Black Day",
         "Sindh Government",
-        "Monem Zafar",
-        "Jamaat",
-        "Islami Karachi",
-        "Local Government Powers"
+        "Karachi Rally",
+        "Indian Occupied Kashmir",
+        "QUICE AGM"
       ]
     },
     "Khyber Pakhtunkhwa": {
       "mentions": 6,
-      "sentiment": -0.165,
+      "sentiment": -0.382,
       "top_terms": [
+        "Expelled Afghan",
         "PTI Latest",
         "KP Emergency",
         "Governor Rule",
-        "HEADLINES",
-        "Mpox"
+        "HEADLINES"
       ]
     },
     "Balochistan": {
-      "mentions": 28,
-      "sentiment": 0.091,
+      "mentions": 31,
+      "sentiment": 0.051,
       "top_terms": [
+        "Balochistan Assembly",
         "Balochistan Glass",
         "Quetta",
-        "Balochistan Assembly",
-        "BGL Financial Result",
-        "Poppy Cultivation Expands"
+        "Govt",
+        "ZTBL"
       ]
     },
     "Gilgit-Baltistan": {
       "mentions": 3,
-      "sentiment": 0.035,
+      "sentiment": 0.053,
       "top_terms": [
         "Baltistan",
         "Earthquake Tremors Felt",
         "Parts KP",
         "Sindh Gilgit",
-        "Earthquake"
+        "Solar Power Project"
       ]
     },
     "Azad Kashmir": {
@@ -241,14 +269,14 @@
       ]
     },
     "Islamabad": {
-      "mentions": 41,
-      "sentiment": -0.117,
+      "mentions": 40,
+      "sentiment": -0.077,
       "top_terms": [
         "October",
         "Farooq Abdullah",
-        "FROM PUNJAB TO FEDERAL",
-        "CAPITAL AND SINDH",
-        "PATTERN OF CUSTODIAL DEATHS"
+        "China",
+        "ISLAMABAD",
+        "Beijing"
       ]
     }
   },
@@ -258,88 +286,88 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 48
-    },
-    {
-      "domain": "Dawn",
-      "count": 20
+      "count": 51
     },
     {
       "domain": "Daily Independent",
-      "count": 19
+      "count": 22
     },
     {
-      "domain": "The Express Tribune",
-      "count": 14
-    },
-    {
-      "domain": "ProPakistani",
-      "count": 14
+      "domain": "Dawn",
+      "count": 15
     },
     {
       "domain": "Arab News PK",
+      "count": 11
+    },
+    {
+      "domain": "ProPakistani",
+      "count": 11
+    },
+    {
+      "domain": "The Express Tribune",
       "count": 9
-    },
-    {
-      "domain": "Minute Mirror",
-      "count": 9
-    },
-    {
-      "domain": "Daily Ausaf",
-      "count": 8
-    },
-    {
-      "domain": "Islamabad Post",
-      "count": 7
-    },
-    {
-      "domain": "Dunya News",
-      "count": 6
-    },
-    {
-      "domain": "The Nation (Pakistan )",
-      "count": 5
-    },
-    {
-      "domain": "The Friday Times",
-      "count": 5
-    },
-    {
-      "domain": "Pakistan Connect",
-      "count": 5
-    },
-    {
-      "domain": "Daily Times",
-      "count": 5
-    },
-    {
-      "domain": "https://greenpost.com.pk/",
-      "count": 5
-    },
-    {
-      "domain": "Pakistan Observer",
-      "count": 5
-    },
-    {
-      "domain": "Cricinfo",
-      "count": 4
-    },
-    {
-      "domain": "Business Recorder",
-      "count": 4
     },
     {
       "domain": "Investify",
+      "count": 9
+    },
+    {
+      "domain": "Islamabad Post",
+      "count": 9
+    },
+    {
+      "domain": "Business Recorder",
+      "count": 8
+    },
+    {
+      "domain": "The Nation (Pakistan )",
+      "count": 8
+    },
+    {
+      "domain": "Daily Times",
+      "count": 8
+    },
+    {
+      "domain": "The News Pakistan",
+      "count": 8
+    },
+    {
+      "domain": "Minute Mirror",
+      "count": 8
+    },
+    {
+      "domain": "Pakistan Connect",
       "count": 4
     },
     {
       "domain": "Aaj News",
       "count": 4
+    },
+    {
+      "domain": "Dunya News",
+      "count": 4
+    },
+    {
+      "domain": "https://quettavoice.com/",
+      "count": 4
+    },
+    {
+      "domain": "Daily Ausaf",
+      "count": 4
+    },
+    {
+      "domain": "Daily Pakistan",
+      "count": 4
+    },
+    {
+      "domain": "The Daily CPEC",
+      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 313,
-    "raw_articles_before_dedup": 435,
+    "articles_fetched": 301,
+    "raw_articles_before_dedup": 398,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."

@@ -1,68 +1,68 @@
 {
-  "generated_at": "2026-10-26T23:32:05.633041+00:00",
-  "date": "2026-10-26",
+  "generated_at": "2026-10-27T03:32:22.338354+00:00",
+  "date": "2026-10-27",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.003,
+    "score": 0.016,
     "label": "mixed / neutral",
-    "positive_pct": 31.4,
-    "neutral_pct": 38.6,
-    "negative_pct": 30.0,
-    "sample_size": 210
+    "positive_pct": 29.8,
+    "neutral_pct": 43.7,
+    "negative_pct": 26.5,
+    "sample_size": 215
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Accession Day",
-      "mentions": 5,
-      "sentiment": 0.249
+      "mentions": 6,
+      "sentiment": 0.366
     },
     {
       "term": "India",
-      "mentions": 5,
-      "sentiment": 0.202
-    },
-    {
-      "term": "Mehbooba Mufti",
-      "mentions": 5,
-      "sentiment": 0.044
-    },
-    {
-      "term": "Police",
-      "mentions": 5,
-      "sentiment": -0.394
+      "mentions": 6,
+      "sentiment": 0.285
     },
     {
       "term": "October",
-      "mentions": 4,
-      "sentiment": 0.238
-    },
-    {
-      "term": "Jammu Kashmir",
-      "mentions": 4,
-      "sentiment": -0.084
+      "mentions": 5,
+      "sentiment": 0.198
     },
     {
       "term": "Congress",
       "mentions": 4,
-      "sentiment": -0.023
+      "sentiment": -0.156
     },
     {
-      "term": "Pakistan",
+      "term": "Accession",
       "mentions": 4,
-      "sentiment": 0.011
+      "sentiment": 0.241
     },
     {
       "term": "Mehbooba",
-      "mentions": 3,
-      "sentiment": -0.151
+      "mentions": 4,
+      "sentiment": -0.002
     },
     {
-      "term": "Short",
+      "term": "Jammu Kashmir",
+      "mentions": 4,
+      "sentiment": -0.137
+    },
+    {
+      "term": "North Kashmir",
       "mentions": 3,
-      "sentiment": -0.165
+      "sentiment": -0.136
+    },
+    {
+      "term": "Govt",
+      "mentions": 3,
+      "sentiment": 0.161
+    },
+    {
+      "term": "Kashmiri Pandit Activist Arrested",
+      "mentions": 3,
+      "sentiment": -0.529
     },
     {
       "term": "Sagar",
@@ -70,19 +70,19 @@
       "sentiment": 0.0
     },
     {
-      "term": "Year",
+      "term": "Mehbooba Mufti",
       "mentions": 3,
-      "sentiment": -0.159
+      "sentiment": 0.236
     },
     {
-      "term": "Omar",
+      "term": "Farooq Abdullah",
       "mentions": 3,
-      "sentiment": 0.089
+      "sentiment": 0.03
     },
     {
-      "term": "Kashmiris",
+      "term": "Pakistan",
       "mentions": 3,
-      "sentiment": -0.012
+      "sentiment": 0.03
     },
     {
       "term": "JK Tyre",
@@ -90,71 +90,71 @@
       "sentiment": 0.425
     },
     {
-      "term": "LG Manoj Sinha",
-      "mentions": 3,
-      "sentiment": 0.254
+      "term": "PCCF",
+      "mentions": 2,
+      "sentiment": -0.057
     },
     {
-      "term": "Kashmiri Pandit Activist Arrested",
+      "term": "Ministers",
       "mentions": 2,
-      "sentiment": -0.431
-    },
-    {
-      "term": "Centre",
-      "mentions": 2,
-      "sentiment": 0.191
+      "sentiment": 0.0
     },
     {
       "term": "Cabinet",
       "mentions": 2,
-      "sentiment": 0.081
+      "sentiment": 0.048
     },
     {
-      "term": "November",
+      "term": "Kharge",
+      "mentions": 2,
+      "sentiment": -0.107
+    },
+    {
+      "term": "DC Kupwara",
       "mentions": 2,
       "sentiment": 0.0
     }
   ],
   "emerging": [
     {
-      "term": "LG Manoj Sinha",
+      "term": "North Kashmir",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "baseline_avg": 1.08,
+      "zscore": 6.93,
       "reason": "spike"
     },
     {
-      "term": "Year",
+      "term": "Kashmiri Pandit Activist Arrested",
       "mentions_now": 3,
-      "baseline_avg": 1.44,
-      "zscore": 2.27,
+      "baseline_avg": 1.67,
+      "zscore": 2.83,
+      "reason": "spike"
+    },
+    {
+      "term": "India",
+      "mentions_now": 6,
+      "baseline_avg": 2.71,
+      "zscore": 2.29,
       "reason": "spike"
     },
     {
       "term": "Accession Day",
-      "mentions_now": 5,
-      "baseline_avg": 2.33,
-      "zscore": 1.94,
-      "reason": "spike"
-    },
-    {
-      "term": "Kashmiris",
-      "mentions_now": 3,
-      "baseline_avg": 1.64,
-      "zscore": 1.89,
+      "mentions_now": 6,
+      "baseline_avg": 2.71,
+      "zscore": 2.08,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 5,
-      "sentiment": -0.086,
+      "mentions": 4,
+      "sentiment": -0.142,
       "top_terms": [
+        "Drug Peddlers Arrested",
         "Jammu Kashmir Govt Orders",
         "Probe",
         "Tender Allotments",
-        "Division",
-        "Missing Persons Traced"
+        "Division"
       ]
     },
     "Bandipora": {
@@ -165,14 +165,14 @@
       ]
     },
     "Baramulla": {
-      "mentions": 5,
-      "sentiment": -0.148,
+      "mentions": 4,
+      "sentiment": -0.139,
       "top_terms": [
+        "LG Sinha",
+        "GD Goenka School Baramulla",
         "Police Seize",
         "Vehicles Illegal Mining",
-        "LG Manoj Sinha",
-        "GD Goenka Baramulla",
-        "Lok Bhavan"
+        "LG Manoj Sinha"
       ]
     },
     "Budgam": {
@@ -181,12 +181,9 @@
       "top_terms": []
     },
     "Ganderbal": {
-      "mentions": 2,
-      "sentiment": -0.026,
-      "top_terms": [
-        "DC Ganderbal",
-        "National School Games"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Kulgam": {
       "mentions": 0,
@@ -194,14 +191,14 @@
       "top_terms": []
     },
     "Kupwara": {
-      "mentions": 2,
+      "mentions": 4,
       "sentiment": 0.0,
       "top_terms": [
         "DC Kupwara",
+        "Unsafe",
+        "UPS Gujarnar",
         "Border Village Kumkadi",
-        "Winter Preparedness",
-        "Kupwara Police",
-        "National Integration Day"
+        "Winter Preparedness"
       ]
     },
     "Pulwama": {
@@ -214,49 +211,48 @@
       ]
     },
     "Shopian": {
-      "mentions": 4,
-      "sentiment": -0.114,
+      "mentions": 5,
+      "sentiment": -0.03,
       "top_terms": [
-        "Shopian Coldest",
-        "MeT Forecasts Mostly Dry",
-        "Weather",
         "Action",
-        "Police"
+        "Police",
+        "South Kashmir",
+        "People",
+        "Aglar Road"
       ]
     },
     "Srinagar": {
       "mentions": 14,
-      "sentiment": 0.118,
+      "sentiment": 0.159,
       "top_terms": [
-        "Banihal",
-        "Mehbooba Mufti Marks",
-        "Accession Day Srinagar",
-        "Hails Union",
-        "Great Country"
+        "Verses",
+        "Traffic Police Issue Fresh",
+        "Advisory Jammu",
+        "Srinagar Highway",
+        "Other Key Roads"
       ]
     },
     "Doda": {
-      "mentions": 1,
-      "sentiment": -0.459,
+      "mentions": 0,
+      "sentiment": null,
       "top_terms": []
     },
     "Jammu": {
-      "mentions": 48,
-      "sentiment": -0.081,
+      "mentions": 52,
+      "sentiment": -0.016,
       "top_terms": [
         "Jammu Kashmir",
-        "October",
-        "November",
-        "Kashmir Accession Day",
-        "Farooq Abdullah"
+        "Jammu Railway Division",
+        "CGA Adalat",
+        "IIM Jammu Opens Leh",
+        "Campus"
       ]
     },
     "Kathua": {
       "mentions": 1,
-      "sentiment": -0.048,
+      "sentiment": -0.043,
       "top_terms": [
-        "Search Operation Launched",
-        "Suspicious Men Spotted"
+        "Search"
       ]
     },
     "Kishtwar": {
@@ -282,31 +278,32 @@
       ]
     },
     "Reasi": {
-      "mentions": 3,
-      "sentiment": -0.238,
+      "mentions": 2,
+      "sentiment": -0.494,
       "top_terms": [
-        "ZSWO Reasi",
-        "Sujandhar",
         "Reasi Police Recover",
         "Grams",
-        "Heroin"
+        "Heroin",
+        "Katra",
+        "Two Held"
       ]
     },
     "Samba": {
       "mentions": 2,
       "sentiment": -0.068,
       "top_terms": [
+        "Security Forces Conduct Long",
+        "Route Patrols Along Border",
+        "Gallery",
         "Year",
-        "Old BSF Woman Constable",
-        "Dies",
-        "Road Accident",
-        "Security Forces Conduct Long"
+        "Old BSF Woman Constable"
       ]
     },
     "Udhampur": {
-      "mentions": 1,
-      "sentiment": -0.296,
+      "mentions": 2,
+      "sentiment": -0.148,
       "top_terms": [
+        "Banihal",
         "North Kashmir",
         "Police Recover Two Missing",
         "Minor Girls"
@@ -318,27 +315,27 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 29
+      "domain": "Greater Kashmir",
+      "count": 32
     },
     {
-      "domain": "Greater Kashmir",
+      "domain": "Kashmir Life",
       "count": 24
     },
     {
       "domain": "Rising Kashmir",
-      "count": 20
+      "count": 19
     },
     {
       "domain": "Daily Excelsior",
-      "count": 14
-    },
-    {
-      "domain": "JK MONITOR",
-      "count": 11
+      "count": 18
     },
     {
       "domain": "Kashmir Observer",
+      "count": 9
+    },
+    {
+      "domain": "JK MONITOR",
       "count": 8
     },
     {
@@ -350,6 +347,10 @@
       "count": 6
     },
     {
+      "domain": "The Global Kashmir",
+      "count": 5
+    },
+    {
       "domain": "Kashmir News Observer",
       "count": 5
     },
@@ -358,27 +359,15 @@
       "count": 4
     },
     {
-      "domain": "The Tribune",
-      "count": 4
+      "domain": "Kashmir Vision",
+      "count": 3
     },
     {
-      "domain": "Kashmir Media Service",
-      "count": 4
+      "domain": "ETV Bharat",
+      "count": 3
     },
     {
       "domain": "Live Law",
-      "count": 3
-    },
-    {
-      "domain": "The Indian Express",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Indepth",
-      "count": 3
-    },
-    {
-      "domain": "The Economic Times",
       "count": 3
     },
     {
@@ -390,17 +379,25 @@
       "count": 3
     },
     {
-      "domain": "The Global Kashmir",
+      "domain": "thekashmirimages.com",
       "count": 3
     },
     {
-      "domain": "ETV Bharat",
+      "domain": "Social News XYZ",
+      "count": 2
+    },
+    {
+      "domain": "The Economic Times",
+      "count": 2
+    },
+    {
+      "domain": "The Tribune",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 210,
-    "raw_articles_before_dedup": 333,
+    "articles_fetched": 215,
+    "raw_articles_before_dedup": 321,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
