@@ -1,55 +1,45 @@
 {
-  "generated_at": "2026-10-28T23:52:35.936921+00:00",
-  "date": "2026-10-28",
+  "generated_at": "2026-10-29T04:12:02.804275+00:00",
+  "date": "2026-10-29",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.037,
+    "score": 0.052,
     "label": "mixed / neutral",
-    "positive_pct": 41.2,
-    "neutral_pct": 34.4,
-    "negative_pct": 24.5,
-    "sample_size": 323
+    "positive_pct": 40.1,
+    "neutral_pct": 37.5,
+    "negative_pct": 22.4,
+    "sample_size": 339
   },
   "india_tone": {
-    "score": 0.067,
+    "score": 0.057,
     "label": "mixed / neutral",
-    "positive_pct": 41.7,
-    "neutral_pct": 41.7,
-    "negative_pct": 16.7,
-    "sample_size": 24
+    "positive_pct": 50.0,
+    "neutral_pct": 21.4,
+    "negative_pct": 28.6,
+    "sample_size": 14
   },
   "top_keywords": [
     {
-      "term": "China",
-      "mentions": 6,
-      "sentiment": 0.078
-    },
-    {
       "term": "Pakistani",
       "mentions": 5,
-      "sentiment": -0.205
+      "sentiment": -0.279
     },
     {
-      "term": "Kashmir Black Day",
-      "mentions": 4,
-      "sentiment": 0.15
+      "term": "Dawn",
+      "mentions": 5,
+      "sentiment": -0.105
     },
     {
-      "term": "Iran",
-      "mentions": 4,
-      "sentiment": 0.253
+      "term": "China",
+      "mentions": 5,
+      "sentiment": 0.109
     },
     {
-      "term": "Kashmir",
+      "term": "Education",
       "mentions": 4,
-      "sentiment": -0.165
-    },
-    {
-      "term": "India",
-      "mentions": 4,
-      "sentiment": -0.047
+      "sentiment": 0.215
     },
     {
       "term": "ISLAMABAD",
@@ -57,19 +47,44 @@
       "sentiment": 0.309
     },
     {
-      "term": "Indian",
+      "term": "World Cup",
       "mentions": 3,
-      "sentiment": -0.29
+      "sentiment": 0.353
     },
     {
-      "term": "Kashmiris",
+      "term": "Taliban",
       "mentions": 3,
-      "sentiment": 0.281
+      "sentiment": -0.457
     },
     {
-      "term": "Jobs",
+      "term": "India",
       "mentions": 3,
-      "sentiment": 0.228
+      "sentiment": -0.087
+    },
+    {
+      "term": "Kashmir Black Day",
+      "mentions": 3,
+      "sentiment": 0.2
+    },
+    {
+      "term": "Saudi Arabia",
+      "mentions": 3,
+      "sentiment": -0.12
+    },
+    {
+      "term": "Imran Khan",
+      "mentions": 3,
+      "sentiment": 0.023
+    },
+    {
+      "term": "Anti",
+      "mentions": 3,
+      "sentiment": 0.026
+    },
+    {
+      "term": "Kashmir",
+      "mentions": 3,
+      "sentiment": -0.05
     },
     {
       "term": "Gilgit",
@@ -77,114 +92,85 @@
       "sentiment": 0.27
     },
     {
-      "term": "Anti",
-      "mentions": 3,
-      "sentiment": 0.051
-    },
-    {
-      "term": "Education",
-      "mentions": 3,
-      "sentiment": 0.287
-    },
-    {
       "term": "South Asia",
       "mentions": 3,
       "sentiment": -0.279
     },
     {
-      "term": "Embassy",
+      "term": "Qatar",
       "mentions": 2,
-      "sentiment": 0.389
+      "sentiment": 0.0
     },
     {
-      "term": "Saudi Arabia",
+      "term": "Mecca Pact",
       "mentions": 2,
-      "sentiment": -0.334
+      "sentiment": -0.169
     },
     {
-      "term": "Afghan",
+      "term": "Report",
       "mentions": 2,
-      "sentiment": -0.712
+      "sentiment": 0.015
     },
     {
-      "term": "Angoor Adda",
+      "term": "Turn",
       "mentions": 2,
-      "sentiment": -0.431
+      "sentiment": 0.0
     },
     {
-      "term": "Taiwanese",
+      "term": "Memon",
       "mentions": 2,
-      "sentiment": 0.251
-    },
-    {
-      "term": "Taliban",
-      "mentions": 2,
-      "sentiment": -0.598
+      "sentiment": 0.304
     }
   ],
   "emerging": [
     {
-      "term": "Anti",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
       "term": "Education",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "mentions_now": 4,
+      "baseline_avg": 1.5,
+      "zscore": 2.89,
       "reason": "spike"
     },
     {
-      "term": "Jobs",
-      "mentions_now": 3,
-      "baseline_avg": 1.4,
-      "zscore": 3.27,
+      "term": "Dawn",
+      "mentions_now": 5,
+      "baseline_avg": 1.85,
+      "zscore": 2.56,
       "reason": "spike"
     },
     {
-      "term": "South Asia",
+      "term": "Imran Khan",
       "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Indian",
-      "mentions_now": 3,
-      "baseline_avg": 1.7,
-      "zscore": 2.03,
+      "baseline_avg": 1.82,
+      "zscore": 2.06,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 32,
-      "sentiment": 0.146,
+      "mentions": 38,
+      "sentiment": 0.126,
       "top_terms": [
+        "Christian",
+        "Minister",
         "Indian Punjab CM",
-        "Punjab Assembly",
-        "Kashmir",
-        "Punjab CM",
+        "Lahore",
         "Punjab CM Mann"
       ]
     },
     "Sindh": {
-      "mentions": 38,
-      "sentiment": 0.092,
+      "mentions": 40,
+      "sentiment": 0.103,
       "top_terms": [
-        "Tharparkar",
+        "PITB",
         "Karachi",
         "Sharjeel Memon",
-        "Uzbekistan",
-        "Consul"
+        "Tharparkar",
+        "Sharjeel"
       ]
     },
     "Khyber Pakhtunkhwa": {
       "mentions": 10,
-      "sentiment": -0.083,
+      "sentiment": -0.089,
       "top_terms": [
         "Khyber Pakhtunkhwa Meeting",
         "Shehbaz Sharif Calls Key",
@@ -195,13 +181,13 @@
     },
     "Balochistan": {
       "mentions": 37,
-      "sentiment": 0.03,
+      "sentiment": 0.108,
       "top_terms": [
-        "Kachhi",
-        "Kalat",
         "Education",
-        "Pakistan Army Nine",
-        "Militants Killed"
+        "Kachhi",
+        "Girls",
+        "Nine Terrorists Killed",
+        "Balochistan Operations"
       ]
     },
     "Gilgit-Baltistan": {
@@ -221,14 +207,14 @@
       "top_terms": []
     },
     "Islamabad": {
-      "mentions": 38,
-      "sentiment": 0.11,
+      "mentions": 35,
+      "sentiment": 0.048,
       "top_terms": [
         "China",
         "ISLAMABAD",
-        "Iran",
         "India",
-        "Export Display Center"
+        "Pakistani",
+        "Maldives"
       ]
     }
   },
@@ -238,18 +224,18 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 48
-    },
-    {
-      "domain": "Business Recorder",
-      "count": 23
+      "count": 47
     },
     {
       "domain": "Daily Independent",
-      "count": 22
+      "count": 32
     },
     {
-      "domain": "Dawn",
+      "domain": "Business Recorder",
+      "count": 20
+    },
+    {
+      "domain": "Balochistan Pulse",
       "count": 19
     },
     {
@@ -258,46 +244,46 @@
     },
     {
       "domain": "Arab News PK",
-      "count": 9
+      "count": 10
     },
     {
       "domain": "Islamabad Post",
-      "count": 9
+      "count": 10
     },
     {
       "domain": "ProPakistani",
+      "count": 9
+    },
+    {
+      "domain": "Dawn",
       "count": 8
-    },
-    {
-      "domain": "Balochistan Pulse",
-      "count": 8
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
-      "count": 7
-    },
-    {
-      "domain": "Pakistan Connect",
-      "count": 7
     },
     {
       "domain": "Minute Mirror",
+      "count": 8
+    },
+    {
+      "domain": "Investify",
       "count": 7
     },
     {
-      "domain": "www.dailyindependent.com.pk",
-      "count": 6
+      "domain": "The News Pakistan",
+      "count": 7
     },
     {
-      "domain": "Times International News Service",
+      "domain": "Pakistan Observer",
       "count": 6
     },
     {
       "domain": "Pakistan Today",
-      "count": 5
+      "count": 6
     },
     {
-      "domain": "Daily Times",
+      "domain": "Daily Ausaf",
+      "count": 6
+    },
+    {
+      "domain": "Pakistan Connect",
       "count": 5
     },
     {
@@ -305,21 +291,21 @@
       "count": 5
     },
     {
-      "domain": "24 News HD",
+      "domain": "Times International News Service",
       "count": 5
     },
     {
-      "domain": "Ministry of Foreign Affairs",
+      "domain": "TechJuice",
       "count": 4
     },
     {
-      "domain": "The News Pakistan",
-      "count": 3
+      "domain": "Daily Pakistan",
+      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 323,
-    "raw_articles_before_dedup": 456,
+    "articles_fetched": 339,
+    "raw_articles_before_dedup": 472,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
