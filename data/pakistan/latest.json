@@ -1,254 +1,191 @@
 {
-  "generated_at": "2026-10-30T14:48:23.659754+00:00",
+  "generated_at": "2026-10-30T20:22:11.708753+00:00",
   "date": "2026-10-30",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.009,
+    "score": 0.007,
     "label": "mixed / neutral",
-    "positive_pct": 36.8,
-    "neutral_pct": 36.5,
-    "negative_pct": 26.6,
-    "sample_size": 323
+    "positive_pct": 33.6,
+    "neutral_pct": 40.8,
+    "negative_pct": 25.6,
+    "sample_size": 289
   },
   "india_tone": {
-    "score": -0.037,
-    "label": "mixed / neutral",
-    "positive_pct": 28.6,
-    "neutral_pct": 28.6,
-    "negative_pct": 42.9,
-    "sample_size": 7
+    "score": 0.109,
+    "label": "positive",
+    "positive_pct": 33.3,
+    "neutral_pct": 50.0,
+    "negative_pct": 16.7,
+    "sample_size": 6
   },
   "top_keywords": [
     {
-      "term": "Gilgit",
-      "mentions": 6,
-      "sentiment": 0.306
-    },
-    {
-      "term": "PM Shehbaz",
+      "term": "October",
       "mentions": 5,
-      "sentiment": 0.313
+      "sentiment": 0.0
     },
     {
       "term": "China",
       "mentions": 5,
-      "sentiment": 0.207
+      "sentiment": 0.233
     },
     {
-      "term": "Sohail Afridi",
-      "mentions": 5,
-      "sentiment": 0.065
-    },
-    {
-      "term": "ISLAMABAD",
-      "mentions": 5,
-      "sentiment": 0.246
-    },
-    {
-      "term": "India",
+      "term": "Maryam Nawaz",
       "mentions": 4,
-      "sentiment": 0.094
-    },
-    {
-      "term": "October",
-      "mentions": 4,
-      "sentiment": 0.08
-    },
-    {
-      "term": "Report",
-      "mentions": 4,
-      "sentiment": -0.42
-    },
-    {
-      "term": "Baltistan",
-      "mentions": 4,
-      "sentiment": 0.148
+      "sentiment": -0.024
     },
     {
       "term": "Iran",
       "mentions": 3,
-      "sentiment": -0.186
-    },
-    {
-      "term": "Afghan Taliban",
-      "mentions": 3,
-      "sentiment": -0.612
-    },
-    {
-      "term": "Saudi Arabia",
-      "mentions": 3,
-      "sentiment": 0.167
-    },
-    {
-      "term": "September",
-      "mentions": 3,
-      "sentiment": 0.041
-    },
-    {
-      "term": "Maryam Nawaz",
-      "mentions": 3,
-      "sentiment": 0.144
-    },
-    {
-      "term": "Governor Kundi",
-      "mentions": 3,
-      "sentiment": -0.048
-    },
-    {
-      "term": "Governor",
-      "mentions": 3,
-      "sentiment": -0.428
-    },
-    {
-      "term": "CM Bugti",
-      "mentions": 3,
-      "sentiment": -0.11
-    },
-    {
-      "term": "Afghanistan",
-      "mentions": 3,
-      "sentiment": -0.516
+      "sentiment": -0.113
     },
     {
       "term": "Sri Lanka",
-      "mentions": 2,
-      "sentiment": 0.383
+      "mentions": 3,
+      "sentiment": 0.225
     },
     {
-      "term": "Leadership",
+      "term": "PM Shehbaz",
+      "mentions": 3,
+      "sentiment": 0.361
+    },
+    {
+      "term": "Karachi",
+      "mentions": 3,
+      "sentiment": 0.021
+    },
+    {
+      "term": "Report",
+      "mentions": 3,
+      "sentiment": -0.356
+    },
+    {
+      "term": "Sohail Afridi",
+      "mentions": 3,
+      "sentiment": -0.035
+    },
+    {
+      "term": "World",
+      "mentions": 3,
+      "sentiment": -0.597
+    },
+    {
+      "term": "Gilgit",
+      "mentions": 3,
+      "sentiment": 0.404
+    },
+    {
+      "term": "Five",
       "mentions": 2,
-      "sentiment": 0.018
+      "sentiment": -0.756
+    },
+    {
+      "term": "Pakistani",
+      "mentions": 2,
+      "sentiment": -0.363
+    },
+    {
+      "term": "Philippines",
+      "mentions": 2,
+      "sentiment": -0.091
+    },
+    {
+      "term": "Saudi Arabia",
+      "mentions": 2,
+      "sentiment": 0.113
+    },
+    {
+      "term": "Pakistan Army",
+      "mentions": 2,
+      "sentiment": -0.768
+    },
+    {
+      "term": "Afghan Taliban",
+      "mentions": 2,
+      "sentiment": -0.6
+    },
+    {
+      "term": "What",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Gold",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Bill",
+      "mentions": 2,
+      "sentiment": -0.059
     }
   ],
   "emerging": [
     {
-      "term": "Report",
-      "mentions_now": 4,
-      "baseline_avg": 1.27,
-      "zscore": 6.12,
-      "reason": "spike"
-    },
-    {
-      "term": "Governor Kundi",
+      "term": "World",
       "mentions_now": 3,
-      "baseline_avg": 1.22,
-      "zscore": 4.28,
-      "reason": "spike"
-    },
-    {
-      "term": "September",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "CM Bugti",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Sohail Afridi",
-      "mentions_now": 5,
-      "baseline_avg": 1.92,
-      "zscore": 3.23,
-      "reason": "spike"
-    },
-    {
-      "term": "PM Shehbaz",
-      "mentions_now": 5,
-      "baseline_avg": 1.78,
-      "zscore": 3.13,
+      "baseline_avg": 1.08,
+      "zscore": 6.93,
       "reason": "spike"
     },
     {
       "term": "Maryam Nawaz",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Gilgit",
-      "mentions_now": 6,
-      "baseline_avg": 2.71,
-      "zscore": 2.83,
-      "reason": "spike"
-    },
-    {
-      "term": "Afghan Taliban",
-      "mentions_now": 3,
-      "baseline_avg": 1.54,
-      "zscore": 2.3,
-      "reason": "spike"
-    },
-    {
-      "term": "Baltistan",
       "mentions_now": 4,
-      "baseline_avg": 2.57,
-      "zscore": 2.29,
-      "reason": "spike"
-    },
-    {
-      "term": "ISLAMABAD",
-      "mentions_now": 5,
-      "baseline_avg": 2.67,
-      "zscore": 2.21,
+      "baseline_avg": 1.67,
+      "zscore": 3.5,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 32,
-      "sentiment": -0.021,
+      "mentions": 31,
+      "sentiment": 0.003,
       "top_terms": [
         "Maryam Nawaz",
-        "Punjab Reports",
         "Bank",
         "Azma",
-        "Punjab CM"
+        "Punjab CM",
+        "Linked"
       ]
     },
     "Sindh": {
-      "mentions": 29,
-      "sentiment": -0.021,
+      "mentions": 23,
+      "sentiment": 0.027,
       "top_terms": [
+        "Karachi",
         "Sharjeel",
-        "Tharparkar",
-        "Haleon Pakistan",
-        "Panadol",
-        "Sindh CM"
+        "Sindh CM",
+        "Chinese CG",
+        "Breaking"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 4,
-      "sentiment": -0.301,
+      "mentions": 5,
+      "sentiment": -0.059,
       "top_terms": [
-        "Governor",
-        "Vice Chancellors",
-        "Conference Held",
-        "Address Academic",
-        "Administrative"
+        "Israel Elections",
+        "Major Political Decision Khyber",
+        "Pakhtunkhwa",
+        "PM HEADLINES",
+        "Khyber Pakhtunkhwa Launches Probe"
       ]
     },
     "Balochistan": {
-      "mentions": 24,
-      "sentiment": -0.068,
+      "mentions": 23,
+      "sentiment": -0.141,
       "top_terms": [
         "Kharan",
-        "CM Bugti",
-        "Uthal",
         "Expansion",
-        "Leadership"
+        "Leadership",
+        "Militant Activities",
+        "Balochistan School Solarization"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 5,
-      "sentiment": 0.224,
+      "mentions": 2,
+      "sentiment": 0.246,
       "top_terms": [
         "Gilgit",
         "Baltistan",
@@ -259,20 +196,21 @@
     },
     "Azad Kashmir": {
       "mentions": 1,
-      "sentiment": -0.618,
+      "sentiment": 0.0,
       "top_terms": [
-        "Four"
+        "Earthquakes",
+        "Latest Quakes"
       ]
     },
     "Islamabad": {
-      "mentions": 37,
-      "sentiment": 0.056,
+      "mentions": 36,
+      "sentiment": 0.049,
       "top_terms": [
-        "ISLAMABAD",
-        "China",
-        "Senate Told",
-        "Gifted Hospital Opens",
-        "Free Care"
+        "October",
+        "Coffee",
+        "Alpaca",
+        "Pakistan Aasaan Khidmat Centre",
+        "Brings Multiple Government Services"
       ]
     }
   },
@@ -282,62 +220,58 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 34
-    },
-    {
-      "domain": "Daily Independent",
-      "count": 24
-    },
-    {
-      "domain": "Dawn",
-      "count": 17
+      "count": 35
     },
     {
       "domain": "The Express Tribune",
-      "count": 16
+      "count": 21
     },
     {
-      "domain": "Investify",
-      "count": 11
+      "domain": "Dawn",
+      "count": 19
     },
     {
       "domain": "Business Recorder",
-      "count": 11
-    },
-    {
-      "domain": "ProPakistani",
-      "count": 10
+      "count": 13
     },
     {
       "domain": "Arab News PK",
-      "count": 9
+      "count": 11
     },
     {
-      "domain": "The Nation (Pakistan )",
+      "domain": "Investify",
+      "count": 10
+    },
+    {
+      "domain": "ProPakistani",
       "count": 8
     },
     {
-      "domain": "24 News HD",
-      "count": 7
-    },
-    {
       "domain": "Daily Times",
-      "count": 6
+      "count": 8
     },
     {
       "domain": "Pakistan Connect",
-      "count": 6
+      "count": 7
     },
     {
-      "domain": "Pakistan Observer",
-      "count": 6
+      "domain": "Daily Independent",
+      "count": 7
     },
     {
-      "domain": "Daily Ausaf",
-      "count": 5
+      "domain": "Pakistan Today",
+      "count": 6
     },
     {
       "domain": "Islamabad Post",
+      "count": 6
+    },
+    {
+      "domain": "Tapmad",
+      "count": 5
+    },
+    {
+      "domain": "The Nation (Pakistan )",
       "count": 5
     },
     {
@@ -345,25 +279,29 @@
       "count": 5
     },
     {
-      "domain": "Times International News Service",
+      "domain": "Aaj English TV",
       "count": 5
     },
     {
-      "domain": "Pakistan Today",
+      "domain": "Pakistan Observer",
+      "count": 5
+    },
+    {
+      "domain": "Daily Ausaf",
+      "count": 5
+    },
+    {
+      "domain": "24 News HD",
       "count": 5
     },
     {
       "domain": "The Friday Times",
       "count": 4
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 323,
-    "raw_articles_before_dedup": 438,
+    "articles_fetched": 289,
+    "raw_articles_before_dedup": 425,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
