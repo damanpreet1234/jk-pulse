@@ -1,218 +1,204 @@
 {
-  "generated_at": "2026-11-01T20:07:42.126511+00:00",
-  "date": "2026-11-01",
+  "generated_at": "2026-11-02T04:11:19.121777+00:00",
+  "date": "2026-11-02",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.017,
+    "score": -0.01,
     "label": "mixed / neutral",
-    "positive_pct": 32.9,
-    "neutral_pct": 35.3,
-    "negative_pct": 31.8,
-    "sample_size": 292
+    "positive_pct": 33.5,
+    "neutral_pct": 38.4,
+    "negative_pct": 28.2,
+    "sample_size": 284
   },
   "india_tone": {
-    "score": -0.096,
-    "label": "mixed / neutral",
-    "positive_pct": 16.7,
-    "neutral_pct": 33.3,
-    "negative_pct": 50.0,
-    "sample_size": 6
+    "score": -0.154,
+    "label": "negative",
+    "positive_pct": 14.3,
+    "neutral_pct": 28.6,
+    "negative_pct": 57.1,
+    "sample_size": 7
   },
   "top_keywords": [
     {
       "term": "Gilgit",
-      "mentions": 8,
-      "sentiment": 0.403
+      "mentions": 9,
+      "sentiment": 0.438
     },
     {
       "term": "India",
-      "mentions": 5,
-      "sentiment": -0.103
+      "mentions": 6,
+      "sentiment": -0.159
     },
     {
-      "term": "Taliban",
-      "mentions": 5,
-      "sentiment": -0.224
-    },
-    {
-      "term": "Afghan",
-      "mentions": 5,
-      "sentiment": -0.42
-    },
-    {
-      "term": "Pakistani",
-      "mentions": 5,
-      "sentiment": -0.39
+      "term": "Baltistan",
+      "mentions": 6,
+      "sentiment": 0.346
     },
     {
       "term": "Karachi",
       "mentions": 5,
-      "sentiment": 0.04
-    },
-    {
-      "term": "Quetta",
-      "mentions": 5,
-      "sentiment": -0.265
-    },
-    {
-      "term": "Baltistan",
-      "mentions": 5,
-      "sentiment": 0.339
-    },
-    {
-      "term": "Iran",
-      "mentions": 4,
-      "sentiment": 0.137
-    },
-    {
-      "term": "Independence Day",
-      "mentions": 4,
-      "sentiment": 0.346
+      "sentiment": 0.19
     },
     {
       "term": "November",
-      "mentions": 4,
+      "mentions": 5,
       "sentiment": 0.0
+    },
+    {
+      "term": "Women",
+      "mentions": 3,
+      "sentiment": 0.379
+    },
+    {
+      "term": "Taliban",
+      "mentions": 3,
+      "sentiment": -0.318
+    },
+    {
+      "term": "Real",
+      "mentions": 3,
+      "sentiment": -0.299
+    },
+    {
+      "term": "Lahore",
+      "mentions": 3,
+      "sentiment": -0.059
+    },
+    {
+      "term": "Dawn",
+      "mentions": 3,
+      "sentiment": 0.195
+    },
+    {
+      "term": "Sindh CM",
+      "mentions": 3,
+      "sentiment": 0.394
+    },
+    {
+      "term": "October",
+      "mentions": 3,
+      "sentiment": -0.313
+    },
+    {
+      "term": "Afghan",
+      "mentions": 3,
+      "sentiment": -0.473
     },
     {
       "term": "Qatar",
       "mentions": 3,
-      "sentiment": 0.009
+      "sentiment": 0.026
     },
     {
-      "term": "DG ISPR",
+      "term": "Pakistani",
       "mentions": 3,
-      "sentiment": 0.149
+      "sentiment": -0.291
     },
     {
-      "term": "Afghan Taliban",
+      "term": "Quetta",
       "mentions": 3,
-      "sentiment": -0.05
+      "sentiment": -0.265
     },
     {
-      "term": "Afghanistan",
+      "term": "Independence Day",
       "mentions": 3,
-      "sentiment": -0.495
+      "sentiment": 0.352
     },
     {
-      "term": "Rubio",
-      "mentions": 3,
-      "sentiment": -0.223
-    },
-    {
-      "term": "Report",
-      "mentions": 3,
-      "sentiment": -0.421
-    },
-    {
-      "term": "French",
-      "mentions": 3,
-      "sentiment": 0.368
-    },
-    {
-      "term": "Calls",
-      "mentions": 3,
-      "sentiment": 0.398
-    },
-    {
-      "term": "Tehran",
+      "term": "Kabul",
       "mentions": 2,
-      "sentiment": -0.529
+      "sentiment": -0.127
+    },
+    {
+      "term": "Future",
+      "mentions": 2,
+      "sentiment": -0.324
+    },
+    {
+      "term": "China",
+      "mentions": 2,
+      "sentiment": 0.096
     }
   ],
   "emerging": [
     {
-      "term": "Quetta",
-      "mentions_now": 5,
-      "baseline_avg": 1.5,
-      "zscore": 7.0,
+      "term": "Women",
+      "mentions_now": 3,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
       "reason": "spike"
     },
     {
-      "term": "DG ISPR",
+      "term": "Sindh CM",
       "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
       "reason": "spike"
     },
     {
       "term": "Gilgit",
-      "mentions_now": 8,
-      "baseline_avg": 3.21,
-      "zscore": 3.97,
-      "reason": "spike"
-    },
-    {
-      "term": "Afghan",
-      "mentions_now": 5,
-      "baseline_avg": 2.23,
-      "zscore": 3.11,
-      "reason": "spike"
-    },
-    {
-      "term": "Qatar",
-      "mentions_now": 3,
-      "baseline_avg": 1.57,
-      "zscore": 2.89,
+      "mentions_now": 9,
+      "baseline_avg": 3.64,
+      "zscore": 3.2,
       "reason": "spike"
     },
     {
       "term": "India",
-      "mentions_now": 5,
-      "baseline_avg": 2.64,
-      "zscore": 2.43,
-      "reason": "spike"
-    },
-    {
-      "term": "Calls",
-      "mentions_now": 3,
-      "baseline_avg": 1.56,
-      "zscore": 2.11,
+      "mentions_now": 6,
+      "baseline_avg": 2.71,
+      "zscore": 2.99,
       "reason": "spike"
     },
     {
       "term": "Baltistan",
-      "mentions_now": 5,
-      "baseline_avg": 2.71,
-      "zscore": 2.08,
+      "mentions_now": 6,
+      "baseline_avg": 2.93,
+      "zscore": 2.51,
       "reason": "spike"
     },
     {
-      "term": "Afghan Taliban",
+      "term": "Lahore",
       "mentions_now": 3,
-      "baseline_avg": 1.71,
-      "zscore": 1.84,
+      "baseline_avg": 1.69,
+      "zscore": 2.16,
+      "reason": "spike"
+    },
+    {
+      "term": "November",
+      "mentions_now": 5,
+      "baseline_avg": 2.89,
+      "zscore": 1.92,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 27,
-      "sentiment": -0.044,
+      "mentions": 24,
+      "sentiment": -0.053,
       "top_terms": [
-        "Maryam Nawaz",
-        "French",
-        "Kasur",
-        "Qamber",
-        "Shahdadkot"
+        "Punjab CM",
+        "Nation Series",
+        "CM Punjab",
+        "Masters",
+        "Talpur"
       ]
     },
     "Sindh": {
       "mentions": 20,
-      "sentiment": 0.196,
+      "sentiment": 0.228,
       "top_terms": [
-        "Karachi",
         "Sindh CM",
-        "Kasur",
-        "Qamber",
-        "Shahdadkot"
+        "Karachi",
+        "Food Walk",
+        "GC University Hyderabad",
+        "Sindh Ombudsman"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 5,
-      "sentiment": -0.325,
+      "mentions": 4,
+      "sentiment": -0.236,
       "top_terms": [
         "Militants Killed",
         "Operations",
@@ -222,25 +208,25 @@
       ]
     },
     "Balochistan": {
-      "mentions": 26,
-      "sentiment": -0.013,
+      "mentions": 20,
+      "sentiment": -0.058,
       "top_terms": [
-        "CM Bugti",
+        "Terrorists Killed",
+        "Security Forces Destroy Hideout",
+        "Kharan",
         "Quetta",
-        "Militants Killed",
-        "Operations",
-        "Turbat"
+        "Militants Killed"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 13,
-      "sentiment": 0.358,
+      "mentions": 14,
+      "sentiment": 0.383,
       "top_terms": [
         "Gilgit",
         "Baltistan",
-        "Baltistan People",
-        "Independence Day",
-        "Sindh Governor Congratulates Gilgit"
+        "Sindh CM Murad Ali",
+        "Shah Hails Gilgit",
+        "Sacrifices Independence Day"
       ]
     },
     "Azad Kashmir": {
@@ -249,14 +235,14 @@
       "top_terms": []
     },
     "Islamabad": {
-      "mentions": 20,
-      "sentiment": -0.081,
+      "mentions": 21,
+      "sentiment": -0.103,
       "top_terms": [
-        "China Research Center",
-        "Islamabad Breaking",
-        "Police",
-        "Turkish Daesh",
-        "Islamabad LG"
+        "Gurdwaras",
+        "Report",
+        "November",
+        "Chinese",
+        "Someone"
       ]
     }
   },
@@ -266,46 +252,58 @@
   "source_breakdown": [
     {
       "domain": "Daily Independent",
-      "count": 45
+      "count": 30
+    },
+    {
+      "domain": "Business Recorder",
+      "count": 28
+    },
+    {
+      "domain": "UrduPoint",
+      "count": 28
     },
     {
       "domain": "The Express Tribune",
       "count": 27
     },
     {
-      "domain": "UrduPoint",
-      "count": 27
+      "domain": "The News Pakistan",
+      "count": 16
     },
     {
       "domain": "Dawn",
-      "count": 17
-    },
-    {
-      "domain": "Business Recorder",
-      "count": 10
+      "count": 11
     },
     {
       "domain": "Arab News PK",
+      "count": 10
+    },
+    {
+      "domain": "Investify",
       "count": 9
     },
     {
-      "domain": "Minute Mirror",
-      "count": 7
-    },
-    {
-      "domain": "Pakistan Today",
-      "count": 6
+      "domain": "Balochistan Pulse",
+      "count": 9
     },
     {
       "domain": "Pakistan Connect",
       "count": 6
     },
     {
-      "domain": "The Nation (Pakistan )",
-      "count": 5
+      "domain": "Minute Mirror",
+      "count": 6
     },
     {
       "domain": "Daily Times",
+      "count": 6
+    },
+    {
+      "domain": "United Nations Development Programme",
+      "count": 5
+    },
+    {
+      "domain": "The Nation (Pakistan )",
       "count": 5
     },
     {
@@ -313,19 +311,15 @@
       "count": 5
     },
     {
-      "domain": "www.dailyindependent.com.pk",
-      "count": 5
-    },
-    {
-      "domain": "8AM Media",
+      "domain": "UA.NEWS",
       "count": 4
     },
     {
-      "domain": "thekabultribune.com",
+      "domain": "Pakistan Today",
       "count": 4
     },
     {
-      "domain": "Aaj English TV",
+      "domain": "IANS LIVE",
       "count": 4
     },
     {
@@ -335,19 +329,11 @@
     {
       "domain": "samaa tv",
       "count": 4
-    },
-    {
-      "domain": "ARYnews.tv",
-      "count": 4
-    },
-    {
-      "domain": "Balochistan Pulse",
-      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 292,
-    "raw_articles_before_dedup": 425,
+    "articles_fetched": 284,
+    "raw_articles_before_dedup": 402,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
