@@ -1,28 +1,23 @@
 {
-  "generated_at": "2026-11-04T19:17:05.606024+00:00",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05T00:41:51.151612+00:00",
+  "date": "2026-11-05",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.017,
+    "score": 0.048,
     "label": "mixed / neutral",
-    "positive_pct": 33.9,
-    "neutral_pct": 38.5,
-    "negative_pct": 27.6,
-    "sample_size": 239
+    "positive_pct": 33.6,
+    "neutral_pct": 44.3,
+    "negative_pct": 22.1,
+    "sample_size": 235
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Ruhullah",
-      "mentions": 4,
-      "sentiment": 0.113
-    },
-    {
-      "term": "Srinagar MP",
-      "mentions": 4,
-      "sentiment": -0.341
+      "mentions": 5,
+      "sentiment": 0.082
     },
     {
       "term": "Block Diwas",
@@ -30,14 +25,9 @@
       "sentiment": -0.44
     },
     {
-      "term": "Jammu Kashmir High Court",
+      "term": "Katra",
       "mentions": 3,
-      "sentiment": -0.28
-    },
-    {
-      "term": "Diwali",
-      "mentions": 3,
-      "sentiment": 0.059
+      "sentiment": 0.366
     },
     {
       "term": "District",
@@ -45,49 +35,14 @@
       "sentiment": 0.0
     },
     {
-      "term": "Indore",
+      "term": "Diwali",
       "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Syed Mushtaq Ali Trophy",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Elite",
-      "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.101
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 2,
-      "sentiment": 0.328
-    },
-    {
-      "term": "FDA Destroys",
-      "mentions": 2,
-      "sentiment": 0.066
-    },
-    {
-      "term": "Design Your Degree",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "London",
-      "mentions": 2,
-      "sentiment": 0.325
-    },
-    {
-      "term": "Exit",
-      "mentions": 2,
-      "sentiment": 0.289
-    },
-    {
-      "term": "Jammu Kashmir Finance Department",
-      "mentions": 2,
-      "sentiment": 0.101
+      "sentiment": 0.275
     },
     {
       "term": "Govt",
@@ -95,14 +50,49 @@
       "sentiment": 0.019
     },
     {
-      "term": "Omar Abdullah",
+      "term": "Jammu Kashmir High Court",
       "mentions": 2,
-      "sentiment": -0.28
+      "sentiment": -0.382
+    },
+    {
+      "term": "Plea",
+      "mentions": 2,
+      "sentiment": -0.35
+    },
+    {
+      "term": "Jammu Kashmir Finance Department",
+      "mentions": 2,
+      "sentiment": 0.101
+    },
+    {
+      "term": "Operation Lotus",
+      "mentions": 2,
+      "sentiment": 0.065
+    },
+    {
+      "term": "Puducherry",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
       "term": "MLAs",
       "mentions": 2,
-      "sentiment": -0.3
+      "sentiment": -0.319
+    },
+    {
+      "term": "Srinagar MP",
+      "mentions": 2,
+      "sentiment": -0.363
+    },
+    {
+      "term": "Bengaluru",
+      "mentions": 2,
+      "sentiment": 0.148
+    },
+    {
+      "term": "High Court",
+      "mentions": 2,
+      "sentiment": 0.02
     },
     {
       "term": "South Kashmir",
@@ -110,53 +100,56 @@
       "sentiment": -0.324
     },
     {
-      "term": "Katra",
+      "term": "Police",
       "mentions": 2,
-      "sentiment": 0.525
+      "sentiment": 0.0
+    },
+    {
+      "term": "Away",
+      "mentions": 2,
+      "sentiment": -0.113
+    },
+    {
+      "term": "Salman Sagar",
+      "mentions": 2,
+      "sentiment": -0.014
     }
   ],
   "emerging": [
     {
-      "term": "Srinagar MP",
-      "mentions_now": 4,
-      "baseline_avg": 1.38,
-      "zscore": 5.42,
-      "reason": "spike"
-    },
-    {
-      "term": "Jammu Kashmir High Court",
+      "term": "Katra",
       "mentions_now": 3,
-      "baseline_avg": 1.75,
-      "zscore": 2.1,
+      "baseline_avg": 1.33,
+      "zscore": 3.54,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
       "mentions": 5,
-      "sentiment": -0.202,
+      "sentiment": 0.061,
       "top_terms": [
+        "DC Anantnag",
+        "Girls",
+        "Fields",
         "GMC Anantnag Night Duty",
-        "Row Triggers Inquiry",
-        "GMC Anantnag",
-        "Training",
-        "Charge Officers"
+        "Row Triggers Inquiry"
       ]
     },
     "Bandipora": {
       "mentions": 8,
-      "sentiment": -0.06,
+      "sentiment": 0.019,
       "top_terms": [
         "Former Minister Usman Majid",
         "Raises Concern Power",
         "Outage",
-        "Army Holds Interaction",
-        "Imams"
+        "Janjatiya Gaurav Diwas",
+        "Celebrated"
       ]
     },
     "Baramulla": {
-      "mentions": 9,
-      "sentiment": -0.012,
+      "mentions": 10,
+      "sentiment": -0.057,
       "top_terms": [
         "Army",
         "Battle",
@@ -166,37 +159,38 @@
       ]
     },
     "Budgam": {
-      "mentions": 4,
-      "sentiment": -0.037,
+      "mentions": 5,
+      "sentiment": 0.061,
       "top_terms": [
+        "MLA Muntazir",
         "MLA Budgam",
         "Developmentalal Works",
-        "KPDCL",
-        "Pampore",
-        "Madhav"
+        "Ruhullah Mehdi",
+        "KPDCL"
       ]
     },
     "Ganderbal": {
       "mentions": 2,
       "sentiment": 0.391,
       "top_terms": [
-        "Shreya Singhal",
-        "Police Inaugurates Football Tournament"
+        "Police Inaugurates Football Tournament",
+        "Shreya Singhal"
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": 0.088,
+      "mentions": 4,
+      "sentiment": -0.083,
       "top_terms": [
+        "ADDC Kulgam",
+        "JK Samadhan",
         "KULGAM POLICE LEADERSHIP REINFORCES",
         "SECURITY POSTURE AND COMMUNITY",
-        "CENTRIC POLICING",
-        "DC Kulgam"
+        "CENTRIC POLICING"
       ]
     },
     "Kupwara": {
-      "mentions": 6,
-      "sentiment": 0.052,
+      "mentions": 5,
+      "sentiment": -0.12,
       "top_terms": [
         "ADC Kupwara",
         "Weekly Block Diwas",
@@ -209,33 +203,33 @@
       "mentions": 8,
       "sentiment": -0.035,
       "top_terms": [
-        "PHOTOS",
-        "Locals",
-        "Pampore",
         "Body",
-        "Year"
+        "Year",
+        "Old Man Retrieved",
+        "Stream",
+        "PHOTOS"
       ]
     },
     "Shopian": {
-      "mentions": 4,
-      "sentiment": 0.069,
+      "mentions": 5,
+      "sentiment": -0.059,
       "top_terms": [
+        "DDC Shopian",
         "HC Stays Order Allowing",
         "Reopening",
         "Shopian Seminary",
-        "DC Shopian",
-        "District"
+        "Field Tour"
       ]
     },
     "Srinagar": {
-      "mentions": 23,
-      "sentiment": -0.031,
+      "mentions": 19,
+      "sentiment": 0.064,
       "top_terms": [
         "Srinagar MP",
         "Katra",
-        "Article",
-        "KPDCL Announces Scheduled Power",
-        "Shutdowns Across Srinagar"
+        "Op Lotus",
+        "Unreserved",
+        "KPDCL Announces Scheduled Power"
       ]
     },
     "Doda": {
@@ -245,18 +239,18 @@
     },
     "Jammu": {
       "mentions": 45,
-      "sentiment": 0.07,
+      "sentiment": 0.076,
       "top_terms": [
+        "Jammu Kashmir",
         "Jammu Kashmir High Court",
-        "Indore",
-        "Syed Mushtaq Ali Trophy",
-        "Elite",
-        "Jammu Kashmir"
+        "Jammu Kashmir Finance Department",
+        "University",
+        "Haryana"
       ]
     },
     "Kathua": {
-      "mentions": 3,
-      "sentiment": -0.048,
+      "mentions": 2,
+      "sentiment": -0.22,
       "top_terms": [
         "DC Kathua",
         "Block Diwas",
@@ -266,30 +260,29 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 6,
-      "sentiment": -0.108,
+      "mentions": 4,
+      "sentiment": -0.067,
       "top_terms": [
         "Strict",
         "Servicemen",
         "Mission YUVA",
-        "Kishtwar Town",
-        "Dr Jitendra Singh"
+        "Kishtwar Town"
       ]
     },
     "Poonch": {
       "mentions": 4,
       "sentiment": 0.0,
       "top_terms": [
-        "DC Poonch",
+        "Census",
         "SHD Poonch",
         "District",
         "Level Awareness Camp",
-        "Accounts Assistant"
+        "DC Poonch"
       ]
     },
     "Rajouri": {
-      "mentions": 3,
-      "sentiment": -0.056,
+      "mentions": 2,
+      "sentiment": -0.084,
       "top_terms": [
         "DC Rajouri",
         "Block Diwas",
@@ -298,33 +291,34 @@
     },
     "Ramban": {
       "mentions": 3,
-      "sentiment": 0.09,
+      "sentiment": 0.251,
       "top_terms": [
+        "DC Ramban Inspect Accident",
+        "Prone Dhalwas Stretch",
+        "Review Road Safety Measures",
         "Painting",
-        "Janjatiya Diwas",
-        "DC Ramban",
-        "Dalwas",
-        "Direct NHAI"
+        "Janjatiya Diwas"
       ]
     },
     "Reasi": {
-      "mentions": 2,
-      "sentiment": 0.185,
+      "mentions": 3,
+      "sentiment": 0.237,
       "top_terms": [
+        "Army Commander",
         "DDC Reasi",
         "Thub",
         "DC Reasi"
       ]
     },
     "Samba": {
-      "mentions": 2,
-      "sentiment": -0.22,
+      "mentions": 3,
+      "sentiment": -0.013,
       "top_terms": [
-        "MC Samba",
-        "Traditional",
         "DC Samba",
-        "Block Diwas",
-        "Rajpura"
+        "November",
+        "Municipal Council",
+        "MC Samba",
+        "Traditional"
       ]
     },
     "Udhampur": {
@@ -341,52 +335,48 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 29
-    },
-    {
       "domain": "Jammu Links News",
-      "count": 25
-    },
-    {
-      "domain": "Greater Kashmir",
-      "count": 21
+      "count": 27
     },
     {
       "domain": "Daily Excelsior",
+      "count": 25
+    },
+    {
+      "domain": "Kashmir Life",
+      "count": 22
+    },
+    {
+      "domain": "Greater Kashmir",
       "count": 19
     },
     {
       "domain": "Rising Kashmir",
-      "count": 10
-    },
-    {
-      "domain": "JK MONITOR",
-      "count": 9
-    },
-    {
-      "domain": "BCCI",
-      "count": 8
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 8
-    },
-    {
-      "domain": "Kashmir News Service",
-      "count": 8
+      "count": 11
     },
     {
       "domain": "Kashmir Observer",
+      "count": 10
+    },
+    {
+      "domain": "Kashmir News Service",
+      "count": 10
+    },
+    {
+      "domain": "The Kashmir Horizon",
+      "count": 9
+    },
+    {
+      "domain": "The Tribune",
+      "count": 8
+    },
+    {
+      "domain": "BCCI",
       "count": 7
     },
     {
       "domain": "Kashmir News Observer",
       "count": 6
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 5
     },
     {
       "domain": "Brighter Kashmir",
@@ -401,7 +391,7 @@
       "count": 4
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "JK MONITOR",
       "count": 4
     },
     {
@@ -417,13 +407,17 @@
       "count": 3
     },
     {
-      "domain": "Free Press Kashmir",
+      "domain": "The News Now",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Convener",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 239,
-    "raw_articles_before_dedup": 342,
+    "articles_fetched": 235,
+    "raw_articles_before_dedup": 338,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."

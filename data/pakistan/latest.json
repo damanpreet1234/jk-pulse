@@ -1,162 +1,154 @@
 {
-  "generated_at": "2026-11-04T19:18:17.973698+00:00",
-  "date": "2026-11-04",
+  "generated_at": "2026-11-05T00:43:02.032772+00:00",
+  "date": "2026-11-05",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.051,
+    "score": 0.031,
     "label": "mixed / neutral",
-    "positive_pct": 37.4,
-    "neutral_pct": 40.5,
-    "negative_pct": 22.2,
-    "sample_size": 257
+    "positive_pct": 36.4,
+    "neutral_pct": 38.3,
+    "negative_pct": 25.3,
+    "sample_size": 261
   },
   "india_tone": {
-    "score": 0.125,
-    "label": "positive",
-    "positive_pct": 37.5,
-    "neutral_pct": 50.0,
-    "negative_pct": 12.5,
-    "sample_size": 16
+    "score": 0.033,
+    "label": "mixed / neutral",
+    "positive_pct": 22.2,
+    "neutral_pct": 66.7,
+    "negative_pct": 11.1,
+    "sample_size": 9
   },
   "top_keywords": [
     {
-      "term": "India",
-      "mentions": 9,
-      "sentiment": 0.2
-    },
-    {
       "term": "China",
       "mentions": 5,
-      "sentiment": 0.346
+      "sentiment": 0.399
     },
     {
-      "term": "Karachi",
+      "term": "Pakistani",
       "mentions": 4,
-      "sentiment": -0.21
+      "sentiment": -0.213
     },
     {
-      "term": "Saudi Arabia",
-      "mentions": 3,
-      "sentiment": 0.045
-    },
-    {
-      "term": "November",
-      "mentions": 3,
-      "sentiment": 0.102
+      "term": "India",
+      "mentions": 4,
+      "sentiment": 0.11
     },
     {
       "term": "Iqbal Day",
       "mentions": 3,
-      "sentiment": 0.236
+      "sentiment": 0.222
     },
     {
-      "term": "Pakistani",
+      "term": "Karachi",
       "mentions": 3,
-      "sentiment": -0.038
+      "sentiment": -0.019
     },
     {
-      "term": "Quetta",
+      "term": "Governor",
       "mentions": 3,
-      "sentiment": -0.086
+      "sentiment": 0.0
     },
     {
-      "term": "Million",
-      "mentions": 3,
-      "sentiment": 0.009
-    },
-    {
-      "term": "Saudi",
+      "term": "Tola",
       "mentions": 2,
-      "sentiment": 0.21
+      "sentiment": 0.085
     },
     {
-      "term": "Gold",
+      "term": "Trump",
       "mentions": 2,
-      "sentiment": 0.128
+      "sentiment": -0.286
+    },
+    {
+      "term": "Iran",
+      "mentions": 2,
+      "sentiment": 0.3
+    },
+    {
+      "term": "Saudi Arabia",
+      "mentions": 2,
+      "sentiment": -0.137
+    },
+    {
+      "term": "Afghanistan",
+      "mentions": 2,
+      "sentiment": -0.296
+    },
+    {
+      "term": "Maliha Ali",
+      "mentions": 2,
+      "sentiment": 0.571
+    },
+    {
+      "term": "Russia",
+      "mentions": 2,
+      "sentiment": 0.571
     },
     {
       "term": "Govt",
       "mentions": 2,
-      "sentiment": -0.035
+      "sentiment": -0.011
     },
     {
-      "term": "PM Shehbaz",
+      "term": "One Constitution Avenue",
       "mentions": 2,
-      "sentiment": 0.133
+      "sentiment": -0.011
     },
     {
-      "term": "Test",
+      "term": "November",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.132
     },
     {
-      "term": "Asia Cup",
+      "term": "Nearly",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.159
     },
     {
-      "term": "SAFF Championship",
+      "term": "Imran",
       "mentions": 2,
-      "sentiment": 0.487
+      "sentiment": -0.148
+    },
+    {
+      "term": "Attock",
+      "mentions": 2,
+      "sentiment": 0.193
     },
     {
       "term": "Khawaja Asif",
       "mentions": 2,
       "sentiment": -0.22
-    },
-    {
-      "term": "Recovery",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "University Road",
-      "mentions": 2,
-      "sentiment": 0.312
-    },
-    {
-      "term": "Govt Jobs",
-      "mentions": 2,
-      "sentiment": 0.0
     }
   ],
-  "emerging": [
-    {
-      "term": "India",
-      "mentions_now": 9,
-      "baseline_avg": 3.71,
-      "zscore": 2.83,
-      "reason": "spike"
-    }
-  ],
+  "emerging": [],
   "areas": {
     "Punjab": {
-      "mentions": 16,
-      "sentiment": 0.178,
+      "mentions": 29,
+      "sentiment": 0.151,
       "top_terms": [
         "Khawaja Asif",
+        "Chinese",
+        "Toxic",
         "Asif",
-        "Chaudhry Salik",
-        "TTP Punjab Cmdr Urges",
-        "Pakistanis Join Group"
+        "Chaudhry Salik"
       ]
     },
     "Sindh": {
-      "mentions": 26,
-      "sentiment": -0.012,
+      "mentions": 25,
+      "sentiment": -0.02,
       "top_terms": [
         "Iqbal Day",
         "Monday",
-        "SSGC",
         "Schools",
-        "Beyond Conversion Certificates"
+        "Beyond Conversion Certificates",
+        "Religious Freedom Minority"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 7,
-      "sentiment": -0.14,
+      "mentions": 6,
+      "sentiment": -0.078,
       "top_terms": [
         "Polio Team Supervisor Abducted",
         "During Vaccination Drive",
@@ -167,13 +159,13 @@
     },
     "Balochistan": {
       "mentions": 27,
-      "sentiment": 0.021,
+      "sentiment": -0.011,
       "top_terms": [
-        "Quetta",
-        "SSGC",
+        "ISPR",
         "Punjab Join Hands",
         "Strengthen Safe City Projects",
-        "Nine Cities"
+        "Nine Cities",
+        "SSGC"
       ]
     },
     "Gilgit-Baltistan": {
@@ -193,14 +185,14 @@
       ]
     },
     "Islamabad": {
-      "mentions": 25,
-      "sentiment": -0.059,
+      "mentions": 27,
+      "sentiment": -0.042,
       "top_terms": [
-        "Kashmir Chowk Underpass",
-        "Birmingham",
         "Afghans",
-        "Govt",
-        "One Constitution Avenue"
+        "United",
+        "Fazl",
+        "Birmingham",
+        "Govt"
       ]
     }
   },
@@ -210,74 +202,74 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 29
-    },
-    {
-      "domain": "Daily Independent",
-      "count": 25
+      "count": 34
     },
     {
       "domain": "The Express Tribune",
-      "count": 18
+      "count": 23
     },
     {
-      "domain": "Dawn",
-      "count": 15
-    },
-    {
-      "domain": "Islamabad Post",
-      "count": 13
-    },
-    {
-      "domain": "Arab News PK",
-      "count": 12
-    },
-    {
-      "domain": "Balochistan Pulse",
-      "count": 10
-    },
-    {
-      "domain": "Investify",
-      "count": 9
+      "domain": "Daily Independent",
+      "count": 20
     },
     {
       "domain": "Business Recorder",
-      "count": 6
+      "count": 16
+    },
+    {
+      "domain": "Dawn",
+      "count": 14
+    },
+    {
+      "domain": "Arab News PK",
+      "count": 13
+    },
+    {
+      "domain": "Balochistan Pulse",
+      "count": 12
+    },
+    {
+      "domain": "Islamabad Post",
+      "count": 12
+    },
+    {
+      "domain": "Investify",
+      "count": 7
     },
     {
       "domain": "Pakistan Today",
       "count": 6
     },
     {
-      "domain": "NewzTodays",
-      "count": 6
-    },
-    {
-      "domain": "The Nation (Pakistan )",
-      "count": 5
-    },
-    {
       "domain": "ProPakistani",
-      "count": 5
+      "count": 6
     },
     {
       "domain": "The Daily CPEC",
       "count": 4
     },
     {
-      "domain": "Pakistan Observer",
+      "domain": "Daily Times",
       "count": 4
     },
     {
-      "domain": "Defence Security Asia",
+      "domain": "Minute Mirror",
+      "count": 4
+    },
+    {
+      "domain": "Daily Lead Pakistan",
+      "count": 4
+    },
+    {
+      "domain": "The Nation (Pakistan )",
       "count": 3
     },
     {
-      "domain": "The Diplomatic Insight",
+      "domain": "Tapmad",
       "count": 3
     },
     {
-      "domain": "Dunya News",
+      "domain": "The Friday Times",
       "count": 3
     },
     {
@@ -285,13 +277,13 @@
       "count": 3
     },
     {
-      "domain": "Minute Mirror",
+      "domain": "Bloom Pakistan",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 257,
-    "raw_articles_before_dedup": 361,
+    "articles_fetched": 261,
+    "raw_articles_before_dedup": 364,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
