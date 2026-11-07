@@ -1,53 +1,43 @@
 {
-  "generated_at": "2026-11-07T19:50:28.347153+00:00",
+  "generated_at": "2026-11-07T23:23:04.933474+00:00",
   "date": "2026-11-07",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.037,
+    "score": 0.022,
     "label": "mixed / neutral",
-    "positive_pct": 32.8,
-    "neutral_pct": 45.0,
-    "negative_pct": 22.2,
-    "sample_size": 180
+    "positive_pct": 28.0,
+    "neutral_pct": 50.8,
+    "negative_pct": 21.2,
+    "sample_size": 189
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Diwali",
       "mentions": 8,
-      "sentiment": 0.299
+      "sentiment": 0.284
+    },
+    {
+      "term": "Jammu Kashmir",
+      "mentions": 3,
+      "sentiment": 0.17
     },
     {
       "term": "Bank",
-      "mentions": 4,
-      "sentiment": 0.309
-    },
-    {
-      "term": "AIIMS Jammu",
       "mentions": 3,
-      "sentiment": 0.241
-    },
-    {
-      "term": "India",
-      "mentions": 3,
-      "sentiment": 0.009
+      "sentiment": 0.412
     },
     {
       "term": "Ahead",
       "mentions": 2,
-      "sentiment": 0.282
+      "sentiment": 0.331
     },
     {
-      "term": "CM Omar",
+      "term": "People",
       "mentions": 2,
-      "sentiment": 0.255
-    },
-    {
-      "term": "Admissions",
-      "mentions": 2,
-      "sentiment": 0.386
+      "sentiment": 0.51
     },
     {
       "term": "Jammu Kashmir High Court",
@@ -57,7 +47,7 @@
     {
       "term": "Years",
       "mentions": 2,
-      "sentiment": -0.292
+      "sentiment": -0.359
     },
     {
       "term": "October",
@@ -65,9 +55,9 @@
       "sentiment": 0.0
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "Three",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": -0.42
     },
     {
       "term": "Secretary",
@@ -75,32 +65,42 @@
       "sentiment": 0.191
     },
     {
-      "term": "Private Universities Rules",
+      "term": "Dy CM",
+      "mentions": 2,
+      "sentiment": -0.247
+    },
+    {
+      "term": "AIIMS",
+      "mentions": 2,
+      "sentiment": 0.22
+    },
+    {
+      "term": "Dr Jitendra",
+      "mentions": 2,
+      "sentiment": 0.181
+    },
+    {
+      "term": "AIIMS Jammu",
+      "mentions": 2,
+      "sentiment": 0.219
+    },
+    {
+      "term": "Apni Party",
+      "mentions": 2,
+      "sentiment": 0.15
+    },
+    {
+      "term": "Javid Dar",
+      "mentions": 2,
+      "sentiment": 0.159
+    },
+    {
+      "term": "Inter",
       "mentions": 2,
       "sentiment": 0.0
     },
     {
-      "term": "North Kashmir",
-      "mentions": 2,
-      "sentiment": -0.318
-    },
-    {
-      "term": "Case",
-      "mentions": 2,
-      "sentiment": -0.069
-    },
-    {
-      "term": "Premium Branch",
-      "mentions": 2,
-      "sentiment": 0.181
-    },
-    {
-      "term": "Barzulla",
-      "mentions": 2,
-      "sentiment": 0.181
-    },
-    {
-      "term": "Inter",
+      "term": "India",
       "mentions": 2,
       "sentiment": 0.0
     },
@@ -119,15 +119,8 @@
     {
       "term": "Diwali",
       "mentions_now": 8,
-      "baseline_avg": 4,
-      "zscore": 2.26,
-      "reason": "spike"
-    },
-    {
-      "term": "AIIMS Jammu",
-      "mentions_now": 3,
-      "baseline_avg": 1.4,
-      "zscore": 2.0,
+      "baseline_avg": 4.43,
+      "zscore": 1.83,
       "reason": "spike"
     }
   ],
@@ -144,30 +137,30 @@
       ]
     },
     "Bandipora": {
-      "mentions": 5,
-      "sentiment": -0.25,
+      "mentions": 7,
+      "sentiment": -0.185,
       "top_terms": [
-        "RTO Kashmir",
-        "ARTO Office Bandipora",
-        "Public Services",
+        "DIG NKR",
+        "Thana Diwas",
         "Four Arrested",
-        "Kg Charas"
+        "Kg Charas",
+        "Like Substance Seized"
       ]
     },
     "Baramulla": {
-      "mentions": 2,
-      "sentiment": -0.395,
+      "mentions": 3,
+      "sentiment": -0.264,
       "top_terms": [
         "GMC Baramulla",
+        "Forest",
         "WATCH",
         "Baramulla Express",
-        "Auqib Nabi",
-        "Zealand"
+        "Auqib Nabi"
       ]
     },
     "Budgam": {
-      "mentions": 2,
-      "sentiment": -0.399,
+      "mentions": 3,
+      "sentiment": -0.266,
       "top_terms": [
         "Short",
         "Aga Ruhullah",
@@ -175,8 +168,8 @@
       ]
     },
     "Ganderbal": {
-      "mentions": 4,
-      "sentiment": -0.17,
+      "mentions": 3,
+      "sentiment": -0.227,
       "top_terms": [
         "SWD Ganderbal",
         "Day Exposure Visit",
@@ -203,7 +196,7 @@
     },
     "Pulwama": {
       "mentions": 4,
-      "sentiment": 0.139,
+      "sentiment": 0.105,
       "top_terms": [
         "DC Pulwama",
         "Raise Age Limit",
@@ -213,22 +206,22 @@
       ]
     },
     "Shopian": {
-      "mentions": 2,
-      "sentiment": 0.375,
+      "mentions": 3,
+      "sentiment": 0.248,
       "top_terms": [
         "Jashn",
         "Harud"
       ]
     },
     "Srinagar": {
-      "mentions": 12,
-      "sentiment": 0.089,
+      "mentions": 13,
+      "sentiment": 0.018,
       "top_terms": [
         "Way Traffic Allowed",
         "Srinagar Highway",
         "Police Warn",
         "Delays",
-        "Mortal"
+        "Bank"
       ]
     },
     "Doda": {
@@ -244,13 +237,13 @@
     },
     "Jammu": {
       "mentions": 35,
-      "sentiment": 0.026,
+      "sentiment": 0.047,
       "top_terms": [
-        "AIIMS Jammu",
-        "Jammu Kashmir High Court",
         "Jammu Kashmir",
-        "FDA Conducts",
-        "Inspections Across Jammu Kashmir"
+        "Jammu Kashmir High Court",
+        "AIIMS Jammu",
+        "India Reiterates Jammu",
+        "Ladakh Integral Parts"
       ]
     },
     "Kathua": {
@@ -270,8 +263,8 @@
       ]
     },
     "Poonch": {
-      "mentions": 3,
-      "sentiment": 0.199,
+      "mentions": 2,
+      "sentiment": 0.247,
       "top_terms": [
         "Poonch Woman Rubina Kousar",
         "Returns Safely Pakistan",
@@ -293,13 +286,13 @@
     },
     "Ramban": {
       "mentions": 4,
-      "sentiment": -0.205,
+      "sentiment": -0.129,
       "top_terms": [
         "Ramban Court Sentences Rape",
         "Convict",
         "Years",
         "Jail",
-        "Police"
+        "District Administration Ramban"
       ]
     },
     "Reasi": {
@@ -337,34 +330,26 @@
   "source_breakdown": [
     {
       "domain": "Greater Kashmir",
-      "count": 25
+      "count": 26
     },
     {
       "domain": "Kashmir Life",
       "count": 23
     },
     {
+      "domain": "Rising Kashmir",
+      "count": 21
+    },
+    {
       "domain": "Jammu Links News",
       "count": 13
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 9
+      "domain": "Brighter Kashmir",
+      "count": 11
     },
     {
       "domain": "Daily Excelsior",
-      "count": 9
-    },
-    {
-      "domain": "Kashmir Observer",
-      "count": 7
-    },
-    {
-      "domain": "Brighter Kashmir",
-      "count": 7
-    },
-    {
-      "domain": "JK MONITOR",
       "count": 7
     },
     {
@@ -372,15 +357,19 @@
       "count": 7
     },
     {
-      "domain": "BCCI",
-      "count": 5
+      "domain": "Kashmir Indepth",
+      "count": 6
     },
     {
       "domain": "Kashmir News Observer",
-      "count": 4
+      "count": 6
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "Kashmir Observer",
+      "count": 6
+    },
+    {
+      "domain": "BCCI",
       "count": 4
     },
     {
@@ -396,7 +385,11 @@
       "count": 3
     },
     {
-      "domain": "Live Law",
+      "domain": "News On AIR",
+      "count": 2
+    },
+    {
+      "domain": "The Tribune",
       "count": 2
     },
     {
@@ -404,21 +397,21 @@
       "count": 2
     },
     {
-      "domain": "Kashmir Independent Media Service",
+      "domain": "Live Law",
+      "count": 2
+    },
+    {
+      "domain": "JK MONITOR",
       "count": 2
     },
     {
       "domain": "ETV Bharat",
       "count": 2
-    },
-    {
-      "domain": "Rediff",
-      "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 180,
-    "raw_articles_before_dedup": 293,
+    "articles_fetched": 189,
+    "raw_articles_before_dedup": 297,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
