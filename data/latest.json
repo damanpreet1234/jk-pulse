@@ -1,43 +1,53 @@
 {
-  "generated_at": "2026-11-07T23:23:04.933474+00:00",
-  "date": "2026-11-07",
+  "generated_at": "2026-11-08T04:12:05.768558+00:00",
+  "date": "2026-11-08",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.022,
+    "score": 0.027,
     "label": "mixed / neutral",
-    "positive_pct": 28.0,
-    "neutral_pct": 50.8,
-    "negative_pct": 21.2,
-    "sample_size": 189
+    "positive_pct": 30.4,
+    "neutral_pct": 47.6,
+    "negative_pct": 22.0,
+    "sample_size": 191
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Diwali",
-      "mentions": 8,
-      "sentiment": 0.284
+      "mentions": 11,
+      "sentiment": 0.283
+    },
+    {
+      "term": "Dr Jitendra",
+      "mentions": 4,
+      "sentiment": 0.379
+    },
+    {
+      "term": "Ladakh",
+      "mentions": 4,
+      "sentiment": 0.162
     },
     {
       "term": "Jammu Kashmir",
       "mentions": 3,
-      "sentiment": 0.17
+      "sentiment": 0.157
     },
     {
-      "term": "Bank",
-      "mentions": 3,
-      "sentiment": 0.412
-    },
-    {
-      "term": "Ahead",
+      "term": "Private Universities Rules",
       "mentions": 2,
-      "sentiment": 0.331
+      "sentiment": 0.151
     },
     {
       "term": "People",
       "mentions": 2,
-      "sentiment": 0.51
+      "sentiment": 0.491
+    },
+    {
+      "term": "Women",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
       "term": "Jammu Kashmir High Court",
@@ -47,22 +57,7 @@
     {
       "term": "Years",
       "mentions": 2,
-      "sentiment": -0.359
-    },
-    {
-      "term": "October",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Three",
-      "mentions": 2,
-      "sentiment": -0.42
-    },
-    {
-      "term": "Secretary",
-      "mentions": 2,
-      "sentiment": 0.191
+      "sentiment": -0.335
     },
     {
       "term": "Dy CM",
@@ -70,14 +65,9 @@
       "sentiment": -0.247
     },
     {
-      "term": "AIIMS",
+      "term": "Three",
       "mentions": 2,
-      "sentiment": 0.22
-    },
-    {
-      "term": "Dr Jitendra",
-      "mentions": 2,
-      "sentiment": 0.181
+      "sentiment": -0.42
     },
     {
       "term": "AIIMS Jammu",
@@ -85,9 +75,14 @@
       "sentiment": 0.219
     },
     {
-      "term": "Apni Party",
+      "term": "Bank",
       "mentions": 2,
-      "sentiment": 0.15
+      "sentiment": 0.438
+    },
+    {
+      "term": "November",
+      "mentions": 2,
+      "sentiment": 0.274
     },
     {
       "term": "Javid Dar",
@@ -95,39 +90,58 @@
       "sentiment": 0.159
     },
     {
-      "term": "Inter",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "India",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
       "term": "WATCH",
       "mentions": 2,
       "sentiment": 0.229
     },
     {
+      "term": "Case",
+      "mentions": 2,
+      "sentiment": -0.069
+    },
+    {
       "term": "Mission Vatsalya",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Security",
+      "mentions": 2,
+      "sentiment": 0.593
+    },
+    {
+      "term": "Baramula",
       "mentions": 2,
       "sentiment": 0.0
     }
   ],
   "emerging": [
     {
+      "term": "Ladakh",
+      "mentions_now": 4,
+      "baseline_avg": 1.25,
+      "zscore": 6.35,
+      "reason": "spike"
+    },
+    {
+      "term": "Dr Jitendra",
+      "mentions_now": 4,
+      "baseline_avg": 1.67,
+      "zscore": 4.95,
+      "reason": "spike"
+    },
+    {
       "term": "Diwali",
-      "mentions_now": 8,
-      "baseline_avg": 4.43,
-      "zscore": 1.83,
+      "mentions_now": 11,
+      "baseline_avg": 4.86,
+      "zscore": 3.03,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 5,
-      "sentiment": -0.211,
+      "mentions": 6,
+      "sentiment": -0.176,
       "top_terms": [
         "Illegal Mining",
         "Vehicles Seized During Police",
@@ -138,24 +152,24 @@
     },
     "Bandipora": {
       "mentions": 7,
-      "sentiment": -0.185,
+      "sentiment": -0.17,
       "top_terms": [
         "DIG NKR",
         "Thana Diwas",
-        "Four Arrested",
-        "Kg Charas",
-        "Like Substance Seized"
+        "RTO Kashmir Reviews Functioning",
+        "ARTO Office Bandipora",
+        "Disabled"
       ]
     },
     "Baramulla": {
       "mentions": 3,
-      "sentiment": -0.264,
+      "sentiment": -0.12,
       "top_terms": [
-        "GMC Baramulla",
         "Forest",
         "WATCH",
         "Baramulla Express",
-        "Auqib Nabi"
+        "Auqib Nabi",
+        "Zealand"
       ]
     },
     "Budgam": {
@@ -168,8 +182,8 @@
       ]
     },
     "Ganderbal": {
-      "mentions": 3,
-      "sentiment": -0.227,
+      "mentions": 2,
+      "sentiment": 0.0,
       "top_terms": [
         "SWD Ganderbal",
         "Day Exposure Visit",
@@ -179,11 +193,12 @@
       ]
     },
     "Kulgam": {
-      "mentions": 1,
-      "sentiment": -0.296,
+      "mentions": 2,
+      "sentiment": -0.009,
       "top_terms": [
-        "DC Kulgam",
-        "Solid Waste Management Rules"
+        "Security",
+        "Diwali",
+        "DC Kulgam"
       ]
     },
     "Kupwara": {
@@ -191,42 +206,42 @@
       "sentiment": 0.0,
       "top_terms": [
         "DC Kupwara",
-        "Machil"
+        "Machil Valley"
       ]
     },
     "Pulwama": {
-      "mentions": 4,
-      "sentiment": 0.105,
+      "mentions": 3,
+      "sentiment": 0.14,
       "top_terms": [
-        "DC Pulwama",
         "Raise Age Limit",
         "Years",
         "MLA Pulwama",
-        "Jammu Kashmir Bank Recruitment"
+        "Jammu Kashmir Bank Recruitment",
+        "Pulwama Admin Launches SSS"
       ]
     },
     "Shopian": {
-      "mentions": 3,
-      "sentiment": 0.248,
+      "mentions": 4,
+      "sentiment": 0.186,
       "top_terms": [
         "Jashn",
         "Harud"
       ]
     },
     "Srinagar": {
-      "mentions": 13,
-      "sentiment": 0.018,
+      "mentions": 10,
+      "sentiment": 0.052,
       "top_terms": [
-        "Way Traffic Allowed",
-        "Srinagar Highway",
-        "Police Warn",
-        "Delays",
-        "Bank"
+        "Sreenidi Deccan",
+        "Mortal",
+        "Adnan",
+        "WATCH",
+        "Srinagar Vande Bharat Offers"
       ]
     },
     "Doda": {
-      "mentions": 3,
-      "sentiment": 0.14,
+      "mentions": 2,
+      "sentiment": 0.211,
       "top_terms": [
         "Body Found Floating",
         "Chenab River",
@@ -237,13 +252,13 @@
     },
     "Jammu": {
       "mentions": 35,
-      "sentiment": 0.047,
+      "sentiment": 0.027,
       "top_terms": [
         "Jammu Kashmir",
+        "Dr Jitendra",
         "Jammu Kashmir High Court",
         "AIIMS Jammu",
-        "India Reiterates Jammu",
-        "Ladakh Integral Parts"
+        "Ladakh"
       ]
     },
     "Kathua": {
@@ -255,11 +270,14 @@
       ]
     },
     "Kishtwar": {
-      "mentions": 1,
-      "sentiment": 0.0,
+      "mentions": 2,
+      "sentiment": 0.274,
       "top_terms": [
         "SWD Kishtwar",
-        "Mission Vatsalya"
+        "Mission Vatsalya",
+        "DISTRICT POLICE KISHTWAR CONDUCTS",
+        "FOOT PATROLLING AND VEHICLE",
+        "CHECKING AHEAD OF DIWALI"
       ]
     },
     "Poonch": {
@@ -274,8 +292,8 @@
       ]
     },
     "Rajouri": {
-      "mentions": 3,
-      "sentiment": 0.222,
+      "mentions": 2,
+      "sentiment": 0.208,
       "top_terms": [
         "Rajouri Restricts Firecracker Sales",
         "Designated Locations Ahead",
@@ -285,8 +303,8 @@
       ]
     },
     "Ramban": {
-      "mentions": 4,
-      "sentiment": -0.129,
+      "mentions": 3,
+      "sentiment": -0.156,
       "top_terms": [
         "Ramban Court Sentences Rape",
         "Convict",
@@ -301,44 +319,45 @@
       "top_terms": []
     },
     "Samba": {
-      "mentions": 2,
-      "sentiment": 0.051,
+      "mentions": 1,
+      "sentiment": 0.101,
       "top_terms": [
         "Rare Female Sambar Deer",
         "Spotted",
-        "South Kashmir",
-        "Naib Tehsildar",
-        "Patwari"
+        "South Kashmir"
       ]
     },
     "Udhampur": {
       "mentions": 3,
-      "sentiment": 0.211,
+      "sentiment": 0.352,
       "top_terms": [
-        "Tribal",
-        "Gudhar",
-        "SKPA Udhampur",
         "DC Udhampur",
-        "DIDI KI RASOI"
+        "DIDI KI RASOI",
+        "Government Polytechnic College",
+        "Tribal",
+        "Gudhar"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
-    {
-      "domain": "Greater Kashmir",
-      "count": 26
-    },
     {
       "domain": "Kashmir Life",
       "count": 23
     },
     {
       "domain": "Rising Kashmir",
-      "count": 21
+      "count": 22
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 16
+    },
+    {
+      "domain": "Greater Kashmir",
+      "count": 14
     },
     {
       "domain": "Jammu Links News",
@@ -349,27 +368,27 @@
       "count": 11
     },
     {
-      "domain": "Daily Excelsior",
-      "count": 7
-    },
-    {
-      "domain": "Kashmir News Service",
+      "domain": "Kashmir Observer",
       "count": 7
     },
     {
       "domain": "Kashmir Indepth",
-      "count": 6
+      "count": 7
     },
     {
       "domain": "Kashmir News Observer",
       "count": 6
     },
     {
-      "domain": "Kashmir Observer",
+      "domain": "Kashmir News Service",
       "count": 6
     },
     {
       "domain": "BCCI",
+      "count": 5
+    },
+    {
+      "domain": "5 Dariya News",
       "count": 4
     },
     {
@@ -381,11 +400,11 @@
       "count": 3
     },
     {
-      "domain": "5 Dariya News",
-      "count": 3
+      "domain": "News On AIR",
+      "count": 2
     },
     {
-      "domain": "News On AIR",
+      "domain": "Live Law",
       "count": 2
     },
     {
@@ -397,21 +416,17 @@
       "count": 2
     },
     {
-      "domain": "Live Law",
-      "count": 2
-    },
-    {
-      "domain": "JK MONITOR",
-      "count": 2
-    },
-    {
       "domain": "ETV Bharat",
+      "count": 2
+    },
+    {
+      "domain": "thekashmirimages.com",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 189,
-    "raw_articles_before_dedup": 297,
+    "articles_fetched": 191,
+    "raw_articles_before_dedup": 299,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
