@@ -1,315 +1,324 @@
 {
-  "generated_at": "2026-11-08T14:43:35.662636+00:00",
+  "generated_at": "2026-11-08T20:07:28.346273+00:00",
   "date": "2026-11-08",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.05,
+    "score": -0.045,
     "label": "mixed / neutral",
-    "positive_pct": 25.1,
-    "neutral_pct": 43.2,
-    "negative_pct": 31.7,
-    "sample_size": 199
+    "positive_pct": 24.7,
+    "neutral_pct": 45.1,
+    "negative_pct": 30.2,
+    "sample_size": 182
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Diwali",
-      "mentions": 13,
-      "sentiment": 0.275
+      "mentions": 8,
+      "sentiment": 0.217
+    },
+    {
+      "term": "India",
+      "mentions": 6,
+      "sentiment": -0.055
     },
     {
       "term": "Ladakh",
+      "mentions": 5,
+      "sentiment": -0.151
+    },
+    {
+      "term": "Dr Jitendra",
+      "mentions": 4,
+      "sentiment": 0.444
+    },
+    {
+      "term": "Baramula",
       "mentions": 4,
       "sentiment": 0.0
     },
     {
-      "term": "Women",
+      "term": "Week",
       "mentions": 3,
-      "sentiment": -0.125
+      "sentiment": 0.0
     },
     {
-      "term": "Jammu Kashmir",
+      "term": "Sunday",
       "mentions": 3,
-      "sentiment": 0.079
+      "sentiment": -0.147
     },
     {
-      "term": "Dr Jitendra",
+      "term": "Kolkata",
       "mentions": 3,
-      "sentiment": 0.335
+      "sentiment": -0.147
+    },
+    {
+      "term": "Jashn",
+      "mentions": 3,
+      "sentiment": 0.456
     },
     {
       "term": "Jammu Kashmir High Court",
-      "mentions": 3,
-      "sentiment": -0.408
+      "mentions": 2,
+      "sentiment": -0.612
     },
     {
-      "term": "Ahead",
+      "term": "Case",
       "mentions": 2,
-      "sentiment": 0.119
+      "sentiment": -0.317
     },
     {
-      "term": "Govt",
+      "term": "Lal Chowk",
       "mentions": 2,
-      "sentiment": 0.455
+      "sentiment": -0.099
     },
     {
-      "term": "People",
+      "term": "Central Kashmir",
       "mentions": 2,
-      "sentiment": 0.51
+      "sentiment": -0.318
     },
     {
-      "term": "AIIMS",
+      "term": "Motorcycle Accident",
       "mentions": 2,
-      "sentiment": 0.335
+      "sentiment": -0.602
     },
     {
-      "term": "Private Universities Rules",
+      "term": "North Kashmir",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": -0.617
     },
     {
-      "term": "Bank Recruitment Drive Sparks",
+      "term": "Four",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": -0.494
     },
     {
-      "term": "Annual Increment",
+      "term": "Three Injured",
       "mentions": 2,
-      "sentiment": 0.02
+      "sentiment": -0.764
     },
     {
-      "term": "Bank",
+      "term": "Mehbooba Mufti",
       "mentions": 2,
-      "sentiment": 0.343
+      "sentiment": -0.209
     },
     {
-      "term": "Javid Dar",
+      "term": "Farooq Abdullah",
       "mentions": 2,
-      "sentiment": 0.159
-    },
-    {
-      "term": "Union Minister",
-      "mentions": 2,
-      "sentiment": 0.335
+      "sentiment": -0.38
     },
     {
       "term": "AIIMS Jammu",
       "mentions": 2,
-      "sentiment": 0.365
-    },
-    {
-      "term": "Baramula",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Mission Vatsalya",
-      "mentions": 2,
-      "sentiment": 0.0
-    },
-    {
-      "term": "DC Kulgam",
-      "mentions": 2,
-      "sentiment": -0.359
+      "sentiment": 0.204
     }
   ],
   "emerging": [
     {
-      "term": "Diwali",
-      "mentions_now": 13,
-      "baseline_avg": 5.5,
+      "term": "Sunday",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Kolkata",
+      "mentions_now": 3,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "India",
+      "mentions_now": 6,
+      "baseline_avg": 2.33,
       "zscore": 3.11,
       "reason": "spike"
     },
     {
-      "term": "Ladakh",
-      "mentions_now": 4,
-      "baseline_avg": 1.42,
-      "zscore": 3.0,
+      "term": "Jashn",
+      "mentions_now": 3,
+      "baseline_avg": 1.45,
+      "zscore": 3.1,
       "reason": "spike"
     },
     {
-      "term": "Women",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
+      "term": "Ladakh",
+      "mentions_now": 5,
+      "baseline_avg": 1.67,
+      "zscore": 3.02,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 7,
-      "sentiment": -0.109,
+      "mentions": 4,
+      "sentiment": -0.079,
       "top_terms": [
-        "Rare",
-        "Sambar Deer",
-        "Sinthan Top Forest",
-        "Mission Director NHM",
-        "Health Sector"
+        "Four",
+        "MD NHM",
+        "NHM Mission Director",
+        "DCW Anantnag",
+        "Inter"
       ]
     },
     "Bandipora": {
-      "mentions": 6,
-      "sentiment": -0.278,
+      "mentions": 3,
+      "sentiment": -0.242,
       "top_terms": [
-        "DIG NKR",
-        "Thana Diwas",
-        "Disabled",
-        "Janjatiya Gaurav Pakhwada",
-        "Gram Sabhas"
+        "Three Injured",
+        "Motorcycle Accident",
+        "Referred",
+        "SKIMS Soura",
+        "Horticulture"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": -0.333,
+      "mentions": 4,
+      "sentiment": -0.055,
       "top_terms": [
-        "Forest",
         "Earthquake Strikes Baramulla",
         "Second Seismic Event",
         "Kashmir Week",
-        "Driver"
+        "Driver",
+        "Lambardar Chowkidar Association District"
       ]
     },
     "Budgam": {
       "mentions": 1,
       "sentiment": 0.0,
-      "top_terms": []
+      "top_terms": [
+        "Budgam Residents Seek DC",
+        "Intervention Persistent Traffic",
+        "Jams",
+        "Kanipora",
+        "Nowgam Road"
+      ]
     },
     "Ganderbal": {
       "mentions": 1,
       "sentiment": 0.0,
       "top_terms": [
-        "SWD Ganderbal",
-        "Day Exposure Visit",
-        "Children",
-        "Mission Vatsalya"
+        "SHOs",
+        "Sonamarg",
+        "Gund"
       ]
     },
     "Kulgam": {
-      "mentions": 7,
-      "sentiment": -0.348,
+      "mentions": 8,
+      "sentiment": -0.299,
       "top_terms": [
-        "DC Kulgam",
-        "Solid Waste Management Rules",
         "Terror",
         "Chinese",
-        "Kulgam Police"
+        "Two Arrested Arms",
+        "Ammunition",
+        "Two Bugam Residents Held"
       ]
     },
     "Kupwara": {
-      "mentions": 1,
-      "sentiment": -0.309,
+      "mentions": 3,
+      "sentiment": 0.16,
       "top_terms": [
-        "Four"
+        "Karnah",
+        "Four",
+        "DC Kupwara",
+        "Day Tour",
+        "Indian Army"
       ]
     },
     "Pulwama": {
-      "mentions": 2,
-      "sentiment": 0.211,
-      "top_terms": [
-        "Pulwama Admin Launches SSS",
-        "Campaign",
-        "Shar Shali",
-        "Pampore"
-      ]
+      "mentions": 1,
+      "sentiment": 0.421,
+      "top_terms": []
     },
     "Shopian": {
-      "mentions": 4,
-      "sentiment": 0.137,
+      "mentions": 3,
+      "sentiment": 0.182,
       "top_terms": [
         "Jashn",
         "Harud"
       ]
     },
     "Srinagar": {
-      "mentions": 17,
-      "sentiment": -0.219,
+      "mentions": 12,
+      "sentiment": -0.093,
       "top_terms": [
-        "Srinagar Highway",
-        "Retired DySP",
-        "Mortal",
-        "Adnan",
-        "Imtiyaz Chesti Launches KD"
+        "Lal Chowk",
+        "Banner",
+        "Traffic Advisory",
+        "Way Traffic Allowed",
+        "Srinagar Highway"
       ]
     },
     "Doda": {
       "mentions": 3,
-      "sentiment": -0.497,
+      "sentiment": -0.267,
       "top_terms": [
-        "Fire Breaks Out",
-        "District Sheep Breeding Complex",
         "Fire",
         "Sheep Breeding Complex",
-        "Chenab"
+        "Chenab",
+        "Hidden Gems Set",
+        "Big Eco"
       ]
     },
     "Jammu": {
-      "mentions": 34,
+      "mentions": 33,
       "sentiment": -0.055,
       "top_terms": [
-        "Jammu Kashmir",
+        "Baramula",
+        "Dr Jitendra",
         "Jammu Kashmir High Court",
-        "Diwali",
         "AIIMS Jammu",
-        "Baramula"
+        "Light"
       ]
     },
     "Kathua": {
-      "mentions": 2,
-      "sentiment": -0.191,
+      "mentions": 1,
+      "sentiment": -0.382,
       "top_terms": [
-        "DC Kathua",
-        "JKSSB Accounts Assistant",
         "Jammu Kashmir HC Sets",
         "Aside Revenue Orders",
-        "Kathua Land Dispute"
+        "Kathua Land Dispute",
+        "Directs Fresh Examination",
+        "Limitation"
       ]
     },
     "Kishtwar": {
-      "mentions": 4,
-      "sentiment": 0.288,
+      "mentions": 3,
+      "sentiment": 0.384,
       "top_terms": [
-        "SWD Kishtwar",
-        "Mission Vatsalya",
         "Uneven Dewal",
         "Maroog",
-        "Kishtwari Pather"
+        "Kishtwari Pather",
+        "Srinagar Jammu NH",
+        "Cloudburst"
       ]
     },
     "Poonch": {
-      "mentions": 2,
-      "sentiment": -0.401,
+      "mentions": 1,
+      "sentiment": -0.802,
       "top_terms": [
         "One Killed",
         "Three Injured",
-        "Poonch Road Mishap",
-        "KGPL",
-        "Cricket"
+        "Poonch Road Mishap"
       ]
     },
     "Rajouri": {
       "mentions": 2,
-      "sentiment": -0.523,
+      "sentiment": -0.363,
       "top_terms": [
-        "Rajouri Restricts Firecracker Sales",
-        "Designated Locations Ahead",
-        "Diwali",
+        "Siot Rajouri Akhnoor SPV",
         "Mankote Road Accident",
-        "One Injured Person Dies"
+        "One Injured Person Dies",
+        "GMC Rajouri"
       ]
     },
     "Ramban": {
       "mentions": 1,
-      "sentiment": -0.521,
-      "top_terms": [
-        "Video",
-        "Jammu Kashmir",
-        "Police Personnel",
-        "Including SHO",
-        "Injured Bus Hits"
-      ]
+      "sentiment": -0.568,
+      "top_terms": []
     },
     "Reasi": {
       "mentions": 0,
@@ -318,23 +327,18 @@
     },
     "Samba": {
       "mentions": 1,
-      "sentiment": 0.101,
+      "sentiment": -0.103,
       "top_terms": [
-        "Rare",
-        "Sambar Deer",
-        "Sinthan Top Forest"
+        "Jitendra Singh Inaugurates",
+        "OT Block",
+        "AIIMS Jammu",
+        "Gallery"
       ]
     },
     "Udhampur": {
-      "mentions": 3,
-      "sentiment": 0.352,
-      "top_terms": [
-        "DC Udhampur",
-        "DIDI KI RASOI",
-        "Government Polytechnic College",
-        "Tribal",
-        "Gudhar"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     }
   },
   "sources_used": [
@@ -343,47 +347,39 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 26
-    },
-    {
       "domain": "Greater Kashmir",
       "count": 23
     },
     {
-      "domain": "Rising Kashmir",
-      "count": 20
+      "domain": "Kashmir Life",
+      "count": 21
     },
     {
-      "domain": "Daily Excelsior",
+      "domain": "Rising Kashmir",
       "count": 14
     },
     {
-      "domain": "Brighter Kashmir",
+      "domain": "Daily Excelsior",
       "count": 12
     },
     {
-      "domain": "Jammu Links News",
-      "count": 11
-    },
-    {
-      "domain": "Kashmir Indepth",
-      "count": 10
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 6
-    },
-    {
       "domain": "The Kashmir Horizon",
-      "count": 6
+      "count": 8
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 8
     },
     {
       "domain": "Kashmir Observer",
-      "count": 5
+      "count": 7
     },
     {
-      "domain": "BCCI",
+      "domain": "ANI News",
+      "count": 4
+    },
+    {
+      "domain": "Free Press Kashmir",
       "count": 4
     },
     {
@@ -391,41 +387,49 @@
       "count": 4
     },
     {
-      "domain": "Kashmir Convener",
-      "count": 3
+      "domain": "BCCI",
+      "count": 4
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 3
-    },
-    {
-      "domain": "ANI News",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Reader",
-      "count": 3
-    },
-    {
-      "domain": "News On AIR",
-      "count": 2
-    },
-    {
-      "domain": "Only Kashmir",
-      "count": 2
-    },
-    {
-      "domain": "The Tribune",
-      "count": 2
+      "domain": "Kashmir Dot Com",
+      "count": 4
     },
     {
       "domain": "ETV Bharat",
+      "count": 3
+    },
+    {
+      "domain": "Kashmir Indepth",
+      "count": 3
+    },
+    {
+      "domain": "Social News XYZ",
+      "count": 3
+    },
+    {
+      "domain": "Volcano Discovery",
+      "count": 3
+    },
+    {
+      "domain": "indiagazette.com",
+      "count": 2
+    },
+    {
+      "domain": "Kashmir Vision",
+      "count": 2
+    },
+    {
+      "domain": "Kashmir Convener",
+      "count": 2
+    },
+    {
+      "domain": "Kashmir Reader",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 199,
-    "raw_articles_before_dedup": 315,
+    "articles_fetched": 182,
+    "raw_articles_before_dedup": 297,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
