@@ -1,50 +1,40 @@
 {
-  "generated_at": "2026-11-09T04:27:55.437097+00:00",
+  "generated_at": "2026-11-09T18:15:15.686619+00:00",
   "date": "2026-11-09",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.036,
+    "score": -0.039,
     "label": "mixed / neutral",
-    "positive_pct": 35.6,
-    "neutral_pct": 41.8,
-    "negative_pct": 22.7,
-    "sample_size": 194
+    "positive_pct": 27.6,
+    "neutral_pct": 44.8,
+    "negative_pct": 27.6,
+    "sample_size": 203
   },
   "india_tone": {
-    "score": 0.017,
+    "score": -0.045,
     "label": "mixed / neutral",
-    "positive_pct": 30.8,
-    "neutral_pct": 38.5,
-    "negative_pct": 30.8,
-    "sample_size": 13
+    "positive_pct": 22.2,
+    "neutral_pct": 55.6,
+    "negative_pct": 22.2,
+    "sample_size": 9
   },
   "top_keywords": [
     {
-      "term": "India",
-      "mentions": 8,
-      "sentiment": 0.106
+      "term": "Pakistani",
+      "mentions": 9,
+      "sentiment": -0.111
     },
     {
-      "term": "Sri Lanka",
+      "term": "India",
       "mentions": 5,
-      "sentiment": 0.213
+      "sentiment": -0.001
     },
     {
       "term": "Karachi",
-      "mentions": 5,
-      "sentiment": 0.178
-    },
-    {
-      "term": "Rawalpindi",
       "mentions": 4,
-      "sentiment": -0.309
-    },
-    {
-      "term": "Dawn",
-      "mentions": 4,
-      "sentiment": 0.189
+      "sentiment": -0.194
     },
     {
       "term": "November",
@@ -52,175 +42,175 @@
       "sentiment": 0.0
     },
     {
-      "term": "Babar",
-      "mentions": 3,
-      "sentiment": 0.399
+      "term": "Youth",
+      "mentions": 4,
+      "sentiment": 0.41
     },
     {
-      "term": "Security",
+      "term": "Saudi Arabia",
       "mentions": 3,
-      "sentiment": 0.506
+      "sentiment": 0.069
     },
     {
-      "term": "Diwali",
+      "term": "Shakeel",
       "mentions": 3,
-      "sentiment": 0.259
+      "sentiment": 0.415
     },
     {
       "term": "Iqbal",
       "mentions": 3,
-      "sentiment": 0.083
+      "sentiment": 0.167
     },
     {
-      "term": "Express Tribune",
+      "term": "South Air",
       "mentions": 3,
-      "sentiment": -0.24
+      "sentiment": 0.187
     },
     {
-      "term": "Asia Cup",
+      "term": "Security",
       "mentions": 3,
-      "sentiment": 0.166
+      "sentiment": 0.144
     },
     {
-      "term": "Hamza Zahoor",
+      "term": "Babar",
+      "mentions": 3,
+      "sentiment": 0.65
+    },
+    {
+      "term": "Gilgit",
+      "mentions": 3,
+      "sentiment": 0.011
+    },
+    {
+      "term": "Rock",
       "mentions": 2,
-      "sentiment": 0.583
+      "sentiment": -0.587
     },
     {
-      "term": "Pakistan PM",
+      "term": "Saudi",
       "mentions": 2,
-      "sentiment": 0.134
+      "sentiment": 0.174
     },
     {
-      "term": "Kundi",
+      "term": "Test",
       "mentions": 2,
-      "sentiment": 0.312
+      "sentiment": 0.024
     },
     {
-      "term": "Weather",
+      "term": "Sri Lanka",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.024
     },
     {
-      "term": "Lahore",
+      "term": "Aramco",
       "mentions": 2,
-      "sentiment": 0.125
+      "sentiment": -0.439
     },
     {
-      "term": "China",
+      "term": "Pakistan Customs",
       "mentions": 2,
-      "sentiment": 0.17
+      "sentiment": -0.209
     },
     {
-      "term": "Maldives",
+      "term": "Jeddah",
       "mentions": 2,
-      "sentiment": 0.416
+      "sentiment": 0.273
     },
     {
-      "term": "Nawaz",
+      "term": "Rawalpindi",
       "mentions": 2,
       "sentiment": 0.0
     }
   ],
   "emerging": [
     {
-      "term": "Dawn",
+      "term": "Youth",
       "mentions_now": 4,
-      "baseline_avg": 1.57,
-      "zscore": 3.9,
+      "baseline_avg": 1.14,
+      "zscore": 8.16,
       "reason": "spike"
     },
     {
-      "term": "Sri Lanka",
-      "mentions_now": 5,
-      "baseline_avg": 1.62,
-      "zscore": 2.95,
-      "reason": "spike"
-    },
-    {
-      "term": "Rawalpindi",
-      "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 2.1,
+      "term": "Pakistani",
+      "mentions_now": 9,
+      "baseline_avg": 3.21,
+      "zscore": 4.8,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 13,
-      "sentiment": -0.007,
+      "mentions": 15,
+      "sentiment": 0.024,
       "top_terms": [
-        "Dawn",
-        "Maryam Nawaz",
-        "Voting",
-        "Humidity",
-        "Growth Stage Drive Wheat"
+        "Delhi",
+        "Heatwaves",
+        "Punjab DGP",
+        "Why Punjab Police",
+        "Gurwinder"
       ]
     },
     "Sindh": {
-      "mentions": 10,
-      "sentiment": 0.058,
+      "mentions": 13,
+      "sentiment": -0.202,
       "top_terms": [
         "Sindh CM",
-        "Sukkur",
-        "Sindh Government",
-        "PPP Rejects Referendum",
-        "Provinces"
+        "Karachi",
+        "Hyderabad",
+        "Karachi Police Officer Case",
+        "Javed Abro"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 5,
-      "sentiment": -0.09,
+      "mentions": 8,
+      "sentiment": -0.241,
       "top_terms": [
-        "Report",
-        "Remote",
-        "Controlled Bomb Kills Police",
-        "Officer Pakistan",
-        "Amir Muqam Vows Development"
+        "Baloch Army",
+        "Pakistani",
+        "Emergency Khyber Pakhtunkhwa",
+        "Constitutional Test Federal",
+        "Power"
       ]
     },
     "Balochistan": {
-      "mentions": 12,
-      "sentiment": 0.148,
+      "mentions": 17,
+      "sentiment": -0.06,
       "top_terms": [
-        "Visit",
-        "China",
-        "CPEC",
-        "Gwadar Port",
-        "Security"
+        "Pakistan Customs",
+        "Balochistan Karachi",
+        "Network",
+        "Balochistan PAC",
+        "Victoria Hall"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 2,
-      "sentiment": 0.0,
+      "mentions": 3,
+      "sentiment": 0.011,
       "top_terms": [
         "Gilgit",
-        "Baltistan Plans Joint Venture",
-        "South Air",
-        "Launch Air Services",
-        "Baltistan"
+        "Baltistan",
+        "Baltistan Plans Aircraft Leasing",
+        "Deal Private Airline",
+        "Baltistan Plans Joint Venture"
       ]
     },
     "Azad Kashmir": {
-      "mentions": 2,
-      "sentiment": -0.11,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
-        "Azad Kashmir Announces State",
-        "Mourning",
-        "Former President Raja Zulqarnain",
-        "Khan",
-        "Ex Azad Kashmir"
+        "Ex Azad Kashmir",
+        "Raja Zulqarnain Khan"
       ]
     },
     "Islamabad": {
       "mentions": 20,
-      "sentiment": 0.022,
+      "sentiment": -0.032,
       "top_terms": [
+        "Maulana Fazlur Rehman",
         "November",
-        "Rawalpindi",
-        "Kundi",
-        "Port Sudan",
-        "Security"
+        "KP Governor Province",
+        "Future Will Decided",
+        "Not Afghanistan"
       ]
     }
   },
@@ -229,35 +219,31 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Business Recorder",
-      "count": 30
+      "domain": "Dawn",
+      "count": 18
     },
     {
       "domain": "The Express Tribune",
       "count": 16
     },
     {
-      "domain": "Dawn",
-      "count": 14
-    },
-    {
       "domain": "Daily Independent",
-      "count": 9
-    },
-    {
-      "domain": "Arab News PK",
-      "count": 8
+      "count": 11
     },
     {
       "domain": "Islamabad Post",
       "count": 8
     },
     {
-      "domain": "samaa tv",
+      "domain": "Arab News PK",
       "count": 7
     },
     {
-      "domain": "UA.NEWS",
+      "domain": "The Nation (Pakistan )",
+      "count": 7
+    },
+    {
+      "domain": "Business Recorder",
       "count": 7
     },
     {
@@ -265,7 +251,7 @@
       "count": 6
     },
     {
-      "domain": "Aaj English TV",
+      "domain": "Pakistan Connect",
       "count": 5
     },
     {
@@ -273,45 +259,49 @@
       "count": 5
     },
     {
-      "domain": "Pakistan Connect",
-      "count": 4
-    },
-    {
-      "domain": "Balochistan Pulse",
-      "count": 4
-    },
-    {
-      "domain": "The Nation (Pakistan )",
-      "count": 3
-    },
-    {
       "domain": "Investify",
-      "count": 3
+      "count": 4
     },
     {
-      "domain": "Bol News",
-      "count": 3
-    },
-    {
-      "domain": "TechJuice",
-      "count": 3
-    },
-    {
-      "domain": "ARYnews.tv",
-      "count": 3
+      "domain": "The Friday Times",
+      "count": 4
     },
     {
       "domain": "Daily Lead Pakistan",
+      "count": 4
+    },
+    {
+      "domain": "Pakistan Today",
       "count": 3
     },
     {
-      "domain": "Pakistan Cricket Board (PCB)",
+      "domain": "Daily Ausaf",
+      "count": 3
+    },
+    {
+      "domain": "Aaj News",
+      "count": 3
+    },
+    {
+      "domain": "Balochistan Pulse",
+      "count": 3
+    },
+    {
+      "domain": "Cricinfo",
+      "count": 2
+    },
+    {
+      "domain": "Daily Sun",
+      "count": 2
+    },
+    {
+      "domain": "Tapmad",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 194,
-    "raw_articles_before_dedup": 254,
+    "articles_fetched": 203,
+    "raw_articles_before_dedup": 275,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
