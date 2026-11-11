@@ -1,80 +1,70 @@
 {
-  "generated_at": "2026-11-11T04:31:34.691946+00:00",
+  "generated_at": "2026-11-11T15:50:38.314925+00:00",
   "date": "2026-11-11",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.053,
+    "score": -0.072,
     "label": "mixed / neutral",
-    "positive_pct": 25.1,
-    "neutral_pct": 44.6,
-    "negative_pct": 30.3,
-    "sample_size": 267
+    "positive_pct": 25.7,
+    "neutral_pct": 38.5,
+    "negative_pct": 35.8,
+    "sample_size": 265
   },
   "india_tone": {
-    "score": 0.051,
-    "label": "mixed / neutral",
-    "positive_pct": 33.3,
-    "neutral_pct": 33.3,
-    "negative_pct": 33.3,
-    "sample_size": 6
+    "score": -0.168,
+    "label": "negative",
+    "positive_pct": 20.0,
+    "neutral_pct": 20.0,
+    "negative_pct": 60.0,
+    "sample_size": 5
   },
   "top_keywords": [
     {
-      "term": "Lahore",
-      "mentions": 6,
-      "sentiment": -0.169
-    },
-    {
-      "term": "Imran Khan",
-      "mentions": 6,
-      "sentiment": -0.113
-    },
-    {
-      "term": "Rawalpindi",
-      "mentions": 5,
-      "sentiment": -0.094
-    },
-    {
-      "term": "Dawn",
-      "mentions": 5,
-      "sentiment": -0.03
-    },
-    {
-      "term": "India",
-      "mentions": 4,
-      "sentiment": 0.216
-    },
-    {
-      "term": "Rain",
-      "mentions": 4,
-      "sentiment": 0.005
-    },
-    {
       "term": "November",
-      "mentions": 4,
-      "sentiment": 0.032
-    },
-    {
-      "term": "PM Shehbaz",
-      "mentions": 3,
-      "sentiment": 0.199
-    },
-    {
-      "term": "Iran",
-      "mentions": 3,
-      "sentiment": -0.377
+      "mentions": 6,
+      "sentiment": 0.06
     },
     {
       "term": "Sri Lanka",
-      "mentions": 3,
-      "sentiment": -0.163
+      "mentions": 5,
+      "sentiment": 0.037
     },
     {
-      "term": "Climate",
+      "term": "Iran",
+      "mentions": 5,
+      "sentiment": -0.093
+    },
+    {
+      "term": "Rawalpindi",
+      "mentions": 4,
+      "sentiment": -0.295
+    },
+    {
+      "term": "Lahore",
+      "mentions": 4,
+      "sentiment": -0.126
+    },
+    {
+      "term": "Imran Khan",
       "mentions": 3,
-      "sentiment": -0.01
+      "sentiment": -0.133
+    },
+    {
+      "term": "Pakistani",
+      "mentions": 3,
+      "sentiment": 0.008
+    },
+    {
+      "term": "Pakistan Minerals Investment Forum",
+      "mentions": 3,
+      "sentiment": 0.416
+    },
+    {
+      "term": "Afghan",
+      "mentions": 3,
+      "sentiment": -0.754
     },
     {
       "term": "Trump",
@@ -82,172 +72,137 @@
       "sentiment": 0.0
     },
     {
-      "term": "Sukkur",
+      "term": "China",
       "mentions": 3,
-      "sentiment": 0.134
+      "sentiment": 0.186
     },
     {
-      "term": "Khyber",
-      "mentions": 3,
-      "sentiment": -0.386
-    },
-    {
-      "term": "Bushra Bibi",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Nepal",
+      "term": "India",
       "mentions": 2,
-      "sentiment": 0.401
+      "sentiment": 0.025
+    },
+    {
+      "term": "Focus",
+      "mentions": 2,
+      "sentiment": -0.026
+    },
+    {
+      "term": "Kusal",
+      "mentions": 2,
+      "sentiment": 0.0
     },
     {
       "term": "What",
       "mentions": 2,
-      "sentiment": 0.238
+      "sentiment": -0.493
     },
     {
-      "term": "Chashma",
+      "term": "Lawyers",
       "mentions": 2,
-      "sentiment": 0.285
+      "sentiment": -0.125
     },
     {
-      "term": "China",
+      "term": "October",
       "mentions": 2,
-      "sentiment": 0.181
+      "sentiment": 0.039
     },
     {
-      "term": "Asia Cup",
+      "term": "Billion",
       "mentions": 2,
-      "sentiment": 0.0
+      "sentiment": 0.338
+    },
+    {
+      "term": "Punjab Govt",
+      "mentions": 2,
+      "sentiment": 0.172
+    },
+    {
+      "term": "Hussain",
+      "mentions": 2,
+      "sentiment": 0.131
     }
   ],
   "emerging": [
     {
-      "term": "Sukkur",
-      "mentions_now": 3,
-      "baseline_avg": 1.15,
-      "zscore": 5.12,
-      "reason": "spike"
-    },
-    {
-      "term": "PM Shehbaz",
-      "mentions_now": 3,
-      "baseline_avg": 1.17,
-      "zscore": 4.92,
-      "reason": "spike"
-    },
-    {
-      "term": "Bushra Bibi",
-      "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "Dawn",
+      "term": "Iran",
       "mentions_now": 5,
-      "baseline_avg": 1.79,
-      "zscore": 3.74,
+      "baseline_avg": 2.17,
+      "zscore": 4.12,
       "reason": "spike"
     },
     {
-      "term": "Climate",
+      "term": "Pakistan Minerals Investment Forum",
       "mentions_now": 3,
-      "baseline_avg": 1.33,
-      "zscore": 3.54,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Afghan",
+      "mentions_now": 3,
+      "baseline_avg": 1.57,
+      "zscore": 2.89,
       "reason": "spike"
     },
     {
       "term": "Trump",
       "mentions_now": 3,
-      "baseline_avg": 1.58,
-      "zscore": 2.87,
-      "reason": "spike"
-    },
-    {
-      "term": "Khyber",
-      "mentions_now": 3,
-      "baseline_avg": 1.71,
-      "zscore": 2.85,
-      "reason": "spike"
-    },
-    {
-      "term": "Lahore",
-      "mentions_now": 6,
-      "baseline_avg": 2.38,
-      "zscore": 2.71,
-      "reason": "spike"
-    },
-    {
-      "term": "Rawalpindi",
-      "mentions_now": 5,
-      "baseline_avg": 2.09,
-      "zscore": 2.69,
-      "reason": "spike"
-    },
-    {
-      "term": "Imran Khan",
-      "mentions_now": 6,
-      "baseline_avg": 2.33,
-      "zscore": 2.29,
+      "baseline_avg": 1.67,
+      "zscore": 2.14,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 29,
-      "sentiment": -0.067,
+      "mentions": 24,
+      "sentiment": -0.092,
       "top_terms": [
+        "Punjab Govt",
+        "Hussain",
         "Punjab CM",
-        "Jhelum",
-        "Hafiz Saeed",
-        "Drones",
-        "Guns"
+        "Smog",
+        "Pakistani"
       ]
     },
     "Sindh": {
-      "mentions": 28,
-      "sentiment": -0.018,
+      "mentions": 34,
+      "sentiment": 0.01,
       "top_terms": [
-        "Sukkur",
-        "LPG Strike Postponed Following",
-        "Talks",
-        "Sindh Governor",
-        "Solar"
+        "Sindh Modaraba",
+        "VCare",
+        "CM Murad Shah Vows",
+        "Attract Investment",
+        "Vast Mineral Resources"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 4,
-      "sentiment": -0.438,
+      "mentions": 5,
+      "sentiment": -0.236,
       "top_terms": [
-        "Terrorism Tourism",
-        "Trade",
-        "Transforming Khyber Pakhtunkhwa",
-        "OpEd",
-        "Coordination Meeting Addresses Challenges"
+        "Afghan Terror",
+        "Announces Province",
+        "Wide Protests",
+        "November",
+        "Militants Killed"
       ]
     },
     "Balochistan": {
-      "mentions": 22,
-      "sentiment": -0.112,
+      "mentions": 21,
+      "sentiment": -0.014,
       "top_terms": [
-        "Iran",
-        "Baloch Youth",
-        "Charges",
-        "Rebellion",
-        "Balochistan Lifts Urea Fertiliser"
+        "Balochistan IG Reviews Security",
+        "Turbat",
+        "Meets Families",
+        "Police Martyrs",
+        "Militants Killed"
       ]
     },
     "Gilgit-Baltistan": {
       "mentions": 1,
-      "sentiment": 0.557,
+      "sentiment": 0.0,
       "top_terms": [
-        "Glaciers",
         "Gilgit",
-        "Baltistan Vital",
-        "Water Security",
-        "Chief Minister Amjad"
+        "Baltistan"
       ]
     },
     "Azad Kashmir": {
@@ -259,14 +214,14 @@
       ]
     },
     "Islamabad": {
-      "mentions": 30,
-      "sentiment": 0.005,
+      "mentions": 27,
+      "sentiment": -0.158,
       "top_terms": [
-        "November",
+        "Diversions",
         "Rawalpindi",
-        "Imran Khan",
-        "Islamabad Airport Guide",
-        "Capital Gateway"
+        "November",
+        "International",
+        "IHC Orders Islamabad Domicile"
       ]
     }
   },
@@ -276,58 +231,46 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 51
-    },
-    {
-      "domain": "Business Recorder",
-      "count": 26
-    },
-    {
-      "domain": "The Express Tribune",
-      "count": 16
+      "count": 64
     },
     {
       "domain": "Dawn",
-      "count": 15
-    },
-    {
-      "domain": "ProPakistani",
-      "count": 9
-    },
-    {
-      "domain": "The Nation (Pakistan )",
-      "count": 8
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 8
-    },
-    {
-      "domain": "Arab News PK",
-      "count": 7
+      "count": 17
     },
     {
       "domain": "Investify",
-      "count": 6
+      "count": 13
+    },
+    {
+      "domain": "The Express Tribune",
+      "count": 10
+    },
+    {
+      "domain": "The News Pakistan",
+      "count": 9
+    },
+    {
+      "domain": "Arab News PK",
+      "count": 8
+    },
+    {
+      "domain": "Business Recorder",
+      "count": 7
     },
     {
       "domain": "Pakistan Observer",
       "count": 6
     },
     {
-      "domain": "UA.NEWS",
+      "domain": "The Nation (Pakistan )",
       "count": 5
     },
     {
-      "domain": "Islamabad Post",
+      "domain": "Pakistan Connect",
       "count": 5
     },
     {
-      "domain": "ANI News",
-      "count": 4
-    },
-    {
-      "domain": "Daily Ausaf",
+      "domain": "Balochistan Pulse",
       "count": 4
     },
     {
@@ -335,29 +278,41 @@
       "count": 4
     },
     {
-      "domain": "Bloom Pakistan",
+      "domain": "Daily Pakistan",
       "count": 3
     },
     {
-      "domain": "Minute Mirror",
+      "domain": "ProPakistani",
       "count": 3
     },
     {
-      "domain": "Balochistan Pulse",
+      "domain": "Daily Ausaf",
       "count": 3
     },
     {
-      "domain": "Pakistan Cricket Board (PCB)",
+      "domain": "Daily Times",
+      "count": 3
+    },
+    {
+      "domain": "Islamabad Post",
+      "count": 3
+    },
+    {
+      "domain": "Pakistan Today",
+      "count": 3
+    },
+    {
+      "domain": "Al Jazeera",
       "count": 2
     },
     {
-      "domain": "The Friday Times",
+      "domain": "Reuters",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 267,
-    "raw_articles_before_dedup": 330,
+    "articles_fetched": 265,
+    "raw_articles_before_dedup": 353,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
