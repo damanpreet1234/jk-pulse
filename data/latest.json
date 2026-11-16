@@ -1,148 +1,163 @@
 {
-  "generated_at": "2026-11-15T20:45:50.139932+00:00",
-  "date": "2026-11-15",
+  "generated_at": "2026-11-16T04:34:18.932901+00:00",
+  "date": "2026-11-16",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.062,
+    "score": -0.053,
     "label": "mixed / neutral",
-    "positive_pct": 27.7,
-    "neutral_pct": 37.1,
-    "negative_pct": 35.2,
-    "sample_size": 213
+    "positive_pct": 27.8,
+    "neutral_pct": 37.7,
+    "negative_pct": 34.4,
+    "sample_size": 212
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "SPOs",
-      "mentions": 7,
-      "sentiment": -0.332
-    },
-    {
-      "term": "Children",
-      "mentions": 5,
-      "sentiment": 0.014
-    },
-    {
-      "term": "Kishtwar SPO Killings",
-      "mentions": 4,
-      "sentiment": -0.705
+      "mentions": 9,
+      "sentiment": -0.392
     },
     {
       "term": "Janjatiya Gaurav Diwas",
+      "mentions": 5,
+      "sentiment": 0.297
+    },
+    {
+      "term": "Women",
       "mentions": 4,
-      "sentiment": 0.486
+      "sentiment": 0.0
     },
     {
-      "term": "Class",
+      "term": "Trophy Elite",
       "mentions": 3,
-      "sentiment": -0.525
+      "sentiment": 0.0
     },
     {
-      "term": "Jammu Kashmir",
-      "mentions": 2,
-      "sentiment": -0.185
+      "term": "Gulmarg",
+      "mentions": 3,
+      "sentiment": 0.112
     },
     {
-      "term": "Haryana",
+      "term": "Team Red",
+      "mentions": 3,
+      "sentiment": 0.575
+    },
+    {
+      "term": "Police",
+      "mentions": 3,
+      "sentiment": -0.483
+    },
+    {
+      "term": "Congress",
+      "mentions": 3,
+      "sentiment": -0.563
+    },
+    {
+      "term": "Hindustan Times",
+      "mentions": 3,
+      "sentiment": -0.11
+    },
+    {
+      "term": "CRPF",
+      "mentions": 3,
+      "sentiment": -0.597
+    },
+    {
+      "term": "India",
+      "mentions": 3,
+      "sentiment": -0.091
+    },
+    {
+      "term": "Govt",
+      "mentions": 3,
+      "sentiment": -0.026
+    },
+    {
+      "term": "Artists",
+      "mentions": 3,
+      "sentiment": 0.445
+    },
+    {
+      "term": "Children",
+      "mentions": 3,
+      "sentiment": 0.065
+    },
+    {
+      "term": "District",
+      "mentions": 3,
+      "sentiment": -0.07
+    },
+    {
+      "term": "Haryana Under",
       "mentions": 2,
       "sentiment": 0.0
     },
     {
-      "term": "Unauthorised Absence",
+      "term": "Hyderabad",
       "mentions": 2,
-      "sentiment": -0.051
+      "sentiment": 0.0
     },
     {
-      "term": "Jammu Kashmir High Court",
+      "term": "State",
       "mentions": 2,
-      "sentiment": -0.238
+      "sentiment": 0.0
     },
     {
-      "term": "Congress",
+      "term": "Army",
       "mentions": 2,
-      "sentiment": -0.596
+      "sentiment": 0.008
     },
     {
-      "term": "Kishtwar SPO",
+      "term": "Gen Bipin Rawat Memorial",
       "mentions": 2,
-      "sentiment": -0.738
-    },
-    {
-      "term": "Four",
-      "mentions": 2,
-      "sentiment": -0.275
-    },
-    {
-      "term": "DySPs",
-      "mentions": 2,
-      "sentiment": -0.275
-    },
-    {
-      "term": "Artists",
-      "mentions": 2,
-      "sentiment": 0.435
-    },
-    {
-      "term": "IUST",
-      "mentions": 2,
-      "sentiment": 0.125
-    },
-    {
-      "term": "CRPF",
-      "mentions": 2,
-      "sentiment": -0.406
-    },
-    {
-      "term": "Search",
-      "mentions": 2,
-      "sentiment": -0.677
-    },
-    {
-      "term": "Kulgam Attack",
-      "mentions": 2,
-      "sentiment": -0.64
-    },
-    {
-      "term": "Rana",
-      "mentions": 2,
-      "sentiment": 0.751
-    },
-    {
-      "term": "Karra",
-      "mentions": 2,
-      "sentiment": -0.295
+      "sentiment": 0.22
     }
   ],
   "emerging": [
     {
-      "term": "Janjatiya Gaurav Diwas",
-      "mentions_now": 4,
-      "baseline_avg": 1.57,
-      "zscore": 4.91,
-      "reason": "spike"
-    },
-    {
-      "term": "Class",
+      "term": "Gulmarg",
       "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "baseline_avg": 1.29,
+      "zscore": 3.79,
       "reason": "spike"
     },
     {
-      "term": "Kishtwar SPO Killings",
-      "mentions_now": 4,
-      "baseline_avg": 1.8,
-      "zscore": 1.89,
+      "term": "Janjatiya Gaurav Diwas",
+      "mentions_now": 5,
+      "baseline_avg": 1.88,
+      "zscore": 3.37,
+      "reason": "spike"
+    },
+    {
+      "term": "District",
+      "mentions_now": 3,
+      "baseline_avg": 1.4,
+      "zscore": 3.27,
+      "reason": "spike"
+    },
+    {
+      "term": "SPOs",
+      "mentions_now": 9,
+      "baseline_avg": 4.33,
+      "zscore": 2.54,
+      "reason": "spike"
+    },
+    {
+      "term": "Congress",
+      "mentions_now": 3,
+      "baseline_avg": 1.38,
+      "zscore": 2.33,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 2,
+      "mentions": 4,
       "sentiment": 0.0,
       "top_terms": [
+        "Accounts Assistant Exam",
         "Accounts Assistant Examination",
         "Mehraj Malik Addresses Public",
         "Gathering",
@@ -150,34 +165,33 @@
       ]
     },
     "Bandipora": {
-      "mentions": 4,
-      "sentiment": -0.044,
+      "mentions": 5,
+      "sentiment": -0.036,
       "top_terms": [
         "Kumar Sanu",
         "January",
         "Kashmir Got Talent",
-        "ADDC Bandipora",
-        "JKSSB Finance Accounts Assistant"
+        "DC Bandipora",
+        "JKSSB FAA Examination"
       ]
     },
     "Baramulla": {
-      "mentions": 3,
-      "sentiment": -0.239,
+      "mentions": 6,
+      "sentiment": -0.071,
       "top_terms": [
+        "Security",
+        "Durhama",
         "Four Injured",
         "Fire",
-        "Baramulla Mosque",
-        "Three Rusted Hand Grenades",
-        "Recovered During Water Pipeline"
+        "Baramulla Mosque"
       ]
     },
     "Budgam": {
-      "mentions": 6,
-      "sentiment": -0.157,
+      "mentions": 2,
+      "sentiment": 0.31,
       "top_terms": [
         "Narbal",
         "Budgam Ring Road",
-        "SKTMCC",
         "Janjatiya Gaurav Diwas",
         "District Headquarters Budgam"
       ]
@@ -194,61 +208,61 @@
       ]
     },
     "Kulgam": {
-      "mentions": 13,
-      "sentiment": -0.336,
+      "mentions": 10,
+      "sentiment": -0.459,
       "top_terms": [
-        "Search",
-        "Kulgam Attack",
-        "Joint",
+        "CRPF",
+        "India",
         "Massive Anti",
-        "Terrorist Operation Launched"
+        "Terrorist Operation Launched",
+        "Kashmir Kulgam Attack"
       ]
     },
     "Kupwara": {
-      "mentions": 11,
-      "sentiment": -0.265,
+      "mentions": 8,
+      "sentiment": -0.258,
       "top_terms": [
-        "Class",
-        "Children",
         "Gen Bipin Rawat Memorial",
-        "Fencing Championship",
-        "Teacher Suspended Death"
+        "Teacher",
+        "Minor Student",
+        "Death",
+        "Kupwara School"
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": -0.057,
+      "mentions": 2,
+      "sentiment": -0.095,
       "top_terms": [
-        "Ridhakshi",
+        "School",
+        "MTOs",
+        "Road Safety",
         "DC Pulwama",
-        "School Bus Drivers",
-        "MTOs Attend Daylong Sensitization",
-        "Workshop Road Safety"
+        "Waste Collection Vehicles"
       ]
     },
     "Shopian": {
-      "mentions": 2,
-      "sentiment": 0.118,
+      "mentions": 3,
+      "sentiment": -0.004,
       "top_terms": [
-        "Narrow",
         "ADDC Shopian",
-        "Janjatiya Gaurav Divas"
+        "Janjatiya Gaurav Divas",
+        "Narrow"
       ]
     },
     "Srinagar": {
-      "mentions": 15,
-      "sentiment": 0.167,
+      "mentions": 14,
+      "sentiment": 0.2,
       "top_terms": [
-        "Artists",
         "IGP Kashmir",
-        "PARAS Srinagar Launches Healthcare",
-        "Privilege Cards",
-        "Rotarians"
+        "Artists",
+        "Traffic",
+        "Remain Open",
+        "Srinagar Highway"
       ]
     },
     "Doda": {
-      "mentions": 6,
-      "sentiment": -0.268,
+      "mentions": 1,
+      "sentiment": 0.511,
       "top_terms": [
         "Sohanda Battalion",
         "Delta Force",
@@ -258,54 +272,55 @@
       ]
     },
     "Jammu": {
-      "mentions": 32,
-      "sentiment": -0.121,
+      "mentions": 35,
+      "sentiment": -0.136,
       "top_terms": [
-        "Jammu Kashmir",
-        "Haryana",
-        "Unauthorised Absence",
-        "Jammu Kashmir High Court",
-        "Karnataka Under"
+        "Haryana Under",
+        "Hyderabad",
+        "State",
+        "Trophy Elite",
+        "Haryana"
       ]
     },
     "Kathua": {
-      "mentions": 3,
-      "sentiment": 0.268,
+      "mentions": 2,
+      "sentiment": 0.211,
       "top_terms": [
         "Janjatiya Gaurav Pakhwada",
         "DC Kathua",
         "PM Surya Ghar Muft",
-        "Bijli Yojana",
-        "IBTP"
+        "Bijli Yojana"
       ]
     },
     "Kishtwar": {
-      "mentions": 19,
-      "sentiment": -0.421,
+      "mentions": 15,
+      "sentiment": -0.46,
       "top_terms": [
         "SPOs",
-        "Kishtwar SPO Killings",
         "Congress",
-        "Kishtwar SPO",
-        "Kiyar"
+        "Kishtwar SPO Killings",
+        "Two Theories Behind Their",
+        "Deaths"
       ]
     },
     "Poonch": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": -0.303,
+      "top_terms": [
+        "Army"
+      ]
     },
     "Rajouri": {
-      "mentions": 2,
-      "sentiment": 0.271,
+      "mentions": 1,
+      "sentiment": 0.542,
       "top_terms": []
     },
     "Ramban": {
-      "mentions": 2,
-      "sentiment": 0.105,
+      "mentions": 1,
+      "sentiment": 0.421,
       "top_terms": [
-        "JKSSB Exam",
-        "DC Ramban"
+        "DC Ramban",
+        "Works"
       ]
     },
     "Reasi": {
@@ -322,14 +337,14 @@
       "top_terms": []
     },
     "Udhampur": {
-      "mentions": 2,
-      "sentiment": 0.211,
+      "mentions": 3,
+      "sentiment": -0.03,
       "top_terms": [
+        "CCTV",
         "DC Udhampur",
         "Air Marshal Sandeep Thareja",
         "Opens Udhampur CME",
-        "Lifestyle Disorders Among Young",
-        "Armed Forces Personnel"
+        "Lifestyle Disorders Among Young"
       ]
     }
   },
@@ -338,12 +353,8 @@
   ],
   "source_breakdown": [
     {
-      "domain": "Daily Excelsior",
-      "count": 24
-    },
-    {
       "domain": "Greater Kashmir",
-      "count": 23
+      "count": 26
     },
     {
       "domain": "Kashmir Life",
@@ -351,38 +362,38 @@
     },
     {
       "domain": "Rising Kashmir",
-      "count": 11
+      "count": 15
     },
     {
       "domain": "Kashmir News Service",
       "count": 11
     },
     {
-      "domain": "The Kashmir Horizon",
-      "count": 10
+      "domain": "Daily Excelsior",
+      "count": 11
     },
     {
       "domain": "BCCI",
-      "count": 7
+      "count": 10
     },
     {
-      "domain": "Kashmir Observer",
+      "domain": "thekashmirimages.com",
       "count": 7
     },
     {
       "domain": "Jammu Links News",
+      "count": 7
+    },
+    {
+      "domain": "5 Dariya News",
       "count": 6
     },
     {
-      "domain": "thekashmirimages.com",
-      "count": 6
+      "domain": "The Times of India",
+      "count": 5
     },
     {
-      "domain": "Kashmir Reader",
-      "count": 6
-    },
-    {
-      "domain": "The Chenab Times",
+      "domain": "Hindustan Times",
       "count": 5
     },
     {
@@ -394,33 +405,37 @@
       "count": 4
     },
     {
-      "domain": "JK MONITOR",
+      "domain": "The Kashmir Horizon",
       "count": 4
     },
     {
-      "domain": "Deccan Herald",
+      "domain": "NDTV",
       "count": 3
     },
     {
-      "domain": "The Times of India",
-      "count": 3
-    },
-    {
-      "domain": "Kashmir Vision",
-      "count": 3
-    },
-    {
-      "domain": "5 Dariya News",
+      "domain": "Cross Town News",
       "count": 3
     },
     {
       "domain": "The Hindu",
+      "count": 3
+    },
+    {
+      "domain": "The Chenab Times",
+      "count": 3
+    },
+    {
+      "domain": "The New Indian Express",
+      "count": 2
+    },
+    {
+      "domain": "Times Now",
       "count": 2
     }
   ],
   "run_stats": {
-    "articles_fetched": 213,
-    "raw_articles_before_dedup": 358,
+    "articles_fetched": 212,
+    "raw_articles_before_dedup": 353,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
