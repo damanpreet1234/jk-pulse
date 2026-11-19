@@ -1,35 +1,30 @@
 {
-  "generated_at": "2026-11-18T16:55:50.970304+00:00",
-  "date": "2026-11-18",
+  "generated_at": "2026-11-19T01:41:45.149831+00:00",
+  "date": "2026-11-19",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.027,
+    "score": 0.03,
     "label": "mixed / neutral",
-    "positive_pct": 33.8,
-    "neutral_pct": 41.7,
-    "negative_pct": 24.5,
-    "sample_size": 314
+    "positive_pct": 32.7,
+    "neutral_pct": 44.7,
+    "negative_pct": 22.7,
+    "sample_size": 309
   },
   "india_tone": {
-    "score": -0.09,
+    "score": -0.026,
     "label": "mixed / neutral",
-    "positive_pct": 33.3,
-    "neutral_pct": 11.1,
-    "negative_pct": 55.6,
-    "sample_size": 9
+    "positive_pct": 41.7,
+    "neutral_pct": 8.3,
+    "negative_pct": 50.0,
+    "sample_size": 12
   },
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 5,
-      "sentiment": -0.026
-    },
-    {
-      "term": "Karachi",
-      "mentions": 5,
-      "sentiment": -0.266
+      "mentions": 8,
+      "sentiment": 0.047
     },
     {
       "term": "November",
@@ -37,54 +32,49 @@
       "sentiment": 0.084
     },
     {
-      "term": "Bilawal",
-      "mentions": 5,
-      "sentiment": -0.203
-    },
-    {
-      "term": "Security",
-      "mentions": 5,
-      "sentiment": 0.276
+      "term": "Sri Lanka",
+      "mentions": 3,
+      "sentiment": -0.058
     },
     {
       "term": "Rawalpindi",
-      "mentions": 4,
-      "sentiment": 0.02
-    },
-    {
-      "term": "Nawaz Sharif",
-      "mentions": 4,
-      "sentiment": 0.338
-    },
-    {
-      "term": "Foreign Affairs",
       "mentions": 3,
-      "sentiment": 0.195
+      "sentiment": 0.056
     },
     {
-      "term": "Turkmenistan",
+      "term": "Karachi",
       "mentions": 3,
-      "sentiment": 0.23
+      "sentiment": -0.113
     },
     {
-      "term": "Pakistani",
+      "term": "Gold",
       "mentions": 3,
-      "sentiment": -0.36
+      "sentiment": 0.0
     },
     {
-      "term": "Peshawar",
+      "term": "Bilawal",
+      "mentions": 3,
+      "sentiment": -0.133
+    },
+    {
+      "term": "Bilawal Bhutto",
+      "mentions": 3,
+      "sentiment": -0.014
+    },
+    {
+      "term": "University",
       "mentions": 3,
       "sentiment": 0.099
     },
     {
-      "term": "ISPR",
-      "mentions": 2,
-      "sentiment": 0.397
-    },
-    {
       "term": "Germany",
       "mentions": 2,
-      "sentiment": 0.034
+      "sentiment": -0.023
+    },
+    {
+      "term": "Iran",
+      "mentions": 2,
+      "sentiment": -0.306
     },
     {
       "term": "Minister",
@@ -94,106 +84,74 @@
     {
       "term": "Singapore",
       "mentions": 2,
-      "sentiment": 0.246
+      "sentiment": 0.172
     },
     {
-      "term": "Session",
+      "term": "Constitutional Amendments",
       "mentions": 2,
-      "sentiment": 0.168
+      "sentiment": 0.238
     },
     {
-      "term": "Ministry",
+      "term": "Four",
       "mentions": 2,
-      "sentiment": 0.293
+      "sentiment": 0.051
     },
     {
-      "term": "Deputy Prime Minister",
+      "term": "Bangladesh",
       "mentions": 2,
-      "sentiment": 0.243
+      "sentiment": 0.668
     },
     {
-      "term": "Foreign Minister Senator Mohammad",
+      "term": "Makkah",
       "mentions": 2,
-      "sentiment": 0.243
+      "sentiment": 0.236
     },
     {
-      "term": "Ishaq Dar",
+      "term": "Dawn English",
       "mentions": 2,
-      "sentiment": 0.243
+      "sentiment": -0.159
+    },
+    {
+      "term": "Pakistani",
+      "mentions": 2,
+      "sentiment": 0.141
+    },
+    {
+      "term": "Imran Khan",
+      "mentions": 2,
+      "sentiment": -0.105
     }
   ],
   "emerging": [
     {
-      "term": "Rawalpindi",
-      "mentions_now": 4,
-      "baseline_avg": 1.44,
-      "zscore": 5.14,
-      "reason": "spike"
-    },
-    {
-      "term": "Bilawal",
-      "mentions_now": 5,
-      "baseline_avg": 1.67,
-      "zscore": 4.47,
-      "reason": "spike"
-    },
-    {
-      "term": "Turkmenistan",
+      "term": "Gold",
       "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "Foreign Affairs",
-      "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Security",
-      "mentions_now": 5,
-      "baseline_avg": 1.91,
-      "zscore": 3.9,
-      "reason": "spike"
-    },
-    {
-      "term": "Karachi",
-      "mentions_now": 5,
-      "baseline_avg": 2.42,
-      "zscore": 3.0,
-      "reason": "spike"
-    },
-    {
-      "term": "Peshawar",
-      "mentions_now": 3,
-      "baseline_avg": 1.44,
-      "zscore": 2.27,
+      "baseline_avg": 1.64,
+      "zscore": 2.83,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 39,
-      "sentiment": 0.107,
+      "mentions": 31,
+      "sentiment": 0.055,
       "top_terms": [
+        "Punjab Assembly",
         "Punjab CM Mann",
         "Kartarpur Sahib",
-        "Punjab Adds Mobile Hospital",
-        "Health Services",
-        "Industrial Workers"
+        "Form",
+        "Questions Remain PML"
       ]
     },
     "Sindh": {
       "mentions": 42,
-      "sentiment": -0.002,
+      "sentiment": -0.01,
       "top_terms": [
-        "Bilawal",
-        "Karachi",
-        "Talal Chaudhry",
         "Bilawal Bhutto",
-        "Statement Contradicts Itself"
+        "Sindh Politics",
+        "Karachi",
+        "Sindh Games",
+        "Bloodshed"
       ]
     },
     "Khyber Pakhtunkhwa": {
@@ -207,14 +165,14 @@
       ]
     },
     "Balochistan": {
-      "mentions": 36,
-      "sentiment": -0.147,
+      "mentions": 32,
+      "sentiment": -0.159,
       "top_terms": [
-        "Jhal Magsi",
-        "Two Baloch Men Killed",
-        "Separate Incidents",
-        "BYC Calls",
-        "Independent Investigations"
+        "Iranian Forces Raid Baloch",
+        "Homes",
+        "Khash",
+        "Arrest Resident",
+        "Women No Less"
       ]
     },
     "Gilgit-Baltistan": {
@@ -229,22 +187,25 @@
       ]
     },
     "Azad Kashmir": {
-      "mentions": 1,
-      "sentiment": 0.34,
+      "mentions": 2,
+      "sentiment": 0.023,
       "top_terms": [
-        "Security",
-        "Nawaz Sharif"
+        "Azad Kashmir Internet Blackout",
+        "Enters Day",
+        "Users Demand Refund",
+        "Nawaz Sharif Backs Muzaffarabad",
+        "Mirpur Motorway Plan"
       ]
     },
     "Islamabad": {
-      "mentions": 34,
-      "sentiment": 0.008,
+      "mentions": 29,
+      "sentiment": 0.1,
       "top_terms": [
-        "Haripur",
-        "Tourist Information Centres",
-        "Foreign Tourists",
-        "Set Up",
-        "Peshawar"
+        "Interior Minister",
+        "Direction",
+        "Saudi",
+        "Pakistani Talks",
+        "Islamabad Boost Security Cooperation"
       ]
     }
   },
@@ -254,50 +215,66 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 69
-    },
-    {
-      "domain": "Dawn",
-      "count": 19
-    },
-    {
-      "domain": "Arab News PK",
-      "count": 15
+      "count": 58
     },
     {
       "domain": "Balochistan Pulse",
-      "count": 15
+      "count": 16
     },
     {
-      "domain": "The Express Tribune",
-      "count": 13
+      "domain": "Arab News PK",
+      "count": 14
     },
     {
-      "domain": "The News Pakistan",
+      "domain": "Dawn",
       "count": 12
     },
     {
       "domain": "Daily Independent",
-      "count": 9
+      "count": 11
+    },
+    {
+      "domain": "The News Pakistan",
+      "count": 10
+    },
+    {
+      "domain": "Business Recorder",
+      "count": 8
+    },
+    {
+      "domain": "Daily Times",
+      "count": 8
+    },
+    {
+      "domain": "Aik News",
+      "count": 8
     },
     {
       "domain": "Investify",
-      "count": 8
+      "count": 7
     },
     {
       "domain": "Pakistan Connect",
       "count": 7
     },
     {
-      "domain": "24NewsHD",
-      "count": 6
+      "domain": "The Express Tribune",
+      "count": 7
     },
     {
-      "domain": "Ministry of Foreign Affairs",
+      "domain": "Minute Mirror",
       "count": 5
     },
     {
-      "domain": "Ministry of Information and Broadcasting (MoIB)",
+      "domain": "Aaj English TV",
+      "count": 5
+    },
+    {
+      "domain": "Pakistan Observer",
+      "count": 5
+    },
+    {
+      "domain": "Aaj TV",
       "count": 5
     },
     {
@@ -305,37 +282,21 @@
       "count": 5
     },
     {
-      "domain": "Minute Mirror",
-      "count": 4
+      "domain": "24NewsHD",
+      "count": 5
     },
     {
-      "domain": "Aaj English TV",
-      "count": 4
-    },
-    {
-      "domain": "Daily Lead Pakistan",
-      "count": 4
-    },
-    {
-      "domain": "Pakistan Observer",
-      "count": 4
-    },
-    {
-      "domain": "samaa tv",
-      "count": 4
+      "domain": "Balochwarna News",
+      "count": 5
     },
     {
       "domain": "Islamabad Post",
-      "count": 4
-    },
-    {
-      "domain": "The Friday Times",
-      "count": 3
+      "count": 5
     }
   ],
   "run_stats": {
-    "articles_fetched": 314,
-    "raw_articles_before_dedup": 407,
+    "articles_fetched": 309,
+    "raw_articles_before_dedup": 412,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
