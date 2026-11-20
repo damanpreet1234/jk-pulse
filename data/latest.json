@@ -1,28 +1,73 @@
 {
-  "generated_at": "2026-11-19T22:52:37.188353+00:00",
-  "date": "2026-11-19",
+  "generated_at": "2026-11-20T05:33:35.952697+00:00",
+  "date": "2026-11-20",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.055,
+    "score": -0.052,
     "label": "mixed / neutral",
-    "positive_pct": 30.4,
-    "neutral_pct": 33.1,
-    "negative_pct": 36.6,
-    "sample_size": 257
+    "positive_pct": 27.2,
+    "neutral_pct": 38.4,
+    "negative_pct": 34.4,
+    "sample_size": 279
   },
   "india_tone": null,
   "top_keywords": [
     {
-      "term": "Lateef Bhat",
-      "mentions": 5,
-      "sentiment": -0.449
+      "term": "India",
+      "mentions": 7,
+      "sentiment": -0.115
     },
     {
-      "term": "South Kashmir",
+      "term": "November",
       "mentions": 4,
-      "sentiment": -0.218
+      "sentiment": 0.095
+    },
+    {
+      "term": "Pakistan",
+      "mentions": 4,
+      "sentiment": -0.283
+    },
+    {
+      "term": "Police",
+      "mentions": 4,
+      "sentiment": 0.556
+    },
+    {
+      "term": "NCAP",
+      "mentions": 4,
+      "sentiment": -0.115
+    },
+    {
+      "term": "Security",
+      "mentions": 4,
+      "sentiment": 0.05
+    },
+    {
+      "term": "Syed Mushtaq Ali Trophy",
+      "mentions": 3,
+      "sentiment": -0.023
+    },
+    {
+      "term": "JK Cement",
+      "mentions": 3,
+      "sentiment": 0.547
+    },
+    {
+      "term": "Lateef Bhat",
+      "mentions": 3,
+      "sentiment": -0.535
+    },
+    {
+      "term": "Killing",
+      "mentions": 3,
+      "sentiment": -0.498
+    },
+    {
+      "term": "LG Sinha",
+      "mentions": 3,
+      "sentiment": 0.377
     },
     {
       "term": "CM Omar",
@@ -30,137 +75,100 @@
       "sentiment": 0.106
     },
     {
-      "term": "Police",
-      "mentions": 3,
-      "sentiment": 0.385
-    },
-    {
-      "term": "LG Sinha",
-      "mentions": 3,
-      "sentiment": 0.238
-    },
-    {
-      "term": "Counter",
-      "mentions": 3,
-      "sentiment": 0.265
-    },
-    {
-      "term": "Delhi",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Killing",
-      "mentions": 3,
-      "sentiment": -0.33
-    },
-    {
-      "term": "India",
-      "mentions": 3,
-      "sentiment": 0.122
-    },
-    {
-      "term": "Schools",
-      "mentions": 3,
-      "sentiment": -0.099
-    },
-    {
       "term": "Bhat",
       "mentions": 3,
-      "sentiment": -0.534
+      "sentiment": -0.599
     },
     {
-      "term": "Security",
-      "mentions": 3,
-      "sentiment": -0.219
-    },
-    {
-      "term": "Ladakh",
+      "term": "Nearly",
       "mentions": 2,
-      "sentiment": -0.22
+      "sentiment": -0.368
     },
     {
-      "term": "Chief Secretary",
+      "term": "School",
       "mentions": 2,
-      "sentiment": 0.034
+      "sentiment": 0.35
     },
     {
-      "term": "Jammu Kashmir High Court",
+      "term": "Bihar",
       "mentions": 2,
-      "sentiment": -0.354
+      "sentiment": -0.229
     },
     {
-      "term": "RTE Quota",
+      "term": "Govt",
       "mentions": 2,
-      "sentiment": 0.194
+      "sentiment": 0.159
     },
     {
-      "term": "Private Schools",
+      "term": "University",
       "mentions": 2,
-      "sentiment": 0.194
+      "sentiment": -0.159
     },
     {
-      "term": "December",
+      "term": "CM Omar Abdullah",
       "mentions": 2,
-      "sentiment": 0.191
+      "sentiment": 0.057
     },
     {
-      "term": "Degrees",
+      "term": "KCCI",
       "mentions": 2,
-      "sentiment": 0.125
-    },
-    {
-      "term": "World Toilet Day",
-      "mentions": 2,
-      "sentiment": 0.681
+      "sentiment": 0.026
     }
   ],
   "emerging": [
     {
-      "term": "Schools",
+      "term": "Syed Mushtaq Ali Trophy",
       "mentions_now": 3,
-      "baseline_avg": 1.2,
-      "zscore": 4.5,
+      "baseline_avg": 1.1,
+      "zscore": 6.33,
+      "reason": "spike"
+    },
+    {
+      "term": "Pakistan",
+      "mentions_now": 4,
+      "baseline_avg": 1.33,
+      "zscore": 5.66,
+      "reason": "spike"
+    },
+    {
+      "term": "India",
+      "mentions_now": 7,
+      "baseline_avg": 2,
+      "zscore": 5.0,
+      "reason": "spike"
+    },
+    {
+      "term": "Security",
+      "mentions_now": 4,
+      "baseline_avg": 1.78,
+      "zscore": 2.43,
       "reason": "spike"
     },
     {
       "term": "Killing",
       "mentions_now": 3,
-      "baseline_avg": 1.29,
-      "zscore": 3.79,
+      "baseline_avg": 1.5,
+      "zscore": 2.12,
       "reason": "spike"
     },
     {
-      "term": "Lateef Bhat",
-      "mentions_now": 5,
-      "baseline_avg": 2.29,
-      "zscore": 2.34,
-      "reason": "spike"
-    },
-    {
-      "term": "South Kashmir",
+      "term": "November",
       "mentions_now": 4,
-      "baseline_avg": 2,
-      "zscore": 1.85,
-      "reason": "spike"
-    },
-    {
-      "term": "CM Omar",
-      "mentions_now": 3,
-      "baseline_avg": 1.42,
-      "zscore": 1.84,
+      "baseline_avg": 2.1,
+      "zscore": 1.82,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
-      "mentions": 1,
-      "sentiment": -0.202,
+      "mentions": 4,
+      "sentiment": -0.055,
       "top_terms": [
+        "Bright Future Institute Anantnag",
+        "Opens Admissions",
+        "Coaching Classes",
         "GMC Anantnag MBBS Interns",
-        "Await Stipend Nearly",
-        "Five Months",
-        "Submit Complaint"
+        "Await Stipend Nearly"
       ]
     },
     "Bandipora": {
@@ -179,140 +187,135 @@
       "sentiment": -0.425,
       "top_terms": [
         "Leopard",
+        "Kunzer",
         "Around",
         "Sheep Die",
-        "Baramulla Fire Incident",
-        "Kunzer"
+        "Baramulla Fire Incident"
       ]
     },
     "Budgam": {
-      "mentions": 6,
-      "sentiment": -0.043,
+      "mentions": 7,
+      "sentiment": -0.088,
       "top_terms": [
-        "Kg Frozen Meat Seized",
-        "Destroyed Budgam Railway",
-        "Station",
         "Railways",
-        "FBOs"
+        "FBOs",
+        "Heavy",
+        "Beerwah",
+        "Khag"
       ]
     },
     "Ganderbal": {
-      "mentions": 7,
-      "sentiment": -0.13,
+      "mentions": 8,
+      "sentiment": -0.151,
       "top_terms": [
         "Repora",
+        "Presence",
         "Ganderbal Residents Find Respite",
         "Wildlife Department Captures Bear",
-        "NC Provincial President Showkat",
-        "Ahmad Mir Visits Bereaved"
+        "NC Provincial President Showkat"
       ]
     },
     "Kulgam": {
-      "mentions": 23,
-      "sentiment": -0.195,
+      "mentions": 20,
+      "sentiment": -0.209,
       "top_terms": [
-        "DC Kulgam",
-        "Bhat",
-        "Girls",
         "Lateef Bhat",
-        "Kulgam Encounter"
+        "Killing",
+        "Bhat",
+        "Kulgam Encounter",
+        "DC Kulgam"
       ]
     },
     "Kupwara": {
       "mentions": 5,
-      "sentiment": -0.408,
+      "sentiment": -0.268,
       "top_terms": [
+        "Kunnil",
         "Callous Command",
         "District Magistrate",
         "HC Quashes PSA Detention",
-        "Kupwara Man",
-        "Local Man Arrested"
+        "Kupwara Man"
       ]
     },
     "Pulwama": {
       "mentions": 6,
-      "sentiment": -0.362,
+      "sentiment": -0.136,
       "top_terms": [
+        "DC Pulwama",
         "Jammu Kashmir HC Quashes",
         "Pulwama Man",
         "PSA Detention",
-        "Orders Immediate Release",
-        "MVD Intensifies Traffic Enforcement"
+        "Orders Immediate Release"
       ]
     },
     "Shopian": {
-      "mentions": 7,
-      "sentiment": 0.004,
+      "mentions": 8,
+      "sentiment": -0.09,
       "top_terms": [
         "DC Shopian",
         "Shopian Coldest",
         "Minus",
         "Mercury Drops",
-        "Zero Temperatures Sweep Across"
+        "Brrrr"
       ]
     },
     "Srinagar": {
-      "mentions": 15,
-      "sentiment": -0.022,
+      "mentions": 18,
+      "sentiment": -0.116,
       "top_terms": [
-        "Degrees",
-        "Kashmir Shivers Srinagar",
-        "Sees Season",
-        "Coldest Night Minus",
-        "DIG Traffic Kashmir"
+        "DC Srinagar",
+        "Traffic Police Issues Fresh",
+        "Advisory Jammu",
+        "Srinagar Highway",
+        "Restricts Tanker Movement"
       ]
     },
     "Doda": {
-      "mentions": 2,
-      "sentiment": -0.421,
+      "mentions": 1,
+      "sentiment": -0.402,
       "top_terms": [
         "Govt Orders Inquiry Against",
         "Doda DEPO Complaints",
-        "Against Him",
-        "Weak",
-        "Ladakh"
+        "Against Him"
       ]
     },
     "Jammu": {
-      "mentions": 35,
-      "sentiment": -0.079,
+      "mentions": 38,
+      "sentiment": -0.127,
       "top_terms": [
-        "Jammu Kashmir High Court",
-        "India Reiterates Jammu",
-        "Ladakh Integral Parts",
-        "Country",
-        "Akashvani"
+        "India",
+        "Pakistan",
+        "Bihar",
+        "Syed Mushtaq Ali Trophy",
+        "Traffic Police Issues Fresh"
       ]
     },
     "Kathua": {
-      "mentions": 5,
-      "sentiment": 0.223,
+      "mentions": 2,
+      "sentiment": 0.538,
       "top_terms": [
-        "GMC Kathua",
-        "DLSA Kathua",
-        "Legal Aid Clinic",
-        "Panchayat Ghar Flote",
-        "DC Kathua"
+        "Guru Ravidass",
+        "DC Kathua",
+        "Kathua Cyclothon"
       ]
     },
     "Kishtwar": {
-      "mentions": 7,
-      "sentiment": 0.002,
+      "mentions": 6,
+      "sentiment": 0.121,
       "top_terms": [
-        "Security",
-        "Lt Gen Pratik Sharma",
-        "Collective Punishment Not",
-        "Weak",
-        "Ladakh"
+        "Hundreds",
+        "DSP Manoj Kumar Aryan",
+        "DySP Manoj Kumar",
+        "Police",
+        "LG Vows Strengthen"
       ]
     },
     "Poonch": {
-      "mentions": 2,
-      "sentiment": 0.176,
+      "mentions": 1,
+      "sentiment": 0.0,
       "top_terms": [
         "Mega",
-        "Educational Initiatives",
-        "CM Omar Abdullah"
+        "Educational Initiatives"
       ]
     },
     "Rajouri": {
@@ -335,14 +338,14 @@
       ]
     },
     "Reasi": {
-      "mentions": 5,
-      "sentiment": -0.243,
+      "mentions": 3,
+      "sentiment": -0.22,
       "top_terms": [
-        "DIG Traffic",
-        "Delhi",
         "DEO Reasi",
         "SVEEP",
-        "DDC Reasi"
+        "DDC Reasi",
+        "Tote",
+        "Block Bhomag"
       ]
     },
     "Samba": {
@@ -350,53 +353,56 @@
       "sentiment": -0.15,
       "top_terms": [
         "DC Samba",
+        "ADDC Samba",
+        "Vibrant Villages Programme",
         "SAMBA POLICE LAUNCHED MAJOR",
-        "CRACKDOWN ON ILLEGAL MINING",
-        "SEIZES",
-        "VEHICLES INCLUDING"
+        "CRACKDOWN ON ILLEGAL MINING"
       ]
     },
     "Udhampur": {
-      "mentions": 1,
+      "mentions": 2,
       "sentiment": 0.0,
       "top_terms": [
-        "Passing Out Parade",
-        "Police Academy",
-        "Gallery"
+        "Offscript",
+        "IIM Jammu",
+        "YUVA Tales",
+        "GDC Boys Udhampur",
+        "DLSA Udhampur"
       ]
     }
   },
   "sources_used": [
+    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
+      "domain": "Greater Kashmir",
+      "count": 33
+    },
+    {
       "domain": "Kashmir Life",
-      "count": 31
+      "count": 25
     },
     {
       "domain": "Rising Kashmir",
-      "count": 18
-    },
-    {
-      "domain": "Daily Excelsior",
-      "count": 18
+      "count": 20
     },
     {
       "domain": "Jammu Links News",
-      "count": 17
+      "count": 19
     },
     {
-      "domain": "Greater Kashmir",
-      "count": 13
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 12
+      "domain": "Kashmir Observer",
+      "count": 11
     },
     {
       "domain": "Brighter Kashmir",
       "count": 10
+    },
+    {
+      "domain": "Daily Excelsior",
+      "count": 9
     },
     {
       "domain": "Kashmir News Service",
@@ -407,15 +413,15 @@
       "count": 7
     },
     {
-      "domain": "Kashmir Convener",
+      "domain": "The Kashmir Horizon",
       "count": 6
     },
     {
-      "domain": "Kashmir Observer",
-      "count": 6
+      "domain": "Britannica",
+      "count": 5
     },
     {
-      "domain": "The News Now",
+      "domain": "JK MONITOR",
       "count": 5
     },
     {
@@ -423,11 +429,15 @@
       "count": 5
     },
     {
-      "domain": "Kashmir Indepth",
+      "domain": "DD News",
       "count": 4
     },
     {
-      "domain": "Free Press Kashmir",
+      "domain": "Kashmir Convener",
+      "count": 4
+    },
+    {
+      "domain": "Kashmir Indepth",
       "count": 4
     },
     {
@@ -439,21 +449,17 @@
       "count": 4
     },
     {
-      "domain": "News On AIR",
-      "count": 3
-    },
-    {
       "domain": "The Times of India",
       "count": 3
     },
     {
-      "domain": "DD News",
+      "domain": "kashmirreader.com",
       "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 257,
-    "raw_articles_before_dedup": 362,
+    "articles_fetched": 279,
+    "raw_articles_before_dedup": 364,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
