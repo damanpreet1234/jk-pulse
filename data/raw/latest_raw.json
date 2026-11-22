@@ -1,15 +1,3686 @@
 [
   {
-    "title": "Terror Network Crumble in J & K : 1 , 891 terrorists killed since 2014",
-    "url": "https://organiser.org/2026/11/22/428114/bharat/terror-network-crumble-in-j-amit-shah-maps-integrated-counter-terrorism-strategy/",
-    "domain": "organiser.org",
-    "seendate": "20261122T123000Z",
-    "source": "gdelt",
+    "title": "How did Hari Singh’s accession of Jammu and Kashmir to India lead to war with Pakistan?",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWHRVb2tMSk5yamQ4MEY5THp5NUYtakpfVlowSjNOeXJPUEZZM3N0VW1BckJJMElZYlVGSGwtbzZFOEtjVnNXT0VKNFNlR2MzNzNDTmoxX2J4YlU3ZDZ5UTlZTTU0MzFvc1dOcXBIYWpHbnJMSDlKMlhaLVJlZ3ZEeFphWXpsdnZhUmRrd05ydDBMbHNJbjNLaEoxb3ZLM3l2MC1HMmd1bFFvMThDazFhdmdEUGhCNzlRR3c?oc=5",
+    "domain": "Britannica",
+    "seendate": "Sun, 22 Nov 2026 17:09:29 GMT",
+    "source": "google_news",
+    "sentiment": -0.5994,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Hari Singh",
+      "India",
+      "Pakistan"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "FDA Conducts 80 Inspections Across Jammu Kashmir, Recommends Suspension of Five Licences",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeXdkYnYza18ybXlhMlhRMzdEYTZIWE54ZW1EbEIxbC1KT0VsbnhuakVSSWJpUDFjQjJLaWdTbnVEM3BxYTVlcmJCcURuV2x5Q0VuWTI2UnhxbVRYT0JXMmJIb2x3QWZZTURJdG9la0daVDF5ZjYxbW9ZWTFDaHZ2UkIzNkEwdVBQSHg2SW5ScjNnc05wZ3JxNm5JbFZvTWRIUmRnRTNFYmZ6dl9HaUJUbXZBRjY3UkY5SFJR?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 16:13:06 GMT",
+    "source": "google_news",
+    "sentiment": 0.406,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "FDA Conducts",
+      "Inspections Across Jammu Kashmir",
+      "Recommends Suspension",
+      "Five Licences"
+    ],
+    "source_count": 4,
+    "also_reported_by": [
+      "Kashmir Despatch",
+      "Kashmir Dot Com",
+      "Kashmir Indepth"
+    ]
+  },
+  {
+    "title": "JKSSB exam cheating racket: Six more arrested; six government employees among accused",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOLVNlYk9QYnBJSk8yM1Z5anh4QzRseWE2djd5QWlHaG9yWkVNQ3JDTDVEZ1NleWplS3l6WmVDT01OXzN4ZS1xcHRONEp6UWVHT2hZei1LbGJfeVRweUhwNVhCZ0VSZmpDM0F6OENYMWppX3psNUE4Wi1pQ3VLeWxyakdlWFE3Y2xyd0pEa0xxVTJPUUpuSE93NkoycHlXZk5qQUhsSkNYOVc3dkVmdFhIb0ZCVnpjbmJGTmI2cVJHMnZzMGpCRURxNXZvUnM1bzljVlViQVk1aTYyUVJuMGJaaFlia0tNb3Bzb3JnM2FNaFVWUdIB-AFBVV95cUxNbXgwd2FHT1hsUlN4Q1lqTHNueWVmSXVyWUI4S0ZLYk5Bamc0UERQUndCWVZxb0dFUXZIYWN0djcxUE16VnQ4NkxFZkQ2SDNWM05fWjdSc2sxdDBocFM1MkNSaUVlRGthNHF3QThpSS1JTmFrTmxWSElXTFo4cUIzMjlwejVpSkY4bGwwQ1pRbHkwQXNRM0NGMFhzSlE4U3ZYQVFvaklTa1RWSEFzUVdfWkV5a2s4N1pONDN0SnBHVzBSNVc0V05QQ0phWl94dW5FMlJ6NEVyOWJIQ3dCNzB3X1p3T2FVbU9CX3VZY0JEQjdoT1ZocXp3MA?oc=5",
+    "domain": "The Hindu",
+    "seendate": "Sun, 22 Nov 2026 11:59:39 GMT",
+    "source": "google_news",
+    "sentiment": -0.704,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "JKSSB"
+    ],
+    "source_count": 7,
+    "also_reported_by": [
+      "Greater Kashmir",
+      "Kashmir News Observer",
+      "Kashmir News Service",
+      "The Tribune",
+      "thekashmirimages.com"
+    ]
+  },
+  {
+    "title": "Four houses gutted in fire in Ramban district of Jammu and Kashmir, no casualties reported",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjdaQ0Zrb0FoR0twT3FVWFgzZl8xa1hUWUljd1BhNW9FVERWSjR6YjFDY01zbTc0UzJhdTRmZTY1QS1qaHBrWjc4QnFkblpiRGdEVU1VSUFxbEI3SjBkYWtfeVBteVNGb1d1WGM2VndaUDRVYlRGSGxEdko4MlY4UERpQ0tZdXZOdHZQMTVQak9OOVI2UF9zNDdIdGFiaFowQk41MkY1OWhOLUtUUDc4a1FLX2V4dw?oc=5",
+    "domain": "News On AIR",
+    "seendate": "Sun, 22 Nov 2026 10:14:35 GMT",
+    "source": "google_news",
+    "sentiment": -0.497,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu",
+      "Ramban"
+    ],
+    "keywords": [
+      "Four"
+    ],
+    "source_count": 10,
+    "also_reported_by": [
+      "Daily Excelsior",
+      "Greater Kashmir",
+      "Gujarat Samachar",
+      "Jammu Links News",
+      "Kalinga TV",
+      "Kashmir Independent Media Service",
+      "Rising Kashmir",
+      "The News Mill"
+    ]
+  },
+  {
+    "title": "Winter chill grips J&K; Jammu at 10.6°C, Kashmir below freezing",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT28xcnMtbnEyaDVXRk9tOEd6R3VXM3M2RDk3WU5pZVpTQXQ0QWFSWjNnaHg1Z1pfREJXdGN3RDl0bnZ5OGdNei1sVlQ2dXYzdkdYYjhkY0wyUmFtXy1qUTVjMkNCYmVfUjFxYjk2SEI2cHZZSWZ0VmxPNXZMaENHVTRaSlA3RTN6RWU5TWIzZVQ0dw?oc=5",
+    "domain": "The News Now",
+    "seendate": "Sun, 22 Nov 2026 17:59:19 GMT",
+    "source": "google_news",
+    "sentiment": -0.034,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Winter"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Brighter Kashmir",
+      "thekashmirimages.com"
+    ]
+  },
+  {
+    "title": "Guilty will not be spared: J&K official on exam irregularity row",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTHllNkRxZ0Zlb0lRSDQzdk1sQ0tJS19lTmFuZl8xbV9GY3l6cEFXUWxHOXduN3R5dl9nOU5kZGxmNXlYemtNb250TXNNUUdoX3ZFWXdiS2Q4ekgxbjBBd3RQc092NlNmUnJGSndobzl3Y1dwekMyc045RWhJUWhkR1F4MVVXWnZxYk9hWWh4cjRCZ0dXYU95aHJybFlsOXlhenIwYkVaUms5aFVvcU45M2R4bjJqVFnSAbwBQVVfeXFMUDNOMS1vUjVHUnl2XzJqNnQ2TzQ0clBLRUlhMzFhdkpmbDlwT3NIMWozV0ZrdlVnbGsxZVZ6QlpxalBRZUVlb3lBZTJINmZjTUZsYVFfcWdMamNkd1RDaUJzeXpkc2JBei1ZYklQTE1VNTY3elprYndTdXRWdkRhWWFWOEM1QW9BUEFaaDZ1VEQ0aWt2TzZYb2VBdXQ1NVpSaktGMGlxQnVGUGxudDVsWEQxNlhsX1NJdHJ0cm0?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 10:40:35 GMT",
+    "source": "google_news",
+    "sentiment": -0.421,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Guilty"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Daily Excelsior",
+      "The Week"
+    ]
+  },
+  {
+    "title": "Dr. Farooq seeks relief for fire-hit Ramban families",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWmpneU1IclVVNF9hQXh3SDg5QU1kZFhGUy1tNXBKYjY2OEpEU3J1WFlYSnhfRVl6aTBpNUx0M0JVbmpqWVQ4WkJUS1ZlWU5iaFctaHpqUkw1YjdKNERkVWZsUEo0cHM4NmxVZ2VIakJ5QU9Ud3JPZkxJVk45LXhQdHpXMWl6N3NzbWgwcDlBT2ZYZ0cxenJsWnNqU2NhbDljWHhOdG1nQUpaNG93MDRYcUdCdmY5SnRw?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 19:46:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.4767,
+    "date": "2026-11-22",
+    "districts": [
+      "Ramban"
+    ],
+    "keywords": [
+      "Dr. Farooq"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Jammu Kashmir Beat Punjab by Five Wickets in Syed Mushtaq Ali Trophy, Samad Stars with Unbeaten 64",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNzV6cDRqM2MxdW4wY0p3RElOTzZPQUx1SWhWckhiN3ZmQkZNTk5LMTNBWTExWWRSWjB6WEZmVmlkNHRiMFNXT3diYTV6ZnV0UmttNVpILXVvRHNoWmpfemlJOER1bnBFc0hudTdUcS1hM0VFUWh6TEY3YUotWEhFbzd5ZHQxWTdzUWxLNXdqdlQxSk5uT1Q0NGd5dldVSFpIc2NvWW9GX3JEOWZ2UTVMN0d4Sno1S0M1b1FGd01nVGp0dDdialpPYw?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 13:27:35 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Jammu Kashmir Beat Punjab",
+      "Five Wickets",
+      "Syed Mushtaq Ali Trophy",
+      "Samad Stars",
+      "Unbeaten"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "No Rain, Snow Forecast In Jammu Kashmir For Next Seven Days; Gulmarg Records Minus 2.2°C",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHNWS0gtZWxLZ0xtSU1haFJFZ0hEeHpZeTM4UFBoRUJqeDhUanlWZnVSZUQ1dDVfUVZBc1djQXlUb3ctWm9UVHhiYk9EMGZKZlhqbHJJVGJaY0dLN185aTdLNzFEcVhlRlhTZWstYkg5MnlGZURETHVWOW96a3BLaUNxbHRTWjc5dU84VUFGazNTOVRCbmJ6NWZTeFM3VDVNV1VuS2tUWXpEQ2JROHhtMzZOb05ybUZ1?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 06:04:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.296,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "No Rain",
+      "Snow Forecast Jammu",
+      "Kashmir Next Seven",
+      "Days",
+      "Gulmarg Records Minus"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JKSSB Paper Leak Racket Busted, 20 Arrested In Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSE9xdVppY25maXVUYU1FS2NoZWJacTNoTzZhbWpsSGVJVnhwUi1VTmwwaFVVVThDa3E4ME5qcTBlbU4yY2xkVC0yYUJ5SlllV0JSTXdURTVXd09ZUWdWSnd1YUpfdDF1UnVVNmE4aVBnLXcxVTdtT1dFNUR0Zk5tbFk4NTl0dVlISzRB?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 12:07:10 GMT",
+    "source": "google_news",
+    "sentiment": -0.557,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "JKSSB Paper Leak Racket",
+      "Busted",
+      "Arrested Jammu"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Brighter Kashmir"
+    ]
+  },
+  {
+    "title": "Kundra urges high turnout in December 4 LAHDC polls",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlFTZ2M0S2tUR1N2YVNaTGlhVUhTLXFsX2V4TlJnUUxJUjN4dFZfOHBVZlp1MndndlJuaVlFb1I4bHZ6eGVlUnNIT3RjSHFxMUtxMzY5d1lLLWlCN295RlpILWY3c19Pb1Jqek5RWTJkdkVSWkxUZnd3ZmlCVGhoMF84Xy0zbTl0OTFqSWJCUXZnU0VoRFpHaEQwb01tZ3lxZUVPSk9OSQ?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 19:35:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Kundra",
+      "December",
+      "LAHDC"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "CM’s Advisor Assures Action Over Alleged Irregularities in JKSSB’s FAA Exam",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMVhRQjhma244Vk1GMnBZdi0xRlpjd2g0QWp5U2dZVWM1VjRKSnpCOHZGbHZ0dTBHMEZiTDRLRmxVcmdWZGFfTjBnX1pDNXFkYlQyUERmSEh1WlZsdVR4VlhPeHBYNkNMdWFsWjVMNnJKeXhhSEFLbk9OMkZyWlRXalRibHV5R1hrMkVKWExRSkp5VFExV0JQMkdwWmtRMzA3TFVjREZCZS0?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 14:26:55 GMT",
+    "source": "google_news",
+    "sentiment": 0.3182,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Advisor Assures Action",
+      "Alleged Irregularities",
+      "JKSSB",
+      "FAA Exam"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Shattered Trust",
+    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zNHVmbU9lN2pPWHl1Y1RmSlhnR3dEQWU3TjlsNEx0OE9kNlc3aHdqRGYwY2dxRXl4cEdHN3hKSjJ2ZmpjYTdfRXhtZFh5ZTJxNWg5NjR3?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 19:29:13 GMT",
+    "source": "google_news",
+    "sentiment": 0.0516,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Shattered Trust"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JKCA Announces 15-Member Squad for Cooch Behar Trophy 2026-27",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnRBRG1RUzRkMDF2NHZxbEZQT24yN3JEaFU1MUpNRjRzUlltM1lJU3ViWHduSkx6VEktVW1mNDhoSVJ5SWZDQUdMaE1ETFlzVkZ1WmhGY3BFUGl1SXVxMUdsOFYyZjZmWXVSMnhKY2MxTnBhaXl6ZXBxMnlOWW1oV2hsWmRCTC1LbTA4bUdGZkxFOXFXRmJveg?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 16:00:55 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "JKCA Announces",
+      "Member Squad",
+      "Cooch Behar Trophy"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Thanamandi MLA Voices Youth Disappointment Over Repeated Selection Controversies in Jammu and Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ0U2Z3VCek9fVGE1bGdnWXJXQUxnalNtYXJ6Uzg4el9vc0RaMVhZUnB3aUtiellnalVMbkVNbkIyck5hejllZi01RmRaQjFuNk96LWdZdDlzTnM2NUhwSGxCU2dRalozcnZ0cWkxZjNyTFRnRmY4cXU2NjBxVzZqdzNRSGtOYmRaZEJJaEF0NTZ5U2JqYW1FZ29WQTdQOUdxUS11M25TX1pXTEVKWGRMc3d2Wm5SVHBDYWtHR0NfekZITzhNc3E3eHlEXzdVR3VPdi1vN0RKVQ?oc=5",
+    "domain": "The Chenab Times",
+    "seendate": "Sun, 22 Nov 2026 12:12:53 GMT",
+    "source": "google_news",
+    "sentiment": -0.5106,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Thanamandi MLA Voices Youth",
+      "Disappointment Repeated Selection",
+      "Controversies"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Ganderbal becomes Jharkhand man's second home",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOTVvdDlnNFdhMlY0dE9vbWJINUg1X2U5b1RuTkxObDBBdmc5LUgwLW5qNW9YdGZRYTlmTHNxd2x1U0xEUWpia0tZMHp0a1ZDc0tMNVl3dU04b3gxdl84SldEaU9uUWxLMXhVN0M1SkhHbFVDTHZmU2ZvbUV1dDdjWVN1eGlTX0R5OHp3aF9BM2ZZdHNNVGFlZDUwOVdTcXR4UUdFMzdaNXcyU2xoaEw0?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:35:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Ganderbal"
+    ],
+    "keywords": [
+      "Jharkhand"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "“Refrain From Spreading Fake Weather Updates”: MeT Warns Social Media Pages",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOHRMSlppTk5GWndTNFRZbThwNzYyakwzeU1YcDZ1R1E2VFpKdXRHZzl5b2o3c0JzZUd1SDIxV2lvenREN2lFcW5IcUREZUd6V0JfbEttcEZrS0MzWm9RaXZ2QURhWXJIZWdhYjBTRjIzZW51bERFLXU5b3I2Qi1wUktGT1h1bzlRbnRzZHdPczN4UU41WGtmM0s3cnJKdDZ6UDdlYTludw?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 13:00:29 GMT",
+    "source": "google_news",
+    "sentiment": -0.5423,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Refrain Spreading Fake",
+      "Weather Updates",
+      "MeT Warns Social Media",
+      "Pages"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Fire Engulfs Residential House in Central Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQnhjVXBRTW5BZ2lEM0VFeExRWTROajlfeFhsS25oWURCYnBSN2toVGl2aDFNaFA5WlpuU3RySU9DWkpGMFI0QW1JMlZsZHRJdUE4YUVRX0l2cXdsUEJnQWpDMXNfQXRzeFptb1JTcHlXRkxwTk1scEJoX3AwX0JEVlYxaGZhVDUw?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 17:07:55 GMT",
+    "source": "google_news",
+    "sentiment": -0.34,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Fire Engulfs Residential House",
+      "Central Kashmir"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Greater Kashmir",
+      "The Chenab Times"
+    ]
+  },
+  {
+    "title": "Shameema announces Rs 3.71 cr works in Habba Kadal",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOazBQUVNqZHJjZTVyMHladU1tSlN1MHVpZ0VwY3UyV2dWazJ5dTVTOVlZc2FEeHVkN2dhRHJpNDd4NUxCVWRwNXBCYzk1OEdELTEyVVczdUZfb3lRT2RxN1NEeEhzZUpJOGNKUTR4SGM5dGs0RC1lNEFha0tOMExjSVpiSWRJeksxSngwSkgwN1FoU3AtMlUzUw?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 19:58:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Shameema",
+      "Habba Kadal"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "thekashmirimages.com"
+    ]
+  },
+  {
+    "title": "Chief Secretary reviews sports infrastructure, training facilities at Jammu stadiums",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMC1FQVZWUEhiblhxWFlfbkN0V0FhUkxxcUNFeW1GWDA0UVVadHRtT2s1aGdySl9GMF8wZk5JYktJQnB4Q2k5bjhFRUdMbmN0TzJLQVI5Z0hNbnEtLUZvM1h6a21sa0xDY3MwQnVVQ1JxSHNsY0Vzejkza0pUcVFWa3ZZc0xqTHJqVUp6Nm1ZYmY3SW5rRTloU2hTdjFNOFR5bFRoTWFNeVhDVE5LVHJ4OUNpZE9jV3IxSFE?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 13:15:33 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Chief Secretary"
+    ],
+    "source_count": 4,
+    "also_reported_by": [
+      "Jammu Links News",
+      "The Tribune",
+      "thekashmirimages.com"
+    ]
+  },
+  {
+    "title": "Home Secretary, Director IB to Visit Jammu",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE93VmpadkVBcWhuUXRYazRONFJncjY5U0xVTTRmMHkwVHlWbEd2MDBPUUM5VHNkRGFMZENVTDJqMHVfaWJraXM4U3FYQUt3R3pwN2Y4WFJLWENNWENFTW9yN2NxWk9MZDVBR3NHZlFHSUFxWENl?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sun, 22 Nov 2026 13:19:13 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Home Secretary",
+      "Director IB",
+      "Visit Jammu"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Srinagar–Jammu, Other Highways: Authorities Issue Traffic Advisory",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNjN1eVlhQm9BcXhJUzVoaTlBNnU2Z2RGbnAxZEFDa0NtVjJZcGlEY3Y0RURweXFhNGN3ZFZ3UFpqNzlUbFlJMjB6M1BPMEhodUNTNFE3THZhalVTQTUwc2pOTk5QekFmNEVxX2EtMmFFaHVVOTVHZzVKaEVjakxTZXpLVktoZUc0RHZENVVRcEZxa3Fqcks1RmY2V3Q?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 02:22:49 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar",
+      "Jammu"
+    ],
+    "keywords": [
+      "Other Highways",
+      "Authorities Issue Traffic Advisory"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "MeT Srinagar issues 'final warning' to social media pages against circulation of misleading weather updates in J&K",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNeGU1MVhXUHZ3MF92aW42VkpfVkdadGNqanF0X1J1RDV0OVhsVlZ5V0F6Yl9MYVplODdVSG5vX0JwX3h1azh1c0FZNWp0dzJ1LWF4Z2pLVEhBN1ZOYjlJT1FXTGJIdzVxVTlXQUJIVE1SMjF0U21XZjlCVjZsUm1jU2xfYkllQzV3RlZkV1FlS2k3TFMxWGdYMHVzZ2VvcVRHTVRaWWtJb2hkQ29GeEUzZDduamNTWDlMQWs2VmdoR2ljSVpFMU5Nem56SWJrREhqWjBYekw0WHhwcFkwUzgtcFlGejhiZkxfTFBTODNJTFA4bTNvMlA4MtIB_gFBVV95cUxOVWpFQi1mLTgwcFZTQ3J1QUFjS1JhTzJjSWVrbnBKSFQyWWN3eGVYdjF5dVdLTmFTMDhUV3VyVW5OdnFyV0JoOUNzY2xGaGs5WTRaSVladmdRTlhGWWE1LUpuUVpaekMwVkNOR2dudkQtVnRTQnR0eVJwOTlvWEM0WHBTekVxTGxpSU9pa0JLZUVLV2w1ZjFlZjdsOHdqQXljUk1CY184SjM3NnRWNzFKUW1FaENYRlVwUTBTZmNzdmZNdmFyTng4b3FwZEJQdGxsZElDOHk3V0lzRmw0bXlfS2IxbnktR1YxQXZ4M2tSZHl3ektzX3RibDNhWG5DZw?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 04:27:52 GMT",
+    "source": "google_news",
+    "sentiment": -0.648,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "MeT Srinagar"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Jammu Links News"
+    ]
+  },
+  {
+    "title": "CS Sajjan Singh Yadav Assesses Sports Infrastructure, Training Facilities In Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODdSLW1VNHhoMGpUTlB4Tks5V0xYZi1JZXM4d3dyNHlpMEpzSGVmOF9INVFQdmJySXNSSUNUYWpfdVpMU0g1RjVqYlYyYVljUUdnY1M4YUU1OVU3eEpmVTJONjQ0aEVEbURJS3o3X1lDNEl2eWtkUXFaYjNwcVdaa0x4Zk1tLXMyUXRsYlI0cWF0ZndEMy1qWWF4VWFKOEpzS1JJUUgwcl9ocWtGTzQ4RTFTONIBtwFBVV95cUxPd29DYVBUN2lTU2xPTlhQczllME5YS1VqdnAxRm1zODJWYkxHWHp2S2JCMFZZTENtQVJxQTB4X0p3OC1uTnJHNk5TcGVFdHJIR0NEX2NkeGpGUUxiNXRVd2lRRUhmNzlmZEV6M3FiUTA4QWZ2SGZ2Q2pIVC1vWUJhMUVCVGVDd0xQajRDcDdEcmFSdktnQlF2WXdNUkQ2RHUzaWU0eVU5b1JySlJJbXVTaHFvUEtrM1U?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 12:21:31 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "CS Sajjan Singh Yadav",
+      "Assesses Sports Infrastructure",
+      "Training Facilities Jammu"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Jammu & Kashmir: Mirwaiz seeks action on FAA exam irregularities",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTBKSEFRNHRaa1RmbThtTmd3dV9GZXU0Q2o3RnNhNi1lcTFGUXVMWjdlSGRnMUVhaHNNMnJDS0ZkQUw1LVlrVU0tOXNfTEZQV29LRjRHcmdMektxdEtGa2EtS2NVOVZnZHd6X2ZJYVlpcG8zT2FSeWF5dEU3d1RKdGx0c1h0UjNWLW1uWERIc0N5bFhPalozWGdUR0NkX083Y2N4cmdKT08yVWdmOUhlN3BBaXBtRGN2Yi1RNUZNMm5Udw?oc=5",
+    "domain": "The Chenab Times",
+    "seendate": "Sun, 22 Nov 2026 09:57:56 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Mirwaiz"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Greater Kashmir",
+      "Kashmir News Service"
+    ]
+  },
+  {
+    "title": "6 more Govt employees held in J&K exam scam",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLZFlYVlBGOHMtTkV2dEtXNmVqNktaT2loZVZyREFxQWowQ0YyM2V1cWtnTUE5YVp6NFRBTUZxdG5QMkZOQmpkMmNONTNIWnk0cmd5RG5BLTYta0FJWXNpQXdjckEtN2NaUnhtbjBFa2V0dTlVTEU2ajRfeE1qd9IBiwFBVV95cUxPT2c5QTZ5YVlGMC1UbTl5SUlKWU51eDg5V0NEUlBEdHgzbmswTC1rbm1Wa2NyNzRnNkE5Q2VMQnFxM2ZtamlDY002WmJBaGEzVEJ0YWJvTS1kMmxfQUg3cnFJX1NmUzVCcHhmSjBsNTlsVjRsYUFQUUpac21OV0gzUU9SR2hvVVdkVUY0?oc=5",
+    "domain": "The Pioneer",
+    "seendate": "Sun, 22 Nov 2026 21:17:51 GMT",
+    "source": "google_news",
+    "sentiment": 0.032,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Govt"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Kashmir News Service",
+      "Rising Kashmir"
+    ]
+  },
+  {
+    "title": "J&K Police review winter security preparedness in Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWktiYVl4aXRwMUJwOU5QLS1kd29DalkxU1JKV3VCcVdNWlJkNHlPRW4weWNIY3ZWQUNSeU0tTy1LUjRFb0Y4X1N6S3FNV1V4X3VyZjhZSXR2WENFLWlkRHVzUkpYTlJxMEUtZ2oyQ2YtUW8tSEJnd3JJcTNjRGY3RVdpRWhXNUkwYVhlTDFzT2tYVDVFeFBGOWpmYWEtbThvUGU4V09aZHpTcElkMXZsS0NuOUdLMXZpNjlod3NvYw?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 12:20:55 GMT",
+    "source": "google_news",
+    "sentiment": 0.113,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Police"
+    ],
+    "source_count": 5,
+    "also_reported_by": [
+      "Brighter Kashmir",
+      "Kashmir Despatch"
+    ]
+  },
+  {
+    "title": "Kashmir’s ‘Freedom Fighters’ and ‘Traitors’ of Pakistan Occupied Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU3ZCWUN5VUgtRGRqdVZTUVoxR2Q5dDFxdkliOGNTcEVKZ0FYbHg0OW85ZEpmNnFZc3EwaEQwSmFFT1ptRnpoS2Fwc0VBX2EzWnpCMVlsdGowLVV2RVlhcm50OVhGa3VhdHdCNWVTUG9mSkJSMWJhUDFFb09oVjJpbmpnd0duckFQUXQ2TUtBcGM2VGxmVGdVd2NvTQ?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 19:33:39 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Freedom Fighters",
+      "Traitors",
+      "Pakistan Occupied Kashmir"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Through a freezing Srinagar night, young job aspirants demand a fair chance",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbnI2YU9Cc2YxLTVUNklSZGlxMm96T1A1aHNfUE9ZeGVaOWtpUnItWk1BLUJfanFRWFBiQlpoa3E2SklaVllZNFVEQ3I2ZXRDM3FSUF8wZWhSblZ0ZHVpYVM5VFhTUGtvQjBDc1dIbzI1TE0xOWUyMi0zUnFKQWZLaTZ2SkFuV290bmpWRzFveGdXNzhmTkEtV1d6Wjl0Qi11T0NJZmczak5DUHFwSkg1UU5JOG01QXVtM1pNNDY5TnVqeGw5YkgxUHlDYUs5eUlz0gHeAUFVX3lxTFA1RF84dEttUHZRNmpEaXdGc1l3c2tmblJtVngzcEFucEpoNXdiSkgzME9NN1NhRXR2dWc4WWRGRnh4VmMtcHpsd2k1N0FhTGIwYjVOc1dSbXlRTFJ6eXFWWEZOYWh4MUZ0dllxVUdaOFR1UWlnNDd1Z0dUZWQwYjZ6T251b2gtMW5lZHZJVVd2NVFnU3FJMy1JdDEyTm9yeHNPSS1IeVdNRkVGelB1ZVVhcEZCZ3A3RmRRa0pudllyb29ma25OQzZuMS0yOHhFc1lvcm5JTGdvSEpQU1FTdw?oc=5",
+    "domain": "Deccan Herald",
+    "seendate": "Sun, 22 Nov 2026 05:59:14 GMT",
+    "source": "google_news",
+    "sentiment": 0.34,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Through"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "CS Yadav inspects sports infrastructure in Jmu",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aY2N5djRuLU9vUVFuYlR3aHB3d1ItUzRPYktUaWtsM3lvblo3Z2lxaE10NlNaeTI1RmhfR1lUNVJiYnRwODBKbUZGemJWWEYtcmd0b1BqQS1GSmJPLXl2ejVUdnNoU0lRaXFBTmx5MmM4OWlFa0lfcEpHZ01WQVU?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:08:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "CS Yadav"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Samad's Unbeaten 64 Powers J&K to Five-Wicket Win Over Punjab",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSTc0VGJUZFU5dUZrVTl1Tmw1WUlOVGgtaTN5eXJBSV9oLV9DRUx1VndsYzJBOUZvZnI2SF9QUnZuV1hWT1Q3RUJJOXEzT2xuSHhLa0tyRU1OOW9vejlyX0hyS3hYZ3RhOGFlRXJCZTZpQTljbm1pZld0SThOZHlETEo4X2sxZ0VwdzVnSUI4eWMtRkVMUVpMNFBOdw?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 12:19:22 GMT",
+    "source": "google_news",
+    "sentiment": 0.586,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Samad",
+      "Unbeaten",
+      "Powers",
+      "Five",
+      "Wicket Win Punjab"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "thekashmirimages.com"
+    ]
+  },
+  {
+    "title": "MeT forecasts dry weather across J&K till month end",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0NmbERneERSa2cyT09SVGpZY3ZxQXZWallRRFdnT2R5RUFXV0NjUlRONnAyaHlxZzJBRjFHZm9Kb0REalBfRjlTOThWaEpNVVVEX1hrS0NlbFNMRkVwM3dGUkhGRmYwOHpKanZlRG5adkRROV8yVlpWNjBSQjBDMU1n?oc=5",
+    "domain": "News On AIR",
+    "seendate": "Sun, 22 Nov 2026 03:14:18 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Div Com Jammu inspects development works at Shri Shiv Khori, Directs timely completion of projects",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQR3RNejBVYTVGRlpOdGhLYkpNRFZQdi1IdDEyWVVidDhfQVh3RlV5NldydFZ3aUw5SGVjZDdlZ1dvSDNQdVE1VndpLVdEVmthU3RPMmE4VkoyZVh3Z1JyUnZqdERmOFAxMlJDQkptcm4wVzMyWHhKdlBUUkZxeG5pSWVvSzdhVmwxUGtSaXJBX0pqNURnMXpVRlhwVE8zQm55czliYTgxWjUwZFFXMEQ2X19zYU9fS3RtYWFfZEJ3NA?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sun, 22 Nov 2026 15:08:04 GMT",
+    "source": "google_news",
+    "sentiment": 0.296,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Div Com Jammu",
+      "Shri Shiv Khori",
+      "Directs"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Jammu Links News"
+    ]
+  },
+  {
+    "title": "KNS cancels all identity cards, authority letters with immediate effect",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbFM5SG92Z3ktZ3ZKVFdYVzJod01jUGNQNlpZak5vREI4dFRKamhHTmpGNmhnYTZpb01sNXBMQVN0YW15WlVvcnRDNkkyWUh6akU5VHFsQUh2Mm5WQ1lTay0yQU5zV2lyc050enB1MnEwRmN0bmpWLVVWelZNc3Q3enFSWE15UTRyU3RVNXRCcVFFNlVmazBXNmpHODJpOU16Q3BQOTlOR2Q?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 16:22:33 GMT",
+    "source": "google_news",
+    "sentiment": -0.1531,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Altaf Ahmad Kaloo calls for regular golf tournaments, nurturing young talent in J&K",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd2lFUWZIaXV6QTR0NFBPRjNpQmFsRFNuQ2wyOUhORVNBVWdsN2hOVkI0eXo1Z2NTTGc1ajd5UUhuRE5HVFVodmQtQjFHQnhnMmtzNWFHMkhmTDdLd3BUUGtMTHo1d1RuZ1dxZVhyMnVJVFlaa2x2S3VTZjFoQjl0QXZiOHNHS0huX0RsZG5xVTZnRnZDYkF1THkwMVFqZWVrTXRlSWEtQTBETHZxeHFQczYxM3JpM0wy?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 12:13:02 GMT",
+    "source": "google_news",
+    "sentiment": 0.7003,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Altaf Ahmad Kaloo"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Srinagar continues to suffer neglect despite the overwhelming mandate to the ruling party in all 8 constituencies: Mohammad Ashraf Mir",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeWRZS3pGbnZpb3ViQ1dFQnNYQkc4VTN2cFU0QWxlTVhZTVNsS3NWMjhFbktHWVlEeTdlbjR0bzRNQkdJakVNSXJuQkpxcUt0c0o2MWRGNUF6N3lmd3dKeFp5aUZ3VEc3bmVyRDlnbWR1WERlMzlQZU5vdzR6NFYwdG0tVG9BbFRpTE9wS19SOUpkYV9oR2EwRmYxT1FaeGNDUm04VkhWQi13RTVZaG0yNnRtNF9DVGQtWVpuNDJqTGZZYnFEZHRwM0F0VUJ3bjIwcVl0RXJWT2dKenJORHFJcjd2WUNUbGpIakd0MEl0QQ?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sun, 22 Nov 2026 14:48:04 GMT",
+    "source": "google_news",
+    "sentiment": -0.5859,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Mohammad Ashraf Mir"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J&K needs private colleges",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5vNWtrcmx0bTNyZ1o4Z0VmYTJvUExhajdIcEFlcy1GR0FiS01rcFlIUlhDQks5cW50clRIT2VoZVdxc21xdnowMjU4OXVqMkpzem9rcWtYd1doWXgyZkNueUowUU8tMmc5eEpKQlBZZFQyLU1rMzdXdFZPLUhhZ9IBgwFBVV95cUxOU0w2Z1U3djE2UGhRUVBDR0FnUkFDSmhqLW9jREk4c1YtQ2NJUlVHYmhyNHhXYlhkUC1QZnhYa0hkQVBHRENzUEZzcUZYaEZuOWFveG53SUJWYUcwLUY0a1pqc1N3SGRoUDc3TWRaVXI5SGtQZV9IY2xnaHVhOWxNQ2p1RQ?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:05:20 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J&K To Remain Dry Till Nov-End: MeT",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56dTU3NXN2dVdOVUNlQmJKX2prR09CTWYzNmJRRi1GQmZoemFRZWhjcElfNGtqaXlUNVJSRjdpaEViTTJNT1kycGk0R1FLOXZINEhUSFhxeGQyVWFLNnAxT013M0lUTF8yWUc1MjhJLVVXRDFadEhHT3NpcVZYQQ?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 00:33:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Remain Dry Till"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "638 Athletes, 21 Disciplines: 3rd State Masters Games begin on a grand note in Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUUFyYTBzZlpEMHc2X01VQTlvSGNMcHJUeXJMYUlQalN0SXR4Q0pMbFN0UDd6OEFpa05vbEpCeTJqZjE3bThyNHZsdUZnTGdxdnkxWWZzUG50M0xUQ2hGbmpCbl9kV3hGME04U3R4a2R0NjY3TFZIZ3ZHZk1BNVVwcW9iM0dnbHAwZjZFMXQtb1ZBMWJlSXJoYWw0TUdVS1lQQWEyclpoaWh3T1hLMTNSQ0g1Q2V4WEFEWXc?oc=5",
+    "domain": "JK MONITOR",
+    "seendate": "Sun, 22 Nov 2026 16:01:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.4588,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Athletes",
+      "Disciplines",
+      "State Masters Games"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JKSSB FAA Exam cheating",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xNkwzeTJaTWRCU2Zfek1jN01McmtyaDFYSzkwSm1vbllVWE9yd2pfSFVFQ29hSDFRell6bGtybEFhSWF2dDljYzVQVDRsRG1TUk14N0FQV2oycWlHNWJsZA?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:08:48 GMT",
+    "source": "google_news",
+    "sentiment": -0.117,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "JKSSB FAA Exam"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Daily Excelsior"
+    ]
+  },
+  {
+    "title": "Reservations: Karnataka to Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOams4YXZMdXZ5Y2tYLTdQeDVzWXpyOWp5NU9TSmNHampTa21FaWJaWnlDdGxHLTlWMVhqMXJ6RV83YV90UDFIcE45UFVIWlhOVGtISjU1OUtnZENuNTRqTngyVE9uNUVmX2tScUxNWnVDdW1PVGZJMXR4U0VPV3lMYllfckt0SzFF0gGOAUFVX3lxTE1BMHlLRnQ2Y3dTemRncWxGYXhxTUZ2S0RRSHZ2UlQ4S2pxRV9kNGstT0dmdkVZZjNhUG1RTGNWWGpNSnBpaUVOcTNURlFCc20tS1A4TmxpNU5iNWVoOUZVY2FHZWU2cUJJUTJsaXFKWk4xcWhUUUw3WHlWNHVxVXFOalBfNGJpMXhLRWI1U2c?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 01:49:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Reservations",
+      "Karnataka"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Terrorism on its last legs in J&K",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNW5MN2lXUzdUTnhTMUxVODIycndRZXAwSGVHMExRNm1uQjNOaHV2V0p1UUhTRTNHbnZuczlNOUJ6WGZhMUNDWnhEdkVKVmZZYUk2N3RTMTc4R20wekVWb1NYVDZPUXZGamxjemVEYmRYWUFPTW1wWEJNQTZzbEM2TXhGTnAtM0nSAYwBQVVfeXFMTm13aWkxZVhZS19LdE13aDRzREFmSnNZNkFZOWI1a3hicEh3ZkVvdFNoM3RPRGJudU9qZWFwZ2s5WndQTnZPUExrMk1JNVVhdlBXUFFiVFBEcW9ETVZYZFNKbjhXczZsNDRBdU5URG5UbHM1WVFONFpWM0JFU1hVVzFTNFZLZWNKekZnNnY?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 01:59:52 GMT",
+    "source": "google_news",
+    "sentiment": -0.6808,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Terrorism"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Devotees Begin Arriving For Jhiri Mela In Jammu, Administration Steps Up Arrangements",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcWxpSzRJQThGUFJqYTAzRzJFbExUMUU3NXNjQmNpRWFWNjBKbzFRUmFwcWRMUTFUalZMYnBTQ25MelRPUlM2ZXczUGROcXl5Y0M2VkdvSnJSU25UdVQwQnh5VFZaWm5vWUVBN0wwc0FpbkhxVldwdWpyWjlWNnowS2lWSENlVFg0SnhwOEVkS0JMZmJxU25PajlGVm0xb3VocThlZkNoSTU0TTNmclBnQ2pOUDRxQ1XSAbsBQVVfeXFMUDBhTGM2QnpqdHRleC11ZHFnSXZuRUMwZkZGaTlRUEF4WjVaUXNITW1oR2hNTEhHc3JFSXVNLXppVHlNWE5PY3ZlaWxjYnJKYUIzY29oaHJjQjlJcF9aR2xGdmZXQmpmR3kwSnZfWjNxZ1lXTi03RGItYTk4WnRZVWR0MDJnV3VZUV9FeVBGdy1YMDZPRWxrVTRpWV9nU29DOTJvMXBVU2dfbkFtUEU5RHNuQTBOMXlPRTFzMA?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 09:11:17 GMT",
+    "source": "google_news",
+    "sentiment": 0.128,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Devotees Begin Arriving",
+      "Jhiri Mela Jammu",
+      "Administration Steps Up Arrangements"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J-K Deputy CM Surinder Choudhary holds public darbar in Rajouri, reviews local issues and development works",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRzhiVWwyTEdmMVI5T05BczhMeC0zX0NXa2NlWjY1OHdzNUhuTEJIRTE5WjN4dEJ2Y3lJMC1objZ0U2lQZHhwVzhDRkNJTGlsMWdCcVg4NzZpbHZyOGlYUnVjN1pELXFSa3d5cTh5WXBzTVhzdklWVkJLMUUwYlhjQTZnUnljODJzZnZleWVhcHN5NGowSEszZkV4akQ5Z3ppVFZ6QkpTNzJFWVgyRHNfQWtYeHZMRWhNTXRFNk16WWFLNEROeldVenlIR05ZdmloRWVpQk9objVUcVBfdFhrRXh5VG00ZFVURGNSM2oyWnJjeE1PczNhYXluYS0zaHc?oc=5",
+    "domain": "ANI News",
+    "seendate": "Sun, 22 Nov 2026 05:22:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.197,
+    "date": "2026-11-22",
+    "districts": [
+      "Rajouri"
+    ],
+    "keywords": [
+      "Deputy CM Surinder Choudhary"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Dainik Jagran MP CG",
+      "The News Mill"
+    ]
+  },
+  {
+    "title": "Police Arrest Three Gamblers, Seize Cash and Illicit Liquor in North Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdG5pMlE2N0w4WWhDX192WmpQNzZyVWZ4dkt0ZzFDWjFjdVpUd25WT29vdlhIWkx5R2RHLWxfRXZjTllQU2dxV2wtb2doc2xsd0FrY25xel9WM1pKTS1qMUdnVGNCSmp2dlhITUUyV3RFMTBldUQ4eUpDekdVdVZES3pJR1pLMERYdFQtS0dNRWJ2Ml9mTmpLemt5T0dvZndRNDFlRV9aREF1R0k?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 15:27:56 GMT",
+    "source": "google_news",
+    "sentiment": -0.34,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Police Arrest Three Gamblers",
+      "Seize Cash",
+      "Illicit Liquor",
+      "North Kashmir"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Recruitment Irregularities Are Playing With The Future Of Youth: Mirwaiz",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSXpuX2JxcHVKaVczM2ZQWU13SEJmdS1BNTY1MTVKUHZ2eHQ2Uml4UkpZS0xiTmRHczdoUDU5dWhEN1hlNXNrZzlzamJCRzkwWkxJMXhHc2d3X2haRFRtcWhVRVo3UGE0ckZ4M2NTMXJVa1p5OEhaRF96Z0FsWFNaMDRNbGxidTJUSGw3S0xRZHJVb2xkME8tUHB0cFVrQWtULVN1WlRYNmR1eTZ4MTJWYg?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 10:17:09 GMT",
+    "source": "google_news",
+    "sentiment": 0.2023,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Recruitment Irregularities Playing",
+      "Future",
+      "Youth",
+      "Mirwaiz"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Div Com reviews working of revenue department across Jammu Division",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWmM0eURkcFNmUm5Fa2NmdGkzM09MbzZVR3FxaXBwbzhpal94N3dXUVNwSWhTSERHdWVpZVBXdFhROE9wVkxRdlpzTWFXVkZTSnZqdlB0Mno1YnVpc0otVGxub3VNemRTd0Z6c2VncnlobkJScVNSdXl5c0RiVm52cUttNHpTbkU1OEdoN1NGQl9rbnZDNEU4?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sun, 22 Nov 2026 05:08:01 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Div Com",
+      "Jammu Division"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Night Chill Tightens Grip: Srinagar Hits 0°C, Gulmarg Plunges To -2.2°C",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQc3lsMFRSTnhpQjNobzl4bmV3Q2YyQ2V4NktacmE4MWREODZ5empaWTRTVHV6dDk2S2xMTlAwc05qWnhkeGdlSkRBY3pta2ZtNzhpSXlSYU1MMTFkNkNKcHZZY2ZtS3Q1QUhSNmJrZnJVSDhFaGROd0ZRMlZIWllNdElfMDNvMHBudXFwcEdkZGkyTHJsR29yVURKbzZDWDjSAaMBQVVfeXFMUEFIU2VuaGtULXFpdUZiVjJyLWVjTU5vRzlna09XdGV3VVlLdjE1VjQzOXF5em1vdTFmTFZpVHBUV283WmRLdXYyUkxfdUNRZWJIUWdZeFRfcGNscnBBUERWY3dGOC1RQXNkYlM2a3c0dFhzT2lWamlYUUdLVHJNcjV5YUQtcXNCTnB2ci14TFpMaERIZ21DU1NDNHdxNEJKNnJpTQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 05:07:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Night Chill Tightens Grip",
+      "Srinagar Hits",
+      "Gulmarg Plunges"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "K H Snippets: Defining Moments Of The Week",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMEo2ekZUWmFuRXJyTGd4blNzbllFTktoMXlyQlZNRnRJTURxcmNWYU83bFlsbjAzck04c0tMZnhvSkRnX1ptTWpnbWU4aS1ONHZaNnNKR2hLaEpDTDlkbGFhekdBMkNhYUJDTVpiVW03SWY4bjIzODVUZDhLX2dURjRmdnlKNEw3UU03OWM4MA?oc=5",
+    "domain": "The Kashmir Horizon",
+    "seendate": "Sun, 22 Nov 2026 04:43:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Snippets",
+      "Defining Moments",
+      "Week"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Slain J&K policemen carried in dumper: Top CRPF official’s video doctored by Social media users",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX3FWMmJiYnhuNlgteHhLUjBMTHR4YWZzN2VNTTVDczBrdDNoZXpnTnlDd3h3azV4T0lsVFRPUFAySndGUVB6T0pJT05mWl9IQlhOeERYUGprODZRQWp2SWV5ZnZzWlFwN0pWY3VXTFZQN1A2SFZUcWZSSHdIWXhoZVJnWEVfRXY2S092a3YwNlYwYnVrY1BLOVh3?oc=5",
+    "domain": "Alt News",
+    "seendate": "Sun, 22 Nov 2026 08:57:21 GMT",
+    "source": "google_news",
+    "sentiment": -0.1027,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Slain",
+      "Top CRPF",
+      "Social"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "RKFC to face Dempo SC on Monday",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOdlAtcnMxVlpDTXlZTXRwcTJGNk5LWHJmSE1FWlhCSGpYdkZOcS1uQnNLMjBGR056S0c0ZTdJUjNNMzNoYldOdUZ1WkVEYjc4dHlERHVwc2x6a2FrVjdQaURISWl5aW5uOHpLSkwyNDIzTlJwQ3pJM3Y2OVdnSzQ?oc=5",
+    "domain": "Kashmir Indepth",
+    "seendate": "Sun, 22 Nov 2026 13:22:25 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "RKFC",
+      "Dempo SC",
+      "Monday"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Mehbooba urges youth to take up leadership roles, says PDP offers space to grow",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOXy0wUWxvRFAxUXkzUDU0d0lUMl9hRWFpekNmdG5ranJiN254TElBWXNlM1g4cXV5MjNJdTUzanJ5aUJqYWxSTjlyWVhqRkZzU1Znc1Q5Zm9fZ01GU3lXUGlCbHNjRWxaWnR2ak1VWkRpTzYzYkpQTW4taXRzWXNpVVQteFdldmd1d3lQMkZJVEFydVJoQ3dTZ2hwaml5ejRFTXBDbWxRVENLaXBaYnlpSTk4LWJ2WEVsOVZiTW1kYmVpNXlk0gHKAUFVX3lxTE5wV3pDTWVIZEtzWXJIS0NNbnpELU5ZVVpWOVgzMG5KRXFyMjJiNmFuU0I4M2E5cU5VSGFEeUFxeXkzS0tvb01OSjhrT1dnMVZKN3ZOV1ZienQ2UXZ3WDFTSXNqTkNESVgxZ19XZm9obEhWcUlCcy11OWxDRllJZk5pV0JCVHBzZEJSWW9SNTBiYlFzNkNoY3ZBVElQWGxTb2lzeGsyeWlyekZ5aEYtSVhsU0NMUWdVbWRDYW1TdFdFYnRiU3VZaGtMT0E?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 09:51:55 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Mehbooba"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "Kashmir News Service",
+      "Kashmir Vision"
+    ]
+  },
+  {
+    "title": "Revise stipend for PG Residents, remuneration for Senior Residents: RDA GMC Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeTJmZEJkbkYxcUczTGRPWThNQjBqczhiblZyLXo0M2VJb0txUjBrZXpveFFXc1hqQ0pYcTR5a25yTTFINUl5TzhUYzJjcjJtTjhhWlM0MkJ6dnJVSldxSDE2bV9TVmxFNjhHS2pPdnBra0hZMWotT2p5SkhDMHJyaDNyY1djdkFnYWNyTkJuclBRaF9SUl9KbUZnV01meTFGTGRaTEhRRDlTdDdDSWZpYTVMcTBwcmNmbEdJSEVhNTVYMTTSAcgBQVVfeXFMTTNnQlRrOEZRb0haMFBvUzgyZTVfeTdOajZzY1I0a0FQNkJfM2ZsY3d2NU1GOGdpeENCWUljSmx2Tnh4Zk1ZNGh6TnJJV1NGcGVVSGdfT3psMnM5QXFNQXd4V2RseDhaVlMxY2VqZU1zTmdSMUhGQTVvby1pdnphMUtTVkFCVG9GQnI2Y0JmSkJsdy1WSmJ6ODBuZ09maFlHeGVLSEt3b0ZLZGxzRVpKbEtIc2RVOTIxUzZfLXI0RDhSemZ2SEtjWVc?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:20:50 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Revise",
+      "PG Residents",
+      "Senior Residents",
+      "RDA GMC Jammu"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J&K Students Association writes to HM Amit Shah, seeks CBI probe into alleged FAA exam malpractice",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZkR1OTVWZUREWG11LUNoR0R0VlRQdkhqb0Fnc0hEQWljaHljZkttbEFsUTFEN1haa1dxaXpIM3dUb3BHUy1adTEtbU1sM0hMYjVJZUhvS21TRnNOaE5QUmFLMEVkRWJ0bVQ4NzJJbVZ3YnQ4a1pVTkxIWVF6akRCVDF5OGJtTXRuNWs2YVI5eGNTSFFmaHAxcld5Vzc3RnM0QnkyYmNaVVFGdU1hTWxMalhQTVU2OWpncGVkR3RVX0c1eVBvcGJ2MzB2T3RsTzhTYU40Z1RfNEpQQQ?oc=5",
+    "domain": "JK MONITOR",
+    "seendate": "Sun, 22 Nov 2026 15:54:17 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Students Association",
+      "HM Amit Shah"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "MET Centre Srinagar issues warning over misleading weather forecasts circulated on social media, says no weather alert till November 30",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNWG9HNDl4eXVtZ3gycVA0RV9GQlJzZUtDcTg1dEVzak9LaHk5TndlZTFsXzdSWGRCNzFHZXFyVVpPV0R3bDVnS19wVVJPV2ZfSHlwWXJmM3JBbkF6THhOY1hPWmZxWlJsMUlnQVg2NVhsYVd5ZWFxbnFTc01EbEl6Z0tBclo2dDU2elBLWjNYeTEzUzRGRXhNNzlrWkpRaFNjMVlFSzR2blRpcy1EWmJTR0tQY01TVFdRVnVfTlg1a0FZSjlyZjF1NEluQVF4d2RrN3l4elBPN1BkcHNQNjl4aXJyeGVCOHlkUlZ0ZFpva3NpcFRRYzBzVTNodE5XTmlfdWZ4Mi04RFU?oc=5",
+    "domain": "Kashmir Indepth",
+    "seendate": "Sun, 22 Nov 2026 04:17:56 GMT",
+    "source": "google_news",
+    "sentiment": -0.8013,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "MET Centre Srinagar",
+      "November"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Commercial Power Amnesty Scheme To Be Taken Up On Priority: Sagar to Traders",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTEN5bFZKTnRtOE1EbFdXRkJVYmFBUDhSNktrVEZ0WTAtZUVNYjB6STNOeXNJVTZ5ZkFfaWw0M0pFZUd0eEpzSEIteFJDRjJBejVxcy1YMUliTHlEM0lMMFZnc0JmRXdHZHZBR3R5SlNrcDVFNW9BUFZXcF9kSnhDOVF5RUNGZUZULWVhaXp5cUg1elRUZlo3OG9hR0xveGlSWUY0eDNoNEwydjA?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 12:22:22 GMT",
+    "source": "google_news",
+    "sentiment": 0.265,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Commercial Power Amnesty Scheme",
+      "Taken Up",
+      "Priority",
+      "Sagar",
+      "Traders"
+    ],
+    "source_count": 6,
+    "also_reported_by": [
+      "Daily Excelsior",
+      "JK MONITOR",
+      "Kashmir News Service",
+      "The Hawk",
+      "thekashmirimages.com"
+    ]
+  },
+  {
+    "title": "No Local Terrorists Left in Kashmir, Only Foreigners: HM Amit Shah",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRlgtSUFyYWNxQThlbDJQVjVERHp6OUNfSWxZaE9OUmhkamNOZGJkR2NrYnV4bHl0S1paTkoycjhXSHRWeE1SeDhHTzNNUXFTeXBTMzdyYm45YmZscEhjYTY1RGFkZThyVU40dExzTjBMRnZwUThiVmJIdjVIeDRIb3R4d3lfcnZnNF9tZUVGcTBqNEd2aFNHUTJ2Zl9DV29acEJiWTNQcFl6Zw?oc=5",
+    "domain": "The Kashmir Horizon",
+    "seendate": "Sun, 22 Nov 2026 04:44:18 GMT",
+    "source": "google_news",
+    "sentiment": -0.124,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "No Local Terrorists Left",
+      "Only Foreigners",
+      "HM Amit Shah"
+    ],
+    "source_count": 3,
+    "also_reported_by": [
+      "The Hitavada",
+      "theopenpress.in"
+    ]
+  },
+  {
+    "title": "Political Leaders Across Party Lines Congratulate Newly Elected BWJA Team",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTDNqbHdzUjhPRG14T0ZHOWFNbVdiZUU3bmY4V1h5SlJPSWJ5V3J6QU1DSnVzOENwUm1TQ1g5d3hBcFBfa0k1Z2t0MnlKVlJpVEhQVnpkOFNaSU1WLVZPaGlPMUNGNUd6d1ROM0h4ZDBScEdsMkxIaldKY2NCTEZST3pra3lRcTd0WFZ3VlVfSks4NjlaMXVpWkhTT1VKRHljMFBfemhrYk4td0U?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 16:06:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.7096,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Political Leaders Across Party",
+      "Lines Congratulate Newly Elected",
+      "BWJA Team"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Two J&K Food Dept Employees Sacked Over NDPS Cases",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQci1LVTMyRkZCaGdSQ0VkUll6STNkUjJ2N2xXbHJQMHY2Y0FiZ08xOHNFMVoyd1E0SmEteFNhUXhqTkVPcGdsbDdWY01YTlh5NVUwYkFZbzNIV0RFNXlEMk55aTdKNXFkWHJYRmEtZ0tzaGRUWHFwMDZ1V3lTalFtdkJXRVZQYjJSVVdnNHA3dldNRWs?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 00:28:13 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Food Dept Employees Sacked",
+      "NDPS Cases"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Suspected Narcotics Recovered Near LoC In J&Ks Kupwara",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYUZzYmxRUmVXUVBnVXo3OWgwRTZMSGdHbjhPTmo4Q2ZEbnNXdy05eG82dm1XWF9kNlF4Q2tGQlN1bU9iSjczVXh0WV9jR3dpMVoyY1hzM3h5bFFrOUtBVjQ4ZlpmZ1RpX1p2UHFQNnJOX2RSejBkcGxwYkw3bG5XdXY5TkVlaVB2TFBEZG9n0gGSAUFVX3lxTE15eTMzMy1OOFZUTUdIeTNCbmJ4T2h5ak5POVR1cFdzNEpJOC1wTXNaeThnUnc1UHVXWmM0R0k0NXZPd0MtM2IxY09DX2MxQnN1WEtzU3dpalMzRkJ1eVFUMDRLa3Q4T0ZhRUNndjF6RGJkaUplV2RiNlpteGlXYUZBMjRmMW1tb3BpNkJrcVBzLS1R?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 05:05:27 GMT",
+    "source": "google_news",
+    "sentiment": -0.2263,
+    "date": "2026-11-22",
+    "districts": [
+      "Kupwara"
+    ],
+    "keywords": [
+      "Suspected Narcotics Recovered Near",
+      "Ks Kupwara"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Police Attaches Property Worth Rs 4.17 Cr In South Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNY1lRdG5KMlpjLWtnR21yN0tYc0IzaS1IVHFIZmt3TDRrSHBEeThUMGtNUF9aa3ctUi1YQVhpSG5jb3EyWXN6bW4xcGE5SW8zTkZybFg3dVdXaVpOTURIWkVMR0dsZkdFVlZHT0NGdXZBUjJHQTJkakE3djZmMVREMnRQbVhmbEx1RDZMc0NZcVRYWUNsNVR5NjRTUW11ekhyMkRYbUZSVnF2MUEyTEY1Y1NjWmE3TUZGWFhWNTVIN3o?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 05:20:25 GMT",
+    "source": "google_news",
+    "sentiment": 0.025,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Police Attaches Property Worth",
+      "Cr South Kashmir"
+    ],
+    "source_count": 9,
+    "also_reported_by": [
+      "Hindusthan Samachar English",
+      "Kashmir Independent Media Service",
+      "Kashmir Indepth",
+      "Kashmir Life",
+      "MillenniumPost",
+      "The Northlines",
+      "ThePrint"
+    ]
+  },
+  {
+    "title": "Protect Dairy Farmers",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91ZWpUZkQ4X2NTSEJVLXNLdjJMM1V2aE4xbjRzY1NDbW5QWnRlX0cxcy0zaVVjSTFNbXRKS0NuVC13LWJ4aVpPbm5nSzVfRmtLOFVpVGJpelB4V29jRGM2SkpoVXY2OElORS1GWV9YQmtrdnB0Ym02Ng?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 05:16:25 GMT",
+    "source": "google_news",
+    "sentiment": 0.3818,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Protect Dairy Farmers"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Suspected drug peddler's property attached in J-K's Anantnag",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbC1IazBteFRnbE1TZGx3MGFLcU1YMi1WRlJyaURYeHpVc0xjV08zQlAyR1VReTIyUGVNc0RhQjVaYnhWNzN1X2lRX0NBRkZUUTB6clpWdUc5RVZ1SDRMU0FXN1l3TW9UZEQyQ2ZWRGR3b3R4WFdrOHhGTlBIanEwZXloZmh5Y1pMMGlKQW12dWZ2eWZHaXJZY01Xb2htSkZpWDBGOUdWU1I1QdIBrwFBVV95cUxPOXJDdkJfM2RsUGpJRVMtWDg3RUNiZFRLTTRJQXY2cjJVd0hfTHQ3RmI2WjFtaUIxM3Fsc0NMR3FTdngzUmt5VWVESTFWSXFGdUNjdHk0NUZkLTJZZmtKY0g1U25RRzB0cUZPeWk0aVhCdlNjM3V4dXFxVVhDR2tvOW44cWluUHNmSllFUmRJQmRtc2dMamRneS1YeVl1b0o0c0cySkZUTm5jNmtPRTZZ?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 05:28:22 GMT",
+    "source": "google_news",
+    "sentiment": -0.226,
+    "date": "2026-11-22",
+    "districts": [
+      "Anantnag"
+    ],
+    "keywords": [
+      "Suspected"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Daily Excelsior"
+    ]
+  },
+  {
+    "title": "HC Assigns Additional Charge Of 4 Courts, Shifts 7 Civil Judges",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTnVDbDBnb0tyTktyZ1lZZVI2VVd1YjM3S28yZ0hOekM0dTlCbjNMbjBPWjBvZHZHOTVhd2x6TW9lLVhtNE5mQnoxOGllOWotVnRFMk1kUUV2b1h1YlVJM2xwMF9QYVhvZUhiXy1XUjBZVk9kcWhBVUQtZldha0NQT01Rcm1wRldQZ0ZlOWFOdGJwZGMzSl9wVjluLWNSMU1HdndFaQ?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 00:33:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "HC Assigns Additional Charge",
+      "Courts",
+      "Shifts",
+      "Civil Judges"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Indian forces kill two militants in a gunfight in Jammu, Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zTXlmdnNydW9LM21HVGRFSmVFS0ZmcDl4X1UxXzJFTklFR3N3Ty0yMHRRN1ZlZEM4eWthazNUZnFjVlUyN0pTdllldXl1TF9ES0lRcUwwM1I3QQ?oc=5",
+    "domain": "كونا",
+    "seendate": "Sun, 22 Nov 2026 14:07:59 GMT",
+    "source": "google_news",
+    "sentiment": -0.214,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Indian"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Kashmir Media Service"
+    ]
+  },
+  {
+    "title": "KPDCL Says Bill Sahuliyat Plus App Functional, Attributes Update Glitch to Kimbal Smart Meters",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSVlCNm5xMXB0dTF6UXdGeUdRWE8zRmhVVHlqLTNLQWZNX2dMLTA0cGZWUXpKbzZlWU5qTXJFUHNtWFk1RW9XOURYekpISjlQNlI0MGhXM01yUnFNZTVmeHZrR21vX3RZcTI5Q283WEVPbmcwandTQTktYmRITUhKbGlTM05PSUotNkJ2Qzh5bk1acTltS1NEX0xPZVh2UjZoek52bkZ4dlRtZ2VqMFV2UTRqN2tVV25XY3pNc2Znck02bmc?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 12:29:11 GMT",
+    "source": "google_news",
+    "sentiment": 0.4019,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "KPDCL Bill Sahuliyat",
+      "Plus App Functional",
+      "Attributes Update Glitch",
+      "Kimbal Smart Meters"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Kashmir Records 8,269 Animal-Bite Cases in 2023, Three-Fourths Classified as Severe",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTJhWURUcVprZUtPQXA2VTFiSFhSVl8yR0VGMlVjZ2RpdzhVdGNHdExPUkRleVRIVDUtUllaXzk5RTVRUHBLMlhEOEp4UDlTTzR6a0tDNnZWTFlXaXY4U0UtMUZjRHBHeThGZzZlT0xXSngyTlZuajI1ejFuNVBiMkduT1FkY0RqSF9NZ0czMlFfR282UGVSeHJSSmxLQWRNWkJXaWRlaDFBSEpmV1NTQTM5VQ?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 05:09:51 GMT",
+    "source": "google_news",
+    "sentiment": -0.3818,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Kashmir Records",
+      "Animal",
+      "Bite Cases",
+      "Three",
+      "Fourths Classified",
+      "Severe"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Midnight Blaze Guts Bike Showroom In South Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQckNVdE9VX1hzdHRUeDNEcnVjU1dlbkFMdGFoV2VGSnRqQ0M4U3AtS2xPQV9nS19EbEE2NjVjTmxWZU5XcnkzMFA0MjUyVGpGSUxQNWxEOFZUYkw1VTBYVk41emNucnZab09BQnZHUll2VnE3Yjc5RFF4bGMyMmNNWE4yU3FBbWFpdlE?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 03:14:44 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Midnight Blaze Guts Bike",
+      "Showroom South Kashmir"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "India-Nepal ties linked by 'umbilical cord', Balen Shah’s visit can revive relations: Former J-K DGP SP Vaid",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQLUV1RUU4WVJvX3N6cEF5c3l4NjRXMWloTXk0X3BXWEFWMDdHQ2JKYjVfZWY1U2hGTmp5dWcwMlZPNnFEaUpmNVRNOExKM3NLSXVnWnUydmJRZnRybkxWS3JocEQxaW9oUXhhcXc1MVRTNUtlTkZfTTVNbjAtT1hUNGVLby1Ud3gxc1pteUlTOFhIdE83dlU0al94SEFOTHZLYUw1SzYtYVlxMUxyeU1lOGJxSjBpVlN3VGhZMGxhMGdMRXpIUU5MVFpOY2dxZUVZSkpSSWlnVE9kNGhRRWJ5WGV0dUw2NUthcjdwT0Rtdl9LZw?oc=5",
+    "domain": "ANI News",
+    "seendate": "Sun, 22 Nov 2026 08:09:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.34,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "India",
+      "Nepal",
+      "Balen Shah",
+      "Former",
+      "DGP SP Vaid"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "The Tribune"
+    ]
+  },
+  {
+    "title": "Sajad Lone Visits Bereaved Family Of Khushboo Jan, Calls For Inquiry",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZzZVYWJwUVpKT0FvYUtrdy1EOVB3MnlocTd2NVU5MnRkempSRFJPYklzVmY1aHBNT3FkVmxLZ25URmxVb0pVcWN0aU0wV3RDSVJaYnhHamo1LXRjcEJXUWE4bGE5a0xfNkZReC1ES1dlSUtHY3lWWEcxTEtOMlV0RXFwWUhSOE1tR1BmbVlPWXZ0eHdSak5BdUd2Zw?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 12:46:42 GMT",
+    "source": "google_news",
+    "sentiment": -0.6369,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Sajad Lone Visits Bereaved",
+      "Family Khushboo Jan",
+      "Calls Inquiry"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "MLA Baramulla seeks independent probe into recruitment irregularities, calls for 5-year audit of agencies",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWGJCYmk2UnhnU0tRUFJsUmJ0dFVzOXZOaU5ndENSQXMzMVlnVmFrWE1wY2w4UHNZVm94d3RvSUZSakZlQV9WeXRxRlJHNGVhOTFIVWxMSmJ3LUN0MEp6STQ0czRlTUhpVTdNcEtqX296aGh1eFJXTnZob1hKTU1mZzQ1WldNWldrZGtFX0NiaDRTR3NEOW9vYnRfMnZ6Nnd6Mi1uYi1ienU5MkJaaHBCT1htYkZzMTRLdHhxekpUbzlvTy15cElvR0FTRnV3U1p3VUhiN2NzOWpDeDJXNWljTHZQWnJZT0XSAewBQVVfeXFMUEFqdkI1aEtWbXgyeWNaM2ZhZmRGY3AwUThDMWVBeFRKc0h2TkVoRS11RlN2VXRNaTJ1eU10WjY1VHl0TEUzUVNPTUtvaGhkYldmOFRXeW1EODI2eW9fS19sWXNFaVUyRnZZYWdUaFB5bjFucWdVRW5DMWQ5ZU5FZ3NqbzV3LThJTHNCMlVLYzE0a1Jkc1ZyVlVSUDhWY1dfSVhpSmU1eGhrckhia3Eza0hkM3JSMHFzNkV5Q1NnR2tDcWlneS1GWnBZd3h3TWFscnNreTdsclVlcFN4a2FnbVRQZFZ4RnZYTEVyMEY?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 05:19:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Baramulla"
+    ],
+    "keywords": [
+      "MLA Baramulla"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Heritage Walk organised at Bahu Fort",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWaGY0VzdYOTFBMTFDUDBqdjFFMC14aFdJUDREb0ZfdmI5Y0FKLW5rMzV1VEJBb2lhWnhTelJmYVY5b2RlT3hIVGQxbV9sbk1udUZnUkdZck5Eb3ZWNG9mMFkxdXBlOTBvUnRMeVpDSzNqNGFnZ3hr0gF7QVVfeXFMTzZuTzhGTXNoendTaTBqcDhyZVZGT3haV1hta1JfVWlibTJOSXE1VFAwUEQ4THVURUl1bjNtZXZITVZhRzVGRlJyMGNHcjFyeHhEa2tXWjlQSUNiTUlUSVR3TGExLTlvaFRPSDJWTWNsSjdhc0tWSkRlekRv?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 00:21:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Heritage Walk",
+      "Bahu Fort"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "LG Sinha’s Zero-Tolerance Push Against Terror, Separatism",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMzNiUGNOQWFfczBkaC1oRFlJaXJidDFyTWtseUZIYjZjcHN4d0xLS2RJOXN3cXd4UVBjbFNxYTA2TmdtaTRTcFBvVEpiQlRSZ3B4SktrSkxQM1FwZDE5bTJEYk5QeEt0NkJnSWhnVWtQbF9wOGMxNjJYX0VVV1Qyc29MbXluZTdVcURZcGVQTHlpQ2U2Y0FDTmtJcnNEUQ?oc=5",
+    "domain": "The Kashmir Horizon",
+    "seendate": "Sun, 22 Nov 2026 04:27:26 GMT",
+    "source": "google_news",
+    "sentiment": -0.5267,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "LG Sinha",
+      "Zero",
+      "Tolerance Push Against Terror",
+      "Separatism"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "CRPF T20 Cricket Cup 2026 concludes at Sher-e-Kashmir Stadium",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOd29rbjlibGdVWmtjWnd6RGlMb0c3NjNzT2dYbmlwX0hHXzNTV2RJTVZiUTJCVk5Ucjh5d3VZeTA2SEUtbW1WbGI5TnhVMk1aZmQ2UmJ2SkVOaXhueVBsTHBKQ1NYLW9FSzNLZEJCMFRaSzJXUFpmMUMwbHBtNEJVT216Z3hhSXlpQk5mT3NEWVRBb0I1SDJNY1J6Slk5dFRWNW9YdnhR?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:22:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "CRPF",
+      "Cricket Cup",
+      "Sher",
+      "Kashmir Stadium"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Decoding Srinagar’s AQI Gap",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93VEs1V25wdlAtZFI5ZlJCUHhJT3Q4NWk1dmdVNFdIQnlDZ2R3enpHVy13V1FrdlRkLTB5MFdPRHFfSjNVQTVfTk9qMmhIVUdaYzcxYnJMRS1BTTFNOXh3SnZuU1B6N2JxMnRjYTByN1Bpbzc5RnZR?oc=5",
+    "domain": "The Kashmir Horizon",
+    "seendate": "Sun, 22 Nov 2026 04:25:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Decoding Srinagar",
+      "AQI Gap"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DC Anantnag presides over public grievance redressal camp at Chittergul",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeVdMT0pmdk8xVHgyMFg5VlR4YkNkMVoydndZdkdXdy1uR3BoNUVnOU03WmRYV3NuQjJnQlF5ejkxc2M0Z1JJM0pENUJ6Mkk0YTUwOUhFMlBIRkQ0R1RvUkhSZURSd0FFX0R4dGZWcWExTXRxdkJNYkJHbFoyVGpmc2M2dk1GMWt3QUhjSEN4al9SMlJraWpDUk9qRVBGWjdvd3lRUmF0dWs4TUxCLUtTaHVRLWpVN2NOWldQRVdjTmk1dmVSak9na3RmQmlFNkZjSzhv?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:04:41 GMT",
+    "source": "google_news",
+    "sentiment": -0.4767,
+    "date": "2026-11-22",
+    "districts": [
+      "Anantnag"
+    ],
+    "keywords": [
+      "DC Anantnag",
+      "Chittergul"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J&K High Court Upholds Rs 2.5 Lakh Penalty On Petrol Pump",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDllNE9uMXVRUDcwLUNTZ2xMTkg4QXNzTzlBRC1NWkE4bUx5MlZ4bGdib3I4c0JTdHhjUnlEbW5HdUxtV1c0SFo3N0JBaE1zR255TWUwQ3ZoaVhhMjh6ZC1aS3FEcGxaYWdTWEZZNEkzT3RyOFd3RXV2aV9fLVpRMHFBZ09Nel9ucGlZdkdNeDlSVENRbnlzcEhLa2E?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 17:15:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.4588,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "High Court Upholds Rs",
+      "Lakh Penalty Petrol",
+      "Pump"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JK Urbanscapes to invest Rs 1,000 cr to build 6 hotels, plans Rs 4,500-cr housing projects",
+    "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNM01ZeVR0VkxQcFVobW1oSF9fMjlZakZQS2pqeDh1MzlxT3J2TzFZeEdDRklta0hCc0x6OWVQSHVVZGJXTHhzWG02SFo0LVdObjBIVFhVNmQ3LTRWQTdtb0tyZG9xaHh3bWJMekJ6V0RXUHNid3N1Tm01eG1PMTE0U2hKZFNEMGZDQzR6NWhwbmRZUUlDMUduREJyMEF3NjBtdEhuSjVsbTFQZ2FneWJNalNESmRXSE1DcHctUnlNRUVXWmhlYTYyOFpadXlOeHVPNThkdDhCN0VGUlBsZGhWUEVpQTZhUTE2T1IxUFhrNm9iazRlRW5ib085Z2dCV2Rob3ZjQ0kyR0RVZk5makIxbU5SMXNVMkltd3NyOHJRT0Z2TDEyYkpobdIB8wFBVV95cUxOaG9JTnZiT1hCVXpIMFhXTXdmZzhRU0ZaUVhVME16bm5DZl9BVGM5SkxWeVlqOTQ0U1g4UVFSMlBOa0xUaFNTUU9wQkJxSWNNaXk5T3hqdjN4ZW9tUTlOekZDMENqcDgyMHhEcGd2cFZkcHhRME5GaFpoYnhMTXlwT0dWVnhUVmtMeEI4NXpScXlOS3VIbXVTc3doaEZUT1VETFZQQjFtR0lYVl85ZUgtWnpEa0pIdWFJMUlZQ1hTblNoSXRkcDZla09kd1NXcXF0TjY3cERabTZyaUtZelYwcUxFY1pxLXNGSFBpNFdxS2NOV1k?oc=5",
+    "domain": "ET HospitalityWorld",
+    "seendate": "Sun, 22 Nov 2026 16:03:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.415,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "JK Urbanscapes"
+    ],
+    "source_count": 5,
+    "also_reported_by": [
+      "Hindustan Times",
+      "Livemint",
+      "Moneycontrol.com",
+      "The Economic Times"
+    ]
+  },
+  {
+    "title": "LeT terrorist Lateef Bhat , man behind firing at CRPF camp in Kulgam, gunned down in J&K",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUzFKT0hBRFFEdFlnbDNDR09pVkR5NGRjOUdZcFVVbFpxYWdZUk9oQWFRSVFvNDY5bENqRG9UUmVMcEI4S1ctM1BuN3N0VmM2LURMWWQxRjRBY3JMYllXN1c4bjdEQVJQbUhSU0lubWxBUkotZlFXcHF0RlNWNDJfektTYnhNbnJQYWdiQnVwbmVqaUhaR1BicDhicXNYV1RDV01SeXl0UGttXzBoODQzZEZKOFBCQjFwdllwSm5HbUVVVnhYb2hwZ2dB?oc=5",
+    "domain": "BW Police World",
+    "seendate": "Sun, 22 Nov 2026 14:36:57 GMT",
+    "source": "google_news",
+    "sentiment": -0.7506,
+    "date": "2026-11-22",
+    "districts": [
+      "Kulgam"
+    ],
+    "keywords": [
+      "Lateef Bhat",
+      "CRPF"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J-K: Poonch celebrates link-up day",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5WckFyYWdENzFhTVd1TXdRbWhRNjhBWi1ZSnFRRTU5dVFNeElDb3lZb3hfbHpHTjRhbklEVkpIQjN0ZUQ2dGtWV3pkcVJPc0pDd3JkWDlJUUFfcmxGMFZxSlRaZ3JUY015akhYRGRDRHREOFZxMDZNNjk1RETSAXxBVV95cUxOVnJBcmFnRDcxYU1XdU13UW1oUTY4QVotWUpxUUU1OXVRTXhJQ295WW94X2x6R040YW5JRFZKSEIzdGVENnRrVld6ZHFST3NKQ3dyZFg5SVFBX3JsRjBWcUpUWmdyVGNNeWpIWERkQ0R0RDhWcTA2TTY5NURE?oc=5",
+    "domain": "ThePrint",
+    "seendate": "Sun, 22 Nov 2026 14:49:57 GMT",
+    "source": "google_news",
+    "sentiment": 0.5719,
+    "date": "2026-11-22",
+    "districts": [
+      "Poonch"
+    ],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Professor Fateh M Abbasi Recieves A Momentum From Javed Rana, Cabinet Minister J&K UT",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MQjA0aEtyZVA2OVdZZ3ltY1BEcXZBdGtkRTBDMGtfdkFQc3ItYjYyTGtMSTluRDlzc0NJejZzU09DQmMxXzdSalMyNzBEbDdKS1lmVFBzVlBCc29HUEE?oc=5",
+    "domain": "AIMA Media",
+    "seendate": "Sun, 22 Nov 2026 20:14:29 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Professor Fateh",
+      "Abbasi Recieves",
+      "Momentum Javed Rana",
+      "Cabinet Minister"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "From cotton mills to cityscapes – How the Singhanias are unlocking legacy land",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTDNKZVlldDRZVjFSRXBhMmg5YXk0eUNsMWFud3p6Rmcya0FYdjBneUtjdjZjd3ZoVXNWUWlxM1pzT0NrNE5ZYVJ0eHFTdmVzZDJGRFA3aGxuYWxrVlBHUXNwcG4yajJDNFBHcFgycWJWeDhoUThqSUxsVFNpZnBfVW9peFh0SDB1RGZaRjlFa0t3d0FUeWs1eGtILWxzRFhmTWxGU0Y1NE9kXzRxYlN5cldYeHZGTFI3N3A3NHpfZlliVVlUaEowUXJTOXRfMEgxUW9tM2lHQ2YwSGFXckxBTmFxUGEtRVNnMF9z0gHyAUFVX3lxTE9aZmpKa0FfemFjR0ZKVGlaOWVWcG0zUnk1akl3WEFKSHFZTVpfelpqMEw5ck1LLUI5aV84N1RzRnhUV3liS3l2U1JEaE9JSGV3Y2hpYnIyak9vbTdCbXFEWnM0eXB1Sl9WR0prSjFHQVV6cnVnUTkyaHM5eXdDRVVBY1B3akRCMGR4bTRwZTlyM2ZEV1gzNmMzTDZ6Ykx4WGYxZnBYVlBsTXBmSHo3WE9mZndlREVuS3AzUnpRMm1kU1g0OTVadC1tazI1MElFR1psOE9HbUhTeG44aE9odzNoMm9sMGdvaWJSWFdNNkxkS3Z3?oc=5",
+    "domain": "BusinessLine",
+    "seendate": "Sun, 22 Nov 2026 15:42:02 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Singhanias"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Terror Network Crumble in J&K: 1,891 terrorists killed since 2014; Amit Shah maps integrated counter-terrorism strategy",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ2Y4eDV2Mk9zZ3RtOGh5TWdxVkZDZ1hORVRoVHVtY2JoMHdxNGRkb2NJTkE2VWNUajQ0RC1ZcXI4dFZiWE9UUzZ3dHl1SnluUjUyd3NBaFE4RW94RE5XRWdxRXZwWXVHaWl1anc2a01sNkxOcEtCdEtkQmhfQkxKU0dzOUo2eG9RaTR5NXlVa0VYUVhJRzVxY2QxcDE1LXJEeklBQldNWVFRaGdZaW9KanhxczBmRW53NHBuMHY3R3VYQmtqM3Q00gHMAUFVX3lxTFBaX3kxcHA3RFdhX2hzbmUwT1N1cWNhdFRJS1d6VXVhSTJxR3lmT2hTdUtOdk1uN3lqTGlTUF9VTTRsYmtGME50ZjJWUVEwaU1aLUQtTTY1V25OQU1mOUFJQXkzLUFUYlNyekdjRmx3UndhZUM1WHRDcjBRa2N4LVRMQkVVc1RaZ09SR2duc1hQRUJkMGQyQi1BYVhLSGFwY1hLTmdVckVnQTdTLXVLeUwtSU1UM0V6Y2F6UmQxQ3Z5bmFKcC1kQmstQnFYMw?oc=5",
+    "domain": "Organiser",
+    "seendate": "Sun, 22 Nov 2026 12:04:44 GMT",
+    "source": "google_news",
     "sentiment": 0.35,
     "date": "2026-11-22",
     "districts": [],
     "keywords": [
-      "Terror Network Crumble"
+      "Terror Network Crumble",
+      "Amit Shah"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JK Lakshmi Cement Declared Preferred Bidder for New Umrangso Limestone Block in Assam",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0VhSlRtU1RaSEYxSzBuaEV6UkdGem56cTNVWWl2TmFfaXhVTWNfXzFUUWJlOHI4X1lmOXc1VFR6SU1GeXhXNFRVa0pRZWVwUnhlZ1NWTG83cHhLaGhzVEwySzIwWno3VWNnZ2daWDVNOHZUTW40UlQtYXBTaGQxR1l5OHY4Z3duMHQ0c0t5ZGwtMHE0SzFWNjJLMmk5VzRqblE5Z01iLUxGbTFGVzBKSnZ4MWY0aHF1c0ltaWduajJVMXJDWGJFb0FYS3JGVDdLbXZ6eXc0NGZXNzg?oc=5",
+    "domain": "scanx.trade",
+    "seendate": "Sun, 22 Nov 2026 10:23:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.0688,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "JK Lakshmi Cement Declared",
+      "Preferred Bidder",
+      "Umrangso Limestone Block",
+      "Assam"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Humans: The only species that pays to exist",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLVBhVXVUQnZSSU45Q2JtbEF0a1RSQXVWVEl2S3NZeHRTSDEyUUJxMW1WTWhhQmZMUERwUS1MSlNyLXk1UXAwckJTbE03SzlpN3hzQ2V2RU56Y0NfS3FLbXdzSDlsRHA2aGFiZ1pSd0w0a0RGZWhURkR6VG5kYVFVVHQwLXppQm9OdWU2eUNB?oc=5",
+    "domain": "JK MONITOR",
+    "seendate": "Sun, 22 Nov 2026 16:05:33 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Humans"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Jammu Kashmir Govt Cracks Down On Eateries As Rotten Meat Consignments Resurface",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMmdXYnJmX1kwdVNxSE00SzJLZ0ppNmkyUS14SG0xVWdKUTZnUkFBUFhBSVdhZ0k3ZTZyVmR0dGp5c210UGYxQ0Z5bXUyZ2dGNE0zRmVNWEVDTzFSV1l6RjBXQy1EakRacmtBbEozR3l2V0QybUZxUXZ1bWlDWGVmN0Nma2xaOTNFanR0cDlrd3VaTDJNdHh0My1MZ01DS0RzMWdhOVZ1WEVSUzVnVUliZ3g1OXJfbXR5QmZBNWVYZllqcm5ONkNkMEhR0gHPAUFVX3lxTFBpODF2eWx4M0xrM2FjZmJ0NWNQSWttTzVBQUFKU0s0OGxWeWVLMDlnMFdSeGtFaHJmUktBVDQxYXVpZlUwd2dGS1ZFVzVHYmt0Nl9oNGlOXzdyNThaekpQSkdtM21uNmVnZVU0ZGhBZ0NJRUFrN1B1aFNQblFMSWhwZ1hhVVl1WVFrUUFONmlkemdkYWZuQXN3Z1dleFJwQTZ1Y2p2SUk1YlBCSmdxMnhzb1hMNlpFZ2xKQmNqcW5ycDVTN0JMaDQyNHhmMUxPTQ?oc=5",
+    "domain": "ETV Bharat",
+    "seendate": "Sun, 22 Nov 2026 09:35:28 GMT",
+    "source": "google_news",
+    "sentiment": -0.5106,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Jammu Kashmir Govt Cracks",
+      "Down Eateries",
+      "Rotten Meat Consignments Resurface"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JK Shah Commerce Education Ltd. Share Price Today | JK Shah Commerce Education Live NSE/BSE",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVWV1bFFsTWdGc0l3RTFLVGttVTh3NVR5SElVUGNBZDNhUFY5S0EyU2NvYWxhOTRTQW9DbF9DUGF1aGZybmFPUS1yT29SM1F2OWJha2h3VGZBdHcxSlFHWEE5ckFDNk9zWm56US1IeGtQMUxfMW1vdDhER3Y3U2tVOVp0b3ZwMThQ?oc=5",
+    "domain": "Value Research",
+    "seendate": "Sun, 22 Nov 2026 06:47:56 GMT",
+    "source": "google_news",
+    "sentiment": 0.7555,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "JK Shah Commerce Education",
+      "Ltd. Share Price Today",
+      "Live NSE"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "SMAT 2026: MP Hold Maharashtra For Close Win; Abdul Samad Shines For J&K Against Punjab",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLTRWZnVqellxdi1HSGZNb2xHaWVCNGxRdXJxMllBaFE0ZGpoZ08wX3VYTXlWSDE3Tm11ZWdKUTJVdmdCb0pOTnQ2RkNCWXlXakg5U1VxNkl3aGFlUFpLQVJrQW91Q1JfSGhkbHlyTEZEVjl6YVNGYVl1cmhKMVVJZWJwUUoyUjh2SDNMbHc4T3BWaF8yclZtNmNwelBnQkdDblI5NzF5b0pfd3ZWRVBnUmVsMGlNU0kzZms1ZQ?oc=5",
+    "domain": "Ommcom News",
+    "seendate": "Sun, 22 Nov 2026 14:06:08 GMT",
+    "source": "google_news",
+    "sentiment": 0.5859,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "SMAT",
+      "MP Hold Maharashtra",
+      "Close Win",
+      "Abdul Samad Shines",
+      "Against Punjab"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Cricket match squads | JK vs TN, Elite Group B, Syed Mushtaq Ali Trophy Elite 2026",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVzZvdkxrYlA0ZHY0UTA0QkFua3N3a21sV1pqbjVQY0pUZGhrMkVva3lTdGJ4QWRMUXlKd19YcGJfQTFhVGlFWGNYbUFnd0dMa19WNXVkRjNwU1FNNklMSllEUUVZNThEZFhuU0xZREJuOU9rRGs5eHFIcHdqNk9OTjlYSWZIWXVEakdLQXJyaDc2U3JkMjQ4YXNvZE1HaW1KdDNJNzBQN3BVbnpQeWFF?oc=5",
+    "domain": "Cricbuzz",
+    "seendate": "Sun, 22 Nov 2026 06:08:25 GMT",
+    "source": "google_news",
+    "sentiment": 0.3885,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Cricket",
+      "Elite Group",
+      "Syed Mushtaq Ali Trophy",
+      "Elite"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "A General on his knees: when humility becomes the highest form of leadership",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWm9PMlRlbFI5TllGcmlUeWxFS0tiOTkzV0lrLURBNjBsVDVzMlg2UUVYd0E4S25MMmtvV1JLRUo3aXVtMVVOYWpyd3BVeHBGdk9FNFZBTThKNmRNakdJYkpMRVd2NWNwRDFtVXo1VFFJcG1PdnpRdE5tTFhkeWotMlltZTEwdzloTFppU3BvQy1CYWJwd3lwQlFNZUV0cXNJaVliUzAwY250R2t6ZWx4VkI4Q1NqRHlnYUE?oc=5",
+    "domain": "JK MONITOR",
+    "seendate": "Sun, 22 Nov 2026 15:38:09 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "General"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Exclusive: Relative of J&K SPOs Rashpal Kumar and Bhabhi Chand Thakur speak to OpIndia, expose role of over ground workers and local mosques",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd2NENkdicVUtV3Z0OFhzSmx4QUtmMDFXeXFGYlZ5bk13RzBFZWcwRG41UVdTRGdSa29GVjVOOGN6Z0loOTNiVFFhV3p0TF9zZ2YxQVEtT0ljdmhmZGVXOVhLbTdsNDJNMHM5OHVnSkdBb1hodGpqUlgwS1lzOExZdHRPeUZFMlNOcEVkSWNvWEhpVEdmdTZNRjdYa05KTGRsRDYxUGM5UlN6bFZQcUpIWExvSXZNYnBneHNGZG5JeHJhdlFMY05vaXZvQm1qbUhRWUhZaVlnckF0U3lZZkhFOURpVUY?oc=5",
+    "domain": "OpIndia",
+    "seendate": "Sun, 22 Nov 2026 06:37:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.0258,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Exclusive",
+      "Relative",
+      "SPOs Rashpal Kumar",
+      "Bhabhi Chand Thakur",
+      "OpIndia"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Grand Nagar Kirtan taken out in Poonch to mark Prakash Purab of Shri Guru Nanak Dev Ji, devotees participate with religious fervour; Gatka performances and Gurbani Vichaar mark celebrations",
+    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPdWZkNkRLRE54dUlGSWNrUG90WmFVSURmVmhjSDNmdG5DckZkcS1qLUFUbnVMbFNvSUFWcmJaeXMwR1ljX01wNjBkX0JrbzRaMFkyUFhwWVBHTlZKcUtFcC05X0xnU0N1VWZ2WE1sWGZJMFhLMGFhVTNQb0pyQUtpamkzdXJxX0UzeG1URG9HQVZWM1V4UWtXcEZPOXpGTWxUWDVKNTQ5NEJzRW1OWXZabU14OFkwMGNxVGRWLVc5R2xqWG9tS2hFei1Oa21DaXFBeUthRUdpcFdEOG9aNTJsaXBEM2dSQnRLMHNJM2REcGEwSUxaS291eERtblgybEoySW5oRnhnM2ROeVFvM2hXUWdqY2M1OS1kSGFIOTZCM3lJamVUVHppLVdZeElpblpxd0FR?oc=5",
+    "domain": "JK MONITOR",
+    "seendate": "Sun, 22 Nov 2026 16:26:09 GMT",
+    "source": "google_news",
+    "sentiment": 0.501,
+    "date": "2026-11-22",
+    "districts": [
+      "Poonch"
+    ],
+    "keywords": [
+      "Grand Nagar Kirtan",
+      "Prakash Purab",
+      "Shri Guru Nanak Dev",
+      "Gatka",
+      "Gurbani Vichaar"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Jammu Links News"
+    ]
+  },
+  {
+    "title": "First SCO Civilisational Dialogue Forum – “Purana Qila”",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ1RVQzZ1WFRZSTNRbkN2RExGTy1tSVREWjJSYnNpUmtoaFRZeGZxX2pacmpPTHpjS0FQNFVoMmlnRHBjNERSQ3NxRXFicHE5bUxPZnJTYWd5UF9rQ2hxTE1fMGxNSkJTemdSLUduVU04WnItb1hUd25CaG42NVVxVDdB?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sun, 22 Nov 2026 13:38:03 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "First SCO Civilisational Dialogue",
+      "Forum",
+      "Purana Qila"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "AFMS Achieves J&K’s First-Ever Deceased Organ Retrieval at Udhampur Military Hospital",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZVQ1QWtfb2ZmcGRrRmsycWw2c2p3YUlQUlhYeGdwY1BFQkY5dnJJcDgxRFFWeV9JeXhXREFqd3Y5TmNEVnlDSlFiSWFQbnZtOWd2a29kTDgwZkFCZHdFaVpTbmJwbnN4bDFtdlVwUGZ4WmlIbnBWbjZkaWcwYzA4ZFQ3UXBZZURkUjB6a0RhNnpfYzZoS1MxbFJiNV9qVU90WXM1dVVFbG1EbC1UWnRta0swUTFUTXNsVmJTWHp3?oc=5",
+    "domain": "SSBCrack",
+    "seendate": "Sun, 22 Nov 2026 08:11:22 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Udhampur"
+    ],
+    "keywords": [
+      "AFMS Achieves",
+      "First",
+      "Ever Deceased Organ Retrieval",
+      "Udhampur Military Hospital"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Shop SSBCrack"
+    ]
+  },
+  {
+    "title": "Video call, and a ‘no’ to surrender: Kashmir’s last listed local terrorist killed in Kulgam gunfight",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcUhPQkJibm9rbG81T09aaWxWcHdFX1pTRXFiLVNtUlBWY1lwQ1c2dGxfRjZGSzdBTDZaeWJJM1FHYW1nR2xDSThXTUszMFBORl85ZWhEeGEzT09FMlVZdkZDZ0otOFJvNmpYeWoyNHJuSF9qSmNYTFVtVHM0MjFBLTJEb2g4Slo4aGdZWGRFTGlKMDVZMWJzdjNDRXhHS21QaFc1LWEwUkJsTzZpcC10QU42R2Z3R1kwRGtWd0RkUjZPdnpSNlVFTzVPTENRdW9YU3ZUTFN6R3dIcHPSAeIBQVVfeXFMTXVKLXBVQlpUTlVaVi02OFhMR0dUV1dtNEZCVGMwSTkxQXFPTUtKVzUzRUlNYnpUYTIzMmVRT19yOVlEM0N4dEdEek0tV2szc2NXanBESWVTM1pkNTFoLUd0d1ZJNTl0ZndDdkhkWW8tREIzdk1mTF9aZnR0N1JhUHdLQ3dPVzlDS3gydVVpNkRiX0dHMVBpRFl4S2JaWGlDSFNqSGVPT3d4aW1EZVNQbjBlcjFoMzNJZUNudm14TV9XSnVBOXJncmNhNTZITjZ4ZjlzeEczeDZnTlcxMklvRzdKdw?oc=5",
+    "domain": "The Indian Express",
+    "seendate": "Sun, 22 Nov 2026 10:49:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.35,
+    "date": "2026-11-22",
+    "districts": [
+      "Kulgam"
+    ],
+    "keywords": [
+      "Video"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "79 YEARS OF BONHOMIE | BONDS OF FRIENDSHIP, POONCH DAY CELEBRATIONS 2026",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZUpocTlIWDlncldNZ1RTUmZMakcwaVJ6czBaY2s5M09ESHU0cEkyaVN5Vm1DdHREQWlHOEFsd1VKdkJtZjUwN3dScDdCV2trNzg3RDc1MDk1LXVTNndGR2ExdVRsNTNmUVFiejZzOUxDb1BnX2x2dXAyLVk4N3ZhQmk3NjBCNllYWjkybHhyZW45Yl94YmxiSE9R?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sun, 22 Nov 2026 14:28:04 GMT",
+    "source": "google_news",
+    "sentiment": 0.5622,
+    "date": "2026-11-22",
+    "districts": [
+      "Poonch"
+    ],
+    "keywords": [
+      "YEARS OF BONHOMIE",
+      "BONDS OF FRIENDSHIP",
+      "POONCH DAY CELEBRATIONS"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "J&K Police Recover Heroin-Like Substance Worth Rs 6 Crore in Kupwara",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORzV6NnVZcUpTYVNsRGJvaXVtaHlnWDNIeEVENnhYX2lCWEdvS2xCLWxuX29MYTkwdDh4UEdDbEZXVlUxbS1rNmVzWXNSX3F5ZC16cjdKenhySjRLU3hqaHhPcUVhdy1CUFRuNXZkUTYtOWg2aE5XdXdzQU94bzl6b1JZZ0drUG0tTDhr?oc=5",
+    "domain": "Hindusthan Samachar English",
+    "seendate": "Sun, 22 Nov 2026 06:20:30 GMT",
+    "source": "google_news",
+    "sentiment": 0.17,
+    "date": "2026-11-22",
+    "districts": [
+      "Kupwara"
+    ],
+    "keywords": [
+      "Police Recover Heroin",
+      "Like Substance Worth Rs",
+      "Crore"
+    ],
+    "source_count": 4,
+    "also_reported_by": [
+      "Jammu Links News",
+      "Kashmir Dot Com",
+      "Rediff"
+    ]
+  },
+  {
+    "title": "Jammu And Kashmir Services Selection Board Tightens Exam Security After Cheating Racket Busted",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcDVlanIxUjN6QW9HSnJmdkpWX3hRSE5fVjFnaS1kTHpWZUNRTmtDbDF6Tk1hMW5RcHVQYk43Ymw3MTVKWGFESkY5NjBjaG51S1B0ZHoxYWQwVUdzYXNhVnFZUnc1Skh2S01XdjV2X0czbkFtQW5jSGY4aW5pSVpEaXJ3aS1JWTJKS1JpRER0NDVOVV94TXZCRkxSMW5tcVRKbDdIUU8xSXRqM0J6Z3dTUW5HUjVLQnI4Z3JPSlBEaUhIcjRpeWQzNkNR?oc=5",
+    "domain": "NDTV Profit",
+    "seendate": "Sun, 22 Nov 2026 09:33:11 GMT",
+    "source": "google_news",
+    "sentiment": -0.296,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Jammu Kashmir Services",
+      "Selection Board Tightens Exam",
+      "Security Cheating Racket",
+      "Busted"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Woman from AAY household sells cow's calf to pay Rs 10,000 power bill",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeDFQMDJYcEI5TXpiNUk0Nl8zVlZaNmVwVUU5S1pnRHhsbU1VT0xtVDg5a1k5WDNHUDR4VEIwS21lOHVpa19NN2t5NWZWN0F1aEUwSTdoQ0ZVQ0hqRm5zbzlHMC0wVjFxSFFRb3pkYlV4cWVORkljWVp6TzRrbEZ6UnpfWk8zNHZ5WVo3NE00cWdYb0Y3ODhiZC0xMzRZc0hVUTFDVHpR?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 16:51:04 GMT",
+    "source": "google_news",
+    "sentiment": -0.051,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Woman"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Brighter Kashmir"
+    ]
+  },
+  {
+    "title": "Students intensify indefinite strike over J&K recruitment scam despite cold wave",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPcFY5X2EtMmstSGlnSWRyZ2hLNXc0M1pWMjl0TXJONVNWSEM4TTRTSjMxV0NEQWdmbDZSVHlMaHNneGRfNW9oekYxbjRNdnlfTWZFelBqQnNnSVBQNFNHWU9GWVZaMEpMRThIQ1h3c1UyWm5Dc1d6cjdqWTY5aFVsQ1Q2ekVsajBTQkFOV0hReTR6VnJobC1SQXRhazZzSFZfdERSMTd4OU8xUQ?oc=5",
+    "domain": "FlipItMoney",
+    "seendate": "Sun, 22 Nov 2026 05:59:30 GMT",
+    "source": "google_news",
+    "sentiment": -0.6908,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Students"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Amit Shah congratulates security forces for neutralizing Lashkar’s last known active local terrorist in Kashmir",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVmgyUUlqY1pDSWpTNEdaMjV4V1V1R0QxMDRtd2NnRzNLWDcyaHptZUNnbDJFTHBHREt0VE9JUEZrYmplVnVXT05SOVM2Tl80UVZwSXN1RlJEQ1Q1NEZnZm42dmxUWUZydG9DZGNkUDBzdU12TTJCTEtIaEpKenNrNEpORmRpSHMzanc5TFR3aTNwSVYtaEVTRUthT3BESjdiVmRBV25xWUpTeDNrVjFKS1djN19qbDhETmhmaVpUTF9Td25GSWpvVk93TTJ5YUdobVBFU2MwemI?oc=5",
+    "domain": "DD India",
+    "seendate": "Sun, 22 Nov 2026 18:25:58 GMT",
+    "source": "google_news",
+    "sentiment": 0.35,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Amit Shah",
+      "Lashkar"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "PT Malindo Feedmill Tbk (MAIN.JK) Seasonal returns chart",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5kZUJIbTlCY3FyRHdpcktOUUdnN2JZTmhoclFoUjhOYnczcmtXUE5zWEFmaGo3OWIxQWVHLWRhbWdCSnpmZ2VqYlVjLWxsV1ZyWWt4ekp3QllhSkFrbUVCSXpRdWdQdw?oc=5",
+    "domain": "Yahoo Finance UK",
+    "seendate": "Sun, 22 Nov 2026 03:36:46 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "PT Malindo Feedmill Tbk",
+      "MAIN.JK",
+      "Seasonal"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Youth Must Be Active Partners In Governance, Nation-Building: CM Omar",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdUtScV9PZDYwVWhPcnBqbFR6Z0lWSjhHQVVUcEIwZXhBSUV2VmFEMEVuNE5SMl91UHFubTdCT0hjTmRqRzlJSTRJR0dSN3Z4SXRtVnJIY25sbkp4SnN6c1NLRkYwbDlFLUQ5OUE3MG94WElSQ2FUbEh6LXRpVzREZmZwQWM3dVhPa3dWVzVGcGFGdEdYaEpvSDNrcW1jTkUwcjByMjc2ejNJbXM?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 05:25:27 GMT",
+    "source": "google_news",
+    "sentiment": 0.4019,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Youth Must Active",
+      "Partners Governance",
+      "Nation",
+      "Building",
+      "CM Omar"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Yawar Mir congratulates newly elected BWJA team, calls for independent platform for journalists",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1dpam4tY3F1V1RYTXVwWFVyMXA4ZEFabTVTSzdzM29kejluU2VnMkt3VXg4aXJienpzMDF2c1VJUXc2Q1FDTVVKY2gwcGJacG41amM0SEdtRXdOb05HbHNNU1BDTURiTE1iUFhfekZ4YmcyVHpDbG5RNENwVWdPVnRjdXRuZTJLQ2RQQWFWWTE0YkNyTHBaOFpoZ2NLQ1dMbTJBMU54eTFYRnlJXzg1UzlrQ0ZSWGl2RzYwVVpmRll0bEdGd1JqcA?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 14:03:24 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Yawar Mir",
+      "BWJA"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Kashmir’s golden crop: As saffron harvest ends, J&K government seeks expert input for revival policy | Hindustan Times",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPcmFtRlZYa3IxTUlGQnR5cGNBRkV2Tk9ndVlUYXpGUXk4aGhWM3ZxSEcyY1V2a1p6N3gxRUkySVpDZFJXQ0FDQlNvN1MyZkZKb1EzbGRoVFVpemV3TTJGMjV1VkNjdUJOZHQzWk9CbGNacG9kSy1kSGpJX3J0Z3h0eEJXb3Fyd3otM0ZHLUcwaWk1VER0cTZsYUhUUTA0VFNGQUlkQnRha3VTWklDeDFjeWFUbXlaOEVlcm1fanM4X2p1czI3U0QzTHk3Wm5tYmRaYmNPSWhhQlFFQjZoVWZhTVYyaHE4STZRdFJXeHBYZ1BwNjR3TC1VRk8wcjBNb3JvSHdvS05GY9IBhwJBVV95cUxPcmFtRlZYa3IxTUlGQnR5cGNBRkV2Tk9ndVlUYXpGUXk4aGhWM3ZxSEcyY1V2a1p6N3gxRUkySVpDZFJXQ0FDQlNvN1MyZkZKb1EzbGRoVFVpemV3TTJGMjV1VkNjdUJOZHQzWk9CbGNacG9kSy1kSGpJX3J0Z3h0eEJXb3Fyd3otM0ZHLUcwaWk1VER0cTZsYUhUUTA0VFNGQUlkQnRha3VTWklDeDFjeWFUbXlaOEVlcm1fanM4X2p1czI3U0QzTHk3Wm5tYmRaYmNPSWhhQlFFQjZoVWZhTVYyaHE4STZRdFJXeHBYZ1BwNjR3TC1VRk8wcjBNb3JvSHdvS05GYw?oc=5",
+    "domain": "Hindustan Times",
+    "seendate": "Sun, 22 Nov 2026 02:16:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.201,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Hindustan Times"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "‘BJP CM First, Statehood Later?’ Omar Abdullah's Fiery Poonch Remark Sparks Fresh Face-Off With BJP in Jamm",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRksyZl9jRi1JTFY0OFdGX0FySGZMRHU4cE9kcnlFMVppa2VsVTdBYTQ0X2tadDIweGo0enhkTjZVZHAtZkJJdWI3QW0ySzQzSlNkT0tPbWw3MXBoRGtDSzhNd0dQcXFXM2UzdHhWUkQ0WHZWMTJpQzdUYllsdlEwSUdOM29CUGdIbUktOUxEdHpjV1djdXliZDVWX1JEZkRNb0Q3LU1nZ1k5OU9hZXlfZnczeEc2UldwemJib3ZScFlkVm8waU9xTzFHcURQWFk5elozWC1MaWx0UUJ2TzM5RjY5VEdzVnpkdFAxTm01NWhHOXRoelhkUGp0MNIB-wFBVV95cUxNRksyZl9jRi1JTFY0OFdGX0FySGZMRHU4cE9kcnlFMVppa2VsVTdBYTQ0X2tadDIweGo0enhkTjZVZHAtZkJJdWI3QW0ySzQzSlNkT0tPbWw3MXBoRGtDSzhNd0dQcXFXM2UzdHhWUkQ0WHZWMTJpQzdUYllsdlEwSUdOM29CUGdIbUktOUxEdHpjV1djdXliZDVWX1JEZkRNb0Q3LU1nZ1k5OU9hZXlfZnczeEc2UldwemJib3ZScFlkVm8waU9xTzFHcURQWFk5elozWC1MaWx0UUJ2TzM5RjY5VEdzVnpkdFAxTm01NWhHOXRoelhkUGp0MA?oc=5",
+    "domain": "News18",
+    "seendate": "Sun, 22 Nov 2026 11:35:34 GMT",
+    "source": "google_news",
+    "sentiment": -0.026,
+    "date": "2026-11-22",
+    "districts": [
+      "Poonch"
+    ],
+    "keywords": [
+      "BJP CM First",
+      "Statehood Later",
+      "Omar Abdullah",
+      "Fiery Poonch Remark Sparks",
+      "Fresh Face",
+      "Off BJP",
+      "Jamm"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "2-day Kashmir Open Lawn Tennis Tournament begins in Srinagar",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMzlhYnV5eTZIcjJVTFplbGJEeWQ1S2lvaXg0bnFic2VRcVVjREV5NE9md0kydDRLa0hOVTNUbzlKOUJUWHk2NU5Od08wWlNEWm9JS3RYdXVLWVlNOGI3SFFFNGlMenFNWmwtTjlRZUQ5Z0ctelpGT1VDcS11ZlU2YUVZTVBsYWpvdm9fREpFSE4wSkRmN2h5NHhwb1k3WHF0Y0UyTzZqWXBhclnSAbABQVVfeXFMT29QOXNSYkkzcG9XX0xqUk92dDZMVVVmZXNDYzN0THVRY0pPRnFOZG9OenU4dFdEWDNQeTFzMDkxZHZFVDl3Z3J1eHJqbldJeDVhSFRiRno2MUJGMmZwTjVTbk9yd0JhS214QVYtV3FvVmk5c1doeTRvTjE0UzZRcnBqNlp1U1ozVDd6U19ZX21tOHBPejlLcU93ODVubEJwMGNzSHB5UzBENks4NFN6ZW8?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:29:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Kashmir Open Lawn Tennis",
+      "Tournament"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Bandipora Police Launches Major Crackdown on Illegal Activities; 17 Vehicles, JCB Seized, Three Gamblers Arrested",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUUNrZWVOWWV3VmxwUmxETHc2ZS1JR2hwblZQbmkxLUJMajJNc3FBMi1vX1RIenBucDRpbEZLNjNsbEYyU2tTSElqaWh6UzI2T2N5cUYzQjVhUmhnbGtveThlcVVpalQ3UVc5ckVldGh6a2FYdmpHZTR5NVp0MEtEclBYcGVIMEZBM3R0UExGby1OdHBGNnhpNEJ2UUtna0tJOU94V0RvZkFhREVfQlljMmtpOTU3SE5IUE5DTmp0X2tNbENWR2h6bW02Q1pmMENpVDhDOHpFVGpnd2U4ek5xTw?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 17:01:09 GMT",
+    "source": "google_news",
+    "sentiment": -0.8707,
+    "date": "2026-11-22",
+    "districts": [
+      "Bandipora"
+    ],
+    "keywords": [
+      "Bandipora Police Launches Major",
+      "Crackdown",
+      "Illegal Activities",
+      "Vehicles",
+      "JCB Seized",
+      "Three Gamblers Arrested"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Shireen’s Boutique opens in Bandipora, expands women’s fashion retail",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNaFpPcHpSQVZkRDN1bHV3X3dtRzNFZlZzbmFUcE5UNUlrSmVfZ0RZNTZFQXRBZHdPaWFtX29fbTlmSXFLd1g5a3A0Vm5ZdWgzR0M2YmQ3NWs1bWxENTZKM2tpY3IwaVRpN3BITHVQRlRNNTg0NnhWLUlMUy1SOHF3enV6SXdKVDg0c0E1RWNsb0g1MEo0LTZKV2lUQzUyUmN3cldKaWV3?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 10:17:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.1027,
+    "date": "2026-11-22",
+    "districts": [
+      "Bandipora"
+    ],
+    "keywords": [
+      "Shireen",
+      "Boutique"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Three Held for Gambling in Sumbal; 27 Bottles of Liquor, ₹7,270 Stake Money Seized",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFF0SlExVVJzeEtJTm5jZXViT0FYUUphdFJqdTBZeE9QVUpaMWxXYmZfZ05EMFBxOVlUMVJsWUhxalNVMVdhMms3XzVtTUQyVjF5STFhcUZKMlRZV0E3UmFqZlpSaEVDMW4td2ljTWZTZEFFUVViNHItcG9yZlpHOUpldzU4aGljc1I0UmFVNDkwaGdLd19VMTZTYndBSzhUbTA3NHFGNXhKa2taSHc4cWcxTzZaOXUwd0xSY3ZiTkFjZw?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 13:16:55 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Three Held",
+      "Gambling",
+      "Sumbal",
+      "Bottles",
+      "Liquor",
+      "Stake Money Seized"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Teacher Shortage, Inadequate Playground Raise Concerns at Boinaar High School",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdUdYcGZVQ0sxOV9vWjhMa1dMenRHbjlNd1dQUTJ0SWswYTJfeHcwclZKLWNSc05KX2lsaHBKdWdMQVE3UmxPMmFpVURNclNCSFpLWGpKWEt0NVR5dzM3aV9QTkkyZkpjQXRWYXllR2FzOFE5QVltZlItVFFBVWtDbGs1NHBmTFoweHNtRU9uem9DczNWY2tuSGNOanpiZGxMZFFCbTJLWmhsSDdEYjU0Sg?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 04:47:59 GMT",
+    "source": "google_news",
+    "sentiment": -0.5719,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Teacher Shortage",
+      "Inadequate Playground Raise Concerns",
+      "Boinaar High School"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DC Bandipora reviews progress of RDD",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPODRjVXhVakxhSHdzLVIwZDNjWnhXSXc2ZmRuYzNBUkZKclMyY21Bd1Jla2RuS3g3UjNvaENMaWFBT2c3bnlETlRUd19HUDJncTRqckRtQjlMeW9sYzJkVmFlQjBENmFCak5Bd3FYY3VKYmpqaFlJRWZLVk1Ga0txNNIBgAFBVV95cUxPODRjVXhVakxhSHdzLVIwZDNjWnhXSXc2ZmRuYzNBUkZKclMyY21Bd1Jla2RuS3g3UjNvaENMaWFBT2c3bnlETlRUd19HUDJncTRqckRtQjlMeW9sYzJkVmFlQjBENmFCak5Bd3FYY3VKYmpqaFlJRWZLVk1Ga0txNA?oc=5",
+    "domain": "5 Dariya News",
+    "seendate": "Sun, 22 Nov 2026 08:09:29 GMT",
+    "source": "google_news",
+    "sentiment": 0.4215,
+    "date": "2026-11-22",
+    "districts": [
+      "Bandipora"
+    ],
+    "keywords": [
+      "DC Bandipora"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Indian troops continue CASOs in different areas of IIOJK",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcTdyX2NaQm9oUldlVjVzMTlGSkJIN0JMVU12OHRjSkZlVjZPbXV2ckZOM1dWZ0pPX1FlZ3p5OEJBYmRnb0VXWEd0NDJTLXcxWkxLR2ItVW9lYTNRRTlOdUV2b0lzWjdLaG90R1ZmQ3UxVVFXUkEyTnBRWlFIUlZVVFEya3REemhlbW1ZODBKUEFiN1JWSTlnWE9zUXk?oc=5",
+    "domain": "Kashmir Media Service",
+    "seendate": "Sun, 22 Nov 2026 09:36:49 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Indian",
+      "CASOs",
+      "IIOJK"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Baramulla Police Conduct SIM Vendor Inspections in Pattan, Verify Records",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeDZPYnJLbkR0YkpfM0gxa2pjUVhuNk1COHlvRlBGdVl3MEtidXVFanhkSHczZ19EU3hTRXdOSkFfWDNtNGJvSmNlRmZQRF9LTEx4MWxBN0FUVm9neUs4TGd6N0hoUHZTQV9LdTRyX3BNWVg5SGFSc3lSZXZJNlVkUTRmRTJKcXZkb0tWd0E3YU8zbGI3SDdPUVhoLUVaNWM0VkpzTXdPN1BxUXc?oc=5",
+    "domain": "Kashmir News Service",
+    "seendate": "Sun, 22 Nov 2026 04:39:16 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Baramulla"
+    ],
+    "keywords": [
+      "Baramulla Police Conduct SIM",
+      "Vendor Inspections",
+      "Pattan",
+      "Verify Records"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Adil Raza Attari wins Baramulla Naat competition",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOWxMV2gwNWk3cTBCM1pzOHVmZWZYbGNibVhqMjl2eDFDSU96WjhPRklhcTFpdG1XQnVqOF8yODRzQVZoRVdCWmlQZ1hYVTIxUDdKalJsbTR6LTZ0N0dBaENxbTNKMWItMDFUTmhxMWJ2TWJ3RkhYaHBCQnZUSEtER012dFlvUXBaYmNfN21acmZVTG8?oc=5",
+    "domain": "thekashmirimages.com",
+    "seendate": "Sun, 22 Nov 2026 18:11:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.5719,
+    "date": "2026-11-22",
+    "districts": [
+      "Baramulla"
+    ],
+    "keywords": [
+      "Adil Raza Attari",
+      "Baramulla Naat"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Baramulla activist Sahil Makhnoo joins PDP in presence of Mehbooba Mufti",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVG5uZ0QxSmxJMGhvamNuN1hhUWRVTVB2amxIUzBxSG9sOWY0SWZJdHhueFpiQVVzbjZhWDY0ZnNkM3RUV2RNRGNXLTY5U0o1c0dIVDRsZEJfeXlNdUF2UXZ3X2psaS1aN2hUbXNnN1p4NUw4RjlmUkluZ2M0bU5sZGhvdC1SbXRJVWg5ZFBZdFdESk05ekV1WUV3NHJHUQ?oc=5",
+    "domain": "Kashmir Independent Media Service",
+    "seendate": "Sun, 22 Nov 2026 11:59:18 GMT",
+    "source": "google_news",
+    "sentiment": -0.159,
+    "date": "2026-11-22",
+    "districts": [
+      "Baramulla"
+    ],
+    "keywords": [
+      "Sahil Makhnoo",
+      "Mehbooba Mufti"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "FlipItMoney"
+    ]
+  },
+  {
+    "title": "CJ visits Budgam court, reviews judicial needs",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWUZEc0phanViX01uMS14TEQ2QVlGenJIQU56ekI1Y2ZXSWZGd1hDY19xQUFpNDRDcW5adUpvQ0xIcENZMUtqM3prbnRXM0RVajBWcE9NVzJLd0hKaDJleldVam8xa3QtZ0hXS0NOZjB1dkc2NEhTT2lQVk1fb1liNQ?oc=5",
+    "domain": "PressReader",
+    "seendate": "Sun, 22 Nov 2026 00:08:31 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Budgam"
+    ],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Blaze Engulfs 3-Storey House In Budgam’s Kanihama, Dozens Of Firefighters Battle Flames",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcXlKZTNMSkpNazdHblBfQ2EzeG02RGdRNE0zLXVLczhGbWRHa2ZwYnJDcEhsNXBpMUwyUGstS0J4ZkNROHJ2RlBOWEYwQnM5SUt6WVpNc0p4SEZScjJsdlpjSG1OWGdIVlFkZjJzYzFnMFpEMjVnLWFNVU10cVN6WjVfZnBoWEtpY3lXYUZZR3ljdkNSVlhYNEhGWXZ3WmlGa0R4QUZLSmE0N1NneGFrcHdPclRURlRx?oc=5",
+    "domain": "Kashmir Patriot",
+    "seendate": "Sun, 22 Nov 2026 17:30:20 GMT",
+    "source": "google_news",
+    "sentiment": -0.3818,
+    "date": "2026-11-22",
+    "districts": [
+      "Budgam"
+    ],
+    "keywords": [
+      "Blaze Engulfs",
+      "Storey House Budgam",
+      "Kanihama",
+      "Dozens Firefighters Battle",
+      "Flames"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Two Fire Incidents Reported Across Districts Of Jammu And Kashmir Today",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaUpmZFh4anJBTE0xQVdfblVHTTlBM0lvZ2YxLUZuUEpScmFhRGhPc1ZmZW4wOWRyVS0wMWdMNmVtdlZ4dkxJSHBqUkxXeWdjUUg0NmRpdW9SSkFxQlk3QlVvaFJoR1ZCZXdJX0V1UTdMYlAxblkxZjMwcVRLYXhXb2duSHNEcm44Yl92MlV1VG9CaVQxOHo3TFZwZ180bFBWSURHRlVYNEFQNXNDaVQwS2tjWDlaM1MyY2xQcWJybzFwTnBoNTVEa0g2SFd6SU3SAc8BQVVfeXFMTWlKZmRYeGpyQUxNMUFXX25VR005QTNJb2dmMS1GblBKUnJhYURoT3NWZmVuMDlkclUtMDFnTDZlbXZWeHZMSUhwalJMV3lnY1FINDZkaXVvUkpBcUJZN0JVb2hSaEdWQmV3SV9FdVE3TGJQMW5ZMWYzMHFUS2F4V29nbkhzRHJuOGJfdjJVdVRvQmlUMTh6N0xWcGdfNGxQVklER0ZVWDRBUDVzQ2lUMEtrY1g5WjNTMmNsUHFicm8xcE5waDU1RGtINkhXeklN?oc=5",
+    "domain": "Asianet Newsable",
+    "seendate": "Sun, 22 Nov 2026 19:00:03 GMT",
+    "source": "google_news",
+    "sentiment": -0.34,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Two Fire Incidents Reported",
+      "Across Districts Jammu",
+      "Kashmir Today"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "In Chizami, women earn the same daily wages as men",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjFtcFROb29wZ1p1ZllNYkxYQy0wN29mdEpxdEpTdGs4N0dDd2dvcjg2NkM1VUk3SzJ5c2h3NWp4dlVyRHBSbUJydU5mZXNoeDZtUEtiY1ZCRS1iN1ViQk1kRFVoZEp3OEVJWUtwVjE0SENYOFBxVXZTcFZSWnlUNy0tRXJ4SklRdk4wWGVJQ1pWRThz?oc=5",
+    "domain": "India Development Review",
+    "seendate": "Sun, 22 Nov 2026 15:22:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Chizami"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DC G’bal reviews functioning of WMDA, takes stock of lake conservation",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdGdRU2xkSDV5QS1US1c2dk1GbEhmOGJZVkFKR2JZTVF0RTRpeEpVTFlvNDRIM204YWp4Wnd3UGpVbkVuSXhmVHU4ck5Pay1TVWtpaWIxbjZ4Zjg1ZGpGYzlrOFF4QTdZNVV5dW0xRFc4VGVzQXcwbEllRXF6VUNEb2tnc3k2TWpFSTRoRTZIMTdqa0tIdElIVUNEd3k2cDV6RXRtR0NaS3Q1NVdIek9PcWQ5WVhtUkItcGlSU211RUhvemphaXRSdUpZWUljZlk?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:07:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "WMDA"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "‘Run for your safety’: The final hours before Lashkar’s Lateef Bhat was gunned down",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdUY5eEE0VFNyTHBYQ2VkRkZtSVlsQTNhM0NwUmcycWpsVGd4VktQa2MzRl9oZmpWeDNGRDNQZGpqRzZGMDlNeEc0eXd3Zk9kR2xDdHhkSThOdEhTS2F2dzFtM1REVVIwVVROQmZhcHJYdHBoV1c4dUQwVzRBcWJONjNDN0JJbTdYbU9qOXJZSC1tOVBULVo5akZrQnEwZG5uTlNTS01xcmlOYVRGZzY1VFJZcE5YSTFYdVlIZ1NPVUJYTWdvZmxCdTRRWGE0T0t3VTZDc1dlNNIB3gFBVV95cUxPZkhyOUhCVjRRbjR5cHROc1BhM1l0TENIU0lycXBqY2lDNnBxT2xXR1hrbUdycE44cnhxV28xcHNKcW9QUHhubkkxVy1pbnlsa0JpRHRPRjUxTGExVklfWWc0YUUtWHgxWHdBLTNLREhNU1VYYTZxQVN2Vnc3RnA5Vy1pN3JIQnJrZlZ2a1o2M2c4OXZZeVd6U1RvYnNDWjR5SkpMMjhYdEtUTWtfcXRCSTZrOW5BdFpHUkFBQUFIOHd0SHJYNTF4b2JHSkFWWG81TmM0ZlkwWGxpQUQ4RUE?oc=5",
+    "domain": "The Indian Express",
+    "seendate": "Sun, 22 Nov 2026 10:55:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Lashkar",
+      "Lateef Bhat"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Last local terrorist killed in Kashmir. Why security forces aren’t celebrating",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQS1hUlJoTjRRX0JuSHZrQ0dXVl9XMFFUMVhHUUFia3NBWU5ySnI2eXJFLU9jTDVBU09mLUJOblNtajlubGUxLUhFbzE5YXl6TjVSRER1eTdQVVJkdTlLRzl6Z2hWMFR2UVZvSGU2dXRvcEVhdUhVamZuWm9Jd2pfQkRqNWpzX0lUUm41UjJBanNQQ1FFeGJheEFXNFZiLU11T09wUlN1bGJjS2h1cmttTXh0aGZSb1B4TGZwQTRoS2pLRGQ4N1pxbEFCMkNvVnJla2k3bmkxelppRUloSUHSAeQBQVVfeXFMT21nMHQtdmRJQUprRjdVRXhnWlNqUW1nN1N6clAzRWhVVFV2UmJvNEpGSkdyYW4xTmh5QWlnd1JXazd1bGlIMDR6Qk84SnFHS3JCeFpWQk0wRVg5SGZvcEtKcFZoTml5MXFHcmNqY2kxTTlKOHdTbFNtbnlwUEdwUTVvNi1tLXlhX3JWQ0tULVpiNldLbnNOamdMQl9TWnFwbnc2ZWF0dnVIcmd2WjdnanZ3SE9fLWZ1QkZsVzZuVHBqQU1mNjFvdW5HMjNtZTRBamstWTRoV25fVkxiMnpvQzNCZ01O?oc=5",
+    "domain": "The Indian Express",
+    "seendate": "Sun, 22 Nov 2026 04:52:32 GMT",
+    "source": "google_news",
+    "sentiment": 0.35,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Last",
+      "Kashmir. Why"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Repeated Surrender Appeals Before Retaliation: How Kulgam Mosque Operation Reflects India's Measured Counter-Terror Strategy",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTjdCQU1aYmlSRzlvS1JHaHRqQk9DOXFaSUR2NVNXNTRUbGdkSWxwOEpSTkswdFNVNExjVEVjbVI1ZmVzRkN6WEhBcEQwV21mNHUxNXNYZnFnUmlBYWltMXExeXRkZEJLTkIweUhjeGZZUm5YaUNmc0lrNkxySVF5aG1jRUpxM0dPTHZwQTFNanRYQkVOci1odDMyYTRQdlluQUJHcnRLNTRGbFZiTWc5X3dLWVBscWVFZnlVMVQ2NHBLM3BoU3hDeWViLVAyNGFKbWVYd2ZCNGpVMno3M29RVk42a0VOMlhTdS11TmhsVGZiajVsRWZOcjdB?oc=5",
+    "domain": "Defence.in",
+    "seendate": "Sun, 22 Nov 2026 17:16:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Kulgam"
+    ],
+    "keywords": [
+      "Repeated Surrender Appeals",
+      "Retaliation",
+      "How Kulgam Mosque Operation",
+      "Reflects India",
+      "Measured Counter",
+      "Terror Strategy"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Kupwara DC Abhishek Sharma Orders Hospital Probe After Woman’s Death, CCTV Footage Reviewed | N18V",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE8xUWpQcVhyTEZ0OTg3STd3ZWwxM0dnVW1pNjVBQVJZVjNGVnBHbzZxRl83Z2EydF9McHhGMXFLUGlEdw?oc=5",
+    "domain": "YouTube",
+    "seendate": "Sun, 22 Nov 2026 15:00:16 GMT",
+    "source": "google_news",
+    "sentiment": -0.5994,
+    "date": "2026-11-22",
+    "districts": [
+      "Kupwara"
+    ],
+    "keywords": [
+      "Kupwara DC Abhishek Sharma",
+      "Orders Hospital Probe",
+      "Woman",
+      "Death",
+      "CCTV Footage Reviewed"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "ADDC Kupwara conducts extensive tour of Kalaroos block",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYUQ2UVhpYjBodXZ1MTBSbFNJek9kLWxJOFhhOUlHbjduMEZFLU9sMVUzMnBuOGNNc2JHRXRSWUdhc2EyRkt6NUI3dmpfby1PRF9sUF9RbDUzX013WFU2TU5SMEdidGhWUF9qN21UaFJnUUFJOFp3cWtja3JIUjZtbGRSVXRwbTFPdlBzby1FWQ?oc=5",
+    "domain": "Jammu Links News",
+    "seendate": "Sun, 22 Nov 2026 14:55:19 GMT",
+    "source": "google_news",
+    "sentiment": -0.4404,
+    "date": "2026-11-22",
+    "districts": [
+      "Kupwara"
+    ],
+    "keywords": [
+      "ADDC Kupwara",
+      "Kalaroos"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Pulwama sports stadium set for Rs 3-crore upgrade, floodlights and expanded seating planned",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbnp4eXpOVUJmMWZPbzVDRUpKOEh4dU8zZUVEVTJNMjBQWDhSSzdNdkRObmktcUUzNkswTTlFU2JNd2pMbVNXUzVxekU0T2JKb0VNTzFzeXQ2ZkI2YWhxcWQwR3JHZzRyOFpPc1pkb0c1cEN1UHhJLTBDYjZwTWZ5cGo2d1BqdldhTGdZYzM2XzVfOWFWaXVvUmlyclp6MldENWRZQm8xWUFObUZndXQxS2JZcHFSTlNlc1BtaFZ0eWszR2xMNXc?oc=5",
+    "domain": "Kashmir Vision",
+    "seendate": "Sun, 22 Nov 2026 03:45:50 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Pulwama"
+    ],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Tobacco Free Youth Campaign 4.0 launched in Pulwama",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb3ZwcjdRNmZRMUVjTC1Sb2t4LUhFUU5OMmVXd0dwbjJvQ0FaeHZGcTl2UnBaSUU1MGl3c1hZcjdMRUgxWF9mUjJCbV9QRXhORjJFUkxhWFNCTzFYQzZCZ2pOb21MMVFPTTRUZGFrM1FONjE5VGlna0g0YkZ4b2hOZERtN1NFeVczaDJscHpsLURQeVBIbFc1eFhvSFA5QXpsVm1jRUdFQW5rYXlQdDJmNkpTYTlSaFE?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:06:15 GMT",
+    "source": "google_news",
+    "sentiment": 0.5859,
+    "date": "2026-11-22",
+    "districts": [
+      "Pulwama"
+    ],
+    "keywords": [
+      "Tobacco Free Youth Campaign"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Min Sagar Assures Traders of early resolution of issues",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZG9yOVQ4ekk0R2NoZ2ZFWXJ4cUZSUGhQZDlsWUIzbnZZcXhSZlFBTkI2LWFHN09ZU0h4LXktR0Npb3p2OVJUV0R4S09JbmdyZm5acGU2Rko2NFppMlZ2WEI0dkVSRW1pRUh3STZyLXVjeVh0R0FIY0QzSmlKQnRBQWZ1QmhkTFY1elBZ?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:08:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.3182,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Min Sagar Assures Traders"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "NC failed to address Srinagar's issues: Apni Party",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQXzREYy1kSnUxTklzbUUzUGlwRkN5OS15X2lhLVBmVTQtUDN2cDZxSDc1bElhZW8ySU9MaVhaQ3FPdmM2b0EyTDB0c1ZKQ2hmRDNYYlYxYXBTQ1Y2b1FWSkx5WjhNbW8tTzRWbEFTYUJKaHQzaEZ2YjZhZlRxb1RCSDRaZFBZdGYzc2FJQnl4SXh1VWZldHdz?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:11:37 GMT",
+    "source": "google_news",
+    "sentiment": -0.1531,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Apni Party"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "On Freezing Srinagar Night, Former MP Ruhullah Joins Students for Indefinite Strike Over Exam Irregularities",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUpNRldtcVJsTXJvZVhNbEFHUmhJd0JfQXF2YUhUMy1IeVJQcm5mSTlCOUQtNlNQbzA4SEJrR3pNUDQ5azlUSnlfODJoWkFMV3N0SzM2QmZqTkVPODN6cEVacUFYam9Ha0JPYzRwUnFOMnRBRS1yUWJaOWlGNmFsTTV3RWxpOUlJbThkeV9vMUFiRWFKTWRyYmNmekc5ZEh2X2dUY28wbVFfMktPXzJoM2g2bXZNSE1OcG9CZ2hfeUxqcllTVzVFcnc3NTBJZ9IB4AFBVV95cUxNME5uSnMzb3J6UmxKdExTSFN1S2dzN3MtVW5TVW9lTkg5bmszRFJXVmdhS2lpc2FTSWlKZ3psRER0SnJIdnEwa1BTa3pTODF6ZzRQbXVlVlduVEd3M3ZORmtBVE5fSGFiXzFWUUVrai1kWmExWjhCNFhWNjBxeHlJNWhxTTRlMVY2Q28tTUdBWWZiMkVhQ1NhWnpwanBWeXNzT0JiSjJON01xMUgxbXUzMjZVN3pEbG5wQTNabzNqYWxmbWlvaFZGQ183UEtvSE9OZXhVZ2lvV0FoT0pKMUNtQQ?oc=5",
+    "domain": "TheWire.in",
+    "seendate": "Sun, 22 Nov 2026 04:32:46 GMT",
+    "source": "google_news",
+    "sentiment": -0.34,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Freezing Srinagar Night",
+      "Former MP Ruhullah Joins",
+      "Students",
+      "Indefinite Strike Exam",
+      "Irregularities"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "CISF, IAF, airport agencies participate in emergency mock drill at Srinagar airport",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcG9aaG14RUQ0a29oRkdVX1BKdk9qNHVEYlQ2dHM4eldzM25ZQzlucHdMTGFwZDBFdW80TXAyd3N2T1hCVmhCR1ZOMzFVQ2JETldzOWE2LXRnSV9FOXFmdWtMeGMxYlNyTDJlNkRKdWpJTUlEWHM4WmVqT2Z0eXpFbi16Sk5oS0NnZm5mdTQ1b19xWTYxTzdMclFGVlVYT1pPRHBRVExOemNsYmVXTkNGbTlEUmlZaHFtZEE?oc=5",
+    "domain": "Kashmir Vision",
+    "seendate": "Sun, 22 Nov 2026 11:50:32 GMT",
+    "source": "google_news",
+    "sentiment": -0.66,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "CISF"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Kashmir Independent Media Service"
+    ]
+  },
+  {
+    "title": "Maj Gen Mukesh Sharma Visits NCC Complex Srinagar, Reviews Training Infrastructure",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRHg2Q0RQTTlfblM4Tk1YeF9yVzdWYXRmd1F0bkpXZkh6aURBUDV2UzlSMGk0aTVtVnlBSWJvVjk5Tk83XzJoTWNfZ1R3NjlENnR3SEVDOGJUem54cS02WlNRdGpubnlMeVJ3ZWVsVTA1dUNMYktDM2laQXNyRTI2akNzQzBxbXJFd29TNmxYanJvdUtwS1NrekpSMUk2V2R0S19oQXRfWGhaWXlZXzFHTnFSeHVKRktIeUhV?oc=5",
+    "domain": "SSBCrack",
+    "seendate": "Sun, 22 Nov 2026 08:16:27 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Maj Gen Mukesh Sharma",
+      "Visits NCC Complex Srinagar",
+      "Reviews Training Infrastructure"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Shop SSBCrack"
+    ]
+  },
+  {
+    "title": "GMC Srinagar Restricts CCL, Earned Leave Amid Staff Crunch",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNN0V1S2JUR25lVUF2MmFLeGJSNUdNNWlVZy13WjR1aEFrajdyRVpwOHozeHlueFh6THRYaUIwWUlGbmtDT3FLQkJZYkc0NlI3NDFhRGVWSzZnREx6OEh1QTktMkgxRHNjbS0wbkdOZW9Xb3NuUE42bmN5MlF4ZmFaZER6dFRJZVNPSHh2NFBmX3FLOTA?oc=5",
+    "domain": "Kashmir Life",
+    "seendate": "Sun, 22 Nov 2026 14:59:48 GMT",
+    "source": "google_news",
+    "sentiment": -0.3612,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "GMC Srinagar Restricts CCL",
+      "Earned Leave Staff",
+      "Crunch"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Audit Diwas: Plantation Drive and Environmental Awareness Programme held at Govt. College of Education, Srinagar",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQOWh0UXFaTnYwNVFFT0JKWEoyMjlMWDZseWQ1U2tGSUl6anM5Z21NUG0ycEFKTGsybVZyQk50alMyNnJaY2RMZWVxbGZJMHR6SXdjTi1BM2kwZVNRMXZQdGZZR2VDRFg4UjdKRkxKbHJyZ05zclRUT3V0amh6MEx4MGlBTnduSXV1SEQ0Z2FiN2FJdUtrZDlNcFR4N3NMb3ZhSnh6em9WWjltMjdrNU04WVgwRXFLamZVUlZWS3NYcnR1Qk1PWU1VSEJuQlg0UFRvUERnOWp1aEk0QjcyNWhZ?oc=5",
+    "domain": "Kashmir Vision",
+    "seendate": "Sun, 22 Nov 2026 11:54:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Audit Diwas",
+      "Plantation Drive",
+      "Environmental Awareness Programme",
+      "Govt. College",
+      "Education"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JKEDI Srinagar concludes management dev program at Balhama",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeGV0bkYxMXpmMVlXMnRxVXV5bHc4YUNkUmhHVkM5cERjb1lmUU5uSzB6VWI0MnA5aDdKSEgxT290bFhFMTBNbjhxeFc0ZkFmN0R6eV95VU5wR0NlQUYtaXZxY2xlSzdHZkhlOWw2TEF3VkkxR194RWV5azN0WWhwRzZnbzZHNzdGbTZQTzVrUUNBODZYbkQ5NzZnSXRZYlE?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:03:15 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "JKEDI Srinagar",
+      "Balhama"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Srinagar’s air quality sparks confusion as official, private monitors show stark contrast",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNHhSNUVLM0k4dE9vbTNtbVN2eWtWb0ZoaG1nZTZQdnR4Z1lFWnN1NV9DTWZTV1RhQTVPRVVyeGxtd3NMaGx2QUk0dHJ3SVlqWmpGaktNQmlTQ01xRzdrZ290eGZ4dGVZVDcxM3FfNUl1U2VHNDY2a1djU01uN2hsLW8tbnR1am9QTGZ1Wkw0aG1tVHA3TGJBd08xaEZpSFlZejZjWm5Ydm9HeXdIMHdWNEwxcHRnQzYya0NocERHeFBySHFYTVUwQzJvTmJhUkpxWVHSAdcBQVVfeXFMTWo1dXhfb2VWTV9qdjJKcFlxMkdQd1BDQ3NhVURhN0d4MlNtRXQzRWRybXF5UXBjYkE0eVBNQWVRdnp3SEJtZXhHbVlLNHNxX0N4SlhkVUUyWFZ1UEF3S1pWb2kyOE55Z290MVBhTlRuODRkdjk4eUFkTkVoUnp4SHliOGwwZzBwUzYySXJ6Y3VoRjZhSmgxZmNweHNkZWx2ODVDS2FoTWNqSjZqcnIwZ1JTb2NsT0c0RVczQllYZDRkWHZ3NDZWWk5zd3BVM1hYM013VkZiTFk?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 01:40:07 GMT",
+    "source": "google_news",
+    "sentiment": -0.296,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "NC has failed to fulfil poll promises, neglected Srinagar: Ashraf Mir",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVExGN3dVb2RTVGxBYWx0QTlYX0pGWnJRVFFVTC1NNVJLZ2J0UzZBREluNWRPWUFFdTRRbUJ1S0xWU0NMWWFUb25ocWk1THF5U3ViZi03NXdiZXZVRTBiSGxBTjk4TXJTMlVkR1JjdmhKNm00Rmp6RHJxMUJnUDNFdC00ZzdJWHZRSnZRaXZoLWkxaFNPVVczWXJQa3NVS0IweFE5ZU9GTFVMS0Nk?oc=5",
+    "domain": "thekashmirimages.com",
+    "seendate": "Sun, 22 Nov 2026 18:14:37 GMT",
+    "source": "google_news",
+    "sentiment": -0.6249,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Ashraf Mir"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Full-Scale Emergency Evacuation Drill Conducted at Srinagar Airport",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHN6UENodjlJZWkzLWFhZTY1emd0aVlSb3lGVjZzZC1SbzNGeE52MVczME9OUHNHeEE0ZjRTVTVrenZRX2llek44eXpYQURLSXR5QnRoR25MQ2dyOEpKUFNCdXI1dkotc28wTVRveE8tOFNqR3ZEZWFLVC00d3R2RkExanFqR01HZEN2a0puNjAtZVVSM3kzdFpRRHBkNllo?oc=5",
+    "domain": "Jammu Links News",
+    "seendate": "Sun, 22 Nov 2026 10:44:28 GMT",
+    "source": "google_news",
+    "sentiment": -0.3818,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Full",
+      "Scale Emergency Evacuation Drill",
+      "Conducted",
+      "Srinagar Airport"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "IFL 2026/27: Real Kashmir seek first win of the season as in-form Dempo visit Srinagar",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN01TTUlXeTM1V2xCUjdZYmdORlphWm5hZ1dkdmNfRmx0eE1abWxwTkxKendVdUVUQk9rSlQ2eks4X1dYeTE2N1k3MG05Q1NESXh2SUdyTGhzZXpzb1d5THlRNmRTb2c5WWhNYVZSZFBaVS0tRTA0bXNsdGdFZFp0OUtjNWlEd1RXMlhNTHRkdkRuZ25XcEdJb2o0d2VIUzZIbl9TWTdkcXRhSUV0QVB1c2NQSmtIV3FyRzR0eTlGOUhyUTRSNTRj0gHMAUFVX3lxTE1iVW1PTkxDcDFZaHcxd3o1VktKTUpBdnl4VXhUUTF6Q3ZfV1MydDBvNFpTYnpKNFpHTWkxcGF4QXZnMDBOTXhUZS1MM1Q3Rl9PRk5XTnVfM1BaZDhmaWFlbjh0OXFJMjA2WngzTTZpV3BMSEFhVHNrZTU2bTIzYlBpODhIRzYwRE9jTmNlU0lOWmhjTTlTVVd6bWF4UnVGLU9KTTNZU2d4RUUwdWJubkpEMW9JbHRPV2lLZ1VUbnFOVFBBSG8tSFN4bFZ2ZQ?oc=5",
+    "domain": "The Hans India",
+    "seendate": "Sun, 22 Nov 2026 14:54:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.691,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Real Kashmir",
+      "Dempo"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Lokmat Times"
+    ]
+  },
+  {
+    "title": "Doctors’ agitation enters 3rd day in Srinagar, 4th day in Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPek9faTBsUW5adkpKeWRUTVVMOERsalNGNV9TRTFlOVJPRE05RzhVZmlra1A4RzUtRVR6ZE9KUENWejZjbld4M3RPblNWdkFzVG83SWViYXRfdllEXzhWRjB1ejhXYzJBeG5EMTFoNmN3TDYtTi1GekRYVkotdS1tNUxSREtCSzh2XzFzN0RXRDYxcldJVHFtUnoyZEVpZUdvdFBJ?oc=5",
+    "domain": "Kashmir Media Service",
+    "seendate": "Sun, 22 Nov 2026 04:56:49 GMT",
+    "source": "google_news",
+    "sentiment": -0.25,
+    "date": "2026-11-22",
+    "districts": [
+      "Srinagar",
+      "Jammu"
+    ],
+    "keywords": [
+      "Doctors"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "32-year-old Air Force jawan dies of heart attack: 8-year-old son performs last rites, 2-km tricolour march ...",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcnI0U2pUVGFZOVVoWXlEbUhWWXFCdG1fcnhYM3hZeHNtdWotMHJSVkM4cmZFRGQ0NWNmOHR6U1Qxdi1MV1dSTDRrbkNMdFBSWWdrcmtIV09xMnJKdnpJZGwzVFZjNVozSVBpcTlpbTRNS3VpdWl4SldOd1VTMUZrQ19IaTBMeWhxLUdCMUswbjZSdFkwVHVEYXAzUW01cnBaY0htT19ic3llTjNhamkyRlN0Tk9PTTY1dUZmWVpWWkFWUDVjdUh4eHpOYnp4aUHSAdQBQVVfeXFMT1ZIdFJNZGJCR2NZYkp6ekZ4Wng0ckVJdi1yYVd3UjlDaUlPR2g3a1BUdnN0cW5rYWNhaVNSd0RfXzQ4QmR5ZTk1Z19VNk1wc2ktMlZzMmJfRllRUHFEVTgyX192SHpQZmljU1psT1lkVjF4dWR5X1EwODlyRkFIZXd4UHdlQk9DN3VfRGdYb3k5RXoxNVQxUW4wNHpabDdmTTJtOTlyV0t0VEh4UXNqRm1QdmdIV0pzdXloZS1vMTJLQlgwbFNEbm1fd3pMVktwWFAxbkU?oc=5",
+    "domain": "Bhaskar English",
+    "seendate": "Sun, 22 Nov 2026 12:34:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.1779,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Air Force"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Night Temperatures Plunge Across J&K, Gulmarg Coldest at -2.2°C",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQTdoQ1BpQWJhbC1DSFJDNjhWMW1iN2FPRWtpT2U3dDFtS2NTWFU4RzJwVGY4b1FtVXJKUmtDZE81SVJ4MTVqMTJKWm5tTTVwNk0xUi1QS0laUlhYMDlsd2FoV3lUTERfQjhEYXBxOTBaN0Nobjl1WnBhbW1pcS1Za3dNSGFQeGtwazd6REpnMWk2ODZuM21wSXZpWUI?oc=5",
+    "domain": "Kashmir Dot Com",
+    "seendate": "Sun, 22 Nov 2026 06:46:15 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Night Temperatures Plunge Across",
+      "Gulmarg Coldest"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Gold Rate Today in Doda, 22 Nov 2026 - Live 18K, 22K & 24K Gold Prices",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1aVkNFRHJqMW84dWozVnIxUDdBeEFVR1hsVC12c202V0ZLU3Y3cjl1UHZlZE9oYWYzRkQ5M1FFSHpyTExCVmxXQThfMUY1TU85MEloc21uVmgwVkttTW12MG9rWEFKY1BFLWxpNw?oc=5",
+    "domain": "Kotak Neo",
+    "seendate": "Sun, 22 Nov 2026 16:57:56 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Doda"
+    ],
+    "keywords": [
+      "Gold Rate Today",
+      "Live",
+      "Gold Prices"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "DC Ramban Reviews NH-44 Four-Laning Projects, Directs NHAI to Operationalise Key Infrastructure by November-End RAMBAN,",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43Unk2VUZ2c3ZKWHlDNkM0Ynd2cDVkSjh4NTdNUGNKOGI1VGZ6UE14T1JjMHM2MlpPbUh1ZnFDUXM3WkZEWjdrdmhic2IxRUtZdjJOSDlZTGJsLTRPTXc?oc=5",
+    "domain": "AIMA Media",
+    "seendate": "Sun, 22 Nov 2026 03:35:55 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Ramban"
+    ],
+    "keywords": [
+      "DC Ramban Reviews NH",
+      "Four",
+      "Laning Projects",
+      "Directs NHAI",
+      "Operationalise Key Infrastructure",
+      "November",
+      "End RAMBAN"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Greater Kashmir"
+    ]
+  },
+  {
+    "title": "NCB Jammu unearths inter-state pharmaceutical drug trafficking network, 4 arrested",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVjNLSDVMRjVnZlF3LTNHTUdFVDZleEp6MXpqWTZvaFk2TGhJV1B4UmhXc2ZuYXA1VlpzQjZ3dVc4bElfbnFLQ2NKSXRXSXRDWEl2UGFsYlhPMTM2N2lqcXYyYmdmTVRCSTktSGgydmhlMkkyMTBrTE1SWUYwaUpyWE5ubE4tNEM1NE80bzZyVWRtYkk4bGVpMkpmRVVTRGVUREZCZWUzQVdnVVFUaUMzWmZ0ZXN3d0c1Y3E4NUpFSG81VWJ2V0HSAcsBQVVfeXFMTnRYOEhwV0xLYU00ZUxRckxtOXdzZGhIMFYyZnBaWDFQRHJUS3NZQldGdW1iQ1JTRUp6aE5zUDhraDJZUGszWFU2ZU15Y0FoT2RMZ19lWGpHZk9oaUUya0ZWbVY3dGtFSzY0SjB0NG9CdGNvdzcyRzE5eEEyQjhtZjQ0eW5VQ00ySTlKWWFRQmFqVl96a3NrenRGYWdWQVEzR2doTmJzbXFDQXAzNEZoZWoweHFsSGRvV0xob09pMWdJR0dQZE1EaF9JZDA?oc=5",
+    "domain": "Greater Kashmir",
+    "seendate": "Sun, 22 Nov 2026 02:22:36 GMT",
+    "source": "google_news",
+    "sentiment": -0.296,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "NCB Jammu"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "What Is Our Education System Actually For?",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaWpDT2ZXLXA3OXlTdi1UQ09adTVsSkJpWnpnakFVYmw0ZnJDQmo5V1dmX29LUXlqNnpzTWg5Rlg2aXhzX0dGcXV2VXdZY0plR3VTV2VSbWZFUlBUcGY1bHBvRlpUNkNoVkQzRVVkQzRRdmVqYWNPT09hUmxWUUM5WFJEMTZHZw?oc=5",
+    "domain": "Kashmir Reader",
+    "seendate": "Sun, 22 Nov 2026 03:49:13 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "What Our Education",
+      "System Actually"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "वर्तमान मौसम और तापमानभला में वर्तमान मौसम और तापमान: Jammu and Kashmir, भला के लिए प्रति घंटा और साप्ताहिक मौसम पूर्वानुमान",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOLXo1aDhGZ29XbjR0dTRzRWFnUE9lb0hrb2l4STJhNWt2NWpnZWtkOE4zdnlHRlVYTE5XZ0Jkc1k1OFphSzJhblhsQXlERV9BcUVvQk9IUFlPaWV2ZFMxQnNTNWhQeTF4R2t6RFFOc2hUcmVsa0E?oc=5",
+    "domain": "skymetweather.com",
+    "seendate": "Sun, 22 Nov 2026 01:55:00 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "What's Served On Ambala-Jammu Vande Bharat? Passenger Reveals Menu",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQzJORU9fZDJUQVh3QTZRYzFUOWo2aEt5Mm9vNjIxb0IwMFpKTDVwdG1wOXk3NktNbnZuWDZVdG1RTDM5Z1c3cVlraTVjM0lqVmpwMEtDZ1U5QmJiUlBON0ZKbmVyb0JIWXpLUllnakdLREgyNzg1UWF4anhYZjk0ZkdvdG85SS1haWZlbHdVdlpveGlUR191Vk5wa3FBSUg2QmfSAaoBQVVfeXFMTXZiLTNaQWM1S2paMkJIbzYwNW9rREFsMGhoMEtxaG5heXlLS1FJWS1EY0YwNDJQSkJLd2tMdE0xWGRvZVdmNDZKQnptcXg0c2JVSlZaaEFzQU5PS1o5eVk3OWtMRHdjc2pVbDJsNC1CbWZKYWZ5TTdWSUhIbFFSMWwwZmdXcGlILXlpNnhCMlFKV0d3RmxrUGViRU9QLTU5eFQyUG1YdVJEdWc?oc=5",
+    "domain": "NDTV Food",
+    "seendate": "Sun, 22 Nov 2026 05:16:49 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "What",
+      "Served Ambala",
+      "Jammu Vande Bharat",
+      "Passenger Reveals Menu"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "PWD Jammu invites bids to repair roads damaged by Airtel OFC laying",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeEZJTVdkUmhuSE4tMFpQNklRblB1MTAwS29Xdl8zUUhOdEx0VE82dndUSTE1NHlkX2ppaUNjS0pBb1ZpMG9ad04tWDB2N0dwZGRxNEZYRmZUTXg4bHlHWTc1NlpMa2J1dDZSX1RSTzNibG9QR3F3dDEteHFhOXNMcWVNWFpFUWdQNC1xdm5GVUNsaUh3NlZpc1Ruank5OEg1R0NwVjBocFM?oc=5",
+    "domain": "Elets eGov",
+    "seendate": "Sun, 22 Nov 2026 07:49:03 GMT",
+    "source": "google_news",
+    "sentiment": -0.4404,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "PWD Jammu",
+      "Airtel OFC"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Wani assures support for SnowShoe promotion",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1FcGVtdUYzVzBMb3hUVmdpc2h1THR4VERTT1R3YmZTcEdtWGpaTVpJc2NKaVVKU0trN0pYOS1CN19NdC0waE9aUzZnU0xKZjNhNzA5MG5WV25Nd0VFZXFQckd6M0lRdnk0OVhxN1pONmZrZ1NsU0RXd19GWQ?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:08:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.6124,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Wani",
+      "SnowShoe"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Natrang stages hard-hitting satire ‘GATT’ in Jmu",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5CY3F3eS10VWRwRzJpMDRWUWk5blJuS2IxUGMwTldwMVhxRUxFQUZQNlBFZDdkYVl2SnNQdkc4SGtwSnN6X1NNaV9teTUzQVVTQVRLcDhrZk9SYnh1aTlsWEI1dFZhV1JVX1Q4WjFPZV9nUGx6WWJyY2d3NG1vajQ?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 20:08:48 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Natrang",
+      "GATT"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "NGT seeks fresh reports on J&K wetlands",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOERWeXlwY0hSUTZ2dnBLNmNHa3lHMnFrSmRtd1o0eDhGLVR4ckdUQURaWWJ5Y0lnaUpMOXJEOERxb2JvT3NTVkVkSENTLTJnRUFVTmpCQ01xWDBncUtSdG55MldnWW1IUlpsOGFpalZqWW1NZzdtSnczRWJiRzJpMF9sSjRvZw?oc=5",
+    "domain": "thekashmirimages.com",
+    "seendate": "Sun, 22 Nov 2026 18:59:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.3182,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "NGT forms panel to probe alleged illegal waste dumping near saffron fields in Pampore",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmc5dHZXZGYwUDhKb1ZrbVh4aU11bnZQeFZ6Q2luaTV2REtYMkhMX3Y2c0RyR2czMzBkYUthRDN0czh4OTQxSi1VaTROemlab3ZJYXpwLXIzdi12XzZFM3pBUnN6RGdZYkpGLVN1QmFMOWhKUzc2UE5WM28wUHR3enUtaVB0UEpzQUlQNEQzcXV0RXNlWUdjNWM1akdKX2V3NENOVlZseFVvdzBxR2dmd08tbXFhdHkwQ2UzVXRNOGF5YVUy?oc=5",
+    "domain": "thekashmirimages.com",
+    "seendate": "Sun, 22 Nov 2026 19:01:12 GMT",
+    "source": "google_news",
+    "sentiment": -0.8271,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Pampore"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Zahid Mukhtar remembered on first death anniversary; Ali Shida receives literary award",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcHFoZnl6SGo2QlQ4ajlqTHhVU2hGOGJsNHVnNE55a1haa3hHM2l1U090WW85ajN6T0phSS1yM1E0a0tMTzRmZXd5RkJnYWFEcXp6TS1qNjF6b0NEdDhHRHlKR2UyV2lpRTdKdkhhUjR6SVJzMEl5SndwbjZUaElwZTc4Y05FYnhMYjFZMk1NRncyVTY2QnJhUjRTYnFpTFljWnVqYS15TFJwU3FaSkdXYWZpdS1DWFVPZkNtUm4yRWZnRXhz?oc=5",
+    "domain": "thekashmirimages.com",
+    "seendate": "Sun, 22 Nov 2026 17:37:29 GMT",
+    "source": "google_news",
+    "sentiment": -0.1027,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Zahid Mukhtar",
+      "Ali Shida"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "India International Trade Fair: Kashmiri Artisan Steals The Show While Demonstrating Craft Of Kani Shawl Weaving",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRzdzaF9rUUVTbmVzVmpwcDI4ekxmMVJ5bjBaRzJNTU1mbkxJSUNBb3BqSmI2Zm80SEI4Q2lUQmgza1pBTWdnblJWbEJLdUg0aVY2elVESEFjRXBSOEZlLWdxR3EwT2tZeWxmMTh5RkZPekZEeFBKeGpXVUViMnU4TTVHbWpidmZTMjRObG53N2lub01iVUhOcTlZU0I2ZWZ0WGtabU9zQ2FncTJyQS1zemdNSndtYVl4T1dHMk9IeTUtYjNHQ0HSAcsBQVVfeXFMUEhoRHhjTmwzMl9INW1HclhtakVTWTJLMmpzYkVaRlBBT1ROTk5PQTJkcmJmWUNHNkVvWEExR080ZXF5X3gxOVA4bWFTWmhFczVFTHNFTU93Rm5fSlVpVmZjOHhJWEdBQlJPbmdFNm1la19hTko1Rm51czVMRlZrM0dmeU1YUms5S3FhTmo1d1FvTE5kam5KZGlIWGVRclpoZXVHTlluNTFLcVpDU3VXeUZTcjJ4T2hhZWMydEI1NThyeFc1My1jMHpWNVU?oc=5",
+    "domain": "ETV Bharat",
+    "seendate": "Sun, 22 Nov 2026 12:54:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.25,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "India International Trade Fair",
+      "Kashmiri Artisan Steals",
+      "Show While Demonstrating Craft",
+      "Kani Shawl Weaving"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "FAA Exam Cheating Case: Arrests Rise to 20 in Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTzNkRmpJZjhBYnp6TkpacEtNZENJRUFhMFJkWXVnSkxoUEdDbW9kNmVvOHIyM2E0ZVhvMjJIUXFfRU5OM3phVDlxVVM3WER3WllVSUdpQXlzU1hjX1Itc19Bb1MtSTZEWlA3TklkV2RiVkstamRyQTZhU0d4aXRfMzFld1h2SlI3MGc?oc=5",
+    "domain": "Jammu Links News",
+    "seendate": "Sun, 22 Nov 2026 12:07:14 GMT",
+    "source": "google_news",
+    "sentiment": -0.7579,
+    "date": "2026-11-22",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "FAA Exam Cheating Case",
+      "Arrests Rise"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Maiden Kathua Cyclothon witnesses massive participation",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUUtwNWs1LXdKN0hobmZUbkVybGhnaFJDTTYtdU9yM0pLNVVUdWFGeXJsR19YNUgwZzhuV3RZQUktVHdwZG1vbklGUjhXYTlYaEVEeGY3ZDFodUs0eUxZWkZhTm9wSmxNTW1MLVR0T1FHMWRWdGVCdWVFcG1UVFNVRk1SYUFZTzRuLWVjcWs2c2Y?oc=5",
+    "domain": "Jammu Links News",
+    "seendate": "Sun, 22 Nov 2026 14:46:57 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Kathua"
+    ],
+    "keywords": [
+      "Maiden Kathua Cyclothon"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Thathri Protest Called Off After Talks with Administration, NHPC; Deadline Set for Remaining Demands",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNTJya2ZiNzBtMGthdTQwcl80RV9Td2diWmo2SkFkX0NkQlBVU0NfYnIxYkV6cGpuZGtHYVZPLVliZFd4VG52a0JWYTIybjZyS3ZvejFJY3RUVVNWTllUYmVocW10dGJqSHNwVmIwRHpnVlJ1YVJFeVdTQlhTYXJGOVdGWktxUFZzaFJTNjRSQVowRS0ySlptcTl3OEx1bWN6MExQOVRZS0V6V3JRdmptWFZleW5aUFBXcVVvNGN0cmlrSUJYT0RaRmp1TWhPYlVnR0Zn?oc=5",
+    "domain": "The Chenab Times",
+    "seendate": "Sun, 22 Nov 2026 17:19:59 GMT",
+    "source": "google_news",
+    "sentiment": -0.3612,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Thathri Protest Called Off",
+      "Talks",
+      "Administration",
+      "NHPC",
+      "Deadline Set",
+      "Remaining Demands"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Security forces subdued last local militant in Kashmir, but refrain from celebration",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRkd1cGdKTmV5cXNjLVF3TU96VWVsUUNVVTByLU9VV0VHbXFlSk9ER3VHaXNmd2xjUEw3UmFGUnJZWGg3a1pfamV0TlZQZmg0WUtHTmFsdGF0YlVyQmZqT3VJekg5ZFRjYzZYWlY1R3FwaE4wTS1yVzNYY0NNSnV6dlhoQThfeUNZYWVBQk5UOWNhUHFYZGMxUldadFlJSnBlc2hXX1hyWEhpRmNoNEdZ?oc=5",
+    "domain": "FlipItMoney",
+    "seendate": "Sun, 22 Nov 2026 08:49:22 GMT",
+    "source": "google_news",
+    "sentiment": -0.0772,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Security"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Indian Army, Locals Commemorate 79 Years of Poonch Link-up",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZkJ2NXh3aXA4UXU2MEhnTGRxUjBjbmVVazN6TkRhckc3ZVVnM1E2VjFGeXQteDJKa3c2dkFZaTF5Y05ycnY4VjZsWVM1bkJET3JWWjNDdlNreVUyTmY4Y1NhYmZKVzBpbmh2MkhDUmpIWHNTQ2JGMVlEcUUtVm9lN1pXRG4td3hhaVlfLWQzTQ?oc=5",
+    "domain": "Kashmir Despatch",
+    "seendate": "Sun, 22 Nov 2026 15:23:40 GMT",
+    "source": "google_news",
+    "sentiment": 0.439,
+    "date": "2026-11-22",
+    "districts": [
+      "Poonch"
+    ],
+    "keywords": [
+      "Indian Army",
+      "Locals Commemorate",
+      "Years",
+      "Poonch Link"
+    ],
+    "source_count": 2,
+    "also_reported_by": [
+      "Kashmir News Service"
+    ]
+  },
+  {
+    "title": "Poonch Taekwondo Athletes Honoured by Army on Link Up Day 2026",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcktBSDRuSU54a0FOcEdpUWQ4MHB5ak1jSXpBcExEWTE0V1Axc1BFeE5GYkVlOXg2ZTRkUkNKOEIyb3p6czJLRkJ4UmJwX2xGQVpyMUJZUGEwNnp2SzY2eHlzMUEzUTU4bXVsb0VheTV0dlJlN3NWa3NOZEdqdzVWMHk3dlJXWE9tNF8yczEwOXdmeHpkOUxUZU9B?oc=5",
+    "domain": "Jammu Links News",
+    "seendate": "Sun, 22 Nov 2026 12:50:25 GMT",
+    "source": "google_news",
+    "sentiment": 0.4939,
+    "date": "2026-11-22",
+    "districts": [
+      "Poonch"
+    ],
+    "keywords": [
+      "Poonch Taekwondo Athletes Honoured",
+      "Army",
+      "Link Up Day"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Javed Rana pays tribute to Maulana Ghulam Qadir’s educational legacy",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd3VIRldMdWlSU3pYSWxDVE1qZzVyZVJ4TnFxWVZaZm9URUdwb2ZJblpQWWczZEgwTmJpcGZKRkhxd0M5X0ZaT2dwOHRpWGpOYmlZVVc2Nnp4Y05MdWNGaXdqLVpudlA5UG1zMlRxYTk4Y0JMdzJhY1Vpd21nYnFObmc3SEw4RGJieWZZdVFaSkJlTWlwUnM2X0dzTWNrSFd5UTVDVE13cU8weUZs?oc=5",
+    "domain": "thekashmirimages.com",
+    "seendate": "Sun, 22 Nov 2026 18:21:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Javed Rana",
+      "Maulana Ghulam Qadir"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Inquiry Ordered After Woman Dies Post Delivery At GMC Rajouri",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVTZrTmFGdk5zMzhjLVpWUVhyR1JmRHYwQVJ4UGR3bHdtV01Uckh6ZUlLV1J6aVhIOVlIVEF6MnVLTDgyeWg0aWxwUEs4dlZiOUxybklfeEUyYThiNEZpTWdfYTlqOWRhdFphbzNrZmtlQXlPdTJjYnh3eW5WRTZJc1A5dUc4SVpGb082b0FaZkMtVzA?oc=5",
+    "domain": "Brighter Kashmir",
+    "seendate": "Sun, 22 Nov 2026 12:16:32 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [
+      "Rajouri"
+    ],
+    "keywords": [
+      "Inquiry Ordered Woman",
+      "Dies Post Delivery",
+      "GMC Rajouri"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Ramban: Four Houses Reduced To Ashes, DC Reaches Spot",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYlVSdjRzOExBREIzcE5NYkVNS3poX0hWdEt6V0dwREhvY3loSklEaDBfZk1UaEhwRnU2RjJETkdTWGN1Vzh0WjNKOHZaNU5MT3FtSzVlOGM0VjlSb25fM2JFMlhFNWJlZnoyOTM4SlhuWHdnbmctZ0tvS1pSd2x4cXgyV0ctQmpVZWZLMGFhUdIBjwFBVV95cUxQYlVSdjRzOExBREIzcE5NYkVNS3poX0hWdEt6V0dwREhvY3loSklEaDBfZk1UaEhwRnU2RjJETkdTWGN1Vzh0WjNKOHZaNU5MT3FtSzVlOGM0VjlSb25fM2JFMlhFNWJlZnoyOTM4SlhuWHdnbmctZ0tvS1pSd2x4cXgyV0ctQmpVZWZLMGFhUQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 07:08:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0516,
+    "date": "2026-11-22",
+    "districts": [
+      "Ramban"
+    ],
+    "keywords": [
+      "Four Houses Reduced",
+      "Ashes",
+      "DC Reaches Spot"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DC Ramban reviews progress of work on NH-44 Four-Laning Project",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRk8zSlMxYUVqdjBlVzd0VkhELVpUY2lwRHppQ21NLWJra0ZYOW9Idm94Q1ZuSFA4VjgtbG9COE5Fa0o5MThMeTk0YWZQaWFzb1ZyT01YUDdGWjl1OXkxbXFuTzk5NWFILU8yX0NxRkRoU2swdGpNRjNtR3hLMEVwTVllc1BEd3JkS2Q0UEdBdXhmdzg3X0lmc2VHMDI1eEo5RjNRRNIBpAFBVV95cUxQRk8zSlMxYUVqdjBlVzd0VkhELVpUY2lwRHppQ21NLWJra0ZYOW9Idm94Q1ZuSFA4VjgtbG9COE5Fa0o5MThMeTk0YWZQaWFzb1ZyT01YUDdGWjl1OXkxbXFuTzk5NWFILU8yX0NxRkRoU2swdGpNRjNtR3hLMEVwTVllc1BEd3JkS2Q0UEdBdXhmdzg3X0lmc2VHMDI1eEo5RjNRRA?oc=5",
+    "domain": "5 Dariya News",
+    "seendate": "Sun, 22 Nov 2026 08:09:31 GMT",
+    "source": "google_news",
+    "sentiment": 0.4215,
+    "date": "2026-11-22",
+    "districts": [
+      "Ramban"
+    ],
+    "keywords": [
+      "DC Ramban",
+      "Four",
+      "Laning Project"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "FDA Continues Enforcement drive, 127 Inspections Conducted",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUdqY3lROFRrZmU3QVlrbHczdWprQUI2a0pQM01UM1o0RWx3NkpyQjd3V1pGYVdnSDNFSloteGFZZlFWdXo4eW9YU1hKbDJpTkFJeG1sSjBxVU82a2JZbWJob0RPMW9oUlVwQURvOHpLSEJpdjd3TFk4blg0SUVlWXFyQWZaTzBvZ1RRb1NkWDJfdWcxNnZERFVfaUlvZw?oc=5",
+    "domain": "Kashmir Observer",
+    "seendate": "Sun, 22 Nov 2026 05:22:06 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "FDA Continues Enforcement",
+      "Inspections Conducted"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "OBITUARIES",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5qRTI1VTc0dVpjSG1BZ3B4SXZyTmRPbHZQZGs2VUtMNWVFQjY5NVdRNlp3X05CSE5vSmpjTjBLQ0tjcjQ4V2QwM3hURUVwSGs1Mmp3Y9IBWEFVX3lxTE5XVFZFQXAyWUQwUmRFb1RqMDVPN01zQjZGam1IT0xXUVFXS0QxNU5aZlA0TkJnTElmX3F6OWNFYURUaVdldzRBWFN0aUtCTGtVNUpnR3czYlY?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sun, 22 Nov 2026 16:27:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "OBITUARIES"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab: BSF Foils Suspected Drone Drop from Pakistan; Recovers 4 Pistols, 57 Bullets and Heroin",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSXVDRFRDZGxBWlkyLXZvYnhIam5fUGZTbm9wcGwxd3BQRXdZVnhyZThhaVZ0cUs1VUlNdFZIZFRwaXR3NXd2d3J0TnNsZ1FmSW9QSS1fYklMbk9GbV80STB1ZVBJWVpnVFFEZ3FzRk9zQU42d2RnOHJJcHgzZGROLVBuVV9ESld0ZXBkWDhSRGRHRFVneFRVRGdxbVpucHlBWGZhS1ZoRnpaNWdvenJIRDQ4T1B5OWtYZUpKUXFCLVNkWi1nZ0ZJamFR0gHPAUFVX3lxTE4tS0o1X0xzWS1Rc0J3UW1wVFRuZl9iR3lCYzdzcG5ONmd2S3I0ZndpOUJlcjljM054dmhiVEJBM1U2Q2I3b1NrclBtQ2FuRHBHUkF3T1FSZlQ4OTN5Tk1WWTJLMTBHYnBEMlNtZjA3WElEUEE5THdaYTdxSDlvYjZ6SnpCNUswUVJJSTBpZkpTZ2Roc0tCNk1JYnFvTmROUzJHUTRpZ1VnSHZwWVVYR05NUlQ4U044alBPc2IyZTRFMHE4cjJ4dHFoT3psdEVLUQ?oc=5",
+    "domain": "Dynamite News",
+    "seendate": "Sun, 22 Nov 2026 05:50:47 GMT",
+    "source": "google_news",
+    "sentiment": -0.7351,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Punjab",
+      "BSF Foils Suspected Drone",
+      "Drop",
+      "Pakistan",
+      "Recovers",
+      "Pistols",
+      "Bullets",
+      "Heroin"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Revenue Officers of JDA showing supremacy to Seniors",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLXlhcmwxWVA2SU9aNzZxUExZdGNYZ24tOFVVVWpoWWoxc0FPODdLSzd4YldQTDFCbzd2d25ZQjlKREJKdTJTVW1KbWo1dUNlOE1vREVSQTFoQlFlYWtUNmN1MmpQMWdYVmZqdTNlTmxZNUY3TnhvTVM5S2hGZkdrejlNM2FnQzVRWWtsak1WeWF6SXg2NURiRXZSYy1XZ2M?oc=5",
+    "domain": "Cross Town News",
+    "seendate": "Sun, 22 Nov 2026 00:17:14 GMT",
+    "source": "google_news",
+    "sentiment": 0.0516,
+    "date": "2026-11-22",
+    "districts": [],
+    "keywords": [
+      "Revenue Officers",
+      "Seniors"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DIPR represents J&K at 57th Intl Film Festival in Goa",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2dyVTNDcnQ5Z0xzV1F0QzJIcVVjUS1wS2p0V1EybDYxQTRpY2s3dl8zN25OWWhmamx4WUxjSTFDZmE4bkVpbEhCWVdRZUxpYk1jMnBqemJjLWlxTkk0MGRyZE9adVVnRko2Vk5EeVZ1OUlhcFZFck5rSFR4MVYwRkIzUTZseDFaR0pTZdIBkAFBVV95cUxQYnZFODktdE80VmF5V2ZFcVFkNzZhT3ZjU3VBckhwSE56UnB2Rm1aN18zMWZhVXYwZC1heVl3VXFlclo4bFRCM2FYdjdtZ0VtZjNiTXFmMEFEYlZCYmZEaXoycUxKSFpKRU15dUpoZTh3RVFDUlhFVWUtLVVJYUJHeXhhOVRGQ2xYeGVIWXRXdW0?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:24:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.296,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "DIPR",
+      "Intl Film Festival"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Mission Director reviews implementation of Jal Jeevan Mission",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeS1BSTloWE1LbEpvelpUWW03ellDWU13djA4QVZoaVpLNklmcnUxM2gzSEdQN3MzUExPNk1KNUFoU0JFbzFBWGpkX3dRb2NkaG00WDBEclM4SWo5YVBRZXBkWVpmRmJ2Q3owczV0eE0wLU44c0xaMDN2aS1xQS1US0poaTJQT0JtZXpDSEljOVVvdUFEYU92SdIBnAFBVV95cUxQcms2VmNuSWJWMUFfeFpFam5xWWtZTVZ1em1zbnIwU25iekpHVWZxbHpmeEIta1JZTmV5Z2dfLWJzN1FWVW80REU1aVYwZUxsa1A4QWhJVWRBeUQ5MGpPalZaeHJQVEFqbmpBNzVCckhjdnF2S1VsdmR2V0J0NGJwdE9ha3R3Um5TXzNsRjd3blY0eF9pNXk2bC1ESTY?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:20:01 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Mission Director",
+      "Jal Jeevan Mission"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "Dr Jitendra hosts lunch for students from J&K studying in Delhi",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdGdSNmtHSWxBQWZYQl9kcHBRY1o5cVhXNExvWEF3WC13VTUybnd4NlV4SnhZXzZ6MlhrcHY4Nm83cElKYzZlVkJFM1B3RjRZRzMyT1BWOHBsUHNmdDRVMkhianBMeGdpM0NHenNGUU9fT3BELTBENzdjTlhiazFUcEREYjB6RW9ocFloRWd1bUtzZUd1MUZTWXFn0gGeAUFVX3lxTE8wRW1wUF9JOWtTd3g0a3hDT2NyYjZmdVBBQVBpWENEeUd3MEx3R0VTZWNWSng0ejdFZXY0b0puQV9OVThsM3hWMHVISVBUV09sam45YzZPSnNzQV9oa1YtQ0h6Z1BqS0QyNlhxdWZjWHZTMWZfeEhUTmI2TUszcEI5OS1ZempPeENxWjJoYm1sU0VMdkg3Rlp5TnJuX2tB?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:28:12 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Dr Jitendra",
+      "Delhi"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Beyond rituals",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaZnNLWHhSdDNHdUJ0RFc4MHFtVU0waGlxanMycDFJMzgzeTJoa0RhRUhiX29YUEZ6UmdaSndjVVFSc0lYQmNNeWE1blMxUTQ3MndaLTkzWTQyQdIBXkFVX3lxTE5UX0pfcUFuSXVRdnR0SmNmSDZkY2RSYmRCM1lVZTR1OGhWUFQ0NW8xbWYzNy1GQkR0R29XYVRPSE1Jek5QeG5KXzVFOUlvV3dOWHZPY1BYNDI1eWQ0MHc?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:25:45 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Beyond"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "SE attached, 4 other Engineers suspended",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55aS11UU5PQUo4Vl9laW1GVHRjLXVWeExPUC1sdmt1X2k0TXY4c1ZrSnJJNTJsT1dORnU0YnQ2QXVaVXdzRVAxUE4yRDh2NUhJMW03ZlBHR3NpdGRiVDBLd1A0Y1ZQNGFlNURLMVRvX3RMb2hzcXpVR21vRdIBf0FVX3lxTE95emJGVnpoZEt1N0tDam5PaW9NczJzOVBpODQ3c19DQWxzazZFc19nTS1YQnNIVmZtQWtvR1dJanVUak1UZEVsd3llbkVlRGFZd2JWWHh0elZqbWd0WFZuVW50TWgxVkxBM0YyN3RFcU9TMDJfSnZpbFN3NUxieEU?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 22:36:07 GMT",
+    "source": "google_news",
+    "sentiment": -0.477,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Engineers"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "Sagar holds Public Darbar, listens public grievances",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeExEZ1Z3WDJPRkMzdUhxVENvRmdDV1RMS25NX2lFeUpvTXl0VzVIVVRtbm1IdGl6bnJPYUVFdWVoTkxJcHpoWHZDVEtDdnJ3RWNKRzJLQXhlZnlVc3I4OFFXamFieXlRUDZMOEwzVmdNdWFDN3ZuZUZ0b1doa01SR2prMWMzcWoydHlz0gGPAUFVX3lxTFA0STBCam1acEVCR2d3MTQ1b3NqXy1scXdaTmxZRi12aXVtUXk1emxGNl85UE1jNHI0WHlSb1VUTmhSRGQ1eGV3YVoyVVFkakdLdXJJOWM1ZmVPU1V4anhuaHZ3Nk5MOVQxczRhYlhSNFUybkJlR2NiQ0JuOUNPdjlfUE1oZEVUWnRwQTQtR21F?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:25:34 GMT",
+    "source": "google_news",
+    "sentiment": -0.3612,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Sagar",
+      "Public Darbar"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Months after Govt assurance, employees posted in remote, hardship areas await incentive scheme",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdDhYZ01ZS0EzVFotUHhxenFLMkJyd3lqZGtDMjFvdjhEZUFxVE1OenUxSU1RMXpKVDVrQ2E1TDIzUmNaZVllN0p6eTBVM3BRUkdGb2JQNnRETW00Y0VTTjUzN1JHclA5TWJhYzFyeFFlZG80aWI5b0FTLUJTeVRFVHNFVU5qNno5U2JkXzRZa2dYLUxLNEFJb1FEbk9hVFItemVEQ2hoZDZiUU9pazJxYXB6dERtX3JIcDZ2eVYyUVpkQdIBxgFBVV95cUxOX3ZKa2RxaXl2ZWU1bmdoNFJYT1FPcFZVcVlBcGxCVURXSE1jS3lHRlpYQUlqcU9RLUpaai1YUjZlWklmVlNaUlM0QVkzb3RwSmpURE1QLTBNUzgwb0tmRzljRUpFTjlxTWs2LXl6QXpaMDBwRXN4bFJrZ0Q5Um8tZ2pzUGg2d0pjd3FpUXNTb25manZDcTlTVmZFcGdCWXNtY2tNN08xb0p3MU1ReEtlRUV5VUdkaGNjMUZoOC1oc1RTNXZsekE?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 22:41:59 GMT",
+    "source": "google_news",
+    "sentiment": 0.4588,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Months",
+      "Govt"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "CM Omar to youth: Don’t just vote, govern",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEdwa3pYTy14dmx1bGNvTjJQYnFmU3pkclpSREpDSUZ0OEt6eVUyTndCaUY2eDhPUHdEYjJVNVNid0h3MDFkQm1ETmZaekZjLWdjcnNRRU5mYmlQTm00aF9HUjE2Uzc2dXplcjBOX21QcjlXTkd2Q0ZxTGdHcDhoak5GV1dXbEFJcTNXN2Jn?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sat, 21 Nov 2026 21:41:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "CM Omar"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "JKPCC holds public hearing on Jupiter Aluminium expansion",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQX0xjWTlwbTRTcFF6MkVELVJuVGh3T3ZSWk9DTmU1ck4ycjlrUFZobEs2VE9oMWtCeklOVXNxbmtDWUFkSEpTX3dIbHppUEM2Uy1KM2ZpNmVVVTZRX0hWYWYtbzFFUXN2UHNuSUw1c1poNGpLa1ktaFZhT25Uc1BNSWNMSWFLSm44dEFLT3pqUktaZDjSAZcBQVVfeXFMT2xmSWlWS2E4OU12THFnd2F5YWZIUkdpTHEwY1ZlT3hXa3ZST1d0RmNjSllWeGZ6VUhzR2haSDBDenU4REp0aDllZWxIRjNWMGw1WmpOLXh1S1lpOHF4aGJaRWtiOWlia0hfbnB4V09MRTBZS1VMSk15MmU3UjlBWXU2U1RTUktJRDVwUHFMaTF1VDYwak5CYw?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:21:54 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "JKPCC",
+      "Jupiter Aluminium"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "K K Gandhi invited to National Contemporary Art Exhibition",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbjdmdDhoUHotaUpJUGNkWUtPamQ3MjBRdHNDZU5HUHAyemMtS0I5SFYxTjl6RjBKTkZ5V0czckVvcVNhN2lpUGM0X2N0d3BiS0EyZ2pGbVpFT3VuelpIYXF3ekQ5ZVpzeWduSXI2Y3pVc2pSeC1rLTEzWU5zQ3BsWVpQZTZCVUlOX3g3UWdLOEVFeEZF?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:12:09 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Gandhi",
+      "National Contemporary Art Exhibition"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "IGP Traffic J&K inspects Jhiri Mela arrangements",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOekRwMXdYNmZSUXBHMTZBcl90dGRkakJPT3dEbUlHVEFkN1Q2MnhRTXFUcENIVXhkUUplZlFHTlpQUGlobTdBbFJSb2pwTE96cmhHWTN0M1hteU5ucEVQRURTSERvRlNZVjI0UjFuMXh6U1cyTDlBc29tRkxBOTZYYWZXMlEtQdIBigFBVV95cUxPWUo4VWxRV1dQY1RFWEVhUC14d1F6b3hzTDl4WFhVWnJ2X3Awc1FOV3V1QlZxSXF3NzNHQW1hMHRPRUFRQ1NORUhCQ2hqWVNaZzhUODhjQmZxeVktZkYzZmdmRXB6Y2tDaF9KYkVKS05kR3VwMWVIT1BsMV94bk1DUHpQVUdRR0I1UVE?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:19:24 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "IGP Traffic",
+      "Jhiri Mela"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Ujala Cygnus JK Medicity performs first Robotic-Assisted Total Knee Arthroplasty",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU1oN3NXb3YtcGNNZXp0eUxmb19xOXFSNVVCTlgyVXpfcVloNlFLbHJmZWdhU3JlTXV2ZWt0TWxZbnFGT191Q3QtbTNLS0ZzTE1Yb1h6bVlhN052ZGZadWVGR2dHcHhROTNFRXpUb2RGRllOWWg1U1Rqdi1Pa1dFT3pqSHRoa1VQYWZ1YXk1akpnVHBEOTBSRUdqNmhqNzFlRWxwWWViUEdhV0JQczlHV1N30gG2AUFVX3lxTE9ZeVVkZXhUOE1xb1RySE0zRDRiNXhFREwtbU1MRTRpUkZWWDRSUHdZNktsRTJtZ2FKZHg3dDctM1BndzktV0JlNmZSU2dfdmQ3VVhFekJGai1JYTVCQ2xXQWd0MWxBa2V5M282ZEtGYjV1YV9pUnpSM2FrNl93NDNDT3F0UVpQc25NejNnd181MElidnB3Z3FQOWlsS3ZCREVvcFg2NjczS2ROUjFpZzFTdm5GNm1n?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:15:57 GMT",
+    "source": "google_news",
+    "sentiment": 0.3885,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Ujala Cygnus JK Medicity",
+      "Robotic",
+      "Assisted Total Knee Arthroplasty"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "BJP betraying J&K people by denying them rights: Sadhotra",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXl5TUd6T1JDSVV5amp0QkU5WERVQ1dLVGY5RXI3MklpUEw2aFpJREdjQm9uWTllbDQ5TE4weE1qTVRpMVY5SDAwMUJ2WEhGSFR6WVg3dVVNVEt2Yzk1YzZnZUx6RmdLUjNEMVptVFNBQ0FZWXhXSWNCcVRISFFJa0M4amVLaGJDRS1oWEtrbEHSAZQBQVVfeXFMTndaUUN1eHNmWEUzS1VTdjlHaG9MdEtkVTBDZlFLaWFaUWJYbVdZTllfWXhFeGtFQXpXenNDNzhKbUV0NnhKWlhpdm92VG1hSFZTV2JPYjFzckNSYXFMVElWWGZwUGdVQ1kyNFlrcjZaSTFEXy1hS2NWZGVWLWVibUY3OElQTS1JZTBLRlpsU1FuZmdyNg?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:18:46 GMT",
+    "source": "google_news",
+    "sentiment": -0.7096,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Sadhotra"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Boxers oppose fresh selection trials for National C’ship",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWswRjBlUkJ3czFDRlRubnlMZkRoeW42ekpRck8tdDNQckt2UWJXSTlOOXNHTjdvQUZoanJrQklJWThQQ0ktVlY0eGRpZ0llT1VyZVp4ODdCLTUteHdCQ1hPVWV2cjlhendSMUJHZENpR0xWUFFSQXUyaXUxa0lZTWtfZVJGYUpYdWpiSG92UF9nSHdk0gGUAUFVX3lxTE5xazBGMGVSQndzMUNGVG5ueUxmRGh5bjZ6SlFyTy10M1ByS3ZRYldJOU45c0dON29BRmhqcmtCSUlZOFBDSS1WVjR4ZGlnSWVPVXJlWng4N0ItNS14d0JDWE9VZXZyOWF6d1IxQkdkQ2lHTFZQUVJBdTJpdTFrSVlNa19lUkZhSlh1amJIb3ZQX2dId2Q?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 22:59:28 GMT",
+    "source": "google_news",
+    "sentiment": 0.3182,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Boxers",
+      "National"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Dogri song ‘Tera Pyar Panegi’ released",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BSTBob24tMXpoV3BRMTFnU3NpbUh1UDl6YXRhQTBFNmcyd1NkbWJFeGtEV05sc1pDMTBHUm8xcl95Rjd2Qkh3MFNJZFdDREYzdjk5OFhGUE5fOGFVbmgzQTNXN2JERElQQXJWZVRNWFNvNm5MLUFkeUpjWdIBe0FVX3lxTE9BSTBob24tMXpoV3BRMTFnU3NpbUh1UDl6YXRhQTBFNmcyd1NkbWJFeGtEV05sc1pDMTBHUm8xcl95Rjd2Qkh3MFNJZFdDREYzdjk5OFhGUE5fOGFVbmgzQTNXN2JERElQQXJWZVRNWFNvNm5MLUFkeUpjWQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:15:57 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Dogri",
+      "Tera Pyar Panegi"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Anantnag becomes India’s first district to complete 1.57 lakh Digital Holistic Progress Cards",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRndBZG5USTdlQ0dzWnpTNG9nUUc2bVFTRlZZYWRTZ2Z6ZG9lUjQwZEhwUlpCOFJmNU5Kb0FtWWVoZ25XUnJqQ2NmV0lkOVFiaWttMzM1alhkY0lBWWtHVDNQUVFtdEdSUEw0Ymd1Z1lNTWpCZkZlZTFBM3pOWk9OTk42bS1tNmxEZEhRY1FFaTgtYVhkY2VrbVFnMTZpUlM2YklWWWk4UEhRZUlyNFl4dmlmcTZ6M254bDViLU1NelVvUnJjR0hNUWxYMnVxc2hnRERLUw?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sat, 21 Nov 2026 22:22:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.4215,
+    "date": "2026-11-21",
+    "districts": [
+      "Anantnag"
+    ],
+    "keywords": [
+      "India",
+      "Digital Holistic Progress Cards"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Resident docs continue strike even as Govt allows stipend during maternity leave",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbldvUFNmM0V3SENjajVKYldYdV9YRVE3MDBaS09GNmJZMDFCaFhIWHhZYnQ3ZkE3WTNtVVoyNU1EREpnbzNQRW01VTdCdFJaM1ctTkwzSEFoMVhWT3FzX2lHdTM1T1JaTml5cEctLUdZQU5mM1RxNENWQmtjSi1aZVNDSF9OQU9ucDRhWVVNVF9pbGF4UlplOU1rQzZiWUdDbUdpOWRQVDA4emM3TXpvMC1iZ0tlZ9IBtgFBVV95cUxPbldvUFNmM0V3SENjajVKYldYdV9YRVE3MDBaS09GNmJZMDFCaFhIWHhZYnQ3ZkE3WTNtVVoyNU1EREpnbzNQRW01VTdCdFJaM1ctTkwzSEFoMVhWT3FzX2lHdTM1T1JaTml5cEctLUdZQU5mM1RxNENWQmtjSi1aZVNDSF9OQU9ucDRhWVVNVF9pbGF4UlplOU1rQzZiWUdDbUdpOWRQVDA4emM3TXpvMC1iZ0tlZw?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:23:43 GMT",
+    "source": "google_news",
+    "sentiment": -0.296,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Resident",
+      "Govt"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DLSA conducts Lok Adalat for settlement of traffic challans, civil cases",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMjJ0WE0zeHRlaTBVSi1CMDNsdWZrX0RKRFlzYjRTNy0zeFY3STRHcHFlNHQ0SURTOFdFQmF4VzZKUW5fUURlZ0E4SkliUGdmU2haTW9mWmFnWEhtVW92cFRhWVpfYWRZVDBZcW1ZSDkzVnpEX2cyV3BUcnhQdUxYYWZpQkZmbEh6LUVLV0FNZXFnWFBfT2dKLUtSSDhseUtCTWJOdWRjbnZlUdIBqgFBVV95cUxNMjJ0WE0zeHRlaTBVSi1CMDNsdWZrX0RKRFlzYjRTNy0zeFY3STRHcHFlNHQ0SURTOFdFQmF4VzZKUW5fUURlZ0E4SkliUGdmU2haTW9mWmFnWEhtVW92cFRhWVpfYWRZVDBZcW1ZSDkzVnpEX2cyV3BUcnhQdUxYYWZpQkZmbEh6LUVLV0FNZXFnWFBfT2dKLUtSSDhseUtCTWJOdWRjbnZlUQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:18:39 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "DLSA",
+      "Lok Adalat"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "SDA organises mega sanitation drive at Sonamarg",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSUNURnZGcTZld2Nyd3B3dWpVcjQySmt0alFOdUJ2X3NSQld0ekxrOFYyUktJYUJTWmJaR0I5RmhuZTBhNU1HN2ROLUJDME92N3AyZlFYWU1CX09OR2dyVEVtaC1rZjlvRUJkS3NrWEItNkx2N2hFdTVoY3JCTFBKUlVkNkVWVFkwU3RpMk1VTU9hdTJETUZPR1BR?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sat, 21 Nov 2026 23:30:37 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Sonamarg"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Our guns for terror, not you: IG CRPF to youth",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWdKTUY0aFprWTJUYU5MMVNESXg1M3A5Q25aUFZmbDRUVXNYU0E0aDVsVm1vUkItd3FZeEdSOHVFMXNyemZ3UHVHOEJxZDA4NnBOX0toU2tVREJMTEZBZzhnR0t3LXBaVG9zYURta2JQaVBvWGsycjRrcnh4VmFIZ2U2VEZuU2tIVm1lZkF0SXR6UGlpQkE?oc=5",
+    "domain": "Rising Kashmir",
+    "seendate": "Sat, 21 Nov 2026 21:52:37 GMT",
+    "source": "google_news",
+    "sentiment": -0.5267,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "IG CRPF"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "HC transfers 7 Civil Judges; addl charge of 4 courts reassigned",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOWNvdzVTRHJGQjZobWFqeU54c3ZrNlppQnVrVFBfY2Y5UWJMaThTVm5YcE8xWTlMbHM1eDd2TlRSWExGejlqV2dyUW5fODR5OUl4bnNYYmRtckZwdjM3Unp4RkFfdloycmVFUGlacUpwWUNFbGRzaWpaUVRQQVUzd0tGeF9qc29RVGJ0ZzAxMVQwT1pUa282M1UwWTFqZ9IBngFBVV95cUxPOWNvdzVTRHJGQjZobWFqeU54c3ZrNlppQnVrVFBfY2Y5UWJMaThTVm5YcE8xWTlMbHM1eDd2TlRSWExGejlqV2dyUW5fODR5OUl4bnNYYmRtckZwdjM3Unp4RkFfdloycmVFUGlacUpwWUNFbGRzaWpaUVRQQVUzd0tGeF9qc29RVGJ0ZzAxMVQwT1pUa282M1UwWTFqZw?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 22:33:23 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Civil Judges"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DC Ramban reviews Jammu-Srinagar NH Project work",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2dRdlM0cW5mSDJVZVgxa2QySXdLUHk5OU84WGtnZlpLSHNaSUdPQk0zazNfUjRFdnl1VUJ4WTZZMU5FNE9zV1REd2Z1a2hLMWVYcFVKOEVuSklHT2xWRzJTOHp4SFFYeEpMdUFEQUhmQ0ktM29kZFJjNXJSMjYzMFRfMTlBZEnSAYsBQVVfeXFMTWtsUlNGZmVVMTVabUZYWUlnaVE4RDNfS0ZLNTV1WEppY0lIdVZPNjlVOTVUMXFhNXpaWmtBSXVDSmJTc24yYi11YUlmcWY2U2o4ZUpJMTA0Sm16M0NVa0FLN1hlLUsxQ2dqV0MxbU5PZVphdmdyTUVyR1EwWTVqZjJJbjNuQTZLYTgzWQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:21:01 GMT",
+    "source": "google_news",
+    "sentiment": 0.6037,
+    "date": "2026-11-21",
+    "districts": [
+      "Srinagar",
+      "Jammu",
+      "Ramban"
+    ],
+    "keywords": [
+      "DC Ramban",
+      "Srinagar NH Project"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Lawn Tennis tourney begins in Srinagar",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1UMFhFR1JrVTc0RWRueVZJY3YxNU9lX3VZT1BRaHM5ZVNvR01HY1dONDhuOGxaX3BINDBPSVhSVmtld1V6aWd3WFpBb2E5WmUwZDdpZzlaeVdfeWlKaTdpWXVCSlQ3djU3c3pzbVFZdzdhM0VPQWppT1ZVMEphd9IBfkFVX3lxTE1UMFhFR1JrVTc0RWRueVZJY3YxNU9lX3VZT1BRaHM5ZVNvR01HY1dONDhuOGxaX3BINDBPSVhSVmtld1V6aWd3WFpBb2E5WmUwZDdpZzlaeVdfeWlKaTdpWXVCSlQ3djU3c3pzbVFZdzdhM0VPQWppT1ZVMEphdw?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 22:59:26 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Lawn Tennis"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Srinagar: Aga Syed Ruhullah Mehdi Addresses Students’ Protest #Gallery",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa21BLWVzUEI0Y1BUUDkxSmZ4VlkwU2ViU29CY19kcVIyMGJQc2h1dEVma3hjZmFZU1piMFc3Nm45Nm94TXRJcFc2YmViY3pKQ3F0YkxuRUtjQWJfOE9lc245dlA4SG5KOWtYcjVKdkh3UEthbkZ6SldNZUlmSHg0UldDQnMwaDIwNndtOHZaUEpmSHg2V2ktRlFvN0sxa3BhTmZBanU1aGwtQdIBqgFBVV95cUxNa21BLWVzUEI0Y1BUUDkxSmZ4VlkwU2ViU29CY19kcVIyMGJQc2h1dEVma3hjZmFZU1piMFc3Nm45Nm94TXRJcFc2YmViY3pKQ3F0YkxuRUtjQWJfOE9lc245dlA4SG5KOWtYcjVKdkh3UEthbkZ6SldNZUlmSHg0UldDQnMwaDIwNndtOHZaUEpmSHg2V2ktRlFvN0sxa3BhTmZBanU1aGwtQQ?oc=5",
+    "domain": "Social News XYZ",
+    "seendate": "Sat, 21 Nov 2026 22:03:56 GMT",
+    "source": "google_news",
+    "sentiment": -0.3612,
+    "date": "2026-11-21",
+    "districts": [
+      "Srinagar"
+    ],
+    "keywords": [
+      "Aga Syed Ruhullah Mehdi",
+      "Addresses Students",
+      "Protest",
+      "Gallery"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "242 suspected Pregabalin capsules recovered, chemist shop sealed",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOHR2ZFotaEhPeGNpQ09iS29jWVZhYUw2d2Zkb3JxN3ZJMW43ZjZrbEhhRHVoZUJNd2JuTHJCMkFwMGxDRWh2a3lBVFQwLU1jUk1qREhKMFF2QlMtd1RMbW9LUGpwcmZVY0p2ZERXeVpDZW1SN1FRX0NHc1FmODNxeDFaS0FJbU9fM0p0elpBbFpXX1c2dFdFelRCQldvODjSAZ8BQVVfeXFMTzh0dmRaLWhIT3hjaUNPYktvY1lWYWFMNndmZG9ycTd2STFuN2Y2a2xIYUR1aGVCTXdibkxyQjJBcDBsQ0Vodmt5QVRUMC1NY1JNakRISjBRdkJTLXdUTG1vS1BqcHJmVWNKdmREV3laQ2VtUjdRUV9DR3NRZjgzcXgxWktBSW1PXzNKdHpaQWxaV19XNnRXRXpUQkJXbzg4?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:15:28 GMT",
+    "source": "google_news",
+    "sentiment": -0.2263,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Pregabalin"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "DLSA Jammu holds Special Lok Adalat",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmQXkxbzZYbmNQdmhnOF9pakdqaGZOWkEyUlBXYWtWcGJ2YmJNV2oydkxBaVdBTGF5amsyWDhPd3gwR1NWWTFMUUl3ekhqQXNfWXBRRi1WVDRNTGlKYTVDWGFLWkowR20xTWJKRUZrX3RBZk16VVHSAXpBVV95cUxPQ0FMV0tQTUF1SkRRY1VwV2M3cmZ1dTZFWUVBelZLSkRSZEVKU1BpY0o3RE9ydjBnSXJOUk1XZG9rSVY2aXRMakJQeXQ0U1dXTTZwbW9wQWpNTzlTdTRheTdYQ3NVY0U0U241dE9Nbk5WVjRvQjExUmZlQQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:21:04 GMT",
+    "source": "google_news",
+    "sentiment": 0.4019,
+    "date": "2026-11-21",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "DLSA Jammu",
+      "Special Lok Adalat"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Punjab: SUV stolen at gunpoint on Pathankot-Jammu highway recovered; 4 held",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUVCWXQ0cWF0cXZ3dk15VGY5ZHJJMEstakFRRVR2b1lyYWRpNlRBdVVsY1ktX3QtQmI4cE0wNWM0ZFVNOXBFQU4wRzRSRlNjcGxFdlFyNjBDU0lTMTZDUG9uMDlJenltZVd2U1I4aTdxVlFETlY4b3VNd09UNm9TSW9HVmgyQU1uRVVFSDU1UkZJWDBSWi04WHVhTm5XMHpnU21CVUlwYUTSAawBQVVfeXFMUDhqN1IzQlpnUjdsbkNqOW0wd2NsLWljMzcyTlFETml5czNIMXpNSlkzRkJfN0lqNTA1b3lfYmhJVzNSNUN4bmFHVW9fS2RhZW1BS0FUUWVNakw0WXdQTzZMOVRIdGJ0T0VHNUlwM25KZllRNDJUYUFOS3FoLXZmbzJCUHd0Rlk0R2VJVy1MUlNnc3UtdU1zYjBvN0hzcW01bVZISDlVS0lVZ3QyNA?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 22:38:45 GMT",
+    "source": "google_news",
+    "sentiment": -0.4939,
+    "date": "2026-11-21",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Punjab",
+      "Pathankot"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Jammu Central Mahajan Sabha holds free medical camp",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZHQtYWU2MWkwdDh3WXhZc1VtaVdrM3BLdHQzSTlXdzIzVk1CaGs5MXJ2RkxQc1RwakZDcm9RVWJHUVJNY0JWY1czV3ZoV0szNm9LLUVkZERMNHRXRXRwaUEwVU9Ma3JKUEhCOVZkbDNsTXY3Z0h1NGlzNDcxT1lTSTR5RmZ6UlBBMG800gGPAUFVX3lxTFBjd1RhRFdra2R1ZGFFTGg4ZnZMeDRoeDN4QzlMN3RrSmFrcjE5c0NYRXJOaS03NU1rTzNMQWtyNnRSblhmeHQ1RzdJUERfNVFORXRaNWxtb2hpTl9CREV6dDlLY3ljZnNvUVZzbHo0X18xdThhU2Z6MW9KUng4Z00xbG53RkZqakxQRFIxalpn?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:22:56 GMT",
+    "source": "google_news",
+    "sentiment": 0.5106,
+    "date": "2026-11-21",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Jammu Central Mahajan Sabha"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Chief Secy undertakes first Distt visit to Reasi",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR25qR0JrRVQ3SnFWcnMxOUpOcjhzeWVsRzV2NTVjUV94RkM4enpIUGw5cXJMZjZ0cGIzdDRaVzhScGFxYkV2MzZ2anpydTRUWlpUOFpaUmVjMUdwOUlmWEtGei15VVlHbXRwbnRqNkw5NEpVNkcyQWNYcEF1em9nMVRjZjhNcUXSAYsBQVVfeXFMT0hIeks5Q2UxdWdYUTZrdTRYSGJMS2RTQTJvMlQ3VDJOeTBKTWh0cnNWSVNja1NlM0xmLUlQalN0ZDFhOWwzZnVFc0tPclh5bURqY1BSME84SVp0SjZPbWpmVjZSdXhnUFFBZm1LVTVuSzkyMENCNEVtTmNjQld0LVM4NktJYnM2Z2RfOA?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:27:12 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [
+      "Reasi"
+    ],
+    "keywords": [
+      "Chief Secy",
+      "Distt"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "BSF School staff can’t claim pay parity through writ: HC",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM09hOXpiMGZnVGlWV3NpazIwaVJab0ZLWmpjeGdNYThPNW9RMXdkS1l2SDRHODBTcjlKTlp6RTdVdGpwYVlWLWprYTZ4ZkpqUEl4Rm00QWVmYTIxS3ZQT3M5SXFLV0gxQzA4aGZfSTRkVDduWER3bEtHSUV0QUNXcVVpV1NmRU9rdERIdFpYZ9IBkwFBVV95cUxOVzBzWHA0bUZ4MG5ueVZaTDlyTEZIcmhGV3VjR2pLaWo2UTBqaGxDV1lwTlMxRFd0LUxCWEsyV2tMZ1Y1UlhnVF85TF9XdTc2Ml9lSjE5NkNjeVZVLUxnc09paWZsTndXLTRfeUdsUnpCeHV5SGpMdDJZZEtDaXpLYXJFUFhSQ3NKWGtlN2huZlpfVGs?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:18:19 GMT",
+    "source": "google_news",
+    "sentiment": -0.1027,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "BSF School"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Jatt Sabha takes up fertilizer, Kisan ID issues with Div Com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMUF2TGN3VVFvNThtbDhLTVFQcURuQmJ6eVUyb3F3ZmpkTlF0NE8wclduNUdsbk1jY1VSVTlWVGt6c2NWb1E0Y0hKX2tEdDNLSTdtaTJwdVRfU1VPOVh2Z0Z4c3Z4dnR1Z1lPV0t1YnZjTnZsbl9IY1FhdVZEU00xcnRLTVBLV3FtbDR1WFliZEZlZEtqMVHSAZoBQVVfeXFMTm1iVWotbWpjLWNaRDJTdnpJY0d3cVB5UE4tX1hLX3dBd3N2YkdTTUl0VmFXN3JLQjMtRlp5OC1KVVV0MF9nT2s5OE5lRC1LVEJTWTNmSXpxd2hyMlFPZHcxQ0MyZ29xc2lOQ1hFUHNDeG9FZmRaWC1ycV90amp0Q1ZMdXN0ZzFhYy1LTTg5Z2VCVzMwUkt6LS1pZw?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:16:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Jatt Sabha",
+      "Kisan ID",
+      "Div Com"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Rape chargesheet can’t be quashed on victim’s retraction: HC",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbllLa0JBdXBlaTRKYTI5Z1BuaHBpWWRTR2JlUGh6dWJWZm5mbUVDZW5YOU5NWHlPdzNRTk9YWVBZT0owRjVZY2thUm41NDhTcGVZckZMelVHZ3YwTkVMWWNqSTFLUWJLcXUzMGVEQnY4di03RlFrcEpubXJDX1VHdmNCOGd1OEc0TEJNVDJYdnhzeUXSAZcBQVVfeXFMTXI2UV9ZOXdMYnZ6VDg1VWp2X3gzakxueWZiMjU5bjh2cklYOUdtZGpmMXluLUJURE5lQnR5Q1otSEhpUXRURThQSEF5NmdCeXUwZ19oZXNTclNYU1VZVVhaZ2tHTzdGR2FzVzAtVzFGN3VRUXhTd3M0UE90cWR4YnpvOF9mMHpzR2N3UHEwbTVRUk1vcE5tQQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:23:13 GMT",
+    "source": "google_news",
+    "sentiment": -0.691,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Rape"
+    ],
+    "source_count": 2,
+    "also_reported_by": []
+  },
+  {
+    "title": "ST-II Sangharsh Samiti urges Kathua MLA to take up issue with CM",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV00wTTFhWkpsdmVjclBseng0WXZFV1VPTlFIV0pQb3E2aE1rdlJSQm9HMGpKT0sycVN4S3YyZDYtN2dxRmF0QW5ySl9qY01jd3BRM29NUzJvNUYxdUhCMW1KalhPZXRGTkVWUm9PZFhTaHV1VzlSblUzaHZ4c1BPUHhFeVdvbkpUeTdTN3Q1R243alBYX3NFOC1BRGZXTDRh0gGgAUFVX3lxTFBXTTBNMWFaSmx2ZWNyUGx6eDRZdkVXVU9OUUhXSlBvcTZoTWt2UlJCb0cwakpPSzJxU3hLdjJkNi03Z3FGYXRBbnJKX2pjTWN3cFEzb01TMm81RjF1SEIxbUpqWE9ldEZORVZSb09kWFNodXVXOVJuVTNodnhzUE9QeEV5V29uSlR5N1M3dDVHbjdqUFhfc0U4LUFEZldMNGE?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:13:03 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [
+      "Kathua"
+    ],
+    "keywords": [
+      "II Sangharsh Samiti",
+      "Kathua MLA"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Railway’s Jammu Division promotes digital ticketing, launches winter patrolling",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU0N5VEp6WU1BZmdvOXppWnhmTktTQ3AwV3hvOExvNlJxcjV2UTZpV1BQN3Z6YzFvY3VoSmsySkRPQjQxZGxOemV0dFZoMTlXWGhpb2F5RUZjVnFyVHJZRy1ycFdyNFRmYWpEdjV3MWlVc3pBSC1uZDlFdDdoa0VOZUh4emRSRzBXRkJ2ajJydm0zNmFCX2JUNmF4RTcyM3BmcEZXWDlzYmJ6c0tLc1Zpd3hR0gGyAUFVX3lxTFBTQ3lUSnpZTUFmZ285emlaeGZOS1NDcDBXeG84TG82UnFyNXZRNmlXUFA3dnpjMW9jdWhKazJKRE9CNDFkbE56ZXR0VmgxOVdYaGlvYXlFRmNWcXJUcllHLXJwV3I0VGZhakR2NXcxaVVzekFILW5kOUV0N2hrRU5lSHh6ZFJHMFdGQnZqMnJ2bTM2YUJfYlQ2YXhFNzIzcGZwRldYOXNiYnpzS0tzVml3eFE?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:18:07 GMT",
+    "source": "google_news",
+    "sentiment": 0.34,
+    "date": "2026-11-21",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Railway",
+      "Jammu Division"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Camels in Jammu",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zQk50OFNzTzhHVDhaYUduNVdhenhHcnliTUlIdmMtN3Jqd1plQjE0NFBzS3hmX09URmJfazZyeVFfN25BQWtWYU02T0ZiZ0hndWIyMXRibUFXVTDSAV9BVV95cUxOVHZrZDRkMmtzWWl6ZU8wb1BMT1ZGRkt4ZmhMemRpRGlGVTkyRjVGcHJGeGlSVWRTS18waGI5ZzFodG5WREtjTy1NWFd4aVZTTk1QbjBSeXVBZ001VEJiRQ?oc=5",
+    "domain": "Daily Excelsior",
+    "seendate": "Sat, 21 Nov 2026 23:20:32 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [
+      "Jammu"
+    ],
+    "keywords": [
+      "Camels"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Food Safety Demands Accountability from Authorities, Honesty in Trade and Moral Responsibility from Society: Mirwaiz",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV3RScTN0U1lndmx5N2NoZ3U0Zl9sQWVuWjZxQ29PdnprWXBOWEVnSXJXUWJKenRWU0pHb1BqaHV4Q3RuaklLbFpFd1FTX3VlZkcweno0UjJ2VGZTU3p4VTE1VTV3dkJFSXZ6dzM0SVpOeENaUHc1a2dGRFBVYl9reXVOSnN2U1JjcDlHTTZsckZ4M2xKZHNPc2FHWS14MFRWMjg2Y0NTaXo3bWMtY3BqSFFXM1lNSmVsd1dNZFBlbTJaNFlzUUo5M1V2ZmhERjcyT3ZjMFJB?oc=5",
+    "domain": "JK News Today",
+    "seendate": "Sat, 21 Nov 2026 23:15:53 GMT",
+    "source": "google_news",
+    "sentiment": 0.7184,
+    "date": "2026-11-21",
+    "districts": [],
+    "keywords": [
+      "Food Safety Demands Accountability",
+      "Authorities",
+      "Honesty",
+      "Trade",
+      "Moral Responsibility",
+      "Society",
+      "Mirwaiz"
+    ],
+    "source_count": 1,
+    "also_reported_by": []
+  },
+  {
+    "title": "Samba: Voting Underway For Bar Association Elections #Gallery",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDc4QUx0Mm9POXVFU05PNklhVzNva2pHVzNXNU9CbDZFOU5xZndmU3lmbThmbG80X0dFbEozM09STUFJMm5fQWRvVXFIRkhET2tDbEp2U25CMW5XR0QtMHN0eE5JUXFvcFVyT0xQa1BwaVJqTnF5MW1uZ185bDdpUFNkczVSX2RWQW1adVlLNTFkbktWcE4wa0xzZklYbmfSAZ8BQVVfeXFMUHA3OEFMdDJvTzl1RVNOTzZJYVczb2tqR1czVzVPQmw2RTlOcWZ3ZlN5Zm04ZmxvNF9HRWxKMzNPUk1BSTJuX0Fkb1VxSEZIRE9rQ2xKdlNuQjFuV0dELTBzdHhOSVFxb3BVck9MUGtQcGlSak5xeTFtbmdfOWw3aVBTZHM1Ul9kVkFtWnVZSzUxZG5LVnBOMGtMc2ZJWG5n?oc=5",
+    "domain": "Social News XYZ",
+    "seendate": "Sat, 21 Nov 2026 23:04:08 GMT",
+    "source": "google_news",
+    "sentiment": 0.0,
+    "date": "2026-11-21",
+    "districts": [
+      "Samba"
+    ],
+    "keywords": [
+      "Voting Underway Bar",
+      "Association Elections",
+      "Gallery"
     ],
     "source_count": 1,
     "also_reported_by": []

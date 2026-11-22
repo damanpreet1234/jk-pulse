@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-22T04:53:47.403846+00:00",
+  "generated_at": "2026-11-22T21:29:57.754780+00:00",
   "date": "2026-11-22",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.048,
+    "score": 0.001,
     "label": "mixed / neutral",
-    "positive_pct": 36.1,
-    "neutral_pct": 42.1,
-    "negative_pct": 21.9,
-    "sample_size": 302
+    "positive_pct": 34.9,
+    "neutral_pct": 36.0,
+    "negative_pct": 29.0,
+    "sample_size": 272
   },
   "india_tone": {
-    "score": -0.018,
+    "score": -0.085,
     "label": "mixed / neutral",
-    "positive_pct": 33.3,
-    "neutral_pct": 27.8,
-    "negative_pct": 38.9,
-    "sample_size": 18
+    "positive_pct": 20.7,
+    "neutral_pct": 37.9,
+    "negative_pct": 41.4,
+    "sample_size": 29
   },
   "top_keywords": [
     {
       "term": "India",
-      "mentions": 9,
-      "sentiment": 0.129
+      "mentions": 17,
+      "sentiment": -0.107
     },
     {
       "term": "Karachi",
@@ -32,196 +32,207 @@
       "sentiment": 0.012
     },
     {
-      "term": "Iran",
-      "mentions": 5,
-      "sentiment": 0.13
-    },
-    {
-      "term": "Delhi",
+      "term": "China",
       "mentions": 4,
-      "sentiment": -0.056
+      "sentiment": 0.236
     },
     {
-      "term": "Purana Qila",
+      "term": "Asia Cup Rising Stars",
       "mentions": 4,
-      "sentiment": 0.17
+      "sentiment": -0.094
     },
     {
-      "term": "December",
-      "mentions": 3,
-      "sentiment": -0.059
-    },
-    {
-      "term": "Lahore",
-      "mentions": 3,
-      "sentiment": -0.059
-    },
-    {
-      "term": "November",
-      "mentions": 3,
-      "sentiment": -0.017
+      "term": "Gilgit",
+      "mentions": 4,
+      "sentiment": -0.221
     },
     {
       "term": "Pakistani",
       "mentions": 3,
-      "sentiment": -0.478
+      "sentiment": -0.632
     },
     {
-      "term": "Rizwan",
+      "term": "Iran",
       "mentions": 3,
-      "sentiment": -0.023
+      "sentiment": -0.015
     },
     {
-      "term": "Asia Cup",
+      "term": "London",
       "mentions": 3,
-      "sentiment": 0.369
+      "sentiment": 0.181
     },
     {
-      "term": "Mastung",
+      "term": "Peace",
       "mentions": 3,
-      "sentiment": 0.35
+      "sentiment": 0.672
     },
     {
-      "term": "Ishaq Dar",
+      "term": "November",
       "mentions": 3,
-      "sentiment": 0.289
+      "sentiment": 0.0
     },
     {
-      "term": "ISLAMABAD",
-      "mentions": 3,
-      "sentiment": 0.379
-    },
-    {
-      "term": "Sweden",
+      "term": "Tilak",
       "mentions": 2,
-      "sentiment": 0.12
+      "sentiment": 0.064
     },
     {
-      "term": "Rawalpindi",
+      "term": "Pakistan Shaheens",
       "mentions": 2,
-      "sentiment": -0.125
+      "sentiment": -0.003
     },
     {
-      "term": "Afghanistan",
+      "term": "Oman",
       "mentions": 2,
-      "sentiment": -0.357
+      "sentiment": 0.272
     },
     {
-      "term": "Markets",
+      "term": "Three",
       "mentions": 2,
-      "sentiment": -0.321
+      "sentiment": -0.349
     },
     {
-      "term": "Gilgit",
-      "mentions": 2,
-      "sentiment": -0.269
-    },
-    {
-      "term": "Humayun",
+      "term": "Doha",
       "mentions": 2,
       "sentiment": 0.0
+    },
+    {
+      "term": "Zardari",
+      "mentions": 2,
+      "sentiment": 0.248
+    },
+    {
+      "term": "Abdul Samad",
+      "mentions": 2,
+      "sentiment": -0.279
+    },
+    {
+      "term": "Watch",
+      "mentions": 2,
+      "sentiment": -0.335
+    },
+    {
+      "term": "Chinese",
+      "mentions": 2,
+      "sentiment": 0.013
+    },
+    {
+      "term": "January",
+      "mentions": 2,
+      "sentiment": 0.238
     }
   ],
   "emerging": [
     {
-      "term": "Asia Cup",
-      "mentions_now": 3,
-      "baseline_avg": 1.25,
-      "zscore": 4.04,
-      "reason": "spike"
-    },
-    {
-      "term": "Iran",
-      "mentions_now": 5,
-      "baseline_avg": 2.93,
-      "zscore": 2.16,
-      "reason": "spike"
-    },
-    {
-      "term": "Delhi",
+      "term": "Asia Cup Rising Stars",
       "mentions_now": 4,
-      "baseline_avg": 1.88,
-      "zscore": 2.02,
+      "baseline_avg": 1.25,
+      "zscore": 6.35,
       "reason": "spike"
     },
     {
-      "term": "December",
+      "term": "Gilgit",
+      "mentions_now": 4,
+      "baseline_avg": 1.33,
+      "zscore": 5.66,
+      "reason": "spike"
+    },
+    {
+      "term": "Peace",
       "mentions_now": 3,
-      "baseline_avg": 1.67,
-      "zscore": 2.0,
+      "baseline_avg": 1,
+      "zscore": 4.0,
+      "reason": "spike"
+    },
+    {
+      "term": "India",
+      "mentions_now": 17,
+      "baseline_avg": 8.92,
+      "zscore": 2.23,
+      "reason": "spike"
+    },
+    {
+      "term": "China",
+      "mentions_now": 4,
+      "baseline_avg": 2.25,
+      "zscore": 2.11,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 20,
-      "sentiment": 0.103,
+      "mentions": 23,
+      "sentiment": 0.09,
       "top_terms": [
-        "Maryam",
-        "Markets",
-        "Rawalpindi",
-        "Punjab CM",
-        "Punjab Solar Panel Scheme"
+        "Delegation",
+        "Gurdwara Sri Nankana Sahib",
+        "Prakash Parv",
+        "Pakistani Punjab",
+        "Environment Protection Minister Marriyum"
       ]
     },
     "Sindh": {
-      "mentions": 33,
-      "sentiment": 0.089,
+      "mentions": 27,
+      "sentiment": 0.003,
       "top_terms": [
-        "Sindh Assembly Hall",
-        "NJV School",
         "Karachi",
-        "French",
-        "Manchhar Lake"
+        "Sindh CM",
+        "SiyasatGardi",
+        "Sanaullah Hashmani",
+        "Sher Dil Gaho"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 9,
-      "sentiment": 0.062,
+      "mentions": 8,
+      "sentiment": -0.088,
       "top_terms": [
-        "Karachi",
-        "Khyber Pakhtunkhwa MPAs Lose",
-        "Special Privileges",
-        "Moderate",
-        "Bannu"
+        "PM Announces",
+        "Billion Development Package",
+        "Pakistan Issues Five Ordinances",
+        "Curtailing Special Privileges",
+        "Khyber Pakhtunkhwa Lawmakers"
       ]
     },
     "Balochistan": {
-      "mentions": 31,
-      "sentiment": 0.011,
+      "mentions": 24,
+      "sentiment": -0.143,
       "top_terms": [
-        "Mastung",
-        "Security",
-        "Ishaq Dar",
+        "Karachi",
+        "Khuzdar",
+        "Exclusive",
         "Militants Killed",
-        "Balochistan Security Operations"
+        "Two Operations"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 2,
-      "sentiment": -0.269,
+      "mentions": 4,
+      "sentiment": -0.221,
       "top_terms": [
         "Gilgit",
-        "Harsh",
         "Baltistan",
-        "Local Government Elections",
-        "Baltistan Scheduled"
+        "Harsh",
+        "Chitral",
+        "Untapped Talent"
       ]
     },
     "Azad Kashmir": {
-      "mentions": 0,
-      "sentiment": null,
-      "top_terms": []
+      "mentions": 1,
+      "sentiment": 0.128,
+      "top_terms": [
+        "Azad Kashmir Chief Justice",
+        "Calls Binding Treaty",
+        "Regulate Autonomous Weapons"
+      ]
     },
     "Islamabad": {
-      "mentions": 18,
-      "sentiment": 0.135,
+      "mentions": 25,
+      "sentiment": 0.133,
       "top_terms": [
-        "ISLAMABAD",
-        "Islamabad MoU",
-        "Islamabad United",
-        "Zealand",
-        "Matt Henry"
+        "November",
+        "Saudi Arabia",
+        "Makkah",
+        "Apply Now",
+        "FPSC Unveils"
       ]
     }
   },
@@ -231,62 +242,42 @@
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 52
-    },
-    {
-      "domain": "Dawn",
-      "count": 24
+      "count": 46
     },
     {
       "domain": "The Express Tribune",
-      "count": 17
+      "count": 24
+    },
+    {
+      "domain": "Dawn",
+      "count": 18
     },
     {
       "domain": "Arab News PK",
-      "count": 13
+      "count": 10
     },
     {
-      "domain": "Balochistan Pulse",
-      "count": 12
+      "domain": "Minute Mirror",
+      "count": 10
     },
     {
-      "domain": "Daily Times",
+      "domain": "Daily Independent",
+      "count": 10
+    },
+    {
+      "domain": "The Times of India",
       "count": 8
     },
     {
       "domain": "Investify",
-      "count": 7
-    },
-    {
-      "domain": "The Times of India",
-      "count": 7
-    },
-    {
-      "domain": "Pakistan Observer",
-      "count": 7
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 7
-    },
-    {
-      "domain": "Daily Independent",
-      "count": 7
-    },
-    {
-      "domain": "The Friday Times",
-      "count": 6
-    },
-    {
-      "domain": "times of islamabad",
-      "count": 6
-    },
-    {
-      "domain": "The Nation (Pakistan )",
       "count": 5
     },
     {
-      "domain": "Bloom Pakistan",
+      "domain": "Pakistan Today",
+      "count": 5
+    },
+    {
+      "domain": "Dunya News",
       "count": 5
     },
     {
@@ -294,25 +285,45 @@
       "count": 4
     },
     {
-      "domain": "Business Recorder",
+      "domain": "NDTV Sports",
+      "count": 4
+    },
+    {
+      "domain": "Daily Pakistan",
       "count": 4
     },
     {
       "domain": "Social News XYZ",
-      "count": 3
+      "count": 4
+    },
+    {
+      "domain": "News18",
+      "count": 4
+    },
+    {
+      "domain": "WE News English",
+      "count": 4
+    },
+    {
+      "domain": "The Nation (Pakistan )",
+      "count": 4
     },
     {
       "domain": "samaa tv",
-      "count": 3
+      "count": 4
     },
     {
-      "domain": "Cricbuzz",
-      "count": 3
+      "domain": "Bloom Pakistan",
+      "count": 4
+    },
+    {
+      "domain": "Islamabad Post",
+      "count": 4
     }
   ],
   "run_stats": {
-    "articles_fetched": 302,
-    "raw_articles_before_dedup": 395,
+    "articles_fetched": 272,
+    "raw_articles_before_dedup": 352,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
