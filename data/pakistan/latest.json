@@ -1,217 +1,210 @@
 {
-  "generated_at": "2026-11-25T13:52:13.712792+00:00",
+  "generated_at": "2026-11-25T23:59:02.380546+00:00",
   "date": "2026-11-25",
   "region": "Pakistan",
   "area_label": "province",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": 0.045,
+    "score": 0.026,
     "label": "mixed / neutral",
-    "positive_pct": 39.3,
-    "neutral_pct": 37.5,
-    "negative_pct": 23.3,
-    "sample_size": 331
+    "positive_pct": 34.6,
+    "neutral_pct": 39.5,
+    "negative_pct": 25.8,
+    "sample_size": 306
   },
   "india_tone": {
-    "score": -0.112,
+    "score": -0.106,
     "label": "negative",
-    "positive_pct": 33.3,
-    "neutral_pct": 0.0,
-    "negative_pct": 66.7,
-    "sample_size": 6
+    "positive_pct": 30.0,
+    "neutral_pct": 30.0,
+    "negative_pct": 40.0,
+    "sample_size": 10
   },
   "top_keywords": [
     {
-      "term": "Karachi",
-      "mentions": 7,
-      "sentiment": -0.107
-    },
-    {
-      "term": "Asim Munir",
-      "mentions": 5,
-      "sentiment": -0.196
-    },
-    {
-      "term": "China",
-      "mentions": 4,
-      "sentiment": -0.076
-    },
-    {
       "term": "Pakistani",
-      "mentions": 4,
-      "sentiment": 0.025
-    },
-    {
-      "term": "Shenzhou",
-      "mentions": 4,
-      "sentiment": 0.136
-    },
-    {
-      "term": "Quetta",
-      "mentions": 4,
-      "sentiment": 0.164
-    },
-    {
-      "term": "Eight",
-      "mentions": 3,
-      "sentiment": -0.257
+      "mentions": 6,
+      "sentiment": 0.065
     },
     {
       "term": "India",
-      "mentions": 3,
-      "sentiment": -0.175
+      "mentions": 5,
+      "sentiment": -0.148
     },
     {
-      "term": "Zeeshan Ali",
-      "mentions": 3,
-      "sentiment": 0.232
-    },
-    {
-      "term": "Maryam Nawaz",
-      "mentions": 3,
+      "term": "December",
+      "mentions": 5,
       "sentiment": 0.0
     },
     {
-      "term": "Pakistan Peoples Party",
-      "mentions": 3,
-      "sentiment": 0.562
+      "term": "November",
+      "mentions": 4,
+      "sentiment": -0.132
     },
     {
-      "term": "Chairman Bilawal Bhutto Zardari",
-      "mentions": 3,
-      "sentiment": 0.562
-    },
-    {
-      "term": "Bilawal",
-      "mentions": 3,
-      "sentiment": 0.051
-    },
-    {
-      "term": "Edelstam Prize",
-      "mentions": 3,
-      "sentiment": 0.366
-    },
-    {
-      "term": "Aleem Khan",
-      "mentions": 3,
-      "sentiment": 0.0
+      "term": "Vantage",
+      "mentions": 4,
+      "sentiment": -0.341
     },
     {
       "term": "Gilgit",
-      "mentions": 3,
-      "sentiment": 0.072
-    },
-    {
-      "term": "Lowari Tunnel",
-      "mentions": 3,
-      "sentiment": 0.0
-    },
-    {
-      "term": "Iran",
-      "mentions": 2,
-      "sentiment": -0.152
-    },
-    {
-      "term": "Baladna",
-      "mentions": 2,
-      "sentiment": 0.0
+      "mentions": 4,
+      "sentiment": 0.144
     },
     {
       "term": "Wednesday",
+      "mentions": 3,
+      "sentiment": 0.0
+    },
+    {
+      "term": "China",
+      "mentions": 3,
+      "sentiment": -0.141
+    },
+    {
+      "term": "Netflix",
+      "mentions": 3,
+      "sentiment": -0.372
+    },
+    {
+      "term": "Shenzhou",
+      "mentions": 3,
+      "sentiment": 0.059
+    },
+    {
+      "term": "Mastung",
+      "mentions": 3,
+      "sentiment": -0.746
+    },
+    {
+      "term": "Baltistan",
+      "mentions": 3,
+      "sentiment": 0.445
+    },
+    {
+      "term": "Libya",
+      "mentions": 2,
+      "sentiment": -0.754
+    },
+    {
+      "term": "Gold",
       "mentions": 2,
       "sentiment": 0.0
+    },
+    {
+      "term": "Bangladesh",
+      "mentions": 2,
+      "sentiment": 0.199
+    },
+    {
+      "term": "President",
+      "mentions": 2,
+      "sentiment": 0.185
+    },
+    {
+      "term": "Karachi",
+      "mentions": 2,
+      "sentiment": -0.304
+    },
+    {
+      "term": "Dottin",
+      "mentions": 2,
+      "sentiment": 0.22
+    },
+    {
+      "term": "West Indies",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Public",
+      "mentions": 2,
+      "sentiment": 0.665
     }
   ],
   "emerging": [
     {
-      "term": "Zeeshan Ali",
+      "term": "Wednesday",
       "mentions_now": 3,
-      "baseline_avg": 1,
-      "zscore": 4.0,
+      "baseline_avg": 1.2,
+      "zscore": 4.5,
       "reason": "spike"
     },
     {
-      "term": "Asim Munir",
+      "term": "December",
       "mentions_now": 5,
-      "baseline_avg": 1.75,
-      "zscore": 3.92,
+      "baseline_avg": 2.09,
+      "zscore": 4.35,
       "reason": "spike"
     },
     {
-      "term": "Quetta",
-      "mentions_now": 4,
-      "baseline_avg": 1.62,
-      "zscore": 3.23,
-      "reason": "spike"
-    },
-    {
-      "term": "Shenzhou",
-      "mentions_now": 4,
-      "baseline_avg": 1.6,
+      "term": "Baltistan",
+      "mentions_now": 3,
+      "baseline_avg": 1.5,
       "zscore": 3.0,
       "reason": "spike"
     },
     {
-      "term": "Bilawal",
-      "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 2.32,
+      "term": "Gilgit",
+      "mentions_now": 4,
+      "baseline_avg": 2.17,
+      "zscore": 2.04,
       "reason": "spike"
     }
   ],
   "areas": {
     "Punjab": {
-      "mentions": 37,
-      "sentiment": 0.01,
+      "mentions": 43,
+      "sentiment": -0.129,
       "top_terms": [
         "Pakistan Peoples Party",
         "Chairman Bilawal Bhutto Zardari",
-        "Maryam Nawaz",
-        "South Punjab",
-        "PDMA"
+        "PITB",
+        "Harsher",
+        "World Bank"
       ]
     },
     "Sindh": {
-      "mentions": 31,
-      "sentiment": 0.012,
+      "mentions": 23,
+      "sentiment": 0.063,
       "top_terms": [
-        "Asim Munir",
-        "Sindh Not Pakistan",
-        "Karachi",
-        "World",
-        "Years"
+        "Youth",
+        "Jobs",
+        "Division",
+        "No Room",
+        "Provinces"
       ]
     },
     "Khyber Pakhtunkhwa": {
-      "mentions": 6,
-      "sentiment": -0.03,
+      "mentions": 3,
+      "sentiment": 0.208,
       "top_terms": [
         "ECP Issues Delimitation Schedule",
         "Khyber Pakhtunkhwa Adviser Orders",
         "Fresh Review",
         "Zakat Programme Beneficiaries",
-        "President Asif Ali Zardari"
+        "Pakistan Army"
       ]
     },
     "Balochistan": {
-      "mentions": 29,
-      "sentiment": -0.072,
+      "mentions": 24,
+      "sentiment": 0.035,
       "top_terms": [
         "Mastung",
+        "December",
         "Karachi Weather",
         "Minimum Temperature Drops",
-        "FC Balochistan North Educational",
-        "Initiative"
+        "Elderly Father Mentally"
       ]
     },
     "Gilgit-Baltistan": {
-      "mentions": 2,
-      "sentiment": 0.487,
+      "mentions": 3,
+      "sentiment": 0.445,
       "top_terms": [
         "Gilgit",
         "Baltistan",
-        "Bageecha Bridge",
-        "Maloopa Shelter Inaugurated",
+        "Aleem Khan Inaugurates",
+        "Bridges",
         "Govt Committed"
       ]
     },
@@ -221,84 +214,83 @@
       "top_terms": []
     },
     "Islamabad": {
-      "mentions": 23,
-      "sentiment": 0.023,
+      "mentions": 29,
+      "sentiment": 0.045,
       "top_terms": [
-        "Orchard Underpass",
-        "Million Passengers",
-        "Thieves",
         "Shenzhou",
-        "Russian"
+        "Beijing",
+        "November",
+        "Rawalpindi",
+        "Makkah Alliance Meets"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
       "domain": "UrduPoint",
-      "count": 60
-    },
-    {
-      "domain": "The Express Tribune",
-      "count": 19
-    },
-    {
-      "domain": "| Associated Press Of Pakistan",
-      "count": 18
+      "count": 50
     },
     {
       "domain": "Dawn",
-      "count": 16
-    },
-    {
-      "domain": "Balochistan Pulse",
       "count": 15
     },
     {
-      "domain": "Arab News PK",
-      "count": 11
-    },
-    {
-      "domain": "Daily Independent",
-      "count": 11
-    },
-    {
-      "domain": "Investify",
-      "count": 9
-    },
-    {
-      "domain": "Business Recorder",
-      "count": 9
-    },
-    {
-      "domain": "The News Pakistan",
-      "count": 8
-    },
-    {
-      "domain": "Islamabad Post",
-      "count": 7
-    },
-    {
-      "domain": "Pakistan Observer",
-      "count": 6
-    },
-    {
-      "domain": "WE News English",
-      "count": 6
-    },
-    {
-      "domain": "Mettis Global",
-      "count": 5
-    },
-    {
-      "domain": "TechJuice",
-      "count": 4
+      "domain": "| Associated Press Of Pakistan",
+      "count": 15
     },
     {
       "domain": "ProPakistani",
+      "count": 11
+    },
+    {
+      "domain": "Balochistan Pulse",
+      "count": 11
+    },
+    {
+      "domain": "times of islamabad",
+      "count": 10
+    },
+    {
+      "domain": "Arab News PK",
+      "count": 9
+    },
+    {
+      "domain": "The Express Tribune",
+      "count": 9
+    },
+    {
+      "domain": "Daily Independent",
+      "count": 8
+    },
+    {
+      "domain": "Investify",
+      "count": 7
+    },
+    {
+      "domain": "Daily Ausaf",
+      "count": 6
+    },
+    {
+      "domain": "Pakistan Observer",
+      "count": 5
+    },
+    {
+      "domain": "Firstpost",
+      "count": 5
+    },
+    {
+      "domain": "Islamabad Post",
+      "count": 5
+    },
+    {
+      "domain": "Tapmad",
+      "count": 4
+    },
+    {
+      "domain": "Energy Update",
       "count": 4
     },
     {
@@ -306,11 +298,11 @@
       "count": 4
     },
     {
-      "domain": "Minute Mirror",
-      "count": 3
+      "domain": "www.dailyindependent.com.pk",
+      "count": 4
     },
     {
-      "domain": "Bloom Pakistan",
+      "domain": "WE News English",
       "count": 3
     },
     {
@@ -319,8 +311,8 @@
     }
   ],
   "run_stats": {
-    "articles_fetched": 331,
-    "raw_articles_before_dedup": 437,
+    "articles_fetched": 306,
+    "raw_articles_before_dedup": 410,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. Province-level figures depend on province names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026. Coverage is restricted to Pakistani-based outlets (GDELT sourcecountry filter + Google News' Pakistan edition), so this reflects what is circulating in Pakistani media specifically. \"Tone toward India\" is a separate score computed only from the subset of that coverage which mentions India/Modi/New Delhi/Kashmir - it is not the same number as the region's general tone."
