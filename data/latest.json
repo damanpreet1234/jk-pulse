@@ -1,444 +1,438 @@
 {
-  "generated_at": "2026-11-27T02:37:17.217328+00:00",
+  "generated_at": "2026-11-27T13:27:01.478318+00:00",
   "date": "2026-11-27",
   "region": "Jammu & Kashmir",
   "area_label": "district",
   "collection_window": "6hours",
   "overall_mood": {
-    "score": -0.044,
+    "score": -0.034,
     "label": "mixed / neutral",
-    "positive_pct": 32.3,
-    "neutral_pct": 34.7,
-    "negative_pct": 33.0,
-    "sample_size": 297
+    "positive_pct": 31.0,
+    "neutral_pct": 34.1,
+    "negative_pct": 34.9,
+    "sample_size": 252
   },
   "india_tone": null,
   "top_keywords": [
     {
       "term": "Constitution Day",
-      "mentions": 8,
-      "sentiment": 0.255
+      "mentions": 9,
+      "sentiment": 0.179
     },
     {
-      "term": "Pakistan",
-      "mentions": 7,
-      "sentiment": -0.17
-    },
-    {
-      "term": "Jammu Kashmir",
+      "term": "Vande Mataram",
       "mentions": 5,
-      "sentiment": -0.32
-    },
-    {
-      "term": "Sheshnag",
-      "mentions": 5,
-      "sentiment": -0.217
-    },
-    {
-      "term": "District",
-      "mentions": 5,
-      "sentiment": 0.279
-    },
-    {
-      "term": "Sheshnag Lake",
-      "mentions": 4,
-      "sentiment": -0.13
-    },
-    {
-      "term": "Police",
-      "mentions": 4,
-      "sentiment": -0.42
-    },
-    {
-      "term": "Daily Excelsior",
-      "mentions": 4,
-      "sentiment": -0.226
-    },
-    {
-      "term": "Jammu Kashmir High Court",
-      "mentions": 3,
-      "sentiment": 0.106
-    },
-    {
-      "term": "Apni Party",
-      "mentions": 3,
-      "sentiment": 0.637
-    },
-    {
-      "term": "Karan Singh",
-      "mentions": 3,
-      "sentiment": -0.367
-    },
-    {
-      "term": "India Today",
-      "mentions": 3,
-      "sentiment": -0.125
-    },
-    {
-      "term": "India",
-      "mentions": 3,
-      "sentiment": -0.132
-    },
-    {
-      "term": "Shocked",
-      "mentions": 2,
-      "sentiment": -0.542
+      "sentiment": 0.068
     },
     {
       "term": "Centre",
-      "mentions": 2,
-      "sentiment": 0.201
+      "mentions": 4,
+      "sentiment": 0.35
     },
     {
-      "term": "Syed Mushtaq Ali Trophy",
-      "mentions": 2,
-      "sentiment": -0.041
+      "term": "Jammu Kashmir",
+      "mentions": 4,
+      "sentiment": -0.28
     },
     {
-      "term": "Criminal Cases Arrested",
-      "mentions": 2,
-      "sentiment": -0.81
+      "term": "Punjab",
+      "mentions": 4,
+      "sentiment": -0.51
     },
     {
-      "term": "VPNs",
-      "mentions": 2,
-      "sentiment": -0.229
+      "term": "Inspector Examination",
+      "mentions": 3,
+      "sentiment": 0.075
     },
     {
-      "term": "Two Booked",
-      "mentions": 2,
-      "sentiment": -0.398
+      "term": "Pakistan",
+      "mentions": 3,
+      "sentiment": -0.217
     },
     {
-      "term": "Farooq",
+      "term": "Police",
+      "mentions": 3,
+      "sentiment": -0.126
+    },
+    {
+      "term": "District",
+      "mentions": 3,
+      "sentiment": -0.015
+    },
+    {
+      "term": "Waqf",
       "mentions": 2,
-      "sentiment": 0.612
+      "sentiment": 0.0
+    },
+    {
+      "term": "Union Home Secretary",
+      "mentions": 2,
+      "sentiment": 0.34
+    },
+    {
+      "term": "Constitution",
+      "mentions": 2,
+      "sentiment": 0.471
+    },
+    {
+      "term": "Police Sub",
+      "mentions": 2,
+      "sentiment": 0.113
+    },
+    {
+      "term": "Central",
+      "mentions": 2,
+      "sentiment": -0.201
+    },
+    {
+      "term": "November",
+      "mentions": 2,
+      "sentiment": 0.113
+    },
+    {
+      "term": "Mirwaiz",
+      "mentions": 2,
+      "sentiment": -0.305
+    },
+    {
+      "term": "Season",
+      "mentions": 2,
+      "sentiment": -0.002
+    },
+    {
+      "term": "What",
+      "mentions": 2,
+      "sentiment": 0.02
+    },
+    {
+      "term": "Sheshnag Lake",
+      "mentions": 2,
+      "sentiment": 0.0
+    },
+    {
+      "term": "Grand Mufti",
+      "mentions": 2,
+      "sentiment": 0.111
     }
   ],
   "emerging": [
     {
-      "term": "Apni Party",
-      "mentions_now": 3,
-      "baseline_avg": 1.12,
-      "zscore": 5.67,
+      "term": "Centre",
+      "mentions_now": 4,
+      "baseline_avg": 1.4,
+      "zscore": 5.31,
       "reason": "spike"
     },
     {
-      "term": "India Today",
+      "term": "Inspector Examination",
       "mentions_now": 3,
-      "baseline_avg": 1.5,
-      "zscore": 3.0,
+      "baseline_avg": 1,
+      "zscore": 4.0,
       "reason": "spike"
     }
   ],
   "areas": {
     "Anantnag": {
       "mentions": 6,
-      "sentiment": -0.252,
+      "sentiment": -0.278,
       "top_terms": [
         "Civil",
-        "Four",
-        "Contraband Substances",
-        "Anantnag District Administration Conducts",
-        "Successful Civil Mock Drill"
+        "Thousands Attend Funeral",
+        "Anantnag MLA Peerzada Mohammad",
+        "Syed",
+        "South Kashmir"
       ]
     },
     "Bandipora": {
-      "mentions": 12,
-      "sentiment": -0.086,
+      "mentions": 10,
+      "sentiment": -0.028,
       "top_terms": [
-        "DC Bandipora",
-        "EOW Kashmir",
-        "Bandipora Residents",
         "Bandipora Joins UT",
-        "Level Constitution Day Celebrations"
+        "Level Constitution Day Celebrations",
+        "EOW Files Chargesheet",
+        "Forged Marksheets",
+        "Bandipora Admin"
       ]
     },
     "Baramulla": {
       "mentions": 8,
-      "sentiment": 0.144,
+      "sentiment": 0.058,
       "top_terms": [
         "Constitution Day",
-        "Baramulla Man Killed",
-        "Being Trapped Under Collapsed",
-        "Wall",
-        "Home"
+        "JKSSB SI",
+        "PG Doctors",
+        "GMC Baramulla",
+        "Baramulla Police"
       ]
     },
     "Budgam": {
       "mentions": 5,
-      "sentiment": 0.08,
+      "sentiment": 0.05,
       "top_terms": [
-        "DC Budgam",
-        "DLSA Budgam",
-        "Constitution Day",
-        "Collective Reading",
-        "Preamble"
+        "Heavy",
+        "Beerwah",
+        "Khag",
+        "ATM Loot Bid Foiled",
+        "Thieves Flee Leaving JCB"
       ]
     },
     "Ganderbal": {
-      "mentions": 4,
-      "sentiment": 0.051,
+      "mentions": 5,
+      "sentiment": -0.152,
       "top_terms": [
+        "Constitution Day",
         "DC Ganderbal",
-        "Three Bears Captured",
-        "Single Day",
-        "Wildlife Operations Intensify",
-        "District Level Telecom Committee"
+        "Technology",
+        "Driven Resource Packages",
+        "Tribal Farmers"
       ]
     },
     "Kulgam": {
-      "mentions": 2,
-      "sentiment": -0.013,
-      "top_terms": [
-        "DC Kulgam",
-        "Quarterly DLRC",
-        "DCC Meeting",
-        "Cold",
-        "Rajasthan"
-      ]
+      "mentions": 0,
+      "sentiment": null,
+      "top_terms": []
     },
     "Kupwara": {
       "mentions": 5,
-      "sentiment": -0.054,
+      "sentiment": -0.238,
       "top_terms": [
-        "Leopard Attack Leaves",
         "Year",
-        "Old Boy Injured",
-        "Leopard",
-        "Woman"
+        "Leopard Injures",
+        "Old Boy",
+        "Kupwara Just Days",
+        "Fatal Attack"
       ]
     },
     "Pulwama": {
-      "mentions": 3,
-      "sentiment": 0.147,
+      "mentions": 4,
+      "sentiment": 0.121,
       "top_terms": [
-        "DC Pulwama",
         "Players Take Part",
         "Pulwama District Badminton Championship",
-        "JKSSB Sub",
-        "Inspector Examination"
+        "Three",
+        "Day Peace Education Programme",
+        "DC Pulwama"
       ]
     },
     "Shopian": {
-      "mentions": 6,
-      "sentiment": 0.078,
+      "mentions": 7,
+      "sentiment": 0.271,
       "top_terms": [
+        "Students",
+        "Shopian Cyber Safety Programme",
         "DIPR Shopian",
         "Awareness Programme",
-        "Cyber Security",
-        "Digital Safety",
-        "GDC Shopian"
+        "Cyber Security"
       ]
     },
     "Srinagar": {
-      "mentions": 26,
-      "sentiment": -0.095,
+      "mentions": 19,
+      "sentiment": -0.052,
       "top_terms": [
-        "DC Srinagar",
-        "Cold",
-        "Srinagar Airport Conducts Full",
-        "Scale Emergency Evacuation Mock",
-        "Drill"
+        "Season",
+        "Delhi",
+        "NICU",
+        "Traffic Police Issues Fresh",
+        "Advisory"
       ]
     },
     "Doda": {
-      "mentions": 4,
-      "sentiment": -0.292,
+      "mentions": 5,
+      "sentiment": -0.212,
       "top_terms": [
-        "Central",
-        "Gold Rate Today",
-        "Live",
-        "Gold Prices",
-        "District"
+        "Laddu Kansar Village Gets",
+        "First Road Connectivity",
+        "Gandoh",
+        "Videos",
+        "Central"
       ]
     },
     "Jammu": {
-      "mentions": 47,
-      "sentiment": -0.063,
+      "mentions": 38,
+      "sentiment": -0.049,
       "top_terms": [
         "Jammu Kashmir",
-        "Jammu Kashmir High Court",
-        "Syed Mushtaq Ali Trophy",
-        "Congress",
-        "Peer Kho Station"
+        "Union Home Secretary",
+        "Centre",
+        "Vande Mataram",
+        "Waqf"
       ]
     },
     "Kathua": {
       "mentions": 4,
-      "sentiment": -0.288,
+      "sentiment": -0.067,
       "top_terms": [
-        "Police Registers Two FIRs",
-        "Violation VPN",
-        "Ban Order Kathua",
+        "CM Omar Abdullah",
+        "Cabinet Minister Sakina Itoo",
         "Two Booked",
-        "Violating VPN Ban Order"
+        "Violating VPN Ban Order",
+        "Vibrant"
       ]
     },
     "Kishtwar": {
       "mentions": 4,
-      "sentiment": -0.002,
+      "sentiment": -0.217,
       "top_terms": [
+        "Inter",
+        "Ministerial Central Team",
+        "Monsoon",
         "Central",
-        "Hajj Pilgrimage",
-        "First Orientation Programme",
-        "DC Kishtwar",
-        "District"
+        "Hajj Pilgrimage"
       ]
     },
     "Poonch": {
-      "mentions": 3,
-      "sentiment": -0.524,
+      "mentions": 2,
+      "sentiment": -0.229,
       "top_terms": [
+        "Two Women Booked",
+        "Allegedly Using VPN Apps",
         "VPNs",
-        "Officials",
-        "Poonch Admin",
-        "Civil Defence Mock Drill",
-        "UKPNP"
+        "Officials"
       ]
     },
     "Rajouri": {
-      "mentions": 2,
-      "sentiment": 0.148,
+      "mentions": 4,
+      "sentiment": -0.226,
       "top_terms": [
-        "Rajouri District Table Tennis",
-        "District"
+        "Kesri Hills",
+        "Rajouri Police",
+        "FIRs",
+        "Rajouri Conducts Full",
+        "Scale Mock Drill"
       ]
     },
     "Ramban": {
-      "mentions": 5,
-      "sentiment": 0.284,
+      "mentions": 4,
+      "sentiment": 0.345,
       "top_terms": [
         "CM Omar Inaugurates Nine",
         "Projects Worth Rs",
         "Crore",
-        "CM Omar Lay",
-        "Foundation Stones Developmental"
+        "CM Omar Abdullah Reviews",
+        "Developmental Works"
       ]
     },
     "Reasi": {
-      "mentions": 7,
-      "sentiment": -0.496,
+      "mentions": 3,
+      "sentiment": -0.602,
       "top_terms": [
         "VPNs",
         "Officials",
-        "Pakistan",
-        "Reasi Police",
-        "Hizbul"
+        "Hizbul",
+        "Read"
       ]
     },
     "Samba": {
       "mentions": 6,
-      "sentiment": -0.117,
+      "sentiment": 0.117,
       "top_terms": [
         "Gallery",
-        "Weak",
-        "Ladakh",
-        "India",
-        "Thursday"
+        "Samba Admin Retrieves",
+        "Kanal Government Land Worth",
+        "Crore",
+        "Security Forces Conduct Mock"
       ]
     },
     "Udhampur": {
       "mentions": 5,
-      "sentiment": -0.062,
+      "sentiment": -0.262,
       "top_terms": [
-        "Two Killed",
-        "Bus Hits Motorcycle",
-        "Patni Panchari",
-        "Kashmir Marathon Podium",
-        "Inspiring Story"
+        "Jammu Kashmir High Court",
+        "Quashes Criminal Intimidation",
+        "Intentional Insult Charges Against",
+        "Udhampur Man",
+        "Five Injured"
       ]
     }
   },
   "sources_used": [
-    "gdelt",
     "google_news"
   ],
   "source_breakdown": [
     {
-      "domain": "Kashmir Life",
-      "count": 34
-    },
-    {
-      "domain": "Daily Excelsior",
+      "domain": "Jammu Links News",
       "count": 24
     },
     {
-      "domain": "Jammu Links News",
-      "count": 22
+      "domain": "Kashmir Life",
+      "count": 23
     },
     {
       "domain": "Greater Kashmir",
-      "count": 17
-    },
-    {
-      "domain": "dailyexcelsior.com",
-      "count": 14
-    },
-    {
-      "domain": "Rising Kashmir",
-      "count": 12
+      "count": 15
     },
     {
       "domain": "Kashmir Observer",
+      "count": 12
+    },
+    {
+      "domain": "Daily Excelsior",
       "count": 11
     },
     {
-      "domain": "Brighter Kashmir",
+      "domain": "Rising Kashmir",
       "count": 11
-    },
-    {
-      "domain": "Kashmir Convener",
-      "count": 10
-    },
-    {
-      "domain": "5 Dariya News",
-      "count": 9
-    },
-    {
-      "domain": "Kashmir News Observer",
-      "count": 6
-    },
-    {
-      "domain": "The Kashmir Horizon",
-      "count": 6
-    },
-    {
-      "domain": "The Hindu",
-      "count": 5
     },
     {
       "domain": "Kashmir News Service",
+      "count": 10
+    },
+    {
+      "domain": "Kashmir News Observer",
+      "count": 8
+    },
+    {
+      "domain": "Brighter Kashmir",
+      "count": 8
+    },
+    {
+      "domain": "The Hindu",
+      "count": 6
+    },
+    {
+      "domain": "Free Press Kashmir",
       "count": 5
     },
     {
-      "domain": "ETV Bharat",
+      "domain": "The Kashmir Horizon",
       "count": 5
     },
     {
-      "domain": "thekashmirimages.com",
+      "domain": "Kashmir Dot Com",
       "count": 5
     },
     {
-      "domain": "The Times of India",
+      "domain": "Kashmir Convener",
+      "count": 5
+    },
+    {
+      "domain": "The Chenab Times",
       "count": 4
     },
     {
-      "domain": "The Pioneer",
+      "domain": "jknewstoday.com",
       "count": 4
     },
     {
-      "domain": "India Today",
+      "domain": "5 Dariya News",
       "count": 4
+    },
+    {
+      "domain": "Morning Kashmir",
+      "count": 3
+    },
+    {
+      "domain": "The News Mill",
+      "count": 3
     },
     {
       "domain": "Kashmir Indepth",
-      "count": 4
+      "count": 3
     }
   ],
   "run_stats": {
-    "articles_fetched": 297,
-    "raw_articles_before_dedup": 433,
+    "articles_fetched": 252,
+    "raw_articles_before_dedup": 404,
     "errors": []
   },
   "methodology_note": "Article tone (not necessarily public mood) is scored automatically from headlines using a lexicon-based model tuned for this region's news idiom. District-level figures depend on district names appearing in coverage and are best-effort, not exhaustive. Near-duplicate coverage of the same story (many outlets running one wire story near-verbatim) is merged into a single entry before mood/mention figures are computed, so one heavily republished story doesn't count as if that many separate things happened - the Search/By-area drilldowns note how many outlets carried a merged story. A headline reporting security forces killing/eliminating terrorists or militants is scored as a successful operation (neutral-to-positive), not automatically negative just because those words appear - unless the same headline also reports a security-personnel or civilian casualty, which stays negative. Sources: GDELT + Google News (always-on, no key needed), Reddit (best-effort, may be unavailable), YouTube (only if a free API key is configured). X/Twitter and Instagram/Facebook are not included - neither offers a free public search API as of 2026."
